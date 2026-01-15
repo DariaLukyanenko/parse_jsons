@@ -1,0 +1,432 @@
+{
+  "idCertificate": 101133,
+  "idTechnicalReglaments": [
+    8
+  ],
+  "idCertScheme": 3,
+  "idObjectCertType": 2,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-IT.АБ37.А.01701",
+  "certRegDate": "2017-08-28",
+  "certEndDate": "2018-08-27",
+  "idBlank": 570813,
+  "blankNumber": "0570813",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 523862,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 390715,
+          "blankNumber": "0390715"
+        },
+        {
+          "idBlank": 390716,
+          "blankNumber": "0390716"
+        },
+        {
+          "idBlank": 390717,
+          "blankNumber": "0390717"
+        },
+        {
+          "idBlank": 390718,
+          "blankNumber": "0390718"
+        },
+        {
+          "idBlank": 390719,
+          "blankNumber": "0390719"
+        },
+        {
+          "idBlank": 390720,
+          "blankNumber": "0390720"
+        },
+        {
+          "idBlank": 390721,
+          "blankNumber": "0390721"
+        },
+        {
+          "idBlank": 390722,
+          "blankNumber": "0390722"
+        },
+        {
+          "idBlank": 390723,
+          "blankNumber": "0390723"
+        },
+        {
+          "idBlank": 390724,
+          "blankNumber": "0390724"
+        },
+        {
+          "idBlank": 390725,
+          "blankNumber": "0390725"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 4179739,
+    "idEgrul": null,
+    "idApplicantType": 2,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью \"МАКСИМА ГРУПП\".",
+    "shortName": null,
+    "idPerson": 8342894,
+    "surname": "Грималова",
+    "firstName": "Наталья",
+    "patronymic": "Владимировна",
+    "headPosition": null,
+    "ogrn": "1027739364443",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 2228628,
+        "idContactType": 1,
+        "value": "+74952878604"
+      },
+      {
+        "idContact": 2228629,
+        "idContactType": 4,
+        "value": "info@famil.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9602861,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "123022",
+        "fullAddress": "123022, РОССИЯ, Москва Город, улица Рочдельская, дом 15, строение 15, офис 4, Адрес места осуществления деятельности: 117105, Россия, город Москва, Варшавское шоссе, дом 9, строение 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 4179740,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"OVS S.p.A.\"",
+    "shortName": null,
+    "idPerson": 8342895,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 9602862,
+        "idAddrType": 1,
+        "idCodeOksm": "380",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ИТАЛИЯ, Via Terraglio 17, 30174 Venezia - Mestre (VE), Предприятия-изготовители согласно приложению (типографские номера бланков приложений: 0390715, 0390716, 0390717, 0390718, 0390719, 0390720, 0390721, 0390722, 0390723, 0390724, 0390725)",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 2200822,
+    "fullName": "Общество с ограниченной ответственностью Орган по сертификации продукции \"АЛЬЯНС\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АБ37",
+    "attestatRegDate": "2016-01-21",
+    "attestatEndDate": null,
+    "idRal": 4241,
+    "ogrn": null,
+    "idPerson": 8342897,
+    "firstName": "Ксения",
+    "surname": "Никитина",
+    "patronymic": "Андреевна",
+    "contacts": [
+      {
+        "idContact": 1320984,
+        "idContactType": 1,
+        "value": "+74959757917"
+      },
+      {
+        "idContact": 1320985,
+        "idContactType": 4,
+        "value": "alyans-os@yandex.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9602863,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "5",
+        "postCode": "105064",
+        "fullAddress": "105064, РОССИЯ, город Москва, пер. Сусальный Ниж., д. 5, строен. 18, пом. 1, ком. 5",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 9602864,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "5",
+        "postCode": "107113",
+        "fullAddress": "107113, РОССИЯ, город Москва, пер. Сусальный Ниж., д. 5, строен. 18, пом. 1, ком. 5",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 2090238,
+    "idProductOrigin": "380",
+    "fullName": "Изделия бельевые трикотажные мужские и женские: майки, в том числе типа \"топ\", фуфайки (\"футболки\"), в том числе спортивного назначения",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": ", согласно приложению (типографские номера бланков приложений: 0390715, 0390716, 0390717, 0390718, 0390719, 0390720, 0390721, 0390722, 0390723, 0390724, 0390725).",
+    "identifications": [
+      {
+        "idIdentification": 3045195,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68582
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Стандарты, обеспечивающие соблюдение требований Технического регламента Таможенного союза ТР ТС 017/2011 \"О безопасности продукции легкой промышленности\": ГОСТ 31405-2009 \"Изделия трикотажные бельевые для женщин и девочек. Общие технические условия\", ГОСТ 31408-2009 \"Изделия трикотажные бельевые для мужчин и мальчиков. Общие технические условия\". Условия хранения продукции до реализации потребителю: изделия должны храниться в складских помещениях при температуре не ниже 5 градусов и не выше 40 градусов Цельсия, относительной влажности воздуха 50-70% и быть защищены от прямого попадания солнечных лучей и атмосферных воздействий. Срок хранения, срок службы (годности) изготовителем не установлены.",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 2275572,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 2072254,
+      "idPerson": 8342896,
+      "idEmployee": null,
+      "firstName": "Дарья",
+      "surname": "Мартынова",
+      "patronimyc": "Дмитриевна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 3152586,
+      "idStatus": 6,
+      "beginDate": "2017-08-30T11:18:09",
+      "endDate": "2018-08-27T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-09-27T22:09:23.511",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 3152587,
+      "idStatus": 1,
+      "beginDate": "2018-08-27T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-09-27T22:09:23.511",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 2131715,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": "протоколов испытаний №№ 4Л/Н-28.08/17, 5Л/Н-28.08/17, 6Л/Н-28.08/17, 7Л/Н-28.08/17, 8Л/Н-28.08/17, 9Л/Н-28.08/17, 10Л/Н-28.08/17, 11Л/Н-28.08/17, 12Л/Н-28.08/17, 13Л/Н-28.08/17, 14Л/Н-28.08/17, 15Л/Н-28.08/17, 16Л/Н-28.08/17 от 28.08.2017 года, выданных Испытательной лабораторией \"LIGHT GROUP\" Испытательный центр \"CERTIFICATION GROUP\", регистрационный номер аттестата аккредитации RA.RU.21АИ63\nCхема сертификации: 3с",
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a797eaec-24e0-41eb-82ca-d24670b47a49",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

@@ -1,0 +1,605 @@
+{
+  "idCertificate": 1005,
+  "idTechnicalReglaments": [
+    56
+  ],
+  "idCertScheme": 56,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-RU.АЮ64.В.00465",
+  "certRegDate": "2016-03-31",
+  "certEndDate": "2021-03-30",
+  "idBlank": 7107,
+  "blankNumber": "0007107",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 867,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 6076,
+          "blankNumber": "0006076"
+        }
+      ]
+    },
+    {
+      "idAnnex": 868,
+      "idType": 5,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 6077,
+          "blankNumber": "0006077"
+        },
+        {
+          "idBlank": 6078,
+          "blankNumber": "0006078"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 8815,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью НПП «Спецкабель»",
+    "shortName": null,
+    "idPerson": 17627,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1027739312281",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 15241,
+        "idContactType": 1,
+        "value": "+74959214099"
+      },
+      {
+        "idContact": 15242,
+        "idContactType": 3,
+        "value": "+74957305719"
+      },
+      {
+        "idContact": 15243,
+        "idContactType": 4,
+        "value": "info@spcable.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 24125,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "107497",
+        "fullAddress": "107497, РОССИЯ, г. Москва, ул. Бирюсинка, д.6, к.1-5",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 24126,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "4231",
+        "postCode": "121087",
+        "fullAddress": "121087, РОССИЯ, г. Москва, ул.Барклая, д.6, стр.5, этаж 4 комн. 23к1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 8816,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью НПП «Спецкабель»",
+    "shortName": null,
+    "idPerson": 17630,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1027739312281",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 15244,
+        "idContactType": 1,
+        "value": "+74959214099"
+      },
+      {
+        "idContact": 15245,
+        "idContactType": 3,
+        "value": "+74957305719"
+      },
+      {
+        "idContact": 15246,
+        "idContactType": 4,
+        "value": "info@spcable.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 24129,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "847000060",
+        "postCode": "107497",
+        "fullAddress": "107497, РОССИЯ, г. Москва, ул. Бирюсинка, д.6, к.1-5, см. приложение бланк №0006076",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 24130,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "4231",
+        "postCode": "121087",
+        "fullAddress": "121087, РОССИЯ, г. Москва, ул.Барклая, д.6, стр.5, этаж 4 комн. 23к1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 348,
+        "annex": true,
+        "fullName": "Изготовители кабель каналов\nОбщество с ограниченной ответственностью \"ИЭК МЕТАЛЛ-ПЛАСТ\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 24131,
+            "idAddrType": 1,
+            "idCodeOksm": "643",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "РОССИЯ, 301030, Тульская обл. г. Ясногорск, ул. Павла Добрынина, дом 5 б, тел. (487) 662 76 89",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 349,
+        "annex": true,
+        "fullName": "Общество с ограниченной ответственностью «Форносовский литейно-механический завод»\n",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 24132,
+            "idAddrType": 1,
+            "idCodeOksm": "643",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "РОССИЯ, 187022, ЛО Тосненский р-н, п.г.т. Форносово, ул. Промышленная, д. 1-Г, тел./факс: +7 (812) 600-69-11",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 350,
+        "annex": true,
+        "fullName": "Общество с ограниченной ответственностью «Ленспецавтоматика»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 24133,
+            "idAddrType": 1,
+            "idCodeOksm": "643",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "РОССИЯ, , 195030, г. Санкт-Петербург, ул. Электропультовцев, д.7, лит.Л, тел/факс (812) 644-50-60",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 4408,
+    "fullName": "ОРГАН ПО СЕРТИФИКАЦИИ ПРОДУКЦИИ И УСЛУГ \"ПОЛИСЕРТ\" Автонономной Некомерческой Организации \"Электросерт\"",
+    "accredOrgName": "Федеральное агентство по техническому регулированию и метрологии",
+    "attestatRegNumber": "RA.RU.10АЮ64",
+    "attestatRegDate": "2015-07-21",
+    "attestatEndDate": null,
+    "idRal": 27832,
+    "ogrn": "1037739013355",
+    "idPerson": 17629,
+    "firstName": "Александр",
+    "surname": "Мальцев",
+    "patronymic": "Иванович",
+    "contacts": [
+      {
+        "idContact": 10851,
+        "idContactType": 1,
+        "value": "+74959951026"
+      },
+      {
+        "idContact": 10852,
+        "idContactType": 4,
+        "value": "info@certif.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 24127,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "129110",
+        "fullAddress": "129110, РОССИЯ, город Москва, ул. Щепкина, 47, 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 24128,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "129226",
+        "fullAddress": "129226, РОССИЯ, город Москва, ул. Сельскохозяйственная, 12А",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 4406,
+    "idProductOrigin": "643",
+    "fullName": "Кабельная линия систем противопожарной защиты «Спецкаблайн-К», изготовленная по ТУ 16.К99-065-2014,\nвключающая выпускаемые серийно:\n-огнестойкие кабели с показателем пожарной опасности ПО1 по ГОСТ 31565-2012, изготовленные по ТУ 16.К99-036-2007, ТУ 16.К99-044-2010, ТУ 16.К99-037-2009, ТУ 16.К99-043-2011, ТУ 16.К99-048-2012, ТУ 16.К99–049–2012, ТУ 16-705.496-2011, ТУ 16.К99-040-2009, ТУ 16.К99–046–2011 на номинальное напряжение переменного тока до 1 кВ включительно; -кабель-каналы для электропроводок из поливинилхлорида серий «Элекор», «Праймер», «Импакт» изготовленные по ТУ 2291-001-18461115-2010, производства, ООО «ИЭК МЕТАЛЛ-ПЛАСТ»;\n-коробки монтажные огнестойкие КМ-О «Гефест» изготовленные по ТУ 3449005-70631050-2009, производства ООО «ФЛМЗ»;\n-коробки монтажные огнестойкие ДВК.П, изготовленные по ТУ 3464-003-20507860-2015, производства ООО «Ленспецавтоматика».",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": ".",
+    "identifications": [
+      {
+        "idIdentification": 5011,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74992
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 4648,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 4465,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 4406,
+      "idPerson": 17628,
+      "idEmployee": null,
+      "firstName": "А.",
+      "surname": "Трошин ",
+      "patronimyc": "В."
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 5756,
+      "idStatus": 6,
+      "beginDate": "2016-03-31T16:53:09",
+      "endDate": "2021-06-12T01:00:23.176",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-05T07:26:27.127",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5412778,
+      "idStatus": 1,
+      "beginDate": "2021-06-12T01:00:23.184",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2021-06-12T01:00:23.33",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5412779,
+      "idStatus": 1,
+      "beginDate": "2021-06-12T01:00:23.176",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2021-06-12T01:00:23.345",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 4481,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "49531895-37b0-401a-bf2b-f9e0156ebfa5",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

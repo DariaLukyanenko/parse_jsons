@@ -1,0 +1,691 @@
+{
+  "idCertificate": 1007091,
+  "idTechnicalReglaments": [
+    39
+  ],
+  "idCertScheme": 3,
+  "idObjectCertType": 2,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-GB.АГ03.А.06868",
+  "certRegDate": "2014-09-09",
+  "certEndDate": "2015-09-08",
+  "idBlank": 202924,
+  "blankNumber": "0202924",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 244408,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 157688,
+          "blankNumber": "0157688"
+        }
+      ]
+    },
+    {
+      "idAnnex": 244409,
+      "idType": 3,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 157689,
+          "blankNumber": "0157689"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2020926,
+    "idEgrul": null,
+    "idApplicantType": 3,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью \"Детская Галерея \"ЯКИМАНКА\"",
+    "shortName": null,
+    "idPerson": 4032643,
+    "surname": "Буеклы",
+    "firstName": "Д.",
+    "patronymic": "А.",
+    "headPosition": null,
+    "ogrn": "1037739719280",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1010369,
+        "idContactType": 1,
+        "value": "+74952280028"
+      },
+      {
+        "idContact": 1010370,
+        "idContactType": 3,
+        "value": "+74952280028"
+      },
+      {
+        "idContact": 1010371,
+        "idContactType": 4,
+        "value": "oborovok@yakimankagallery.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4775498,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, Москва Город, 119180, город Москва, улица Большая Якиманка, дом 26",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4775499,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, Москва Город, 119180, город Москва, улица Большая Якиманка, дом 26",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2020927,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"Burberry Limited\"",
+    "shortName": null,
+    "idPerson": 4032644,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4775500,
+        "idAddrType": 1,
+        "idCodeOksm": "826",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "СОЕДИНЕННОЕ КОРОЛЕВСТВО, Horseferry House Horseferry Road, London SW1P 2AW, Great Britain, Соединенное Королевство Великобритании и Северной Ирландии Horseferry House Horseferry Road, London SW1P 2AW, Great Britain, Соединенное Королевство Великобритании и Северной Ирландии. Производственные площадки согласно приложению бланк № 0157688",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 639611,
+        "annex": true,
+        "fullName": "\"Dianshan Lake Silk Knitting Mill\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 4775501,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, No.208, Shang Zhou Road P.C.201719 Shang Ta Town Qingpu, Shanghai 201917, China, Китай",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 639612,
+        "annex": true,
+        "fullName": "\"La Garment 1999 Co., Ltd\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 4775502,
+            "idAddrType": 1,
+            "idCodeOksm": "764",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "ТАИЛАНД, 2492 Lardprao Road, Wangthonglang Bangkok, 10230, Thailand, Тайланд",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 639613,
+        "annex": true,
+        "fullName": "\"Chang Shin Vietnam Cimoany Ltd\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 4775503,
+            "idAddrType": 1,
+            "idCodeOksm": "704",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "ВЬЕТНАМ, Thanh Phu, Vinh Cuu Ho Chi Minh Dong Nai 7000, Vietnam, Вьетнам",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1010501,
+    "fullName": "Орган по сертификации продукции Общества с ограниченной ответственностью \"Альсена\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ03",
+    "attestatRegDate": "2014-07-17",
+    "attestatEndDate": null,
+    "idRal": 27579,
+    "ogrn": null,
+    "idPerson": 4032646,
+    "firstName": "Роман",
+    "surname": "Федоров",
+    "patronymic": "Юрьевич",
+    "contacts": [
+      {
+        "idContact": 646095,
+        "idContactType": 1,
+        "value": "+74997068036"
+      },
+      {
+        "idContact": 646096,
+        "idContactType": 4,
+        "value": "alsena@inbox.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4775504,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "129626",
+        "fullAddress": "129626, Москва, 3-я Мытищинская ул., 3, стр. 1, оф. 405",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4775505,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "105082",
+        "fullAddress": "105082, г. Москва, Рубцовская наб., д. 3, стр. 2, офис 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1010506,
+    "idProductOrigin": "826",
+    "fullName": "Одежда швейная второго слоя для девочек ясельного, дошкольного, школьного и подросткового возраста из хлопчатобумажной ткани с вложением синтетических и эластомерных нитей, из шерстяной, шелковой, смешанной ткани,",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "с маркировкой \"Burberry\", ассортимент продукции согласно приложению бланк № 0157689",
+    "identifications": [
+      {
+        "idIdentification": 1530833,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68838,
+          68843,
+          68847,
+          68862
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1111005,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1530834,
+        "annex": true,
+        "name": "Одежда швейная второго слоя для девочек ясельного, дошкольного, школьного и подросткового возраста, с маркировкой \"Burberry\":",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1111006,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1530835,
+        "annex": true,
+        "name": "- платье из шерстяной ткани, артикул 3949234 - 2 штуки",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68838
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1111007,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1530836,
+        "annex": true,
+        "name": "- платье из шелковой ткани, артикул 3949304 - 5 штук",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68843
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1111008,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1530837,
+        "annex": true,
+        "name": "- юбка из хлопчатобумажной ткани с вложением эластомерных нитей, артикул 3949295 - 4 штуки; юбка из смешанной ткани, артикул 3931926 - 11 штук",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68847
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1111009,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1530838,
+        "annex": true,
+        "name": "- брюки из хлопчатобумажной ткани с вложением синтетических и эластомерных нитей, артикулы: 3941248 - 5 штук, 3932303 - 9 штук, 3931946 - 5 штук, 3931950 - 9 штук",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68862
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1111010,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 1000613,
+      "idPerson": 4032645,
+      "idEmployee": null,
+      "firstName": "Антон",
+      "surname": "Зязин",
+      "patronimyc": "Михайлович"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1501065,
+      "idStatus": 1,
+      "beginDate": "2014-09-09T20:48:24",
+      "endDate": "2015-09-08T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:36:22.383",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1501066,
+      "idStatus": 1,
+      "beginDate": "2015-09-08T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:36:22.383",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1040044,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "64b21caf-67d1-4ebf-8436-9b9f92019dfb",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

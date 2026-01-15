@@ -1,0 +1,466 @@
+{
+  "idCertificate": 1000525,
+  "idTechnicalReglaments": [],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-US.АГ88.В.06656",
+  "certRegDate": "2012-08-28",
+  "certEndDate": "2015-08-27",
+  "idBlank": 1564845,
+  "blankNumber": "1564845",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 243316,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 447397,
+          "blankNumber": "0447397"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2007794,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": null,
+    "fullName": "\"Sauer-Danfoss Inc.\";580 North Henderson, Freeport, IL 61032, Соединенные Штаты Америки",
+    "shortName": null,
+    "idPerson": 4006439,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4748471,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2007795,
+    "idEgrul": null,
+    "idLegalSubjectType": null,
+    "fullName": "\"Sauer-Danfoss Inc.\". (Филиалы завода-изготовителя согласно приложению (бланк № 0447397)).;580 North Henderson, Freeport, IL 61032, Соединенные Штаты Америки",
+    "shortName": null,
+    "idPerson": 4006440,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4748472,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 637311,
+        "annex": true,
+        "fullName": "Изготовитель:",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637312,
+        "annex": true,
+        "fullName": "\"Sauer-Danfoss Inc.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637313,
+        "annex": true,
+        "fullName": "Филиалы завода-изготовителя:",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637314,
+        "annex": true,
+        "fullName": "\"Sauer-Danfoss ApS\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637315,
+        "annex": true,
+        "fullName": "\"Sauer-Danfoss Hidráulica Mobil Ltda.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637316,
+        "annex": true,
+        "fullName": "\"Sauer-Danfoss GmbH & Co. OHG\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637317,
+        "annex": true,
+        "fullName": "\"Sauer-Danfoss s.r.l.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637318,
+        "annex": true,
+        "fullName": "\"Baselier BV\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637319,
+        "annex": true,
+        "fullName": "\"Sauer-Danfoss B.V.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637320,
+        "annex": true,
+        "fullName": "\"Sauer-Danfoss sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637321,
+        "annex": true,
+        "fullName": "\"Sauer-Danfoss India Pvt. Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637322,
+        "annex": true,
+        "fullName": "\"Sauer-Danfoss AB\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637323,
+        "annex": true,
+        "fullName": "\"Sauer-Danfoss (Shanghai) Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637324,
+        "annex": true,
+        "fullName": "\"Sauer-Danfoss SAS\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637325,
+        "annex": true,
+        "fullName": "\"Daikin-Sauer-Danfoss Manufacturing LTD\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637326,
+        "annex": true,
+        "fullName": "\"Sauer-Danfoss-Daikin Ltd. Korea\"",
+        "shortName": null,
+        "addresses": []
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1003935,
+    "fullName": "ООО \"Проксима\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ88",
+    "attestatRegDate": null,
+    "attestatEndDate": null,
+    "idRal": 17491,
+    "ogrn": "1117746508450",
+    "idPerson": 4006442,
+    "firstName": "Л.",
+    "surname": "Сумцов",
+    "patronymic": "Л.",
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4748473,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115682",
+        "fullAddress": "115682, РФ, г. Москва, ул. Шипиловская, д. 64, корп. 1, оф. 147, тел. (495) 984-64-54, факс (495) 984-64-54, E-mail os.proksima@mail.ru",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1003940,
+    "idProductOrigin": "840",
+    "fullName": "Гидронасосы, т.м. \"SAUER DANFOSS\", серии 90*****, H1******, 40******,42******, 45******, 51*****, 35******, 25SP******, YCC******, D******, где \"*\" - это цифры от 0 до 9, буквы от A до Z, -, пробелы",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": null,
+    "identifications": [
+      {
+        "idIdentification": 1521165,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Сертификат соответствия системы менеджмента качества требованиям ISO 9001:2008 № US-524889 от 27.10.2011 г., IQNet",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104089,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1018135,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": "Технический регламент о безопасности машин и оборудования (Постановление Правительства РФ от 15.09.2009 N 753 с изменениями, утвержденными постановлением Правительства РФ от 24.03.2011 N 205);",
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 994107,
+      "idPerson": 4006441,
+      "idEmployee": null,
+      "firstName": null,
+      "surname": "В.Н. Волков",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1492294,
+      "idStatus": 1,
+      "beginDate": "2012-08-28T00:00:00",
+      "endDate": "2015-08-27T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:27:58.018",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1492295,
+      "idStatus": 1,
+      "beginDate": "2015-08-27T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:27:58.018",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1033468,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "ab274d49-f744-8a12-4425-7a690046e329",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

@@ -1,0 +1,584 @@
+{
+  "idCertificate": 100350,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-CN.АЯ46.В.80386",
+  "certRegDate": "2017-06-14",
+  "certEndDate": "2022-06-13",
+  "idBlank": 543506,
+  "blankNumber": "0543506",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53807,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 379847,
+          "blankNumber": "0379847"
+        }
+      ]
+    },
+    {
+      "idAnnex": 53808,
+      "idType": 2,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 379848,
+          "blankNumber": "0379848"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207525,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "\"Bestway Inflatables & Material Corp.\" в лице Уполномоченного изготовителем представителя: Общество с ограниченной ответственностью «Р-ГРУПП» на основании Договора № 623-05/04-17 от 05.04.2017 г. ОГРН: 1157746642580, Юридический адрес: 107023, Москва, ул. Малая Семеновская, д. 3А, стр. 1, комн. 4, Телефон: +79261705302, E-mail: rgrouprus@gmail.com",
+    "shortName": null,
+    "idPerson": 417503,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250945,
+        "idContactType": 1,
+        "value": "+862169133312"
+      },
+      {
+        "idContact": 250946,
+        "idContactType": 4,
+        "value": "mi.huang@bestwaycorp.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 636685,
+        "idAddrType": 1,
+        "idCodeOksm": "156",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "КИТАЙ, No.3065 Cao An Road, Shanghai, 201812, China",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207526,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "\"Bestway Inflatables & Material Corp.\"",
+    "shortName": null,
+    "idPerson": 417504,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 636686,
+        "idAddrType": 1,
+        "idCodeOksm": "156",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "КИТАЙ, No.3065 Cao An Road, Shanghai, 201812, China",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 148475,
+        "annex": true,
+        "fullName": "\"Bestway (Nantong) Recreation Corp.\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 636687,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, No.8 Hui Min West Road, Economic Development Zone, Rugao, Jiangsu 226500 P.R. China",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103754,
+    "fullName": "Орган по сертификации \"РОСТЕСТ- Москва\" ЗАО \"Региональный орган по сертификации и тестированию\"",
+    "accredOrgName": "Росаккредитация",
+    "attestatRegNumber": "RA.RU.10АЯ46",
+    "attestatRegDate": "2015-04-27",
+    "attestatEndDate": null,
+    "idRal": 8887,
+    "ogrn": null,
+    "idPerson": 417506,
+    "firstName": "Александр",
+    "surname": "Коротенков",
+    "patronymic": "Викторович",
+    "contacts": [
+      {
+        "idContact": 192805,
+        "idContactType": 1,
+        "value": "+74956682715"
+      },
+      {
+        "idContact": 192806,
+        "idContactType": 1,
+        "value": "+74991291911"
+      },
+      {
+        "idContact": 192807,
+        "idContactType": 4,
+        "value": "info@rostest.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 636688,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117418",
+        "fullAddress": "117418, Российская Федерация, г. Москва, Нахимовский проспект, д. 31",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 636689,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "119049",
+        "fullAddress": "119049, Российская Федерация, г. Москва, ул. Житная, д. 14, стр. 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103752,
+    "idProductOrigin": "156",
+    "fullName": "Электрические воздушные насосы, торговой марки \"Bestway\"",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "модель: #P3058",
+    "identifications": [
+      {
+        "idIdentification": 185991,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          72332
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Обозначение и наименование стандартов ( см. Приложение - бланк &#8470; 0379847). Условия хранения, срок службы указаны в сопроводительной документации.  Предприятие-изготовитель продукции ( см. Приложение - бланк &#8470; 0379848).",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116867,
+            "name": "Директива 2014/35/EU ЕВРОПЕЙСКОГО ПАРЛАМЕНТА И СОВЕТА от 26 февраля 2014 г. «О гармонизации законодательств государств-членов в области размещения на рынке электрооборудования, предназначенного для использования в определенных пределах напряжения». ДИРЕКТИВА 2014/30/ЕU ЕВРОПЕЙСКОГО ПАРЛАМЕНТА И СОВЕТА от 26 февраля 2014 г. «О гармонизации законодательств государств-членов ЕС в области электромагнитной совместимости»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 107181,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107187,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ EN 62233-2013",
+            "name": " Методы измерений электромагнитных полей, создаваемых бытовыми и аналогичными электрическими приборами, в части их воздействия на человека.",
+            "section": null,
+            "addlInfo": "раздел 6",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107186,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.3-2013 (IEC 61000-3-3:2008)",
+            "name": "Совместимость технических средств электромагнитная. Ограничение изменений напряжения, колебаний напряжения и фликера в низковольтных системах электроснабжения общего назначения. Технические средства с потребляемым током не более 16 А (в одной фазе), подключаемые к электрической сети при несоблюдении определенных условий подключения. Нормы и методы испытаний",
+            "section": null,
+            "addlInfo": "раздел 5",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107185,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.2-2013 (IEC 61000-3-2:2009)",
+            "name": "Совместимость технических средств электромагнитная. Эмиссия гармонических составляющих тока техническими средствами с потребляемым током не более 16 А (в одной фазе). Нормы и методы испытаний",
+            "section": null,
+            "addlInfo": "разделы 5 и 7",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107184,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30805.14.2-2013 (CISPR 14-2:2001)",
+            "name": "Совместимость технических средств электромагнитная. Бытовые приборы, электрические инструменты и аналогичные устройства. Устойчивость к электромагнитным помехам. Требования и методы испытаний",
+            "section": null,
+            "addlInfo": "разделы 4 и 5, подраздел 7.2",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107183,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30805.14.1-2013 (CISPR 14-1:2005)",
+            "name": "Совместимость технических средств электромагнитная. Бытовые приборы, электрические инструменты и аналогичные устройства. Радиопомехи индустриальные. Нормы и методы измерений",
+            "section": null,
+            "addlInfo": "раздел 4",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107182,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60335-1-2015",
+            "name": "Бытовые и аналогичные электрические приборы. Безопасность. Часть 1. Общие требования\n",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106205,
+      "idPerson": 417505,
+      "idEmployee": null,
+      "firstName": "Ольга",
+      "surname": "Круглова",
+      "patronimyc": "Николаевна"
+    },
+    {
+      "idExpert": 2770505,
+      "idPerson": 12924859,
+      "idEmployee": null,
+      "firstName": "Ольга",
+      "surname": "Круглова",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2770509,
+      "idPerson": 12924867,
+      "idEmployee": null,
+      "firstName": "Ольга",
+      "surname": "Круглова",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2770507,
+      "idPerson": 12924861,
+      "idEmployee": null,
+      "firstName": "Светлана",
+      "surname": "Люминарская",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2770511,
+      "idPerson": 12924873,
+      "idEmployee": null,
+      "firstName": "Наталья",
+      "surname": "Добрина",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122007,
+      "idStatus": 6,
+      "beginDate": "2017-06-14T13:40:39",
+      "endDate": "2021-11-17T09:05:53",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5570092,
+      "idStatus": 14,
+      "beginDate": "2021-11-17T09:05:53",
+      "endDate": null,
+      "comment": "Письмо от заявителя",
+      "idBasis": 2,
+      "docNumber": "80386",
+      "publicated": true,
+      "publishDate": "2021-11-17T06:06:56.692",
+      "lkType": "dict.orgtypes.os",
+      "idMrpa": null,
+      "docName": "Решение об отмене действия сертификата",
+      "docDate": "2021-11-17",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": "3f7fd758-9e78-4c4b-a0f9-0ad318c3873a"
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112647,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    },
+    {
+      "idTestingLab": 112648,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    },
+    {
+      "idTestingLab": 112649,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "61a60780-287c-410f-8eda-83f1ea38fd50",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

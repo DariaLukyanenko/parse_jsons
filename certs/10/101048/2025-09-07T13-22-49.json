@@ -1,0 +1,409 @@
+{
+  "idCertificate": 101048,
+  "idTechnicalReglaments": [
+    5
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-BY.АВ98.В.00731",
+  "certRegDate": "2018-02-08",
+  "certEndDate": "2023-02-07",
+  "idBlank": 141800,
+  "blankNumber": "0141800",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 54165,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 103213,
+          "blankNumber": "0103213"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 208921,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 3,
+    "fullName": "Общество с ограниченной ответственностью \"ЭРА ИНЖИНИРИНГ\"",
+    "shortName": null,
+    "idPerson": 420309,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 252645,
+        "idContactType": 1,
+        "value": "+375173884499"
+      },
+      {
+        "idContact": 252646,
+        "idContactType": 4,
+        "value": "info@erae.by"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 641388,
+        "idAddrType": 1,
+        "idCodeOksm": "112",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "220037",
+        "fullAddress": "220037, БЕЛАРУСЬ, Минская область, город Минск, 1-ый Твердый переулок, дом 7/1, помещение13",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 208922,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "Общество с ограниченной ответственностью \"ЭРА ИНЖИНИРИНГ\"",
+    "shortName": null,
+    "idPerson": 420310,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 252647,
+        "idContactType": 1,
+        "value": "+375173884499"
+      },
+      {
+        "idContact": 252648,
+        "idContactType": 4,
+        "value": "info@erae.by"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 641389,
+        "idAddrType": 1,
+        "idCodeOksm": "112",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "220037",
+        "fullAddress": "220037, БЕЛАРУСЬ, Минская область, город Минск, 1-ый Твердый переулок, дом 7/1, помещение13",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 104452,
+    "fullName": "Орган по сертификации продукции ООО \"Центр Сертификации \"ЕвроЗащита\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АВ98",
+    "attestatRegDate": "2015-09-14",
+    "attestatEndDate": null,
+    "idRal": 27936,
+    "ogrn": null,
+    "idPerson": 420312,
+    "firstName": "Татьяна",
+    "surname": "Таймасова",
+    "patronymic": "Ивановна",
+    "contacts": [
+      {
+        "idContact": 194155,
+        "idContactType": 4,
+        "value": "ezsert@yandex.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 641390,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "df3d7359-afa9-4aaa-8ff9-197e73906b1c",
+        "idDistrict": "df3d7359-afa9-4aaa-8ff9-197e73906b1c",
+        "idCity": "242e87c1-584d-4360-8c4c-aae2fe90048e",
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "10",
+        "postCode": "445031",
+        "fullAddress": "445031, РОССИЯ, Самарская область, Тольятти, ш. Южное, 53, оф. 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 641391,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "df3d7359-afa9-4aaa-8ff9-197e73906b1c",
+        "idDistrict": "df3d7359-afa9-4aaa-8ff9-197e73906b1c",
+        "idCity": "242e87c1-584d-4360-8c4c-aae2fe90048e",
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "10",
+        "postCode": "445031",
+        "fullAddress": "445031, РОССИЯ, Самарская область, Тольятти, ш. Южное, 53, оф. 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 104450,
+    "idProductOrigin": "112",
+    "fullName": "Арматура промышленная трубопроводная, серии «СКРИНФЛОУ»: фильтры сетчатые ",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "номинальным диаметром от 125мм до 2000мм, на номинальное давление от 1,6МПа до 25МПа, 3, 4 категории, предназначенные для газов, паров и жидкостей (группы 1,2)",
+    "identifications": [
+      {
+        "idIdentification": 187539,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          72516
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117677,
+            "name": "ТУ BY 192698635.002-2018 «Фильтры сетчатые. Технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 107979,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106917,
+      "idPerson": 420311,
+      "idEmployee": null,
+      "firstName": "Люся",
+      "surname": "Малькова",
+      "patronimyc": "Павловна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122825,
+      "idStatus": 6,
+      "beginDate": "2018-02-09T12:09:29",
+      "endDate": "2023-02-08T01:18:51.597",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T15:01:48.695",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5881103,
+      "idStatus": 1,
+      "beginDate": "2023-02-08T01:18:51.597",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2023-02-08T01:18:52.242",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 113485,
+      "annex": false,
+      "idRal": 11047,
+      "regNumber": "RA.RU.21АИ62",
+      "fullName": "Общество с ограниченной ответственностью «МераТех» ",
+      "beginDate": "2016-05-31",
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a6cfe0ca-ee3a-4799-99b0-69dbb255913f",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

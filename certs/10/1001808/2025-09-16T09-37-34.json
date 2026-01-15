@@ -1,0 +1,505 @@
+{
+  "idCertificate": 1001808,
+  "idTechnicalReglaments": [],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-CH.АГ98.В.00595",
+  "certRegDate": "2013-02-19",
+  "certEndDate": "2015-02-18",
+  "idBlank": 1456322,
+  "blankNumber": "1456322",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 243557,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 421310,
+          "blankNumber": "0421310"
+        },
+        {
+          "idBlank": 421311,
+          "blankNumber": "0421311"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2010360,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": null,
+    "fullName": "«CNH International SA»;Riva Paradiso,14, CH-6902, Paradiso-Lugano, Ticino, SWITZERLAND, Швейцария",
+    "shortName": null,
+    "idPerson": 4011563,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4753959,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2010361,
+    "idEgrul": null,
+    "idLegalSubjectType": null,
+    "fullName": "«CNH International SA»;Riva Paradiso,14, CH-6902, Paradiso-Lugano, Ticino, SWITZERLAND, Швейцария",
+    "shortName": null,
+    "idPerson": 4011564,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4753960,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 637893,
+        "annex": true,
+        "fullName": "«CNH America LLC»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637894,
+        "annex": true,
+        "fullName": "«CNH de Mexico, S.A. de C.V.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637895,
+        "annex": true,
+        "fullName": "«CNH Saskatoon»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637896,
+        "annex": true,
+        "fullName": "«CNH plant in Curitiba»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637897,
+        "annex": true,
+        "fullName": "«CNH plant in Contagem»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637898,
+        "annex": true,
+        "fullName": "«CNH Osterreich GMBH»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637899,
+        "annex": true,
+        "fullName": "«CNH UK LTD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637900,
+        "annex": true,
+        "fullName": "«CNH Belgium S.A./NV»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637901,
+        "annex": true,
+        "fullName": "«New Holland Denmark A/S»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637902,
+        "annex": true,
+        "fullName": "«CNH Polska SP Z.O.O.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637903,
+        "annex": true,
+        "fullName": "«CNH Deutschland GmbH CASE Baumaschinen»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637904,
+        "annex": true,
+        "fullName": "«CNH Italia S.p.A.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637905,
+        "annex": true,
+        "fullName": "«CNH International Czech Republic»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637906,
+        "annex": true,
+        "fullName": "«TURK TRAKTOR VE ZIRAAT MAKINELERI A.S.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637907,
+        "annex": true,
+        "fullName": "«CNH France S.A.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637908,
+        "annex": true,
+        "fullName": "«Shangai New Holland Agricultural Machinery Co., Ltd»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637909,
+        "annex": true,
+        "fullName": "«Kevin Industries & Agriculture Co. Ltd.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637910,
+        "annex": true,
+        "fullName": "«New Holland Fiat (India) Pvt Ltd.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637911,
+        "annex": true,
+        "fullName": "«KOBELCO CONSTRUCTION MACHINERY CO LTD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637912,
+        "annex": true,
+        "fullName": "«CNH International SA»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637913,
+        "annex": true,
+        "fullName": "JV «UzCaseTractor»",
+        "shortName": null,
+        "addresses": []
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1005218,
+    "fullName": "Орган по сертификации продукции ООО \"ЮгРесурс\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ98",
+    "attestatRegDate": null,
+    "attestatEndDate": null,
+    "idRal": 12119,
+    "ogrn": "1112315011984",
+    "idPerson": 4011566,
+    "firstName": "А.",
+    "surname": "Чесноков",
+    "patronymic": "В.",
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4753961,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "353900",
+        "fullAddress": "353900, Краснодарский край, г. Новороссийск, ул. Мира, д. 9, оф. 307, тел. 8 985 766 92 24, E-mail info@ug-resurs.ru",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1005223,
+    "idProductOrigin": "756",
+    "fullName": "Унифицированные узлы и детали, применяемые в автомобильной промышленности т.м. \"CNH\": карданные валы, их части",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": null,
+    "identifications": [
+      {
+        "idIdentification": 1523145,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1105484,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1019429,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": "Технический регламент о безопасности колесных транспортных средств (Постановление Правительства РФ от 10.09.2009 N 720);",
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 995382,
+      "idPerson": 4011565,
+      "idEmployee": null,
+      "firstName": null,
+      "surname": "Е.Н. Кравцов",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1494040,
+      "idStatus": 1,
+      "beginDate": "2013-02-19T00:00:00",
+      "endDate": "2015-02-18T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:28:29.288",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1494041,
+      "idStatus": 1,
+      "beginDate": "2015-02-18T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:28:29.288",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1034755,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "293b391b-28fc-dfcc-4425-7b1600485535",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

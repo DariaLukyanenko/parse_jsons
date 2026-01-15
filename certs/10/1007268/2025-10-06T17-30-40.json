@@ -1,0 +1,724 @@
+{
+  "idCertificate": 1007268,
+  "idTechnicalReglaments": [
+    39
+  ],
+  "idCertScheme": 3,
+  "idObjectCertType": 2,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-GB.АГ03.А.06026",
+  "certRegDate": "2014-08-07",
+  "certEndDate": "2015-08-06",
+  "idBlank": 187155,
+  "blankNumber": "0187155",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 244441,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 88550,
+          "blankNumber": "0088550"
+        }
+      ]
+    },
+    {
+      "idAnnex": 244442,
+      "idType": 3,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 88551,
+          "blankNumber": "0088551"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2021280,
+    "idEgrul": null,
+    "idApplicantType": 3,
+    "idLegalSubjectType": 1,
+    "fullName": "Закрытое акционерное общество \"Меркурий\"",
+    "shortName": null,
+    "idPerson": 4033351,
+    "surname": "Куликова",
+    "firstName": "Л.",
+    "patronymic": "В.",
+    "headPosition": null,
+    "ogrn": "1117746481478",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1010515,
+        "idContactType": 1,
+        "value": "+74957838522"
+      },
+      {
+        "idContact": 1010516,
+        "idContactType": 3,
+        "value": "+74957838522"
+      },
+      {
+        "idContact": 1010517,
+        "idContactType": 4,
+        "value": "info@ideas4retail.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4776265,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, Москва Город, 117535, город Москва, улица Россошанская, дом 2, корпус 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4776266,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, Москва Город, 117535, город Москва, улица Россошанская, дом 2, корпус 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2021281,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "«Mamas & Papas",
+    "shortName": null,
+    "idPerson": 4033352,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4776267,
+        "idAddrType": 1,
+        "idCodeOksm": "826",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "СОЕДИНЕННОЕ КОРОЛЕВСТВО, Colne Bridge Road, Huddersfield, West Yorkshire, HD5 0RH, United Kingdom, Соединенное Королевство Великобритании и Северной Ирландии Colne Bridge Road, Huddersfield, West Yorkshire, HD5 0RH, United Kingdom, Соединенное Королевство Великобритании и Северной Ирландии. Заводы-изготовители: согласно приложению, бланк № 0088550",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 639691,
+        "annex": true,
+        "fullName": "«BAILI FTY»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 4776268,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, NO.15 KANG LI ROAD, BLOCK 7, XINQIAO 3RD INDUSTRIAL AREA SHAJING TOWN, CHINA, Китай",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 639692,
+        "annex": true,
+        "fullName": "«HUIZHOU NANFENG INDUSTRIAL DEV CO LTD»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 4776269,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, 4# ZHONGKAI ROAD, ZHONGKAI AVENUE HUIZHOU CITY, China, Китай",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 639693,
+        "annex": true,
+        "fullName": "\"OPEN UNION LIMITED\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 4776270,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, NO.2 SHI MEI ROAD WAN JIANG DISTRICT DONG GUAN GUANGDONG CHINA, Китай",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1010678,
+    "fullName": "Орган по сертификации продукции Общества с ограниченной ответственностью \"Альсена\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ03",
+    "attestatRegDate": "2014-07-17",
+    "attestatEndDate": null,
+    "idRal": 27579,
+    "ogrn": null,
+    "idPerson": 4033354,
+    "firstName": "Роман",
+    "surname": "Федоров",
+    "patronymic": "Юрьевич",
+    "contacts": [
+      {
+        "idContact": 646171,
+        "idContactType": 1,
+        "value": "+74997068036"
+      },
+      {
+        "idContact": 646172,
+        "idContactType": 4,
+        "value": "alsena@inbox.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4776271,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "129626",
+        "fullAddress": "129626, Москва, 3-я Мытищинская ул., 3, стр. 1, оф. 405",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4776272,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "105082",
+        "fullAddress": "105082, г. Москва, Рубцовская наб., д. 3, стр. 2, офис 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1010683,
+    "idProductOrigin": "826",
+    "fullName": "Изделия швейные второго слоя для девочек ясельного и дошкольного возраста, из хлопчатобумажной (в том числе джинсовой) ткани, в том числе с вложениями эластомерных нитей, из ткани из искусственных нитей, в комплектах и отдельными предметами,",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "с маркировкой «Mamas&Papas»: ассортимент продукции согласно приложению, бланк № 0088551",
+    "identifications": [
+      {
+        "idIdentification": 1531070,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68860,
+          68862,
+          68865,
+          68839,
+          68841
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1111196,
+            "name": "Директивой № 2001/95/ЕС Европейского парламента и Совета Европейского Союза от 3 декабря 2001 года",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1531071,
+        "annex": true,
+        "name": "Изделия швейные второго слоя для девочек ясельного и дошкольного возраста, в комплектах и отдельными предметами, с маркировкой «Mamas&Papas»:",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1111197,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1531072,
+        "annex": true,
+        "name": "из хлопчатобумажной ткани, в том числе с вложениями эластомерных нитей, платья, артикулы: S81AP86C6 - 1 штука, S81AP86C7 - 1 штука, S81AP86L5 - 1 штука, S81AP86L6 - 1 штука, S50JK79C4 - 1 штука",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68839
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1111198,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1531073,
+        "annex": true,
+        "name": "из ткани из искусственных нитей, платья, артикулы: S82CR24C7 - 1 штука, S82CR24C6 - 1 штука, S82CR24L5 - 1 штука, S82CR24L6 - 1 штука",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68841
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1111199,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1531074,
+        "annex": true,
+        "name": "из хлопчатобумажной, смешанной ткани, брюки, артикулы: S82YR24C6 - 1 штука, S82YR24C7 - 1 штука, S82YR24L5 - 1 штука, S82YR24L6 - 1 штука, S82ZR24C6 - 1 штука, S82ZR24C7 - 1 штука, S82ZR24L5 - 1 штука, S82ZR24L6 - 1 штука",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68862
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1111200,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1531075,
+        "annex": true,
+        "name": "из хлопчатобумажной, смешанной ткани, в том числе с вложениями эластомерных нитей комбинезоны, артикулы: S16GP86B9 - 1 штука, S16GP86C6 - 1 штука, S16GP86C7 - 1 штука",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68865
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1111201,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1531076,
+        "annex": true,
+        "name": "из хлопчатобумажной (джинсовой) ткани, в том числе с вложениями эластомерных нитей брюки (джинсы), артикулы: S10SP86C4 - 1 штука",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68860
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1111202,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 1000790,
+      "idPerson": 4033353,
+      "idEmployee": null,
+      "firstName": "Антон",
+      "surname": "Зязин",
+      "patronimyc": "Михайлович"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1501299,
+      "idStatus": 1,
+      "beginDate": "2014-08-14T12:25:51",
+      "endDate": "2015-08-06T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:36:22.383",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1501300,
+      "idStatus": 1,
+      "beginDate": "2015-08-06T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:36:22.383",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1040222,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "6512f472-c0ae-4719-85aa-ed3adecbe4af",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

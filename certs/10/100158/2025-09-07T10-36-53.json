@@ -1,0 +1,563 @@
+{
+  "idCertificate": 100158,
+  "idTechnicalReglaments": [
+    8
+  ],
+  "idCertScheme": 3,
+  "idObjectCertType": 2,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-GB.БТ01.А.00265",
+  "certRegDate": "2016-09-13",
+  "certEndDate": "2017-09-12",
+  "idBlank": 444288,
+  "blankNumber": "0444288",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53663,
+      "idType": 3,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 272388,
+          "blankNumber": "0272388"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207141,
+    "idEgrul": null,
+    "idApplicantType": 3,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью \"Приват Трэйд \"",
+    "shortName": null,
+    "idPerson": 416729,
+    "surname": "Холязников",
+    "firstName": "Владимир",
+    "patronymic": "Витальевич",
+    "headPosition": null,
+    "ogrn": "1087746760397",
+    "ogrnAssignDate": null,
+    "inn": "7706692532",
+    "kpp": null,
+    "idLegalForm": 12,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250430,
+        "idContactType": 1,
+        "value": "+74957717373"
+      },
+      {
+        "idContact": 250431,
+        "idContactType": 3,
+        "value": "+74957717373"
+      },
+      {
+        "idContact": 250432,
+        "idContactType": 4,
+        "value": "kristina.latson@kupivip.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 634372,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "111033",
+        "fullAddress": "111033, Россия, город Москва, улица Самокатная, дом 1, строение 21",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 634373,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "111033",
+        "fullAddress": "111033, Россия, город Москва, улица Самокатная, дом 1, строение 21",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207142,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "«Jacobs & Turner Ltd»",
+    "shortName": null,
+    "idPerson": 416730,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": "6901022240",
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250433,
+        "idContactType": 1,
+        "value": "+441415688000"
+      },
+      {
+        "idContact": 250434,
+        "idContactType": 3,
+        "value": "+441415688000"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 634374,
+        "idAddrType": 1,
+        "idCodeOksm": "826",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Соединенное Королевство, Vermont House, 149 Vermont street, Kinning Park, Glasgow, G41 1LU, Scotland U.K.",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 634375,
+        "idAddrType": 1,
+        "idCodeOksm": "826",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Соединенное Королевство, Vermont House, 149 Vermont street, Kinning Park, Glasgow, G41 1LU, Scotland U.K",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [
+    {
+      "idFilial": 13022,
+      "fullName": null,
+      "shortName": null,
+      "idLegalForm": null,
+      "kpp": null,
+      "annex": false,
+      "contacts": [],
+      "addresses": [
+        {
+          "idAddress": 634376,
+          "idAddrType": 1,
+          "idCodeOksm": "156",
+          "oksmShort": null,
+          "idSubject": null,
+          "idDistrict": null,
+          "idCity": null,
+          "idLocality": null,
+          "idStreet": null,
+          "idHouse": null,
+          "flat": null,
+          "postCode": null,
+          "fullAddress": "Китай, «Xiamen Yingjieli Garments Co., Ltd.», 4th Floor,290th Tongan Yuan,Tongan Centralized Industrial Development Zone,Tongan,District,Xiamen City,China, Китай",
+          "gln": null,
+          "foreignDistrict": null,
+          "foreignCity": null,
+          "foreignLocality": null,
+          "foreignStreet": null,
+          "foreignHouse": null,
+          "uniqueAddress": null,
+          "otherGln": null,
+          "glonass": null
+        }
+      ]
+    }
+  ],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103562,
+    "fullName": "Орган по сертификации продукции текстильной и легкой промышленности \"Бест Тест\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.10БТ01",
+    "attestatRegDate": "2015-12-29",
+    "attestatEndDate": null,
+    "idRal": 8007,
+    "ogrn": null,
+    "idPerson": 416732,
+    "firstName": "Святослав",
+    "surname": "Толстокоров",
+    "patronymic": "Викторович",
+    "contacts": [
+      {
+        "idContact": 192336,
+        "idContactType": 4,
+        "value": "sv@besttest.biz"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 634377,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "109651, РОССИЯ, город Москва, ул. Иловайская, д. 2Б, строение1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 634378,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "109651",
+        "fullAddress": "109651, РОССИЯ, город Москва, ул. Иловайская, д. 2Б, строение 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103560,
+    "idProductOrigin": "826",
+    "fullName": "Изделия трикотажные бельевые (термобелье) мужские из шерстяной пряжи, из пряжи из синтетических волокон и нитей (спортивного назначения), в комплектах и отдельными предметами: кальсоны",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "с маркировкой \"TRESPASS\", артикулы продукции: MABLBTE20001, MABLBTG20002, MABLBTG20003, MABLSEG20001\f\n\f\n",
+    "identifications": [
+      {
+        "idIdentification": 185583,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68557,
+          68558
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Условия хранения и срок службы в соответствии ГОСТ 3897-2015",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116666,
+            "name": "изготовлены по технической документации«Jacobs & Turner Ltd»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 106800,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      },
+      {
+        "idIdentification": 185584,
+        "annex": true,
+        "name": "Изделия трикотажные бельевые (термобелье) мужские из шерстяной пряжи,  в комплектах и отдельными предметами: кальсоны",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68558
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116667,
+            "name": "изготовлены по техническим документам «Jacobs & Turner Ltd»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 185585,
+        "annex": true,
+        "name": "Изделия трикотажные бельевые (термобелье) мужские из пряжи из синтетических волокон и нитей (спортивного назначения), в комплектах и отдельными предметами: кальсоны",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68557
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116668,
+            "name": "изготовлены по техническим документам «Jacobs & Turner Ltd»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106007,
+      "idPerson": 416731,
+      "idEmployee": null,
+      "firstName": "Юлия",
+      "surname": "Ванчарина",
+      "patronimyc": "Аркадьевна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121767,
+      "idStatus": 1,
+      "beginDate": "2016-09-13T14:31:10",
+      "endDate": "2017-09-12T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 121768,
+      "idStatus": 1,
+      "beginDate": "2017-09-12T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112339,
+      "annex": false,
+      "idRal": 17295,
+      "regNumber": "RA.RU.21ЛТ78",
+      "fullName": "Испытательная лаборатория ООО \"Центр Испытаний и Сертификации АЛЬТЕРНАТИВА\"",
+      "beginDate": "2016-01-13",
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "5ffb677b-4548-42eb-beb1-48b4a24230f7",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

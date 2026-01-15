@@ -1,0 +1,447 @@
+{
+  "idCertificate": 1009289,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-TW.АГ21.В.01078",
+  "certRegDate": "2014-07-31",
+  "certEndDate": "2019-07-30",
+  "idBlank": 87580,
+  "blankNumber": "0087580",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 244794,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 90021,
+          "blankNumber": "0090021"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2025322,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 3,
+    "fullName": "BenQ Corporation",
+    "shortName": null,
+    "idPerson": 4041410,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1011600,
+        "idContactType": 1,
+        "value": "+886227278899"
+      },
+      {
+        "idContact": 1011601,
+        "idContactType": 3,
+        "value": "+78633593376"
+      },
+      {
+        "idContact": 1011602,
+        "idContactType": 4,
+        "value": "Derek.Tseng@BenQ.Com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4784470,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Тайвань, Taipei, 16 Jihu Road, Neihu, Taipei 114",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2025323,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "BenQ corporation",
+    "shortName": null,
+    "idPerson": 4041411,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4784471,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Тайвань, Taipei, 16 Jihu Road, Neihu, Taipei 114",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 640300,
+        "annex": true,
+        "fullName": "DELTA VIDEO DISPLAY SYSTEM (WUJIANG) LTD",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 4784472,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "Китай, Wujiang, 1688 JIANGXING E. RD.,  WUJIANG ECONOMIC, 215200  DEVELOPMENT ZONE,  WUJIANG CITY, JIANGSU",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1012699,
+    "fullName": "Орган по сертификации продукции \"ГОСТ-АЗИЯ РУС\" АНО \"Центр \"ГОСТ АЗИЯ РУС\" по подтверждению соответствия продукции и иных объектов, процессов, работ и услуг стандартам, регламентам, правилам и договорам\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ21",
+    "attestatRegDate": "2011-03-16",
+    "attestatEndDate": null,
+    "idRal": 6256,
+    "ogrn": null,
+    "idPerson": 4041413,
+    "firstName": "В.",
+    "surname": "Воробьев",
+    "patronymic": "Ф.",
+    "contacts": [
+      {
+        "idContact": 646946,
+        "idContactType": 1,
+        "value": "+74992530157"
+      },
+      {
+        "idContact": 646947,
+        "idContactType": 4,
+        "value": "gostasia@umail.ru"
+      },
+      {
+        "idContact": 646948,
+        "idContactType": 4,
+        "value": "standard@umail.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4784473,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115191",
+        "fullAddress": "115191,Москва, ул. 2-ая Рощинская, 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4784474,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115191",
+        "fullAddress": "115191,г. Москва, ул. 2-ая Рощинская, д. 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1012704,
+    "idProductOrigin": "158",
+    "fullName": "Цифровые проекторы",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "BenQ модели PX9710, PX9810+, IX7721, IBE77, PW9620, PW9620+, IW6732, \nIBF67, PU9730, PU9730+, IU7093, IC070,\nизготовлены в соответствии ТР ТС 004/2011, ТР ТС 020/2011",
+    "identifications": [
+      {
+        "idIdentification": 1534399,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          79106
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Срок службы продукции 5 лет.",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1113308,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1027047,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 1002786,
+      "idPerson": 4041412,
+      "idEmployee": null,
+      "firstName": "Светлана",
+      "surname": "Кудрявцева",
+      "patronimyc": "Алексеевна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1503995,
+      "idStatus": 6,
+      "beginDate": "2014-07-31T17:18:24",
+      "endDate": "2019-07-31T01:30:53.939",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:38:27.08",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 3619924,
+      "idStatus": 1,
+      "beginDate": "2019-07-31T01:30:53.939",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2019-07-31T01:30:54.077",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1042245,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "665d6ead-32aa-42c8-905d-9c34061278a6",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

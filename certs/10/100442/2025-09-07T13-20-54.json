@@ -1,0 +1,483 @@
+{
+  "idCertificate": 100442,
+  "idTechnicalReglaments": [
+    12
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-RU.АА87.В.00148",
+  "certRegDate": "2016-03-28",
+  "certEndDate": "2021-03-28",
+  "idBlank": 328036,
+  "blankNumber": "0328036",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53875,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 256993,
+          "blankNumber": "0256993"
+        },
+        {
+          "idBlank": 256994,
+          "blankNumber": "0256994"
+        },
+        {
+          "idBlank": 256995,
+          "blankNumber": "0256995"
+        },
+        {
+          "idBlank": 256996,
+          "blankNumber": "0256996"
+        },
+        {
+          "idBlank": 256997,
+          "blankNumber": "0256997"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207709,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью «ВЕГА ИНСТРУМЕНТС»",
+    "shortName": null,
+    "idPerson": 417877,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1067761461998",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 251179,
+        "idContactType": 1,
+        "value": "+74952692049"
+      },
+      {
+        "idContact": 251180,
+        "idContactType": 3,
+        "value": "+74952692049"
+      },
+      {
+        "idContact": 251181,
+        "idContactType": 4,
+        "value": "flow@vega-rus.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 637491,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Россия, 115280, Москва, улица Ленинская Слобода, дом 19, офис 513",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 637492,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Россия, 119602, Москва, улица Академика Анохина, дом 38, корпус 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207710,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью «ВЕГА ИНСТРУМЕНТС»",
+    "shortName": null,
+    "idPerson": 417878,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 637493,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Россия, Республика Татарстан, 420088, город Казань, улица Каспийская,  дом 33",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 637494,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Россия, 119602, Москва, улица Академика Анохина, дом 38, корпус 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103846,
+    "fullName": "Орган по сертификации взрывозащищенного и рудничного оборудования Общества с ограниченной ответственностью «Центр по сертификации взрывозащищенного и рудничного оборудования»",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АА87",
+    "attestatRegDate": "2015-07-20",
+    "attestatEndDate": null,
+    "idRal": 2301,
+    "ogrn": null,
+    "idPerson": 417880,
+    "firstName": "Александр",
+    "surname": "Залогин",
+    "patronymic": "Сергеевич",
+    "contacts": [
+      {
+        "idContact": 193037,
+        "idContactType": 1,
+        "value": "+74955578244"
+      },
+      {
+        "idContact": 193038,
+        "idContactType": 1,
+        "value": "+74955588353"
+      },
+      {
+        "idContact": 193039,
+        "idContactType": 1,
+        "value": "+74955540150"
+      },
+      {
+        "idContact": 193040,
+        "idContactType": 4,
+        "value": "ccve@ccve.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 637495,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "140004, РОССИЯ, Московская область, пос. ВУГИ, г. Люберцы, ОАО \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Завод \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"ЭКОМАШ\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 637496,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idDistrict": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "140004",
+        "fullAddress": "140004, РОССИЯ, Московская область, пос. ВУГИ, г. Люберцы, ОАО \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Завод \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"ЭКОМАШ\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103844,
+    "idProductOrigin": "643",
+    "fullName": "Уровнемеры микроволновые контактные VEGAFLEX 8* (ТУ 4214-001-98948802-2015), уровнемеры микроволновые бесконтактные VEGAPULS 6* (ТУ 4214-002-98948802-2015), сигнализаторы уровня вибрационные VEGASWING 6* (ТУ 4214-003-98948802-2015) ",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "с Ех-маркировками согласно приложению ",
+    "identifications": [
+      {
+        "idIdentification": 186155,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          76701,
+          76813
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Сертификат действителен с приложением на 5-ти листах.\f\nУсловия хранения, срок службы указаны в эксплуатационной документации.",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116974,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 107363,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106303,
+      "idPerson": 417879,
+      "idEmployee": null,
+      "firstName": "Александр",
+      "surname": "Дунаев",
+      "patronimyc": "Викторович"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122127,
+      "idStatus": 6,
+      "beginDate": "2016-03-28T15:31:18",
+      "endDate": "2021-06-12T01:28:32.479",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5415631,
+      "idStatus": 1,
+      "beginDate": "2021-06-12T01:28:32.479",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2021-06-12T01:28:32.559",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112805,
+      "annex": false,
+      "idRal": 2496,
+      "regNumber": "РОСС RU.0001.21МШ19",
+      "fullName": "Испытательная лаборатория технических устройств АНО \"Национальный испытательный и научно-исследовательский институт оборудования для взрывоопасных сред\"",
+      "beginDate": "2015-10-16",
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "626f4877-3caf-4010-bffb-02f8539e04b6",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

@@ -1,0 +1,697 @@
+{
+  "idCertificate": 1008954,
+  "idTechnicalReglaments": [],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-JP.АГ17.В.07044",
+  "certRegDate": "2011-07-01",
+  "certEndDate": "2014-06-30",
+  "idBlank": 824883,
+  "blankNumber": "0824883",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 244717,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 241109,
+          "blankNumber": "0241109"
+        }
+      ]
+    },
+    {
+      "idAnnex": 244718,
+      "idType": 2,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 241106,
+          "blankNumber": "0241106"
+        },
+        {
+          "idBlank": 241107,
+          "blankNumber": "0241107"
+        }
+      ]
+    },
+    {
+      "idAnnex": 244719,
+      "idType": 3,
+      "ord": 2,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 241108,
+          "blankNumber": "0241108"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2024652,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": 1,
+    "fullName": "ООО \"Бриджстоун СНГ\"",
+    "shortName": null,
+    "idPerson": 4040074,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1027739220860",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1011355,
+        "idContactType": 1,
+        "value": "+74959894710"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4783063,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4783064,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117587",
+        "fullAddress": "117587, г.Москва, Днепропетровская улица, д.2",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2024653,
+    "idEgrul": null,
+    "idLegalSubjectType": null,
+    "fullName": "\"BRIDGESTONE CORPORATION\";3-1-1 Ogawahigashi-cho, Kodaira-shi, TOKYO 187-8531, Япония",
+    "shortName": null,
+    "idPerson": 4040075,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4783065,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 640126,
+        "annex": true,
+        "fullName": "\"BridgestoneCorporationTechnicalCentre\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640127,
+        "annex": true,
+        "fullName": "\"BridgestoneCorporationProvingGround\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640128,
+        "annex": true,
+        "fullName": "Bridgestone TCE S.pA\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640129,
+        "annex": true,
+        "fullName": "“Bridgestone TCE S.p.A European Proving Ground (EUPG)”",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640130,
+        "annex": true,
+        "fullName": "\"TokyoFactory\" BridgestoneCorporation",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640131,
+        "annex": true,
+        "fullName": "NasuFactory \" BridgestoneCorporation",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640132,
+        "annex": true,
+        "fullName": "\"TosuFactory\" BridgestoneCorporation",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640133,
+        "annex": true,
+        "fullName": "\"TochigiFactory \" BridgestoneCorporation",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640134,
+        "annex": true,
+        "fullName": "\"HofuFactory\" BridgestoneCorporation",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640135,
+        "annex": true,
+        "fullName": "\"KurumeFactory\" BridgestoneCorporation",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640136,
+        "annex": true,
+        "fullName": "\"HikoneFactory\" BridgestoneCorporation",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640137,
+        "annex": true,
+        "fullName": "\"AmagiFactory\" BridgestoneCorporation",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640138,
+        "annex": true,
+        "fullName": "\"Ikeda Factory\" (BIMC) Bridgestone IRC Manufacturing Co., LTD",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640139,
+        "annex": true,
+        "fullName": "\"Thai Factory (BIMC)\" Inoue Rubber (Thailand) Public Company Limited",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640140,
+        "annex": true,
+        "fullName": "\"NongKhae Factory\" Thai Bridgestone Co., LTD.",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640141,
+        "annex": true,
+        "fullName": "\"Bridgestone Tire manufacture Thailand Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640142,
+        "annex": true,
+        "fullName": "\"Karawang Factory\" P.T. Bridgestone Tire Indonesia",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640143,
+        "annex": true,
+        "fullName": "\"Bekasi Factory P.T. Bridgestone Tire Indonesia\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640144,
+        "annex": true,
+        "fullName": "\"Bari Factory \" Bridgestone Italia S.P.A.",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640145,
+        "annex": true,
+        "fullName": "\"Bethune Factory\" Bridgestone France S.A.S.",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640146,
+        "annex": true,
+        "fullName": "\"Poznan Factory\" Bridgestone Poland Sp. Z.o.o.",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640147,
+        "annex": true,
+        "fullName": "\"Stargard Factory\" Bridgestone Stargard Sp z.o.o.",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640148,
+        "annex": true,
+        "fullName": "Burgos Factory” Bridgestone Hispania S.A",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640149,
+        "annex": true,
+        "fullName": "\"Puente San Migel Factory \" Bridgestone Hispania S.A.",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640150,
+        "annex": true,
+        "fullName": "\"Bilbao Factory \" Bridgestone Hispania S.A.",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640151,
+        "annex": true,
+        "fullName": "\"Tatabanya Factory\" Bridgestone Tatabanya Manufacturing Ltd",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640152,
+        "annex": true,
+        "fullName": "\"Brisa Bridgestone SabanciLastik Sanayi ve Ticaret A.S.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640153,
+        "annex": true,
+        "fullName": "Brits Factory\" Bridgestone South Africa Pyt Ltd",
+        "shortName": null,
+        "addresses": []
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1012364,
+    "fullName": "ОРГАН ПО СЕРТИФИКАЦИИ ПРОДУКЦИИ ООО \"ЦЕНТР СТАНДАРТИЗАЦИИ И ПОДТВЕРЖДЕНИЯ СООТВЕТСТВИЯ\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ17",
+    "attestatRegDate": null,
+    "attestatEndDate": null,
+    "idRal": 6245,
+    "ogrn": "1107746914934",
+    "idPerson": 4040077,
+    "firstName": "В.",
+    "surname": "Новикова",
+    "patronymic": "А.",
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4783066,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117420",
+        "fullAddress": "117420, г. Москва, ул. Профсоюзная, д. 57, офис 900, тел. (499) 678-20-79, E-mail info@scccllc.ru",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1012369,
+    "idProductOrigin": "392",
+    "fullName": "Шины пневматические для легких грузовых автомобилей т.м. «Bridgestone», модели (см. приложение на 4 листах, бланки №№ 0241106-0241109) Контракт № 2010-PSR от 11.01.2010 г.",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": null,
+    "identifications": [
+      {
+        "idIdentification": 1533900,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1112922,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1026718,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "Правила ЕЭК ООН №117",
+            "name": "Единообразные предписания, касающиеся официального утверждения шин в отношении шума, производимыми ими при качении\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 1026717,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ Р 41.30-99",
+            "name": "\"Единообразные предписания, касающиеся официального утверждения шин для автомобилей и их прицепов",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 1026716,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": "Технический регламент о безопасности колесных транспортных средств (Постановление Правительства РФ от 10.09.2009 N 720);",
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      },
+      {
+        "idIdentification": 1533901,
+        "annex": true,
+        "name": "Шины пневматические для легких грузовых автомобилей т.м. «Bridgestone», модели:",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1533902,
+        "annex": true,
+        "name": "индексом нагрузки не более 121",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1533903,
+        "annex": true,
+        "name": "DUELER A/T 697 С шириной профиля с 205 по 285 мм и с 7,50 до 10,5 дюймов, Высотой профиля 60-100 Диаметром обода 14-18 дюймов С индексами нагрузки  97-121 С индексами категорий скорости  N,R,S,T,H,W",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 1002455,
+      "idPerson": 4040076,
+      "idEmployee": null,
+      "firstName": null,
+      "surname": "Н.В. Верещака",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1503528,
+      "idStatus": 1,
+      "beginDate": "2011-07-01T00:00:00",
+      "endDate": "2014-06-30T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:38:27.08",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1503529,
+      "idStatus": 1,
+      "beginDate": "2014-06-30T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:38:27.08",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1041910,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "65bb9134-cd49-76ce-c325-78be0038d3b8",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

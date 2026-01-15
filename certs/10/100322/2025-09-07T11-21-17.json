@@ -1,0 +1,594 @@
+{
+  "idCertificate": 100322,
+  "idTechnicalReglaments": [
+    12
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-US.АА87.В.00417",
+  "certRegDate": "2016-12-05",
+  "certEndDate": "2021-12-04",
+  "idBlank": 459168,
+  "blankNumber": "0459168",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53789,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 318715,
+          "blankNumber": "0318715"
+        }
+      ]
+    },
+    {
+      "idAnnex": 53790,
+      "idType": 5,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 318716,
+          "blankNumber": "0318716"
+        },
+        {
+          "idBlank": 318717,
+          "blankNumber": "0318717"
+        },
+        {
+          "idBlank": 318718,
+          "blankNumber": "0318718"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207469,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "Акционерное общество «Промышленная группа «Метран»",
+    "shortName": null,
+    "idPerson": 417391,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1027402540065",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250864,
+        "idContactType": 1,
+        "value": "+73517995151"
+      },
+      {
+        "idContact": 250865,
+        "idContactType": 4,
+        "value": "Info.Metran@Emerson.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 636377,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, 454003, Челябинская область, город Челябинск, Новоградский проспект, 15",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207470,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "Rosemount Inc.",
+    "shortName": null,
+    "idPerson": 417392,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 636378,
+        "idAddrType": 1,
+        "idCodeOksm": "840",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "СОЕДИНЕННЫЕ ШТАТЫ, 8200 Market Blvd, Chanhassen, MN 55317",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 148299,
+        "annex": true,
+        "fullName": "«Rosemount Inc.»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 636379,
+            "idAddrType": 1,
+            "idCodeOksm": "840",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "СОЕДИНЕННЫЕ ШТАТЫ, 12001 Technology Drive, Eden Prairie,  MN 55344",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 148300,
+        "annex": true,
+        "fullName": "«Rosemount Inc.»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 636380,
+            "idAddrType": 1,
+            "idCodeOksm": "840",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "СОЕДИНЕННЫЕ ШТАТЫ, 6021 Innovation Boulevard, Shakopee,  MN 55379",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 148301,
+        "annex": true,
+        "fullName": "«Emerson Process Management Asia Pacific Pte Ltd.»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 636381,
+            "idAddrType": 1,
+            "idCodeOksm": "702",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "СИНГАПУР, 1 Pandan Crescent, Singapore, 128461",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 148302,
+        "annex": true,
+        "fullName": "«Emerson Process Management GmbH&Co. OHG»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 636382,
+            "idAddrType": 1,
+            "idCodeOksm": "276",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "ГЕРМАНИЯ, Argelsrieder Feld 3, D-82234, Wessling",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 148303,
+        "annex": true,
+        "fullName": "АО «Промышленная группа «Метран»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 636383,
+            "idAddrType": 1,
+            "idCodeOksm": "643",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "РОССИЯ, 454003, Челябинская область, город Челябинск, проспект Новоградский, дом 15",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103726,
+    "fullName": "Орган по сертификации взрывозащищенного и рудничного оборудования Общества с ограниченной ответственностью «Центр по сертификации взрывозащищенного и рудничного оборудования»",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АА87",
+    "attestatRegDate": "2015-07-20",
+    "attestatEndDate": null,
+    "idRal": 2301,
+    "ogrn": null,
+    "idPerson": 417394,
+    "firstName": null,
+    "surname": "А.А. Коган - Заместитель руководителя ОС",
+    "patronymic": null,
+    "contacts": [
+      {
+        "idContact": 192737,
+        "idContactType": 1,
+        "value": "+74955578244"
+      },
+      {
+        "idContact": 192738,
+        "idContactType": 1,
+        "value": "+74955588353"
+      },
+      {
+        "idContact": 192739,
+        "idContactType": 1,
+        "value": "+74955540150"
+      },
+      {
+        "idContact": 192740,
+        "idContactType": 4,
+        "value": "ccve@ccve.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 636384,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idDistrict": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "140004",
+        "fullAddress": "140004, РОССИЯ, Московская область, пос. ВУГИ, г. Люберцы, ОАО \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Завод \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"ЭКОМАШ\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 636385,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idDistrict": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "140004",
+        "fullAddress": "140004, РОССИЯ, Московская область, пос. ВУГИ, г. Люберцы, ОАО \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Завод \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"ЭКОМАШ\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103724,
+    "idProductOrigin": "840",
+    "fullName": "Преобразователи измерительные Rosemount 644 ",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "с Ех-маркировкой согласно приложению",
+    "identifications": [
+      {
+        "idIdentification": 185957,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          76684
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Сертификат действителен с приложением на 4-х листах.\nУсловия хранения, срок службы указаны в эксплуатационной документации.\n",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116839,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 107128,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106177,
+      "idPerson": 417393,
+      "idEmployee": null,
+      "firstName": "Александр",
+      "surname": "Залогин",
+      "patronimyc": "Сергеевич"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121972,
+      "idStatus": 14,
+      "beginDate": "2016-12-09T00:00:00",
+      "endDate": "2016-12-05T16:36:25",
+      "comment": "В связи с опечаткой на бланке приложения серии RU № 0318717 в таблице 2",
+      "idBasis": 2,
+      "docNumber": "№ 37",
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": "2016-12-09",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 121973,
+      "idStatus": 14,
+      "beginDate": "2016-12-05T16:36:25",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112604,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "6163be88-ed40-49a9-b3ac-ab28d111606b",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

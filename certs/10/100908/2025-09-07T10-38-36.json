@@ -1,0 +1,454 @@
+{
+  "idCertificate": 100908,
+  "idTechnicalReglaments": [
+    12
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-RU.МГ07.В.00288",
+  "certRegDate": "2015-06-15",
+  "certEndDate": "2020-06-14",
+  "idBlank": 167695,
+  "blankNumber": "0167695",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 54091,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 127291,
+          "blankNumber": "0127291"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 208641,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью «МВМ»",
+    "shortName": null,
+    "idPerson": 419747,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1024202002220",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 252313,
+        "idContactType": 1,
+        "value": "+73845160165"
+      },
+      {
+        "idContact": 252314,
+        "idContactType": 1,
+        "value": "+73845153845"
+      },
+      {
+        "idContact": 252315,
+        "idContactType": 3,
+        "value": "+73845160165"
+      },
+      {
+        "idContact": 252316,
+        "idContactType": 3,
+        "value": "+73845153845"
+      },
+      {
+        "idContact": 252317,
+        "idContactType": 4,
+        "value": "bux@reyzin.com"
+      },
+      {
+        "idContact": 252318,
+        "idContactType": 4,
+        "value": "info@reyzin.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 640649,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idDistrict": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "652050",
+        "fullAddress": "652050, РОССИЯ, Кемеровская область, город Юрга, улица Береговая, 9",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 208642,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью «МВМ»",
+    "shortName": null,
+    "idPerson": 419748,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1024202002220",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 252319,
+        "idContactType": 1,
+        "value": "+73845160165"
+      },
+      {
+        "idContact": 252320,
+        "idContactType": 1,
+        "value": "+73845153845"
+      },
+      {
+        "idContact": 252321,
+        "idContactType": 3,
+        "value": "+73845160165"
+      },
+      {
+        "idContact": 252322,
+        "idContactType": 3,
+        "value": "+73845153845"
+      },
+      {
+        "idContact": 252323,
+        "idContactType": 4,
+        "value": "bux@reyzin.com"
+      },
+      {
+        "idContact": 252324,
+        "idContactType": 4,
+        "value": "info@reyzin.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 640650,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idDistrict": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "652050",
+        "fullAddress": "652050, РОССИЯ, Кемеровская область, город Юрга, улица Береговая, 9",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 104312,
+    "fullName": "Орган по сертификации взрывозащищенного и рудничного электрооборудования АО  \"Научный центр ВостНИИ по безопасности работ в горной промышленности \"",
+    "accredOrgName": "Росаккредитация",
+    "attestatRegNumber": "RA.RU.11МГ07",
+    "attestatRegDate": "2014-12-02",
+    "attestatEndDate": null,
+    "idRal": 1942,
+    "ogrn": null,
+    "idPerson": 419750,
+    "firstName": "Игорь",
+    "surname": "Монахов",
+    "patronymic": "Алексеевич",
+    "contacts": [
+      {
+        "idContact": 193927,
+        "idContactType": 1,
+        "value": "+73842642462"
+      },
+      {
+        "idContact": 193928,
+        "idContactType": 1,
+        "value": "+73842643398"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 640651,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idDistrict": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "650002",
+        "fullAddress": "650002,г. Кемерово, ул. Институтская, 3",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 640652,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idDistrict": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "650002",
+        "fullAddress": "650002,Российская Федерация, Кемеровская область, г. Кемерово, ул. Институтская, 3",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 104310,
+    "idProductOrigin": "643",
+    "fullName": "Проходческий комбайн СМ-130К",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "СМ-130К, маркировка взрывозащиты - I Mb c k b",
+    "identifications": [
+      {
+        "idIdentification": 187269,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          80638
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Срок службы, условия и сроки хранения &#8211; в соответствии с эксплуатационной документацией изготовителя.",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117523,
+            "name": "ТУ 3142-001-16368860-2005",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 107855,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106775,
+      "idPerson": 419749,
+      "idEmployee": null,
+      "firstName": "Михаил",
+      "surname": "Соломатин",
+      "patronimyc": "Викторович"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122667,
+      "idStatus": 14,
+      "beginDate": "2018-01-10T00:00:00",
+      "endDate": "2015-06-15T11:47:43",
+      "comment": "В связи с тем, что Общество с ограниченной ответственностью «МВМ» в данное время не занимается производством проходческих комбайнов СМ-130К (письмо от OOO «МВМ» № 18 от 18.12.2017) ",
+      "idBasis": 2,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:56:18.819",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": "2018-01-10",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 122668,
+      "idStatus": 14,
+      "beginDate": "2015-06-15T11:47:43",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:56:18.819",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 113343,
+      "annex": false,
+      "idRal": 26044,
+      "regNumber": "RA.RU.21ГБ07",
+      "fullName": "Испытательный центр взрывозащищенного и рудничного электрооборудования, изделий и материалов АО  \"Научный центр ВостНИИ по безопасности работ в горной промышленности \"",
+      "beginDate": "2014-12-09",
+      "endDate": "2019-12-09",
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a574f8b4-c30e-442e-bd2a-29b91c9a7aa1",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

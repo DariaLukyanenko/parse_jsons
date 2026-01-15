@@ -1,0 +1,509 @@
+{
+  "idCertificate": 101092,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-CN.АБ15.В.06649",
+  "certRegDate": "2018-02-16",
+  "certEndDate": "2019-02-15",
+  "idBlank": 663755,
+  "blankNumber": "0663755",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 54195,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 479174,
+          "blankNumber": "0479174"
+        }
+      ]
+    },
+    {
+      "idAnnex": 54196,
+      "idType": 3,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 479172,
+          "blankNumber": "0479172"
+        },
+        {
+          "idBlank": 479173,
+          "blankNumber": "0479173"
+        }
+      ]
+    },
+    {
+      "idAnnex": 54197,
+      "idType": 5,
+      "ord": 2,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 479182,
+          "blankNumber": "0479182"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 209009,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью «Авангард Холго»",
+    "shortName": null,
+    "idPerson": 420489,
+    "surname": "Ярыгин",
+    "firstName": "Александр",
+    "patronymic": "Анатольевич",
+    "headPosition": null,
+    "ogrn": "5107746028319",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 252747,
+        "idContactType": 1,
+        "value": "+74956275285"
+      },
+      {
+        "idContact": 252748,
+        "idContactType": 4,
+        "value": "info@holgo.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 641598,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "125195",
+        "fullAddress": "125195, РОССИЯ, Москва Город, Ленинградское шоссе, дом 57, строение 12",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 209010,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "«HOME ELECTRONICS LIMITED»",
+    "shortName": null,
+    "idPerson": 420490,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 641599,
+        "idAddrType": 1,
+        "idCodeOksm": "156",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "КИТАЙ, 801 Luk Yu Building, 24-26 Stanley Street, Central, филиалы согласно приложению бланк №0479182",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 104496,
+    "fullName": "Орган по сертификации \"ЦЕНТРОТЕСТ\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АБ15",
+    "attestatRegDate": "2015-11-18",
+    "attestatEndDate": null,
+    "idRal": 24333,
+    "ogrn": null,
+    "idPerson": 420492,
+    "firstName": "Иван",
+    "surname": "Баринов",
+    "patronymic": "Анатольевич",
+    "contacts": [
+      {
+        "idContact": 194227,
+        "idContactType": 1,
+        "value": "+79687909741"
+      },
+      {
+        "idContact": 194228,
+        "idContactType": 4,
+        "value": "0882839@mail.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 641600,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "105064",
+        "fullAddress": "105064, РОССИЯ, город Москва, ул. Басманная Стар., 9, 2, цокольный этаж",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 641601,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "8",
+        "postCode": "121552",
+        "fullAddress": "121552, РОССИЯ, город Москва, ул. Ярцевская, 34, 1, 8",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 104494,
+    "idProductOrigin": "156",
+    "fullName": "Приборы электрические бытовые: водонагреватели торговых марок «TIMBERK», «HYUNDAI», «VERLONI»",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "(модели согласно приложениям бланки №№0479172, 0479173).",
+    "identifications": [
+      {
+        "idIdentification": 187596,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74242,
+          74243
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117722,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 108044,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "раздел 5 ГОСТ 30804.3.3-2013",
+            "name": "\"Совместимость технических средств электромагнитная. Ограничение изменений напряжения, колебаний напряжения и фликера в низковольтных системах электроснабжения общего назначения. Технические средства с потребляемым током не более 16 А (в одной фазе), подключаемые к электрической сети при несоблюдении определенных условий подключения. Нормы и методы испытаний\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 108043,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "разделы 5 и 7 ГОСТ 30804.3.2-2013",
+            "name": "\"Совместимость технических средств электромагнитная. Эмиссия гармонических составляющих тока техническими средствами с потребляемым током не более 16 А (в одной фазе). Нормы и методы испытаний\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 108042,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "разделы 4 и 5 подраздел 7.2 ГОСТ 30805.14.2-2013",
+            "name": "\"Совместимость технических средств электромагнитная. Бытовые приборы, электрические инструменты и аналогичные устройства. Устойчивость к электромагнитным помехам. Требования и методы испытаний\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 108041,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "раздел 4 ГОСТ 30805.14.1-2013",
+            "name": "\"Совместимость технических средств электромагнитная. Бытовые приборы, электрические инструменты и аналогичные устройства. Радиопомехи индустриальные. Нормы и методы измерений\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 108040,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60335-2-21-2014",
+            "name": "\"Бытовые и аналогичные электрические приборы. Безопасность. Часть 2-21. Частные требования к аккумуляционным водонагревателям\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 108039,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60335-1-2015",
+            "name": "\"Бытовые и аналогичные электрические приборы. Безопасность.Часть 1. Общие требования\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      },
+      {
+        "idIdentification": 187597,
+        "annex": true,
+        "name": "водонагреватели торговых марок «TIMBERK», «HYUNDAI», «VERLONI», модели: SWH FSL1 30 VE, SWH FSL1 50 VE, SWH FSL1 80 VE, SWH FSL1 100 VE, SWH FSL2 30 HE, SWH FSL2 50 HE, SWH FSL2 80 HE, SWH FSL2 100 HE, SWH FSL5 30 VH, SWH FSL5 50 VH, SWH FSL5 80 VH, SWH FSL5 100 VH, SWH FSL5 30 V, SWH FSL5 50 V, SWH FSL5 80 V, SWH FSL5 100 V, SWH FSL3 30 VH, SWH FSL3 50 VH, SWH FSL3 80 VH, SWH FSL3 100 VH, SWH FSL1 30 V, SWH FSL1 50 V, SWH FSL1 80 V, SWH FSL1 100 V, SWH FSP1 30 V, SWH FSP1 50 V, SWH FSP1 80 V, SWH FSP1 100 V, SWH FSP1 30 VE, SWH FSP1 50 VE, SWH FSP1 80 VE, SWH FSP1 100 VE, SWH FS1 30 VE, SWH FS1 50 VE, SWH FS1 80 VE, SWH FS1 100 VE, SWH FS3 30 ME, SWH FS3 50 ME, SWH FS3 80 ME, SWH FS3 100 ME, SWH FSE1 30 V, SWH FSE1 50 V, SWH FSE1 80 V, SWH FSE1 100 V, SWH FSE 1 30 V, SWH FSE 1 50 V, SWH FSE 1 80 V, SWH FSE 1 100 V, SWH FSL2 30 H, SWH FSL2 50 H, SWH FSL2 80 H, SWH FSL2 100 H, SWH FEL1 30 V, SWH FEL1 50 V, SWH FEL1 80 V, SWH FEL1 100 V, SWH FED1 30 V, SWH FED1 50 V, SWH FED1 80 V, SWH FED1 100 V, SWH FSQ1 30 V, SWH FSQ1 50 V, SWH FSQ1 80 V, SWH FSQ1 100 V, SWH FSM1 30 V, SWH FSM1 50 V, SWH FSM1 80 V, SWH FSM1 100 V, SWH FSM2 30 H, SWH FSM2 50 H, SWH FSM2 80 H, SWH FSM2 100 H, SWH FSM3 50 VE, SWH FSM3 80 VE, SWH FSM3 30 VH, SWH FSM3 50 VH, SWH FSM3 80 VH, SWH FSM3 100 VH, SWH FSM3 30 V, SWH FSM3 50 V, SWH FSM3 80 V, SWH FSM3 100 V, SWH FSM4 50 HE, SWH FSM4 80 HE, SWH FSM4 30 H, SWH FSM4 50 H, SWH FSM4 80 H, SWH FSM4 100 H, SWH FSM5 30 VE, SWH FSM5 50 VE, SWH FSM5 80 VE, SWH FSM5 100 VE, SWH FSM5 30 VH, SWH FSM5 50 VH, SWH FSM5 80 VH, SWH FSM5 100 VH, SWH FSM5 30 V, SWH FSM5 50 V, SWH FSM5 80 V, SWH FSM5 100 V, SWH FSM6 30 H, SWH FSM6 50 H, SWH FSM6 80 H, SWH FSM6 100 H, SWH FSM7 30 VIR, SWH FSM7 50 VIR, SWH FSM7 80 VIR, SWH FSM7 100 VIR, SWH FSM7 30 VE, SWH FSM7 50 VE, SWH FSM7 80 VE, SWH FSM7 100 VE, SWH FSM7 30 VH, SWH FSM7 50 VH, SWH FSM7 80 VH, SWH FSM7 100 VH, SWH FSM7 50 V, SWH FSM7 80 V, SWH RED1 30 V, SWH RED1 50 V, SWH RED1 80 V, SWH RED1 100 V, SWH RE9 30 V, SWH RE9 50 V, SWH RE9 80 V, SWH RE9 100 V, SWH RE4 30 VH, SWH RE4 50 VH, SWH RE4 80 VH, SWH RE4 100 VH, SWH RE11 30 SL, SWH RE11 50 SL, SWH RE11 80 SL, SWH RE11 100 SL, SWH RE11 30 V, SWH RE11 50 V, SWH RE11 80 V, SWH RE11 100 V, SWH RE3 30 V SL, SWH RE3 50 V SL, SWH RE3 80 V SL, SWH RED9 50 V, SWH RED9 80 V, SWH RED9 100 V, SWH RED3 50 V, SWH RED3 80 V, SWH RED3 100 V, SWH RE15 30 V, SWH RE15 50 V, SWH RE15 80 V, SWH RE15 100 V, SWH RE17 30 V, SWH RE17 50 V, SWH RE17 80 V, SWH RE17 100 V, SWH RS1 30 VH, SWH RS1 50 VH, SWH RS1 80 VH, SWH RS1 100 VH, SWH RS1 30 V, SWH RS1 50 V, SWH RS1 80 V, SWH RS1 100 V, SWH RS2 30 H, SWH RS2 50 H, SWH RS2 80 H, SWH RS7 30 V, SWH RS7 40 V, SWH RS7 50 V, H-SLS1-30V-UI705, H-SLS1-40V-UI706, H-SLS1-50V-UI707, SWH RE5 120 V, SWH RE5 150 V, SWH RS5 200 V, SWH RS5 300 V, SWH RS5 500 V, SWH RE7 225 V, SWH RE7 300 V, SWH RE7 450 V, SWH RE1 50 DG, SWH RE1 30 DG, SWH SE1 10 VO, SWH SE1 10 VU, SWH SE1 15 VO, SWH SE1 15 VU, SWH SE1 30 VO, SWH SE1 30 VU, SWH ME2 10 VO, SWH ME2 10 VU, SWH ME2 10 V, SWH MS2 10 HO, SWH MS2 10 H, SWH MS2 10 HU, SWH ME1 10 VO, SWH ME1 10 VU, SWH ME1 10 V, H-SWS7-30V-UI410, H-SWS7-50V-UI411, H-SWS7-80V-UI412, H-SWS7-100V-UI413, H-SWS15-30V-UI694, H-SWS15-50V-UI695, H-SWS15-80V-UI696, H-SWS15-100V-UI697, H-SWS17-30V-UI698, H-SWS17-50V-UI699, H-SWS17-80V-UI700, H-SWS17-100V-UI701, H-SWS11-30V-UI705, H-SWS11-50V-UI706, H-SWS11-80V-UI707, H-SWS11-100V-UI708, H-SWE3-30V-UI301, H-SWE3-50V-UI302, H-SWE3-80V-UI303, H-SWE3-100V-UI304, H-SWS1-30V-UI069, H-SWS1-50V-UI070, H-SWS1-80V-UI071, H-SWS1-100V-UI072, H-SWS1-40V-UI706, H-SWS1-50V-UI707, H-SWS1-60V-UI709, H-SWS1-80V-UI710, H-SWS14-30V-UI554, H-SWS14-50V-UI555, H-SWS14-80V-UI556, H-SWS14-100V-UI557, H-SWE9-30V-UI701, H-SWE9-50V-UI702, H-SWE9-80V-UI703, H-SWE9-100V-UI704, H-DRS-30V-UI309, H-DRS-50V-UI310, H-DRS-80V-UI311, H-DRS-100V-UI312, H-SWE1-30V-UI065, H-SWE1-50V-UI066, H-SWE1-80V-UI067, H-SWE1-100V-UI068, H-SWE7-30V-UI711, H-SWE7-50V-UI712, H-SWE7-80V-UI713, H-SWE7-",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74242,
+          74243
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106965,
+      "idPerson": 420491,
+      "idEmployee": null,
+      "firstName": "Александр",
+      "surname": "Ляхов",
+      "patronimyc": "Анатольевич"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122875,
+      "idStatus": 6,
+      "beginDate": "2018-02-16T21:15:07",
+      "endDate": "2019-02-16T01:04:47.291",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T15:01:48.695",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 3470000,
+      "idStatus": 1,
+      "beginDate": "2019-02-16T01:04:47.291",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2019-02-16T01:04:47.439",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 113529,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a73ca3dd-c144-4434-a9ed-c5948d4437b9",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

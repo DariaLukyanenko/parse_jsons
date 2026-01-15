@@ -1,0 +1,775 @@
+{
+  "idCertificate": 1001395,
+  "idTechnicalReglaments": [],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-DE.АГ17.В.19649",
+  "certRegDate": "2012-04-13",
+  "certEndDate": "2015-04-12",
+  "idBlank": 1120286,
+  "blankNumber": "1120286",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 243480,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 286716,
+          "blankNumber": "0286716"
+        },
+        {
+          "idBlank": 286715,
+          "blankNumber": "0286715"
+        },
+        {
+          "idBlank": 286717,
+          "blankNumber": "0286717"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2009534,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": null,
+    "fullName": "\"Zoeller-Kipper GmbH\";Hans -Zöller-Straße 50-68, D-55130 Mainz-Laubenheim, Германия",
+    "shortName": null,
+    "idPerson": 4009912,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4752310,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2009535,
+    "idEgrul": null,
+    "idLegalSubjectType": null,
+    "fullName": "\"Zoeller-Kipper GmbH\";Hans -Zöller-Straße 50-68, D-55130 Mainz-Laubenheim, Германия",
+    "shortName": null,
+    "idPerson": 4009913,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4752311,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 637786,
+        "annex": true,
+        "fullName": "\"MESSER POLSKA Spólka z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637787,
+        "annex": true,
+        "fullName": "\"Metalzbyt Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637788,
+        "annex": true,
+        "fullName": "\"Modenflex Hydraulics S.r.l.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637789,
+        "annex": true,
+        "fullName": "\"Moss Plastic Polska Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637790,
+        "annex": true,
+        "fullName": "\"MP Filtri GMBH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637791,
+        "annex": true,
+        "fullName": "\"Murrelektronik Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637792,
+        "annex": true,
+        "fullName": "\"OKTAN Brzeski, Grzenkowicz\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637793,
+        "annex": true,
+        "fullName": "\"P.H.U. MERLIN\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637794,
+        "annex": true,
+        "fullName": "\"P.P.H.U. August\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637795,
+        "annex": true,
+        "fullName": "\"Parker Hannifin Sales\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637796,
+        "annex": true,
+        "fullName": "\"Platinum Oil Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637797,
+        "annex": true,
+        "fullName": "\"PNEUMATECHNIK F.H.U.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637798,
+        "annex": true,
+        "fullName": "\"PROTEL\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637799,
+        "annex": true,
+        "fullName": "\"PU-H INTERCOMPACT\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637800,
+        "annex": true,
+        "fullName": "\"RAMCO Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637801,
+        "annex": true,
+        "fullName": "\"Ratpol Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637802,
+        "annex": true,
+        "fullName": "\"RYWAL-RHC\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637803,
+        "annex": true,
+        "fullName": "\"SEW-EURODRIVE POLSKA Sp. z o.o\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637804,
+        "annex": true,
+        "fullName": "\"SKK Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637805,
+        "annex": true,
+        "fullName": "\"SKRAW-MET-I S.C.F\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637806,
+        "annex": true,
+        "fullName": "\"Slusarstwo Usіug.-Produkcyjne\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637807,
+        "annex": true,
+        "fullName": "\"STAUFF Polska Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637808,
+        "annex": true,
+        "fullName": "\"straschu Elektro-Dystrybucja\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637809,
+        "annex": true,
+        "fullName": "\"SUER Polska Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637810,
+        "annex": true,
+        "fullName": "\"Thyssen Krupp Energostal S.A\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637811,
+        "annex": true,
+        "fullName": "\"Tubes International\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637812,
+        "annex": true,
+        "fullName": "\"AL-KAZ Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637813,
+        "annex": true,
+        "fullName": "\"Asbol\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637814,
+        "annex": true,
+        "fullName": "\"BALTYK-GAZ SP. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637815,
+        "annex": true,
+        "fullName": "\"BIBUS MENOS Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637816,
+        "annex": true,
+        "fullName": "\"BOSCH CENTRUM AGARES\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637817,
+        "annex": true,
+        "fullName": "\"Bosch Centrum Gdynia\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637818,
+        "annex": true,
+        "fullName": "\"BOWIM S.A.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637819,
+        "annex": true,
+        "fullName": "\"Brigade Electronics Plc\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637820,
+        "annex": true,
+        "fullName": "\"Cardan Polska Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637821,
+        "annex": true,
+        "fullName": "\"DAR-POL-STAL Sp.J.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637822,
+        "annex": true,
+        "fullName": "\"EFA GmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637823,
+        "annex": true,
+        "fullName": "\"ELESA GANTER Polska Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637824,
+        "annex": true,
+        "fullName": "\"GCB Centrostal-Bydgoszcz SA\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637825,
+        "annex": true,
+        "fullName": "\"Gerdins Cable Systems\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637826,
+        "annex": true,
+        "fullName": "\"GKN Service Polska Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637827,
+        "annex": true,
+        "fullName": "\"GROENEVELD Polska  Sp z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637828,
+        "annex": true,
+        "fullName": "\"GS-HYDRO Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637829,
+        "annex": true,
+        "fullName": "\"GUMA PRODUKT\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637830,
+        "annex": true,
+        "fullName": "\"HANSA-FLEX Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637831,
+        "annex": true,
+        "fullName": "\"Hella Polska Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637832,
+        "annex": true,
+        "fullName": "\"Hurtownia Lozysk TED\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637833,
+        "annex": true,
+        "fullName": "\"HYDAC Splka z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637834,
+        "annex": true,
+        "fullName": "\"IFM ELECTRONICS Sp. z.o o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637835,
+        "annex": true,
+        "fullName": "\"Krzysztof Fabjanowicz\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637836,
+        "annex": true,
+        "fullName": "\"MAR-TET Sp. j.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637837,
+        "annex": true,
+        "fullName": "\"VISTALEX S.A.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637838,
+        "annex": true,
+        "fullName": "\"VOITH Turbo Sp. z o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637839,
+        "annex": true,
+        "fullName": "\"WIM Wolborscy\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637840,
+        "annex": true,
+        "fullName": "\"Wolters Kluwer Polska\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637841,
+        "annex": true,
+        "fullName": "\"WURTH-Polska Sp. z.o.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637842,
+        "annex": true,
+        "fullName": "\"Zaklad Mechaniki Maszyn\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637843,
+        "annex": true,
+        "fullName": "\"Zoeller Systems s.r.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 637844,
+        "annex": true,
+        "fullName": "\"Zoeller-Kipper GmbH\"",
+        "shortName": null,
+        "addresses": []
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1004805,
+    "fullName": "ОРГАН ПО СЕРТИФИКАЦИИ ПРОДУКЦИИ ООО \"ЦЕНТР СТАНДАРТИЗАЦИИ И ПОДТВЕРЖДЕНИЯ СООТВЕТСТВИЯ\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ17",
+    "attestatRegDate": null,
+    "attestatEndDate": null,
+    "idRal": 6245,
+    "ogrn": "1107746914934",
+    "idPerson": 4009915,
+    "firstName": "Ю.",
+    "surname": "Когут",
+    "patronymic": "Ю.",
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4752312,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117420",
+        "fullAddress": "117420, г. Москва, ул. Профсоюзная, д. 57, офис 408, тел. (499) 678-20-79, E-mail info@scccllc.ru",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1004810,
+    "idProductOrigin": "276",
+    "fullName": "Запасные части для транспортных средств: Замок для открытия/закрытия смотрового люка, мод. Цоллер, т.м. \"Zoeller-Kipper GmbH\"",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": null,
+    "identifications": [
+      {
+        "idIdentification": 1522603,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1105054,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1018968,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": "Технический регламент о безопасности колесных транспортных средств (Постановление Правительства РФ от 10.09.2009 N 720);",
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 994970,
+      "idPerson": 4009914,
+      "idEmployee": null,
+      "firstName": null,
+      "surname": "Н.В. Верещака",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1493488,
+      "idStatus": 1,
+      "beginDate": "2012-04-13T00:00:00",
+      "endDate": "2015-04-12T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:28:06.426",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1493489,
+      "idStatus": 1,
+      "beginDate": "2015-04-12T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:28:06.426",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1034340,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "618c6a99-c845-aaa8-4425-79cf002de2d6",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

@@ -1,0 +1,85 @@
+# ==== Python ====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.pyo
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Byte-compiled
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ==== Environment ====
+.env
+.env.*
+*.env
+
+# ==== Logs ====
+logs/
+*.log
+*.log.*
+*.gz
+
+# ==== Cache & temporary ====
+.cache/
+*.sqlite3
+*.db
+tmp/
+temp/
+*.swp
+*.tmp
+
+# ==== Chrome / Selenium ====
+# Папка с профилями Chrome (ты создаёшь временные профили)
+sw_*/
+chrome_profiles/
+chrome-user-data/
+UserData/
+seleniumwire/    # кэш intercepted traffic
+*.har
+
+# Chrome debug files
+DevToolsActivePort
+chromedriver.log
+chromedriver.exe.old
+chromedriver_win32/
+
+# ==== Proxy / Credentials ====
+proxy_ip.txt
+*.pem
+*.crt
+*.key
+*.pfx
+*.pw
+
+# ==== IDE garbage ====
+.vscode/
+.idea/
+*.iml
+
+# ==== OS files ====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==== Docker ====
+*.pid
+*~
+
+
+# ==== Project specific ====
+# Если есть временные файлы parser-а
+output/
+scraped/
+data_cache/

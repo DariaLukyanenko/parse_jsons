@@ -1,0 +1,1171 @@
+{
+  "idCertificate": 1001356,
+  "idTechnicalReglaments": [
+    39
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-RU.АГ03.В.15238",
+  "certRegDate": "2017-05-17",
+  "certEndDate": "2020-05-16",
+  "idBlank": 510407,
+  "blankNumber": "0510407",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 243473,
+      "idType": 3,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 229517,
+          "blankNumber": "0229517"
+        },
+        {
+          "idBlank": 229518,
+          "blankNumber": "0229518"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2009456,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью «Виктория»",
+    "shortName": null,
+    "idPerson": 4009756,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1147326002548",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1006865,
+        "idContactType": 1,
+        "value": "+78422754511"
+      },
+      {
+        "idContact": 1006866,
+        "idContactType": 4,
+        "value": "info@victoria-kids.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4752115,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "fee76045-fe22-43a4-ad58-ad99e903bd58",
+        "idDistrict": "fee76045-fe22-43a4-ad58-ad99e903bd58",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "432035",
+        "fullAddress": "432035, РОССИЯ, Ульяновская Область, город Ульяновск, Проспект Гая, дом 71",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2009457,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью «Виктория»",
+    "shortName": null,
+    "idPerson": 4009757,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4752116,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "fee76045-fe22-43a4-ad58-ad99e903bd58",
+        "idDistrict": "fee76045-fe22-43a4-ad58-ad99e903bd58",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "432035",
+        "fullAddress": "432035, РОССИЯ, Ульяновская Область, город Ульяновск, Проспект Гая, дом 71",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1004766,
+    "fullName": "Орган по сертификации продукции Общества с ограниченной ответственностью  \"Альсена \"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ03",
+    "attestatRegDate": "2016-07-13",
+    "attestatEndDate": null,
+    "idRal": 27579,
+    "ogrn": null,
+    "idPerson": 4009759,
+    "firstName": "Сергей",
+    "surname": "Кравчук",
+    "patronymic": "Александрович",
+    "contacts": [
+      {
+        "idContact": 643696,
+        "idContactType": 4,
+        "value": "alsena@inbox.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4752117,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "129626",
+        "fullAddress": "129626, Москва, 3-я Мытищинская ул., 3, стр. 1, оф. 405",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4752118,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "58",
+        "postCode": "115230",
+        "fullAddress": "115230, РОССИЯ, город Москва, проезд Хлебозаводский, д. 7, стр. 9, оф. 58",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1004771,
+    "idProductOrigin": "643",
+    "fullName": "Изделия трикотажные второго слоя для детей дошкольного, школьного возраста и подростков, из хлопчатобумажной пряжи, из смеси хлопчатобумажной и синтетической пряжи (нитей); из синтетических нитей, предназначенные для эпизодического использования, в комплектах и отдельными предметами,",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "с маркировкой «Виктория»: ассортимент продукции согласно приложениям, бланки №№ 0229517-0229518",
+    "identifications": [
+      {
+        "idIdentification": 1522525,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68547,
+          68474,
+          68475,
+          68481,
+          68506,
+          68507,
+          68518,
+          68519,
+          68524,
+          68525,
+          68531,
+          68532,
+          68539,
+          68504,
+          68472,
+          68487,
+          68488,
+          68490,
+          68501,
+          68541,
+          68609,
+          68614
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Условия хранения &#8211; продукция должна храниться в сухом, проветриваемом помещении и должна быть защищена от прямого попадания солнечных лучей и атмосферных воздействий и загрязнений. Срок хранения, срок службы (годности) не установлен",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104987,
+            "name": "Продукция изготовлена в соответствии с ГОСТ 31410-2009 «Изделия трикотажные верхние для мужчин и мальчиков. Общие технические условия»; ГОСТ 31409-2009 «Изделия трикотажные верхние для женщин и девочек. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522526,
+        "annex": true,
+        "name": "Изделия трикотажные второго слоя для детей дошкольного, школьного возраста и подростков, в комплектах и отдельными предметами, с маркировкой «Виктория»:",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522527,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68472
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104988,
+            "name": "ГОСТ 31410-2009 «Изделия трикотажные верхние для мужчин и мальчиков. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522528,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68474
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104989,
+            "name": "ГОСТ 31410-2009 «Изделия трикотажные верхние для мужчин и мальчиков. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522529,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68475
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104990,
+            "name": "ГОСТ 31410-2009 «Изделия трикотажные верхние для мужчин и мальчиков. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522530,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68481
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104991,
+            "name": "ГОСТ 31410-2009 «Изделия трикотажные верхние для мужчин и мальчиков. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522531,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68487
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104992,
+            "name": "ГОСТ 31410-2009 «Изделия трикотажные верхние для мужчин и мальчиков. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522532,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68488
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104993,
+            "name": "ГОСТ 31410-2009 «Изделия трикотажные верхние для мужчин и мальчиков. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522533,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68490
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104994,
+            "name": "ГОСТ 31410-2009 «Изделия трикотажные верхние для мужчин и мальчиков. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522534,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68501
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104995,
+            "name": "ГОСТ 31409-2009 «Изделия трикотажные верхние для женщин и девочек. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522535,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68504
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104996,
+            "name": "ГОСТ 31409-2009 «Изделия трикотажные верхние для женщин и девочек. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522536,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68506
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104997,
+            "name": "ГОСТ 31409-2009 «Изделия трикотажные верхние для женщин и девочек. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522537,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68507
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104998,
+            "name": "ГОСТ 31409-2009 «Изделия трикотажные верхние для женщин и девочек. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522538,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68518
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104999,
+            "name": "ГОСТ 31409-2009 «Изделия трикотажные верхние для женщин и девочек. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522539,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68519
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1105000,
+            "name": "ГОСТ 31409-2009 «Изделия трикотажные верхние для женщин и девочек. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522540,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68524
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1105001,
+            "name": "ГОСТ 31409-2009 «Изделия трикотажные верхние для женщин и девочек. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522541,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68525
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1105002,
+            "name": "ГОСТ 31409-2009 «Изделия трикотажные верхние для женщин и девочек. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522542,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68531
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1105003,
+            "name": "ГОСТ 31409-2009 «Изделия трикотажные верхние для женщин и девочек. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522543,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68532
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1105004,
+            "name": "ГОСТ 31409-2009 «Изделия трикотажные верхние для женщин и девочек. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522544,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68539
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1105005,
+            "name": "ГОСТ 31410-2009 «Изделия трикотажные верхние для мужчин и мальчиков. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522545,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68541
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1105006,
+            "name": "ГОСТ 31410-2009 «Изделия трикотажные верхние для мужчин и мальчиков. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522546,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68547
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1105007,
+            "name": "ГОСТ 31409-2009 «Изделия трикотажные верхние для женщин и девочек. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522547,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68609
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1105008,
+            "name": "ГОСТ 31410-2009 «Изделия трикотажные верхние для мужчин и мальчиков. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522548,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68609
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1105009,
+            "name": "ГОСТ 31409-2009 «Изделия трикотажные верхние для женщин и девочек. Общие технические условия»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522549,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68614
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1105010,
+            "name": "ГОСТ 31410-2009 «Изделия трикотажные верхние для мужчин и мальчиков. Общие технические условия»\nГОСТ 31409-2009 «Изделия трикотажные верхние для женщин и девочек. Общие технические условия».",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 994931,
+      "idPerson": 4009758,
+      "idEmployee": null,
+      "firstName": "Антон",
+      "surname": "Зязин",
+      "patronimyc": "Михайлович"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1493433,
+      "idStatus": 6,
+      "beginDate": "2017-05-17T18:48:54",
+      "endDate": "2020-05-17T01:43:28.699",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:28:06.426",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 3859340,
+      "idStatus": 1,
+      "beginDate": "2020-05-17T01:43:28.699",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2020-05-17T01:43:29.047",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1034301,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "61723327-c8e0-4cb4-b303-9dab7eb22a29",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

@@ -1,0 +1,442 @@
+{
+  "idCertificate": 1008463,
+  "idTechnicalReglaments": [
+    11,
+    16,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-TR.АЕ44.В.00364",
+  "certRegDate": "2013-06-27",
+  "certEndDate": "2018-06-26",
+  "idBlank": 1989,
+  "blankNumber": "0001989",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 489918,
+      "idType": 3,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 40163,
+          "blankNumber": "0040163"
+        },
+        {
+          "idBlank": 40164,
+          "blankNumber": "0040164"
+        },
+        {
+          "idBlank": 40165,
+          "blankNumber": "0040165"
+        },
+        {
+          "idBlank": 40166,
+          "blankNumber": "0040166"
+        },
+        {
+          "idBlank": 40167,
+          "blankNumber": "0040167"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 4046662,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": 1,
+    "fullName": "Уполномоченное изготовителем лицо: ООО \"Вайлант Груп Рус\"",
+    "shortName": null,
+    "idPerson": 8076072,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1067746833351",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 2087266,
+        "idContactType": 1,
+        "value": "+74957884544"
+      },
+      {
+        "idContact": 2087267,
+        "idContactType": 3,
+        "value": "+74957884565"
+      },
+      {
+        "idContact": 2087268,
+        "idContactType": 4,
+        "value": "info@vaillant.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9229547,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Россия, 123423, г.Москва, ул.Народного Ополчения, д.34, стр.1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 4046663,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "\"TÜRK DEMİR DÖKÜM FABRİKALARI A.Ş.\"",
+    "shortName": null,
+    "idPerson": 8076073,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 2087269,
+        "idContactType": 1,
+        "value": "+902283145500"
+      },
+      {
+        "idContact": 2087270,
+        "idContactType": 3,
+        "value": "+902283145520"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9229548,
+        "idAddrType": 1,
+        "idCodeOksm": "792",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Bahçelievler Mah. Bosna Bulvarı No: 148-34688 Çengelköy – İSTANBUL - Турция (Производство: TÜRK DEMİR DÖKÜM FABRİKALARI A.Ş. 4 Eylül Mah. İsmet İnönü Cad. No: 263, 11300 Bozüyük-Bilecik- Турция)",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 2067744,
+    "fullName": "Орган по сертификации промышленной продукции АНО \"Научно-технический центр стандартизации метрологии подтверждения соответствия (сертификации) \"Тест-С.-Петербург\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АЕ44",
+    "attestatRegDate": "2013-04-08",
+    "attestatEndDate": null,
+    "idRal": 24911,
+    "ogrn": null,
+    "idPerson": 8076075,
+    "firstName": "С.",
+    "surname": "Богданова",
+    "patronymic": "Н.",
+    "contacts": [
+      {
+        "idContact": 1216267,
+        "idContactType": 4,
+        "value": "bogdanova@rustest.spb.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9229549,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "190103",
+        "fullAddress": "190103,Санкт-Петербург, ул. Курляндская, 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 9229550,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "190103",
+        "fullAddress": "190103,Российская Федерация, г. Санкт-Петербург, ул. Курляндская, д. 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 2023699,
+    "idProductOrigin": "792",
+    "fullName": "Котлы газовые отопительные водогрейные до 100 кВт, торговой марки \"PROTHERM\" ",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "модели «РЫСЬ»: LYNX HK 24, LYNX HK 28 (обозначение «РЫСЬ» может указываться или нет) в комплектации в соответствии с действующим Каталогом запасных частей и принадлежностями ",
+    "identifications": [
+      {
+        "idIdentification": 2937679,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Руководство по эксплуатации, руководство по монтажу и техническому обслуживанию, договор об уполномоченном лице &#8470; 01/2013 от 17.06.2013, доверенность &#8470;1/2013 от 24.06.2013г. Представительство в Республике Беларусь: \"Vaillant GmbH\", Адрес: 220108, Республика Беларусь, г.Минск, улица Казинца, дом 92, корпус 1, помещение 3 (офис 16). Место нанесения единого знака обращения продукции на рынке государств - членов Таможенного Союза: на изделии, упаковке и в эксплуатационной документации ",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 2200939,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 2937680,
+        "annex": true,
+        "name": "Котлы газовые отопительные водогрейные до 100 кВт, торговой марки \"PROTHERM\" , модели «РЫСЬ»: LYNX HK 24, LYNX HK 28 (обозначение «РЫСЬ» может указываться или нет) в комплектации в соответствии с действующим Каталогом запасных частей и принадлежностями: АВТОМАТИЧЕСКИЙ ВОЗДУХООТВОДЧИКАДАПТЕР (ПЕРЕХОДНИК) АКВОСЕНСОР - РАСХОДОМЕР ЭЛЕКТРОННЫЙ ДЛЯ ИЗМЕРЕНИЯ ПОТОКА И РАСХОДА ВОДЫ АНОДЫ ЗАЩИТНЫЙ ИЗ МАГНИЯ АНОДЫ ЗАЩИТНЫЙ ИЗ ТИТАНА АРМАТУРА СМЕСИТЕЛЬНАЯАРМАТУРА ТРУБОПРОВОДНАЯ; БЛОК ИЗ КРАНОВ ШАРОВЫХ И КЛАПАНОВ ОБРАТНЫХГРУППА ПОДКЛЮЧЕНИЯ НАСТЕННОГО ОТОПИТЕЛЬНОГО КОТЛА В СБОРЕ-СТАЛЬНОЙ КРОНШТЕЙН СО СМОНТИРОВАННЫМИ ЛАТУННЫМИ ШТУЦЕРАМИ ДЛЯ ПОДКЛЮЮЧЕНИЯ ТРУБОПРОВОДОВ И ЗАПОРНЫМИ ВЕНТИЛЯМИ, ЗАПОРНЫЙ ВЕНТИЛЬ НА КАЖДОЙ ПОДВОДКЕБАКИ ИЗ НЕРЖАВЕЮЩЕЙ СТАЛИ РАЗЛИЧНОГО ОБЪЕМА БЛОКИ И ПАНЕЛИ УПРАВЛЕНИЯ, КОММУТАЦИОННЫЕ МОДУЛИ, КОНТРОЛЛЕРЫБЛОКИ ИЗ НЕРЖАВЕЮЩЕЙ СТАЛИ, БЛОКИ ИЗ МЕДИ, СТЕНКИ КОТЛА ИЗ СТАЛИБЛОКИ УПРАВЛЕНИЯ ЭЛЕКТРОННЫЕ БОЙЛЕР ДЛЯ ГОРЯЧЕГО ВОДОСНАБЖЕНИЯБОЛТЫ МЕТАЛЛИЧЕСКИЕБУФЕРНЫЙ НАКОПИТЕЛЬВЕНТИЛЯТОРЫ ВЕТИЛИ, РЕДУКЦИОННЫЕ И ТЕРМОРЕГУЛИРУЮЩИЕ КЛАПАНЫВЕТРОЗАЩИТНЫЙ КОЛПАКВИЛКИ (ШТЕПСЕЛЬ)ВИНТ МЕТАЛЛИЧЕСКИЙ ВИНТЫ И БОЛТЫ, С ГОЛОВКАМИВИНТЫ, БОЛТЫ И ГАЙКИ ВИНТЫ, БОЛТЫ, ГАЙКИ, ШПИЛЬКИ, ШТИФТЫ И ШТАНГИ ВОЗДУХООТВОДЧИК НАСОСАВОЗДУХОЗАБОРНИКИВТУЛКИ ИЗ МЕДИ И МЕДНЫХ СПЛАВОВ ВЫКЛЮЧАТЕЛИ КОНТАКТНЫЕ И ПЕРЕКЛЮЧАТЕЛИ ГАЗОАНАЛИЗАТОРЫГАЗОВЫЙ КЛАПАНГАЗОВЫЙ КОЛЛЕКТОРГАЙКИ ИЗ ЧЕРНЫХ МЕТАЛЛОВ ГЕНЕРАТОРЫ, ЭЛЕКТРОГЕНЕРАТОРЫ ГИБКАЯ ТРУБКА В МЕТАЛЛИЧЕСКОЙ ОПЛЕТКЕ, С НАКИДНОЙ ГАЙКОЙ ЛАТУННОЙ ХРОМИРОВАННОЙГИБКАЯ ТРУБКА ИЗ ПОЛИПРОПИЛЕНА ГИБКИЕ ТРУБКИ ИЗ ПЛАСТИКА ГИДРАВЛИЧЕСКАЯ МЕДНАЯ ТРУБКАГИДРОБЛОК В СБОРЕ С ТРЕХХОДОВЫМ КЛАПАНОМ И ЭЛЕКТРОПРИВОДОМГОРЕЛКА ТОПОЧНАЯГОРЕЛКИ И ЧАСТИГРУППА БЕЗОПАСНОСТИ БЕЗ РЕДУКТОРАГРУППА БЕЗОПАСНОСТИ С РЕДУКТОРОМ ГРУППА ПОДКЛЮЧЕНИЯ НАСТЕННОГО ОТОПИТЕЛЬНОГО КОТЛА В СБОРЕ-СТАЛЬНОЙ КРОНШТЕЙН СО СМОНТИРОВАННЫМИ ЛАТУННЫМИ ШТУЦЕРАМИ ДЛЯ ПОДКЛЮЮЧЕНИЯ ТРУБОПРОВОДОВ И ЗАПОРНЫМИ ВЕНТИЛЯМИ, ЗАПОРНЫЙ ВЕНТИЛЬ НА КАЖДОЙ ПОДВОДКЕГРУППА ПОДМЕШИВАНИЯ В ОБРАТНУЮ ЛИНИЮ КОТЛАДАТЧИКИ ДАВЛЕНИЯ ДАТЧИКИ РАСХОДОМЕРАДАТЧИКИ ТЕМПЕРАТУРЫ ДАТЧИКИ ТЯГИ ОТХОДЯЩИХ ГАЗОВ ДАТЧИКИ ЧИСЛА ОБОРОТОВ ДВЕРЦЫ ТЕХНОЛОГИЧЕСКИЕ ДЫМОХОДАДЕКОРАТИВНАЯ МАНЖЕТАДЕКОРАТИВНЫЙ ПЛАСТИКОВЫЙ КОРОБ ВНЕШНЕЙ ТРУБЫ КОТЛА ЦЕНТРАЛЬНОГО ОТОПЛЕНИЯ.ДЕРЖАТЕЛИ (КРЕПЕЖИ) ДЕФЛЕКТОР, СТАЛЬНОЙ ЛИСТ С ПРОШТАМПОВАННЫМИ ПРОРЕЗЯМИДОПОЛНИТЕЛЬНЫЙ ЭЛЕКТРИЧЕСКИЙ НАГРЕВАТЕЛЬДРОССЕЛЬНАЯ ШАЙБА ДЫМОХОДАЖГУТ ПРОВОДОВ ИЗОЛИРОВАННЫХ ЗАДАТЧИК ТЕМПЕРАТУРЫ ЛАТУННЫЙИЗДЕЛИЕ ИЗ ПЛАСТМАССЫ ИЗДЕЛИЯ КЕРАМИЧЕСКИЕ ИЗДЕЛИЯ С НАРЕЗАННОЙ РЕЗЬБОЙВИНТЫ НАРЕЗНЫЕИЗОГНУТАЯ ЛАТУННАЯ ГИДРАВЛИЧЕСКАЯ ТРУБКА, В КОМПЛЕКТЕ С 2-МЯ УПЛОТНИТЕЛЬНЫМИ КОЛЬЦАМИ ИЗ РЕЗИНЫ ИЗОЛЯЦИОННЫЙ ШНУРИЗОЛЯЦИЯ ТЕПЛООБМЕННИКАИЗОЛЯТОРЫ ДЛЯ КРЫШИ ИНСТРУМЕНТЫ РУЧНЫЕ ИСТРУКЦИИ, БРОШЮРЫ КАБЕЛЬ ЭЛЕКТРОДОВ РОЗЖИГА МЕДНЫЙ КАБЕЛЬНЫЙ ЖГУТ КАТУШКИ ИНДУКТИВНОСТИКЕРАМИЧЕСКИЕ СТЕРЖНИ КЛАПАН ПЕРЕПУСКНОЙ ЛАТУННЫЙ С РЕЗЬБОЙ С МОНТАЖНЫМ КОМПЛЕКТОМКЛАПАН СТАЛЬНОЙ РЕДУКЦИОННЫЙКЛАПАНЫ ОБРАТНЫЕ КЛАПАНЫ ПРЕДОХРАНИТЕЛЬНЫЕ И РАЗГРУЗОЧНЫЕ КЛАПАНЫ РЕДУКЦИОННЫЕ, КОМПЛЕКТЫ ПЕРЕНАЛАДКИ НА ПРОПАН/БУТАН КЛАПАНЫ РЕДУКЦИОННЫЕ, РЕГУЛЯТОРЫ РАСХОДА ВОДЫ КЛАПАНЫ ЭЛЕКТРОМАГНИТНЫЕ ЗАПОРНЫЕ КЛЕММНАЯ КОЛОДКА ПЛАСТИКОВАЯКОЛЕНОКОЛЛЕКТОРКОММУТАЦИОННЫЙ МОДУЛЬКОМПЛЕКТ «НОЖКА ОПОРА БОЙЛЕРА»КОМПЛЕКТ БЕЗОПАСНОСТИКОМПЛЕКТ ВЕРТИКАЛЬНОГО ПРОХОДА ЧЕРЕЗ КРЫШУКОМПЛЕКТ ДЛЯ ПОДКЛЮЧЕНИЯ БОЙЛЕРА-МЕДНАЯ ИЗОГНУТАЯ ТРУБКА С ЛАТУННЫМИ НАКИДНЫМИ ГАЙКАМИ, СТАЛЬНОЙ КРОНШТЕЙН СО СМОНТИРОВАННЫМИ ЛАТУННЫМИ ШТУЦЕРАМИ ДЛЯ ПОДКЛЮЧЕНИЯ ТРУБОПРОВОДОВ И ЗАПОРНЫМИ ВЕНТИЛЯМИ, В КОМПЛЕКТЕ С СТАЛЬНОЙ МОНТАЖНОЙ ПЛАНКОЙ И ГИБКИМ ШЛАНГОМ ДЛЯ ПОДКЛЮЧЕНИЯ С НАКИДНЫМИ ГАЙКАМИ, ЗАПОРНЫЙ ВЕНТИЛЬ НА КАЖДОЙ ПОДВОДКЕКОМПЛЕКТ ДООСНАЩЕНИЯ НАСОСОМ ГЕЛИОКОНТУРАКОМПЛЕКТ КРЕПЛЕНИЯ БОКОВОЙ ОБЛИЦОВКИКОМПЛЕКТ ПОДКЛЮЧЕНИЯ БОЙЛЕРАКОМПЛЕКТ СТЕНОК ГАЗОВОГО КОТЛАКОМПЛЕКТЫ ПЕРЕНАЛАДКИ НА ПРОПАН/БУТАН КОНТАКТОР ДЛЯ ПОДКЛЮЧЕНИЯ ЭЛЕКТРИЧЕСКИХ КАБЕЛЕЙКОРОБА ДЛЯ УСТАНОВКИ КОРПУС НАСОСА ЖИДКОСТНОГО ИЗ ПЛАСТИКАКОРПУСА И ЧАСТИ КОРПУСОВ КОРПУСЫ НАСОСОВ КРАНЫ, ВЕНТИЛИ, КЛАПАНЫ КРЕПЕЖ, ЗАЩЕЛКИ, ФИКСАТОРЫ, ЗАЖИМЫ ИЗ ПЛАСТИКАКРЕПЕЖ, ЗАЩЕЛКИ, ФИКСАТОРЫ, ЗАЖИМЫ, ПРОСТАВКИ, НОЖКИ, РУЧКИ КРЕПЛЕН",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 2005048,
+      "idPerson": 8076074,
+      "idEmployee": null,
+      "firstName": "Э",
+      "surname": "Косарев",
+      "patronimyc": "Г"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 3054390,
+      "idStatus": 6,
+      "beginDate": "2013-06-27T00:00:00",
+      "endDate": "2018-06-26T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-09-27T16:29:14.725",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 3054391,
+      "idStatus": 1,
+      "beginDate": "2018-06-26T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-09-27T16:29:14.725",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 2060394,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": "Протоколы испытаний № FKK2013/01/04/159-01; № FAA2013/01/03/159-01 от 25.06.2013 Испытательная лаборатория ФБУ \"Тест- С.-Петербург\", рег. № РОСС RU.0001.21МЕ01, адрес: 190103, С.-Петербург, Курляндская ул., 1. Акт проверки состояния производства от 28.05.2013",
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "32d3a6ba-852b-46e3-afee-5b363969f51a",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

@@ -1,0 +1,620 @@
+{
+  "idCertificate": 1001128,
+  "idTechnicalReglaments": [
+    39
+  ],
+  "idCertScheme": 3,
+  "idObjectCertType": 2,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-DE.АГ03.А.05134",
+  "certRegDate": "2014-06-30",
+  "certEndDate": "2015-06-29",
+  "idBlank": 186255,
+  "blankNumber": "0186255",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 243419,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 88127,
+          "blankNumber": "0088127"
+        }
+      ]
+    },
+    {
+      "idAnnex": 243420,
+      "idType": 3,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 88128,
+          "blankNumber": "0088128"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2009000,
+    "idEgrul": null,
+    "idApplicantType": 3,
+    "idLegalSubjectType": 1,
+    "fullName": "Закрытое акционерное общество «Эксплей»",
+    "shortName": null,
+    "idPerson": 4008843,
+    "surname": "Ващенко",
+    "firstName": "Э.",
+    "patronymic": "Д.",
+    "headPosition": null,
+    "ogrn": "1087746208758",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1006658,
+        "idContactType": 1,
+        "value": "+78005553597"
+      },
+      {
+        "idContact": 1006659,
+        "idContactType": 3,
+        "value": "+78005553597"
+      },
+      {
+        "idContact": 1006660,
+        "idContactType": 4,
+        "value": "info@explay.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4750926,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, Москва Город, Россия, 107140, город Москва, улица Верхняя Красносельская, дом 3 \"А\"",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4750927,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, Москва Город, 117105, город Москва, Варшавское шоссе, дом 1, строение 6",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2009001,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"Tchibo GmbH\"",
+    "shortName": null,
+    "idPerson": 4008844,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4750928,
+        "idAddrType": 1,
+        "idCodeOksm": "276",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ГЕРМАНИЯ, 22297 Hamburg, Uberseering 18, Germany, Германия Производственные филиалы: согласно приложению, бланк № 0088127",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 637458,
+        "annex": true,
+        "fullName": "AKH Knitting and Dyeing Ltd.»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 4750929,
+            "idAddrType": 1,
+            "idCodeOksm": "050",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "БАНГЛАДЕШ, 92 Raj Phulbaria, Tetuljhora, Savar; 1347 Dhaka, Bangladesh, Бангладеш",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 637459,
+        "annex": true,
+        "fullName": "«Ayka Addis Textile & Investment Group Plc.»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 4750930,
+            "idAddrType": 1,
+            "idCodeOksm": "231",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "ЭФИОПИЯ, Bole Kefle Ketema Kebele 03 Bole Road; 8744 Addis Ababa, Ethiopia, Эфиопия",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 637460,
+        "annex": true,
+        "fullName": "«Divine Textile Ltd.»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 4750931,
+            "idAddrType": 1,
+            "idCodeOksm": "050",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "БАНГЛАДЕШ, Chandra, Kaliakoir, Gazipur; 1730 DHAKA, Бангладеш",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1004538,
+    "fullName": "Орган по сертификации продукции ООО \"Альсена\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ03",
+    "attestatRegDate": "2011-08-03",
+    "attestatEndDate": null,
+    "idRal": 27579,
+    "ogrn": null,
+    "idPerson": 4008846,
+    "firstName": null,
+    "surname": "Руководитель органа по сертификации -Федоров Роман Юрьевич; заместители руководителя -Максимова Ека",
+    "patronymic": null,
+    "contacts": [
+      {
+        "idContact": 643598,
+        "idContactType": 1,
+        "value": "+74997068036"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4750932,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "129626",
+        "fullAddress": "129626, Москва, 3-я Мытищинская ул., 3, стр. 1, оф. 405",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4750933,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "105082",
+        "fullAddress": "105082, г. Москва, Рубцовская наб., д. 3, стр. 2, офис 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1004543,
+    "idProductOrigin": "276",
+    "fullName": "Изделия трикотажные второго слоя для детей дошкольного, школьного возраста, из хлопчатобумажной пряжи,",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "с маркировкой \"Tchibo\": ассортимент продукции согласно приложению, бланк № 0088128",
+    "identifications": [
+      {
+        "idIdentification": 1522185,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68611,
+          68612
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104719,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522186,
+        "annex": true,
+        "name": "Изделия трикотажные второго слоя для детей дошкольного, школьного возраста, из хлопчатобумажной пряжи, с маркировкой \"Tchibo\": свитер (толстовка)",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104720,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522187,
+        "annex": true,
+        "name": "для мальчиков артикулы: 303707 – 340 штук, 303708 – 340 штук, 303709 – 320 штук, 303710 – 320 штук, 303711 – 300 штук, 303712 – 340 штук, 303713 – 340 штук, 303714 – 320 штук, 303715 – 320 штук, 303716 – 300 штук, 303561 – 480 штук, 303562 – 420 штук, 303563 – 720 штук, 303564 – 340 штук.;",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68611
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104721,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522188,
+        "annex": true,
+        "name": "для девочек, артикулы: 303857 – 500 штук, 303858 – 460 штук, 303859 – 380 штук, 303860 – 360 штук, 303861 – 320 штук, 303862 – 500 штук, 303863 – 460 штук, 303864 – 380 штук, 303865 – 360 штук, 303866 – 320 штук, 303565 – 480 штук, 303566 – 420 штук, 303567 – 720 штук, 303568 – 340 штук",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68612
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104722,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 994702,
+      "idPerson": 4008845,
+      "idEmployee": null,
+      "firstName": "Антон",
+      "surname": "Зязин",
+      "patronimyc": "Михайлович"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1493122,
+      "idStatus": 1,
+      "beginDate": "2014-07-01T22:31:36",
+      "endDate": "2015-06-29T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:28:06.426",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1493123,
+      "idStatus": 1,
+      "beginDate": "2015-06-29T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:28:06.426",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1034071,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "60f99ac9-26d2-4c61-a78f-f9a8de04e5c2",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

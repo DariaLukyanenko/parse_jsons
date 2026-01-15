@@ -1,0 +1,409 @@
+{
+  "idCertificate": 100038,
+  "idTechnicalReglaments": [
+    56
+  ],
+  "idCertScheme": 55,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-SI.АБ09.В.00017",
+  "certRegDate": "2015-12-02",
+  "certEndDate": "2020-12-02",
+  "idBlank": 3542,
+  "blankNumber": "0003542",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53581,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 3542,
+          "blankNumber": "0003542"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 206901,
+    "idEgrul": null,
+    "idApplicantType": 2,
+    "idLegalSubjectType": 1,
+    "fullName": "ООО «БАУМИТ» ",
+    "shortName": null,
+    "idPerson": 416248,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1047855063178",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": 12,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250150,
+        "idContactType": 1,
+        "value": "+78124904748"
+      },
+      {
+        "idContact": 250151,
+        "idContactType": 3,
+        "value": "+78124904748"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 633621,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "12",
+        "postCode": "192007",
+        "fullAddress": "192007, РОССИЯ, г. Санкт-Петербург, Тамбовская ул., д.12, лит. Б, помещение 12 Н",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 206902,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "«Kema Puconci d.o.o»",
+    "shortName": null,
+    "idPerson": 416249,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250152,
+        "idContactType": 1,
+        "value": "+386025459500"
+      },
+      {
+        "idContact": 250153,
+        "idContactType": 3,
+        "value": "+386025459510"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 633622,
+        "idAddrType": 1,
+        "idCodeOksm": "705",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "9201",
+        "fullAddress": "9201, СЛОВЕНИЯ, Puconci, Puconci 109",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103442,
+    "fullName": "ОРГАН ПО СЕРТИФИКАЦИИ ПРОДУКЦИИ ОБЩЕСТВА С ОГРАНИЧЕННОЙ\nОТВЕТСТВЕННОСТЬЮ \"ЮЖНЫЙ\nРЕГИСТР-ЦЕНТР ЭКСПЕРТИЗЫ\nПРОТИВОПОЖАРНОЙ БЕЗОПАСНОСТИ\nВ СТРОИТЕЛЬСТВЕ\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АБ09",
+    "attestatRegDate": "2015-10-15",
+    "attestatEndDate": null,
+    "idRal": 5785,
+    "ogrn": "1156196037260",
+    "idPerson": 416251,
+    "firstName": "АННА",
+    "surname": "КАРПАЧЕВА",
+    "patronymic": "СЕРГЕЕВНА",
+    "contacts": [
+      {
+        "idContact": 192116,
+        "idContactType": 4,
+        "value": "info@testflfme.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 633623,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "f10763dc-63e3-48db-83e1-9c566fe3092b",
+        "idDistrict": "f10763dc-63e3-48db-83e1-9c566fe3092b",
+        "idCity": "c1cfe4b9-f7c2-423c-abfa-6ed1c05a15c5",
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "1",
+        "postCode": "344002",
+        "fullAddress": "344002, РОССИЯ, Ростовская область, Ростов-на-Дону, ул. Станиславского, 110, Б, 1А",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 633624,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "f10763dc-63e3-48db-83e1-9c566fe3092b",
+        "idDistrict": "f10763dc-63e3-48db-83e1-9c566fe3092b",
+        "idCity": "c1cfe4b9-f7c2-423c-abfa-6ed1c05a15c5",
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "1",
+        "postCode": "344002",
+        "fullAddress": "344002, РОССИЯ, Ростовская область, Ростов-на-Дону, ул. Станиславского, 110, Б, 1А",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103440,
+    "idProductOrigin": "705",
+    "fullName": "Двухкомпонентное эпоксидное покрытие для полов марок: «Kemapox Grund 2000», «Kemapox Final 4000», \n«Kemapox Final 5000», «Kemapox Final 6000», «Kemapox Final 6500». \n",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "марки: «Kemapox Grund 2000», «Kemapox Final 4000», \n«Kemapox Final 5000», «Kemapox Final 6000», «Kemapox Final 6500»\n",
+    "identifications": [
+      {
+        "idIdentification": 185426,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          65530
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "см. приложение на бланке &#8470;0003542",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116534,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 106652,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 105886,
+      "idPerson": 416250,
+      "idEmployee": null,
+      "firstName": "Карина",
+      "surname": "Безуглова",
+      "patronimyc": "Николаевна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121618,
+      "idStatus": 6,
+      "beginDate": "2015-12-03T09:56:46",
+      "endDate": "2020-12-03T01:07:30.109",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:53:37.353",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 4022054,
+      "idStatus": 1,
+      "beginDate": "2020-12-03T01:07:30.109",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2020-12-03T01:07:30.329",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112207,
+      "annex": false,
+      "idRal": 9325,
+      "regNumber": "RA.RU.21ПЖ18 ",
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a5b0d596-4a88-473b-b45f-753e15834da0",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

@@ -1,0 +1,660 @@
+{
+  "idCertificate": 101110,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-RU.АБ91.В.00022",
+  "certRegDate": "2016-12-23",
+  "certEndDate": "2021-12-22",
+  "idBlank": 143031,
+  "blankNumber": "0143031",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 580185,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 98870,
+          "blankNumber": "0098870"
+        }
+      ]
+    },
+    {
+      "idAnnex": 580186,
+      "idType": 3,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 98871,
+          "blankNumber": "0098871"
+        },
+        {
+          "idBlank": 98872,
+          "blankNumber": "0098872"
+        },
+        {
+          "idBlank": 98873,
+          "blankNumber": "0098873"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 4496567,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 1,
+    "fullName": "Открытое акционерное общество \"Ардатовский светотехнический завод\" (ОАО \"АСТЗ\")",
+    "shortName": null,
+    "idPerson": 8977494,
+    "surname": "Кудашкин",
+    "firstName": "А.",
+    "patronymic": "Н.",
+    "headPosition": null,
+    "ogrn": "1021300546541",
+    "ogrnAssignDate": null,
+    "inn": "1301011495",
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 2444644,
+        "idContactType": 1,
+        "value": "+78343121009"
+      },
+      {
+        "idContact": 2444645,
+        "idContactType": 1,
+        "value": "+78343121356"
+      },
+      {
+        "idContact": 2444646,
+        "idContactType": 3,
+        "value": "+78343121009"
+      },
+      {
+        "idContact": 2444647,
+        "idContactType": 4,
+        "value": "mirsveta@astz.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 10399953,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "431890",
+        "fullAddress": "431890, Россия, Республика Мордовия, Ардатовский р-он, р.п. Тургенево, ул. Заводская, 73",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 4496568,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "Открытое акционерное общество \"Ардатовский светотехнический завод\" (ОАО \"АСТЗ\")",
+    "shortName": null,
+    "idPerson": 8977495,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1021300546541",
+    "ogrnAssignDate": null,
+    "inn": "1301011495",
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 2444648,
+        "idContactType": 1,
+        "value": "+78343121009"
+      },
+      {
+        "idContact": 2444649,
+        "idContactType": 1,
+        "value": "+78343121356"
+      },
+      {
+        "idContact": 2444650,
+        "idContactType": 3,
+        "value": "+78343121009"
+      },
+      {
+        "idContact": 2444651,
+        "idContactType": 4,
+        "value": "mirsveta@astz.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 10399954,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "431890",
+        "fullAddress": "431890, Россия, Республика Мордовия, Ардатовский р-он, р.п. Тургенево, ул. Заводская, 73",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 2517844,
+    "fullName": "Орган по сертификации электрических ламп и светотехнических изделий Общества с ограниченной ответственностью \"Центр сертификации электрических ламп и светотехнических изделий\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АБ91",
+    "attestatRegDate": "2016-07-29",
+    "attestatEndDate": null,
+    "idRal": 1587,
+    "ogrn": null,
+    "idPerson": 8977497,
+    "firstName": "Т.",
+    "surname": "Рожкова",
+    "patronymic": "А.",
+    "contacts": [
+      {
+        "idContact": 1476628,
+        "idContactType": 1,
+        "value": "+78342307422"
+      },
+      {
+        "idContact": 1476629,
+        "idContactType": 4,
+        "value": "sert_elsi@mail.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 10399955,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "430034, РОССИЯ, Республика Мордовия, г. Саранск, ул. Лодыгина, д. 3",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 10399956,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "37a0c60a-9240-48b5-a87f-0d8c86cdb6e1",
+        "idDistrict": "37a0c60a-9240-48b5-a87f-0d8c86cdb6e1",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "430034",
+        "fullAddress": "430034, РОССИЯ, Республика Мордовия, г. Саранск, ул. Лодыгина, д. 3",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 2248443,
+    "idProductOrigin": "643",
+    "fullName": "Светильники серии ЛВО15, ДВО15",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "типы по Приложению",
+    "identifications": [
+      {
+        "idIdentification": 3288043,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          77140
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 2451468,
+            "name": "ТУ 3461-056-05014337-2013 «Светильники серии ЛВО15, ЛПО15», ТУ 3461-048-05014337-2011 «Светильники серии ДВО11, ДВО12, ДПО12, ДВО15, ДПО15»\f\n",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 2389606,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 2389607,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "раздел 5 \nГОСТ IEC 61547-2013\n",
+            "name": "Электромагнитная совместимость. Помехоустойчивость светового оборудования общего назначения. Требования и методы испытаний",
+            "section": null,
+            "addlInfo": "ТР ТС 020/2011 \"Электромагнитная совместимость технических средств\", утв. Решением Комиссии Таможенного союза от 9 декабря 2011 года № 879, абзац третий статьи 4.",
+            "idStatus": null
+          },
+          {
+            "idStandard": 2389608,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "раздел 5\nГОСТ 30804.3.3-2013 (IEC 61000-3-3:2008)\n",
+            "name": "Совместимость технических средств электромагнитная. Ограничение изменений напряжения, колебаний напряжения и фликера в низковольтных системах электроснабжения общего назначения. Технические средства с потребляемым током не более 16 А (в одной фазе), подключаемые к электрической сети при несоблюдении определенных условий подключения. Нормы и методы испытаний",
+            "section": null,
+            "addlInfo": "ТР ТС 020/2011 \"Электромагнитная совместимость технических средств\", утв. Решением Комиссии Таможенного союза от 9 декабря 2011 года № 879, абзац второй статьи 4.",
+            "idStatus": null
+          },
+          {
+            "idStandard": 2389609,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60598-2-2-2012",
+            "name": "Светильники. Часть 2. Частные требования. Раздел 2. Светильники встраиваемые",
+            "section": null,
+            "addlInfo": "ТР ТС 004/2011 «О безопасности низковольтного оборудования\", утв. Решением Комиссии Таможенного союза от 16 августа 2011 года № 768, абзацы первый - четвертый и шестой - двенадцатый статьи 4, статья 5.",
+            "idStatus": null
+          },
+          {
+            "idStandard": 2389610,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "СТБ МЭК 60598-2-2-99",
+            "name": "Светильники. Часть 2. Частные требования. Раздел 2. Светильники встраиваемые",
+            "section": null,
+            "addlInfo": "ТР ТС 004/2011 «О безопасности низковольтного оборудования\", утв. Решением Комиссии Таможенного союза от 16 августа 2011 года № 768, абзацы первый - четвертый и шестой - двенадцатый статьи 4, статья 5.",
+            "idStatus": null
+          },
+          {
+            "idStandard": 2389611,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60598-2-25-2011",
+            "name": "Частные требования. Раздел 25. Светильники для использования в клинических зонах больниц и других медицинских учреждений",
+            "section": null,
+            "addlInfo": "ТР ТС 004/2011 «О безопасности низковольтного оборудования\", утв. Решением Комиссии Таможенного союза от 16 августа 2011 года № 768, абзацы первый - четвертый и шестой - двенадцатый статьи 4, статья 5.",
+            "idStatus": null
+          },
+          {
+            "idStandard": 2389612,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "СТБ МЭК 60598-2-25-2002",
+            "name": "Частные требования. Раздел 25. Светильники для использования в клинических зонах больниц и других медицинских учреждений",
+            "section": null,
+            "addlInfo": "ТР ТС 004/2011 «О безопасности низковольтного оборудования\", утв. Решением Комиссии Таможенного союза от 16 августа 2011 года № 768, абзацы первый - четвертый и шестой - двенадцатый статьи 4, статья 5.",
+            "idStatus": null
+          },
+          {
+            "idStandard": 2389613,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60598-1-2013",
+            "name": "Светильники. Часть 1. Общие требования и методы испытаний",
+            "section": null,
+            "addlInfo": "ТР ТС 004/2011 «О безопасности низковольтного оборудования\", утв. Решением Комиссии Таможенного союза от 16 августа 2011 года № 768, абзацы первый - четвертый и шестой - двенадцатый статьи 4, статья 5.",
+            "idStatus": null
+          },
+          {
+            "idStandard": 2389614,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "разделы 5 и 7\nГОСТ 30804.3.2-2013 (IEC 61000-3-2:2009)\n",
+            "name": "Совместимость технических средств электромагнитная. Эмиссия гармонических составляющих тока техническими средствами с потребляемым током не более 16 А (в одной фазе). Нормы и методы испытаний",
+            "section": null,
+            "addlInfo": "ТР ТС 020/2011 \"Электромагнитная совместимость технических средств\", утв. Решением Комиссии Таможенного союза от 9 декабря 2011 года № 879, абзац второй, третий статьи 4.",
+            "idStatus": null
+          },
+          {
+            "idStandard": 2389615,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "разделы 4 и 5 \nСТБ ЕН 55015-2006\n",
+            "name": "Электромагнитная совместимость. Радиопомехи от электрического светового и аналогичного оборудования. Нормы и методы измерений",
+            "section": null,
+            "addlInfo": "ТР ТС 020/2011 \"Электромагнитная совместимость технических средств\", утв. Решением Комиссии Таможенного союза от 9 декабря 2011 года № 879, абзац второй статьи 4.",
+            "idStatus": null
+          }
+        ]
+      },
+      {
+        "idIdentification": 3288044,
+        "annex": true,
+        "name": "Светильники серии ЛВО15",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          77140
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 2451469,
+            "name": "ТУ 3461-056-05014337-2013",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 3288045,
+        "annex": true,
+        "name": "Светильники серии ЛВО15",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          77140
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 2451470,
+            "name": "ТУ 3461-056-05014337-2013",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 3288046,
+        "annex": true,
+        "name": "Светильники серии ЛВО15, ДВО15",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          77140
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 2451471,
+            "name": "ТУ 3461-056-05014337-2013, ТУ 3461-048-05014337-2011",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 2231434,
+      "idPerson": 8977496,
+      "idEmployee": null,
+      "firstName": "Надежда",
+      "surname": "Дергунова",
+      "patronimyc": "Николаевна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 3385592,
+      "idStatus": 14,
+      "beginDate": "2018-11-08T00:00:00",
+      "endDate": null,
+      "comment": "Письмо ОАО \"АСТЗ\" № 5704 от 07.11.2018  ",
+      "idBasis": 8,
+      "docNumber": "№ 41",
+      "publicated": true,
+      "publishDate": "2018-11-09T06:27:19.352",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": "2018-11-08",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 3385593,
+      "idStatus": 6,
+      "beginDate": "2016-12-23T11:44:51",
+      "endDate": "2018-11-08T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-11-09T06:27:19.352",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 2295988,
+      "annex": false,
+      "idRal": 7533,
+      "regNumber": "POCC RU.0001.21МЭ48 ",
+      "fullName": "Испытательная лаборатория электротехнической продукции Общества с ограниченной ответственностью \"Испытательная лаборатория электротехнической продукции ЭМС\" (ИЛ ЭП ЭМС ООО \"Испытательная лаборатория электротехнической продукции ЭМС\")",
+      "beginDate": "2014-10-07",
+      "endDate": null,
+      "basis": "Протокол испытаний № 1193-1098-16 от 13.12.2016",
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    },
+    {
+      "idTestingLab": 2295989,
+      "annex": false,
+      "idRal": 15183,
+      "regNumber": "РОСС RU.0001.22МО91 ",
+      "fullName": "Испытательная лаборатория светотехнических изделий ОАО \"Ардатовский светотехнический завод\" (ИЛ СИ ОАО «АСТЗ»)",
+      "beginDate": "2015-08-04",
+      "endDate": null,
+      "basis": "Протокол испытаний № 10-16С от 20.12.2016",
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a760070d-3baa-4be0-ad73-1d41028b7fd6",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

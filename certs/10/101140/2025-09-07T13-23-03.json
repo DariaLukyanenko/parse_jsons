@@ -1,0 +1,446 @@
+{
+  "idCertificate": 101140,
+  "idTechnicalReglaments": [],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 3,
+  "isTs": false,
+  "idProductSingleLists": [
+    7
+  ],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-CN.АБ69.В.00074",
+  "certRegDate": "2016-10-14",
+  "certEndDate": "2018-10-13",
+  "idBlank": 157640,
+  "blankNumber": "0157640",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 571613,
+      "idType": 3,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 114798,
+          "blankNumber": "0114798"
+        },
+        {
+          "idBlank": 114799,
+          "blankNumber": "0114799"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 4465756,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 3,
+    "fullName": "\"DALIAN HANTAI TRADE Co. Ltd.\"",
+    "shortName": null,
+    "idPerson": 8915647,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 2412424,
+        "idContactType": 1,
+        "value": "+8641184323723"
+      },
+      {
+        "idContact": 2412425,
+        "idContactType": 3,
+        "value": "+8641184323723"
+      },
+      {
+        "idContact": 2412426,
+        "idContactType": 4,
+        "value": "wsff@cismef.com.cn"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 10317825,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "КИТАЙ, 3-1, Minzhu square, Dalian, China",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 4465757,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"DALIAN HANTAI TRADE Co. Ltd.\"",
+    "shortName": null,
+    "idPerson": 8915648,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 2412427,
+        "idContactType": 1,
+        "value": "+8641184323723"
+      },
+      {
+        "idContact": 2412428,
+        "idContactType": 3,
+        "value": "+8641184323723"
+      },
+      {
+        "idContact": 2412429,
+        "idContactType": 4,
+        "value": "wsff@cismef.com.cn"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 10317826,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "КИТАЙ, 3-1, Minzhu square, Dalian, China",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 2487594,
+    "fullName": "Орган по сертификации Общества с ограниченной ответственностью \"ЛенСерт\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АБ69",
+    "attestatRegDate": "2016-04-28",
+    "attestatEndDate": null,
+    "idRal": 14782,
+    "ogrn": null,
+    "idPerson": 8915650,
+    "firstName": "Г.",
+    "surname": "Вагер",
+    "patronymic": "А.",
+    "contacts": [
+      {
+        "idContact": 1452401,
+        "idContactType": 4,
+        "value": "spb@lensert.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 10317827,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "c2deb16a-0330-4f05-821f-1d09c93331e6",
+        "idDistrict": "c2deb16a-0330-4f05-821f-1d09c93331e6",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "852854",
+        "postCode": "195027",
+        "fullAddress": "195027, РОССИЯ, город Санкт-Петербург, Пискарёвский проспект, 2, корпус 3, литер А, офис 852, 854",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 10317828,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "c2deb16a-0330-4f05-821f-1d09c93331e6",
+        "idDistrict": "c2deb16a-0330-4f05-821f-1d09c93331e6",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "195027",
+        "fullAddress": "195027, РОССИЯ, город Санкт-Петербург, Пискарёвский проспект, 2, корпус 3, литер А",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 2233246,
+    "idProductOrigin": "156",
+    "fullName": "Посуда для взрослых из цветного и бесцветного стекла с декором и без декора, в том числе с элементами из металла, пластика, дерева, в том числе в комплекте со столовыми приборами",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "с маркировками \"Lеfard\", \"Arti-M\", \"WD\", \"Royal Porcelain\", \"Dream Village\", \"Villa Bianca\", \"Bon-Bon\", \"Venezia\", \"Japan Sakura\", \"Finecasa\", \"Royal Ceramics\", \"Agness\", \"Renaissance\", \"Magnifique\", \"Philosophy\", \"Muza\", \"Berry collection\"  в наборах и отдельными предметами",
+    "identifications": [
+      {
+        "idIdentification": 3264366,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          69730
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Место нанесения знака обращения на рынке: Знак соответствия наносят на товарный ярлык и в товаросопроводительной документации. Форма и размеры знака по ГОСТ Р 50460-92. Условия и срок хранения продукции, срок службы (годности) согласно технической документации изготовителя. Маркировка изделий должна содержать товарный знак и/или наименование предприятия-изготовителя, наносят на этикетку. Уполномоченное лицо ООО \"ТК \"ИНТРА\" по договору &#8470; 83INT/16 от 09.06.2016г. , адрес: РОССИЯ, 196607, город Санкт-Петербург, город Пушкин, улица Ленинградская, дом 67, литер А, помещение 2Н",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 2434405,
+            "name": "по документации изготовителя",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 2368668,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30407-96 (ИСО 7086-1-82, ИСО 7086-2-82), ",
+            "name": "Единые санитарно-эпидемиологические и гигиенические требования к товарам, подлежащим санитарно-эпидемиологическому надзору (контролю)",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      },
+      {
+        "idIdentification": 3264367,
+        "annex": true,
+        "name": "рюмки, фужеры, бокалы, стопки, стаканы, кружки, в т.ч. пивные, заварочные; чашки, пиалы, блюдца, чайные, кофейные, столовые сервизы (наборы); штофы, графины, кувшины, шейкеры, розетки, креманки; салатники, сахарницы , фруктовницы, конфетницы, блюда, в т.ч. с крышками, , в т.ч. для мяса, шашлыка, рыбы, пиццы, птицы и дичи; вазы для сервировки стола, вазы многояроусные, тортовницы, тарелки, чайники, в т.ч. заварочные; кофейники, молочники, сосуники, перечницы, солонки, икорницы, менажницы, кабареты, подносы, селедочницы, наборы для крюшона, наборы для пунша, половники, ведра для льда, ведра для шампанского, вазы для варенья, ягод; креманки, розетки, банки для пищевых продуктов в наборах и отдельными предметами, наборы для торта, наборы для десерта, подставки под лимон (лимонницы), блюда и наборы для тертого сыра, орехов, вазы для сладостей, блюда для оливок, солений, салфеток, масленки, наборы для подогрева коньяка, супницы, бульонницы, емкости для хранения продукта, подставки под ложку, под половник, для столовых приборов, зубочисток; тарелки (блюда) для яиц, пашотницы, паштетницы, сепараторы, в т.ч. для яиц, диспенсеры, наборы для пельменей, наборы для суши, бочонки (кадушки) для сметаны), френч прессы, ковши с крышками, наборы чаш для смешивания, тарелки, блинницы, емкости для сыпучих и продуктов, ситечки для чая, сливочники, сотейники, наборы для приправ, наборы для фондю, блинов; чаши, хлебницы, лопатки, контейнеры, ступки, пестики, турки, кокотницы, банки, бутылки, противни, блюда для запекания, в т.ч. с крышками; утятницы, подставки под чашки, под горячее, под чайные пакетики, для губки; кружки заварочные, в т.ч. с крышками, ложками, ситами и без, горшки, кисе, емкости для морозильника, посуда для СВЧ, дозаторы, формы для выпечки, формы для льда, половники; стаканы для чая (армуды), ложки столовые, чайные; блюдца для лимона; варенницы; блюда для сухофруктов; штофы; турки; мельнички для специй.",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 2215979,
+      "idPerson": 8915649,
+      "idEmployee": null,
+      "firstName": "Т.В.",
+      "surname": "Радецкая",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 3355451,
+      "idStatus": 6,
+      "beginDate": "2016-10-14T15:34:31",
+      "endDate": "2018-10-13T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-10-15T02:18:31.293",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 3355452,
+      "idStatus": 1,
+      "beginDate": "2018-10-13T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-10-15T02:18:31.293",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 2279384,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": "Протокола испытаний № 11-20161310-1 от 13.10.2016 года, выданный Испытательной лабораторией Общество с ограниченной ответственностью \"ГЕЛИОС\" (ООО \"ГЕЛИОС\") (аттестат аккредитации № RA.RU.21АБ91 от 26.06.2015), 142600, Московская область, г.Орехово-Зуево, ул. Стачки 1885 года, д.6",
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a7a06533-472f-4384-83ce-22266cc4b4b5",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

@@ -1,0 +1,620 @@
+{
+  "idCertificate": 1010517,
+  "idTechnicalReglaments": [
+    17
+  ],
+  "idCertScheme": 2,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-ES.АГ03.В.12203",
+  "certRegDate": "2015-04-24",
+  "certEndDate": "2018-04-23",
+  "idBlank": 282308,
+  "blankNumber": "0282308",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 505198,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 206392,
+          "blankNumber": "0206392"
+        }
+      ]
+    },
+    {
+      "idAnnex": 505199,
+      "idType": 3,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 206393,
+          "blankNumber": "0206393"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 4106555,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "Закрытое акционерное общество \"Корадо\"",
+    "shortName": null,
+    "idPerson": 8196146,
+    "surname": "Куликова",
+    "firstName": "Л.",
+    "patronymic": "В.",
+    "headPosition": null,
+    "ogrn": "1117746336180",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 2150736,
+        "idContactType": 1,
+        "value": "+74957838522"
+      },
+      {
+        "idContact": 2150737,
+        "idContactType": 3,
+        "value": "+74957838522"
+      },
+      {
+        "idContact": 2150738,
+        "idContactType": 4,
+        "value": "info@ideas4retail.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9397130,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "109004",
+        "fullAddress": "109004, РОССИЯ, Москва Город, Пестовский переулок, дом 16, строение 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 9397131,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "105568",
+        "fullAddress": "105568, РОССИЯ, Москва Город, улица Челябинская, дом 19, строение 4, офис 3",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 4106556,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "«IMAGINARIUM S.A.»",
+    "shortName": null,
+    "idPerson": 8196147,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 9397132,
+        "idAddrType": 1,
+        "idCodeOksm": "724",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ИСПАНИЯ, Plataforma Logistica de Zaragoza (PLAZA) C/Osca, n,.4, 50.197 Zaragoza, Spain, Испания Plataforma Logistica de Zaragoza (PLAZA) C/Osca, n,.4, 50.197 Zaragoza, Spain, Испания. Производственные площадки: согласно приложению, бланк № 0206392",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 1043236,
+        "annex": true,
+        "fullName": "«D'NENES DISEСO S.L.»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 9397133,
+            "idAddrType": 1,
+            "idCodeOksm": "724",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "ИСПАНИЯ, P.I. LOS VASALOS PARC, 25 – 03430 ONIL (ALICANTE)",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 1043237,
+        "annex": true,
+        "fullName": "«Jialide»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 9397134,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, N0.128, Da Shi Ling Road, Longdong, Longgang, Shenzhen",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 1043238,
+        "annex": true,
+        "fullName": "«Master Pro Ltd.»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 9397135,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, Blk 89, SanJiang Ind. Park, HengLi Town, Dong Guan City,Guang Dong",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 2127638,
+    "fullName": "Орган по сертификации продукции Общества с ограниченной ответственностью  \"Альсена \"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ03",
+    "attestatRegDate": "2014-07-17",
+    "attestatEndDate": null,
+    "idRal": 27579,
+    "ogrn": null,
+    "idPerson": 8196149,
+    "firstName": null,
+    "surname": "Федоров Роман Юрьевич (заместитель - Зайкова Е.В.)",
+    "patronymic": null,
+    "contacts": [
+      {
+        "idContact": 1263278,
+        "idContactType": 4,
+        "value": "alsena@inbox.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9397136,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "129626",
+        "fullAddress": "129626, Москва, 3-я Мытищинская ул., 3, стр. 1, оф. 405",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 9397137,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "105082",
+        "fullAddress": "105082, РОССИЯ, г. Москва, г. Москва, наб. Рубцовская, 3,стр.3,пом I,комн.25",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 2053646,
+    "idProductOrigin": "724",
+    "fullName": "Игрушки, изображающие людей, из пластмассы в одежде из текстильных материалов, в том числе с мягконабивным туловищем с верхом из текстильных материалов, с набивкой из полиэфирных волокон, без механизмов, в наборах и отдельными предметами,",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "торговой марки \"ItsImagical\": ассортимент продукции согласно приложению, бланк № 0206393",
+    "identifications": [
+      {
+        "idIdentification": 2986237,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          77233,
+          77234
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Игрушки предназначены для детей от трех лет. Условия хранения: продукция хранится в крытых складских помещениях и защищена от воздействия прямых солнечных лучей. Срок хранения изготовителем не установлен. Срок службы (годности) изготовителем не установлен. Единый знак обращения продукции на рынке государств-членов Таможенного Союза и маркировка нанесены на этикетку.\nСхема сертификации: 2с.",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 2234486,
+            "name": "Директивой № 2009/48/ЕС Европейского парламента и Совета Европейского Союза «О безопасности игрушек»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 2986238,
+        "annex": true,
+        "name": "Игрушки, изображающие людей, из пластмассы в одежде из текстильных материалов, в том числе с мягконабивным туловищем с верхом из текстильных материалов, с набивкой из полиэфирных волокон, без механизмов, в наборах и отдельными предметами, торговой марки \"ItsImagical\":",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 2234487,
+            "name": "Директива № 2009/48/ЕС Европейского парламента и Совета Европейского Союза «О безопасности игрушек»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 2986239,
+        "annex": true,
+        "name": "\"кукла-младенец\", \"кукла-младенец с мягким корпусом\", \"кукла-младенец в комплекте с корзиной из ткани\", \"кукла-младенец в комплекте с сумкой из ткани\", \"кукла\", \"кукла в комплекте с домашним животным\", \"кукла парашютист\"",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          77233
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 2234488,
+            "name": "Директива № 2009/48/ЕС Европейского парламента и Совета Европейского Союза «О безопасности игрушек»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 2986240,
+        "annex": true,
+        "name": "\"одежда для кукол\"",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          77234
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 2234489,
+            "name": "Директива № 2009/48/ЕС Европейского парламента и Совета Европейского Союза «О безопасности игрушек»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 2035282,
+      "idPerson": 8196148,
+      "idEmployee": null,
+      "firstName": "Светлана",
+      "surname": "Лоскутова",
+      "patronimyc": "Борисовна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 3098597,
+      "idStatus": 6,
+      "beginDate": "2015-04-27T21:43:37",
+      "endDate": "2018-04-23T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-09-27T19:08:10.188",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 3098598,
+      "idStatus": 1,
+      "beginDate": "2018-04-23T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-09-27T19:08:10.188",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 2092504,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": "Сертификата соответствия системы менеджмента качества изготовителя требованиям ГОСТ ISO 9001-2011 (ISO 9001:2008) регистрационный номер ST.RU.02.A000054 сроком действия с 22.09.2014 года до 22.09.2017 года, выдан Органом по сертификации систем менеджмента качества ООО \"Сертификационные системы\". Протоколов испытаний № 5487-ТС-15.4/БИ, № 5488-ТС-15.4/БИ, № 5489-ТС-15.4/БИ от 23.04.2015 года. Испытательная Лаборатория \"ЛСМ\" ООО \"ТРАНСКОНСАЛТИНГ\". (Аттестат аккредитации № РОСС RU.0001.21АВ61- действителен до 02.06.2016 года.)",
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "66f83c52-87a6-48f9-ad79-c69ce0e17e86",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

@@ -1,0 +1,459 @@
+{
+  "idCertificate": 1005506,
+  "idTechnicalReglaments": [
+    97148
+  ],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-CN.АГ97.В.17165",
+  "certRegDate": "2013-07-23",
+  "certEndDate": "2016-07-22",
+  "idBlank": 1599648,
+  "blankNumber": "1599648",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 244165,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 454579,
+          "blankNumber": "0454579"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2017756,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"CHINA NATIONAL HEAVY DUTY TRUCK GROUP CO., LTD\"",
+    "shortName": null,
+    "idPerson": 4026315,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1009328,
+        "idContactType": 1,
+        "value": "+008653181958186"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4769043,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "№ 53, Wuyingshan Middle Road, Jinan City, Shandong Province, P.R. China, Китай",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2017757,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"CHINA NATIONAL HEAVY DUTY TRUCK GROUP CO., LTD\"",
+    "shortName": null,
+    "idPerson": 4026316,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1009329,
+        "idContactType": 1,
+        "value": "+008653181958186"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4769044,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "№ 53, Wuyingshan Middle Road, Jinan City, Shandong Province, P.R. China, Китай. Филиалы завода-изготовителя:",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 639265,
+        "annex": true,
+        "fullName": "«Langfang Zhuoyuan Automobile Parts Co., Ltd»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639266,
+        "annex": true,
+        "fullName": "«Guangxi Yuchai Machinery Co. Ltd»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639267,
+        "annex": true,
+        "fullName": "«Zexel Corporation»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639268,
+        "annex": true,
+        "fullName": "«Genuine Cummins Parts LLC»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639269,
+        "annex": true,
+        "fullName": "«Jinan Createk Tech Co., Ltd»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639270,
+        "annex": true,
+        "fullName": "«FoshanNanhai District Qianhai Electromechanical Co., Ltd»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639271,
+        "annex": true,
+        "fullName": "«Huajian Brake Cylinder Co., Ltd»",
+        "shortName": null,
+        "addresses": []
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [
+    {
+      "idFilial": 173066,
+      "fullName": null,
+      "shortName": null,
+      "idLegalForm": null,
+      "kpp": null,
+      "annex": false,
+      "contacts": [],
+      "addresses": [
+        {
+          "idAddress": 4769045,
+          "idAddrType": 1,
+          "idCodeOksm": null,
+          "oksmShort": null,
+          "idSubject": null,
+          "idDistrict": null,
+          "idCity": null,
+          "idLocality": null,
+          "idStreet": null,
+          "idHouse": null,
+          "flat": null,
+          "postCode": null,
+          "fullAddress": null,
+          "gln": null,
+          "foreignDistrict": null,
+          "foreignCity": null,
+          "foreignLocality": null,
+          "foreignStreet": null,
+          "foreignHouse": null,
+          "uniqueAddress": null,
+          "otherGln": null,
+          "glonass": null
+        }
+      ]
+    }
+  ],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1008916,
+    "fullName": "Орган по сертификации продукции ООО \"СПЕКТР\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ97",
+    "attestatRegDate": "2011-10-21",
+    "attestatEndDate": null,
+    "idRal": 25219,
+    "ogrn": "1107746517031",
+    "idPerson": 4026318,
+    "firstName": "М.",
+    "surname": "Жидких",
+    "patronymic": "О.",
+    "contacts": [
+      {
+        "idContact": 645421,
+        "idContactType": 1,
+        "value": "+74957965346"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4769046,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "121351",
+        "fullAddress": "121351,Российская Федерация, г. Москва, Ивана Франко улица, д. 18, корп. 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1008921,
+    "idProductOrigin": "156",
+    "fullName": "Запасные части транспортных средств: Стекла и стеклопакеты, безопасные для грузовых автомобилей",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "т.м.: Feizhou, Fleetguard, Howo Parts, Howa Parts, Yuchai, ATG, Ming Kuan, Rarrett, Zexel, Nozzle, Z-X-L, Bosch, Smart Pow, Carter, Howo, Yuchai Starter, HG, Sinotruk, CNHTC, Createk",
+    "identifications": [
+      {
+        "idIdentification": 1528487,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1109359,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1023197,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 999040,
+      "idPerson": 4026317,
+      "idEmployee": null,
+      "firstName": null,
+      "surname": "Д.С. Блинов",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1498949,
+      "idStatus": 1,
+      "beginDate": "2013-07-23T00:00:00",
+      "endDate": "2016-07-22T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:34:12.554",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1498950,
+      "idStatus": 1,
+      "beginDate": "2016-07-22T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:34:12.554",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1038459,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "2ea8fd41-0aa4-4fbf-b8f7-990ac81a8801",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

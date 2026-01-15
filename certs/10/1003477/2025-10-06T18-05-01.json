@@ -1,0 +1,494 @@
+{
+  "idCertificate": 1003477,
+  "idTechnicalReglaments": [],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-DE.АГ92.В.05217",
+  "certRegDate": "2012-05-03",
+  "certEndDate": "2013-05-02",
+  "idBlank": 1362745,
+  "blankNumber": "1362745",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 243823,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 406235,
+          "blankNumber": "0406235"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2013698,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": 1,
+    "fullName": "ООО «ЦФ КАМА»",
+    "shortName": null,
+    "idPerson": 4018221,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1051614022580",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1008156,
+        "idContactType": 1,
+        "value": "+78552372136"
+      },
+      {
+        "idContact": 1008157,
+        "idContactType": 3,
+        "value": "+78552372493"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4760683,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4760684,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Автозаводский проспект 2, 423827, Набережные Челны, Республика Татарстан, Россия",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2013699,
+    "idEgrul": null,
+    "idLegalSubjectType": null,
+    "fullName": "«ZF Friedrichshafen AG»;88046, Graf von Soden Platz 1, Friedrichshafen, Deutschland, Германия",
+    "shortName": null,
+    "idPerson": 4018222,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4760685,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 638251,
+        "annex": true,
+        "fullName": "“ZF Friedrichshafen AG”",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638252,
+        "annex": true,
+        "fullName": "“ZF Hungaria KFT”",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638253,
+        "annex": true,
+        "fullName": "“ZF do Brasil Ltda”",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638254,
+        "annex": true,
+        "fullName": "“ZF Bouthéon S.A.”",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638255,
+        "annex": true,
+        "fullName": "“ZF Industries, INC”",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638256,
+        "annex": true,
+        "fullName": "“ZF Drivetech (Hangzhou) Co., Ltd ”",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638257,
+        "annex": true,
+        "fullName": "“ZF Drivetech (Suzhou) Co., Ltd”",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638258,
+        "annex": true,
+        "fullName": "“ZF Algérie S.a.r.l.”",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638259,
+        "annex": true,
+        "fullName": "“ZF Sachs AG”",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638260,
+        "annex": true,
+        "fullName": "“ZF Lenksysteme GmbH”",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638261,
+        "annex": true,
+        "fullName": "“ZF Passau GmbH”",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638262,
+        "annex": true,
+        "fullName": "“ZF Sachs Espana S.A.”",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638263,
+        "annex": true,
+        "fullName": "“ZF Sachs Italia S.p.A.”",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638264,
+        "annex": true,
+        "fullName": "“ZF India Private Ltd.”",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638265,
+        "annex": true,
+        "fullName": "“ZF Electronics Klásterec spol. s.r.o.”",
+        "shortName": null,
+        "addresses": []
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1006887,
+    "fullName": "Орган по сертификации продукции ООО \"КапиталСтрой\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ92",
+    "attestatRegDate": null,
+    "attestatEndDate": null,
+    "idRal": 11509,
+    "ogrn": "1107746552671",
+    "idPerson": 4018224,
+    "firstName": "А.",
+    "surname": "Бужацкий",
+    "patronymic": "Е.",
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4760686,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115093",
+        "fullAddress": "115093, г. Москва, Партийный переулок, д. 1, корп. 58, стр. 1, оф. 313, тел. (499) 3915007, E-mail Kapitalstroy-sert@bk.ru",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1006892,
+    "idProductOrigin": "276",
+    "fullName": "Запасные части для коробок перемены передач т.м. «ZF»: сцепления и их части Контракт №276/76314057/10006 от 01.03.2011 г.",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": null,
+    "identifications": [
+      {
+        "idIdentification": 1525489,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1107233,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1021071,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": "Технический регламент о безопасности колесных транспортных средств (Постановление Правительства РФ от 10.09.2009 N 720);",
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 997033,
+      "idPerson": 4018223,
+      "idEmployee": null,
+      "firstName": null,
+      "surname": "Д.С. Блинов",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1496250,
+      "idStatus": 1,
+      "beginDate": "2012-05-03T00:00:00",
+      "endDate": "2013-05-02T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:31:26.597",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1496251,
+      "idStatus": 1,
+      "beginDate": "2013-05-02T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:31:26.597",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1036428,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "afc8f8fb-e6f4-ae3b-c325-79e5003cadcc",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

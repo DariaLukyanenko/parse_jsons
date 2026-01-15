@@ -1,0 +1,615 @@
+{
+  "idCertificate": 1002539,
+  "idTechnicalReglaments": [
+    39
+  ],
+  "idCertScheme": 3,
+  "idObjectCertType": 2,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-FR.АГ03.А.08409",
+  "certRegDate": "2014-10-27",
+  "certEndDate": "2015-10-26",
+  "idBlank": 232567,
+  "blankNumber": "0232567",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 243672,
+      "idType": 3,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 158272,
+          "blankNumber": "0158272"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2011822,
+    "idEgrul": null,
+    "idApplicantType": 3,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью \"Детская Галерея \"ЯКИМАНКА\"",
+    "shortName": null,
+    "idPerson": 4014476,
+    "surname": "Буеклы",
+    "firstName": "Д.",
+    "patronymic": "А.",
+    "headPosition": null,
+    "ogrn": "1037739719280",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1007554,
+        "idContactType": 1,
+        "value": "+74952280028"
+      },
+      {
+        "idContact": 1007555,
+        "idContactType": 3,
+        "value": "+74952280028"
+      },
+      {
+        "idContact": 1007556,
+        "idContactType": 4,
+        "value": "oborovok@yakimankagallery.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4756887,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, Москва Город, 119180, город Москва, улица Большая Якиманка, дом 26",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4756888,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, Москва Город, 119180, город Москва, улица Большая Якиманка, дом 26",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2011823,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"Jeanne Lanvin SA\"",
+    "shortName": null,
+    "idPerson": 4014477,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4756889,
+        "idAddrType": 1,
+        "idCodeOksm": "250",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ФРАНЦИЯ, 15, rue du Faubourg Saint Honoré 75008, Paris, Франция 15, rue du Faubourg Saint Honore 75008, Paris, France, Франция. Производственная площадка: \"Jeanne Lanvin SA\", Putignano (BA) Via Bengasi, 19 CAP 70017, Italy / Италия",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1005949,
+    "fullName": "Орган по сертификации продукции Общества с ограниченной ответственностью \"Альсена\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ03",
+    "attestatRegDate": "2014-07-17",
+    "attestatEndDate": null,
+    "idRal": 27579,
+    "ogrn": null,
+    "idPerson": 4014479,
+    "firstName": null,
+    "surname": "Федоров Роман Юрьевич (заместитель - Зайкова Е.В.)",
+    "patronymic": null,
+    "contacts": [
+      {
+        "idContact": 644167,
+        "idContactType": 1,
+        "value": "+74997068036"
+      },
+      {
+        "idContact": 644168,
+        "idContactType": 4,
+        "value": "alsena@inbox.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4756890,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "129626",
+        "fullAddress": "129626, Москва, 3-я Мытищинская ул., 3, стр. 1, оф. 405",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4756891,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "105082",
+        "fullAddress": "105082, г. Москва, Рубцовская наб., д. 3, стр. 2, офис 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1005954,
+    "idProductOrigin": "250",
+    "fullName": "Одежда швейная второго слоя для девочек дошкольного и школьного возраста, из хлопчатобумажной ткани с вложением синтетических нитей, из шерстяной ткани, из полушерстяной ткани, из шелковой ткани, из синтетической ткани, в том числе с вложением шелковых нитей,",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "с маркировкой \"Lanvin\", ассортимент продукции согласно приложению бланк № 0158272",
+    "identifications": [
+      {
+        "idIdentification": 1524155,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68838,
+          68839,
+          68840,
+          68843,
+          68848
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1106248,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1524156,
+        "annex": true,
+        "name": "Одежда швейная второго слоя для девочек дошкольного и школьного возраста, с маркировкой \"Lanvin\":",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1106249,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1524157,
+        "annex": true,
+        "name": "из полушерстяной, из шерстяной ткани: платья, артикулы RG-DR2007-2414-A14 - 4 штуки, RG-JA7000-0025-A14 - 4 штуки, RG-DR2005-1221-A14 - 7 штук, RG-DR2016-2376-A14 - 4 штуки",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68838
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1106250,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1524158,
+        "annex": true,
+        "name": "из хлопчатобумажной ткани с вложением синтетических нитей: платья, артикулы G0014KMJ03P8A - 4 штуки, RG-DR2002-2372-A14 - 4 штуки",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68839
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1106251,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1524159,
+        "annex": true,
+        "name": "из шелковой ткани: платья, артикул RG-DR2011-2371-A14 - 4 штуки",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68843
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1106252,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1524160,
+        "annex": true,
+        "name": "из синтетической ткани: юбка, артикул RG-ST4008-2419-A14 - 5 штук",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68848
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1106253,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1524161,
+        "annex": true,
+        "name": "из синтетической ткани: платья, артикулы RG-DR2000-2391-A14 - 7 штук, RG-DR2008-2379-A14 - 4 штуки, RG-ST4007-2392-A14 - 4 штуки, G0205K2178P8A - 6 штук",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68840
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1106254,
+            "name": "ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 996102,
+      "idPerson": 4014478,
+      "idEmployee": null,
+      "firstName": "Ольга",
+      "surname": "Малькова",
+      "patronimyc": "Владимировна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1495016,
+      "idStatus": 1,
+      "beginDate": "2014-10-29T15:23:05",
+      "endDate": "2015-10-26T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:30:07.777",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1495017,
+      "idStatus": 1,
+      "beginDate": "2015-10-26T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:30:07.777",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1035486,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "61f70b12-1d75-4d2b-ac79-9e6f75902d25",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

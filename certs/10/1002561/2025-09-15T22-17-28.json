@@ -1,0 +1,511 @@
+{
+  "idCertificate": 1002561,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-TW.АГ21.В.01288",
+  "certRegDate": "2014-11-05",
+  "certEndDate": "2019-11-04",
+  "idBlank": 205636,
+  "blankNumber": "0205636",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 243675,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 173311,
+          "blankNumber": "0173311"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2011866,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 3,
+    "fullName": "Lite-On Technology Corporation",
+    "shortName": null,
+    "idPerson": 4014564,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1007585,
+        "idContactType": 1,
+        "value": "+886222226181"
+      },
+      {
+        "idContact": 1007586,
+        "idContactType": 3,
+        "value": "+886232342784"
+      },
+      {
+        "idContact": 1007587,
+        "idContactType": 4,
+        "value": "Sophia.Pi@liteon.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4756982,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Тайвань, 90, Chien I Road, Chung Ho, Taipei Hsien 235",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2011867,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "Lite-On Technology Corporation",
+    "shortName": null,
+    "idPerson": 4014565,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4756983,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Тайвань, 90, Chien I Road, Chung Ho, Taipei Hsien 235",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 638076,
+        "annex": true,
+        "fullName": "1. LITE-ON TECHNOLOGY (CHANGZHOU) CO., LTD.",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 4756984,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "Китай, No. 88, Yanghu Road, Wujin Hi-Tech Industrial Development Zone, Jiangsu Province",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 638077,
+        "annex": true,
+        "fullName": "2. Lite-On Power Technology (Dongguan) Co. Ltd.",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 4756985,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "Китай, No.1, Zhen An Rd., Shang Jiao Sec., Chang An Town Dongguan City,Guangdong",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 638078,
+        "annex": true,
+        "fullName": "3. Liteon Electronics (Guangzhou) Ltd.",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 4756986,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "Китай, NO. 25, GuangPU west. Rd.,  Science Park GuangZhou Hi- Tech industrial Zone , Guangzhou City, GuangDong province ",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1005971,
+    "fullName": "Орган по сертификации продукции \"ГОСТ-АЗИЯ РУС\" АНО \"Центр \"ГОСТ АЗИЯ РУС\" по подтверждению соответствия продукции и иных объектов, процессов, работ и услуг стандартам, регламентам, правилам и договорам\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ21",
+    "attestatRegDate": "2011-03-16",
+    "attestatEndDate": null,
+    "idRal": 6256,
+    "ogrn": null,
+    "idPerson": 4014567,
+    "firstName": "В.",
+    "surname": "Воробьев",
+    "patronymic": "Ф.",
+    "contacts": [
+      {
+        "idContact": 644182,
+        "idContactType": 1,
+        "value": "+74992530157"
+      },
+      {
+        "idContact": 644183,
+        "idContactType": 4,
+        "value": "gostasia@umail.ru"
+      },
+      {
+        "idContact": 644184,
+        "idContactType": 4,
+        "value": "standard@umail.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4756987,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115191",
+        "fullAddress": "115191,Москва, ул. 2-ая Рощинская, 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4756988,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115191",
+        "fullAddress": "115191,г. Москва, ул. 2-ая Рощинская, д. 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1005976,
+    "idProductOrigin": "158",
+    "fullName": "Блоки питания для информационной техники ",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "hp модель Series PPP012L-E, \nизготовлены в соответствии с ТР ТС 004/2011, ТР ТС 020/2011\n",
+    "identifications": [
+      {
+        "idIdentification": 1524187,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74052
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Срок службы продукции 5 лет.\nМаркетинговое наименование продукции: AC Adapter  90 Watt Smart PFC 3pin\n",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1106276,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1020146,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 996124,
+      "idPerson": 4014566,
+      "idEmployee": null,
+      "firstName": "Светлана",
+      "surname": "Злобина",
+      "patronimyc": "Александровна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1495047,
+      "idStatus": 6,
+      "beginDate": "2014-11-05T16:40:41",
+      "endDate": "2019-11-05T01:25:43.981",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:30:07.777",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 3700079,
+      "idStatus": 1,
+      "beginDate": "2019-11-05T01:25:43.981",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2019-11-05T01:25:44.098",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1035508,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "62020fc8-6525-40e9-8cb7-37041c84b7be",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

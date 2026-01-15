@@ -1,0 +1,506 @@
+{
+  "idCertificate": 1009179,
+  "idTechnicalReglaments": [],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-BE.АГ40.В.09223",
+  "certRegDate": "2012-07-12",
+  "certEndDate": "2015-07-11",
+  "idBlank": 1467193,
+  "blankNumber": "1467193",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 244765,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 287916,
+          "blankNumber": "0287916"
+        }
+      ]
+    },
+    {
+      "idAnnex": 244766,
+      "idType": 5,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 287915,
+          "blankNumber": "0287915"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2025102,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": null,
+    "fullName": "\"Tenneco Automotive Europe Bvba\";Avenue du Bourgetlan 50, 1130 Brussels, Belgium, Бельгия",
+    "shortName": null,
+    "idPerson": 4040970,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4784026,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2025103,
+    "idEgrul": null,
+    "idLegalSubjectType": null,
+    "fullName": "\"Tenneco Automotive Europe N.V.\". Филиалы завода-изготовителя согласно Приложению(бланк № 0287916);Industriezone A-Schurhovenveld 1037 B-3800 St. Truiden, Бельгия",
+    "shortName": null,
+    "idPerson": 4040971,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4784027,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 640257,
+        "annex": true,
+        "fullName": "Изготовитель:",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640258,
+        "annex": true,
+        "fullName": "\"Tenneco Automotive Europe\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640259,
+        "annex": true,
+        "fullName": "Филиалы завода-изготовителя:",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640260,
+        "annex": true,
+        "fullName": "\"Monroe Paragould\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640261,
+        "annex": true,
+        "fullName": "\"Monroe Harwell\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640262,
+        "annex": true,
+        "fullName": "\"Monroe  Cozad\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640263,
+        "annex": true,
+        "fullName": "\"Monroe  Owen Sound\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640264,
+        "annex": true,
+        "fullName": "\"Monroe Celaya\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640265,
+        "annex": true,
+        "fullName": "\"FricRot Rosario\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640266,
+        "annex": true,
+        "fullName": "\"Monroe Mogi Mirim\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640267,
+        "annex": true,
+        "fullName": "\"Monroe Hodkovice\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640268,
+        "annex": true,
+        "fullName": "\"Monroe Gliwice\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640269,
+        "annex": true,
+        "fullName": "\"Monroe Ermua\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640270,
+        "annex": true,
+        "fullName": "\"Monroe Gijon\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640271,
+        "annex": true,
+        "fullName": "\"Monroe Port Elisabeth\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640272,
+        "annex": true,
+        "fullName": "\"Tenneco Beijing Ride Control System Co. Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640273,
+        "annex": true,
+        "fullName": "\"Tenneco RC India\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640274,
+        "annex": true,
+        "fullName": "\" Tenneco RC India\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640275,
+        "annex": true,
+        "fullName": "\"Tenneco RC India Pvt Ltd Pondicherry\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640276,
+        "annex": true,
+        "fullName": "\"Monroe Australia\"",
+        "shortName": null,
+        "addresses": []
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1012589,
+    "fullName": "ООО \"УЭС-Калининград\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ40",
+    "attestatRegDate": null,
+    "attestatEndDate": null,
+    "idRal": 17205,
+    "ogrn": "1093925033102",
+    "idPerson": 4040973,
+    "firstName": "А.",
+    "surname": "Денисов",
+    "patronymic": "С.",
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4784028,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "236006",
+        "fullAddress": "236006, г. Калининград, ул. Генерала Павлова, 40-14, тел. (495) 5009731, факс (495) 5009731, E-mail ues-kaliningrad@mail.ru",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1012594,
+    "idProductOrigin": "056",
+    "fullName": "Амортизаторы, защитные и установочные комплекты гидропневматические упругие элементы для автомобилей, автобусов и прицепов по номенклатурным каталогам \"Monroe\" (Catalogue 2011, South African Catalogue 2009/2010, Master Catoligue 2008/2009, Master Catoligue 2010/2011, Catalogue for Commercial Vechicles 2010/2011) см. Приложение (бланк № 0287915)",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": null,
+    "identifications": [
+      {
+        "idIdentification": 1534242,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Сертификат соответствия системы менеджмента качества,требованиям ISO/TS 16949 Заявка № 673 от 25.05.2011",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1113168,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1026936,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": "Технический регламент о безопасности колесных транспортных средств (Постановление Правительства РФ от 10.09.2009 N 720);",
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 1002676,
+      "idPerson": 4040972,
+      "idEmployee": null,
+      "firstName": null,
+      "surname": "М.В. Кожевников",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1503830,
+      "idStatus": 1,
+      "beginDate": "2012-07-12T00:00:00",
+      "endDate": "2015-07-11T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:38:27.08",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1503831,
+      "idStatus": 1,
+      "beginDate": "2015-07-11T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:38:27.08",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1042135,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "6628bd61-f54f-3d6e-4425-7a38002579c7",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

@@ -1,0 +1,566 @@
+{
+  "idCertificate": 100232,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-SE.АЯ46.В.82823",
+  "certRegDate": "2017-11-15",
+  "certEndDate": "2020-11-14",
+  "idBlank": 590978,
+  "blankNumber": "0590978",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53729,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 417370,
+          "blankNumber": "0417370"
+        }
+      ]
+    },
+    {
+      "idAnnex": 53730,
+      "idType": 2,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 417369,
+          "blankNumber": "0417369"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207289,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "\"IKEA of Sweden AB\" в лице уполномоченного изготовителем представителя (Общество с ограниченной ответственностью \"ИКЕА ТОРГ\" по договору на выполнение функции иностранного изготовителя № б/н от 26 октября 2012 г. ОГРН: 1035009550070. Адрес: 141400, Московская область, город Химки, микрорайон ИКЕА, корпуc 1. Телефон: 4957375301, E-mail: customerrelations@ikea.com)",
+    "shortName": null,
+    "idPerson": 417027,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250638,
+        "idContactType": 1,
+        "value": "+46476648500"
+      },
+      {
+        "idContact": 250639,
+        "idContactType": 4,
+        "value": "iosprcru@ikea.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 635443,
+        "idAddrType": 1,
+        "idCodeOksm": "752",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ШВЕЦИЯ, Box 702, 343 81 Almhult, Sweden",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207290,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"IKEA of Sweden AB\"",
+    "shortName": null,
+    "idPerson": 417028,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 635444,
+        "idAddrType": 1,
+        "idCodeOksm": "752",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ШВЕЦИЯ, Box 702, 343 81 Almhult, Sweden",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 147773,
+        "annex": true,
+        "fullName": "FUJIAN HONGBO OPTO-ELECTRONICS TECHNOLOGY CO., LTD\t ",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 635445,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, BUILDING NO.6&7, HONGBO OPTO-ELECTRONICS PARK, NO.772, QI‘AN ROAD, CANGSHAN AREA, FUZHOU CITY, FUJIAN PROVINCE, 350008, CHINA",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 147774,
+        "annex": true,
+        "fullName": null,
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 635446,
+            "idAddrType": 1,
+            "idCodeOksm": "643",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": null,
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103636,
+    "fullName": "Орган по сертификации \"РОСТЕСТ- Москва\" Акционерного общества \"Региональный орган по сертификации и тестированию\" ",
+    "accredOrgName": "Росаккредитация",
+    "attestatRegNumber": "RA.RU.10АЯ46",
+    "attestatRegDate": "2015-04-27",
+    "attestatEndDate": null,
+    "idRal": 8887,
+    "ogrn": null,
+    "idPerson": 417030,
+    "firstName": "Александр",
+    "surname": "Коротенков",
+    "patronymic": "Викторович",
+    "contacts": [
+      {
+        "idContact": 192523,
+        "idContactType": 1,
+        "value": "+74956682715"
+      },
+      {
+        "idContact": 192524,
+        "idContactType": 1,
+        "value": "+74991291911"
+      },
+      {
+        "idContact": 192525,
+        "idContactType": 4,
+        "value": "info@rostest.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 635448,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117418",
+        "fullAddress": "117418, РОССИЯ, город Москва, пр-кт. Нахимовский, д. 31",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 635447,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117418",
+        "fullAddress": "117418, Российская Федерация, г. Москва, Нахимовский проспект, д. 31",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103634,
+    "idProductOrigin": "752",
+    "fullName": "Светильники подвесные светодиодные \"IKEA\" ",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "Модель: J1705 с блоком питания KMUV-050-060-GS-2 торговое название СОЛВИДЕН. Директива 2014/35/EU ЕВРОПЕЙСКОГО ПАРЛАМЕНТА И СОВЕТА от 26 февраля 2014 г. «О гармонизации законодательств государств-членов в области размещения на рынке электрооборудования, предназначенного для использования в определенных пределах напряжения». ДИРЕКТИВА 2014/30/ЕU ЕВРОПЕЙСКОГО ПАРЛАМЕНТА И СОВЕТА от 26 февраля 2014 г. «О гармонизации законодательств государств-членов ЕС в области электромагнитной совместимости».",
+    "identifications": [
+      {
+        "idIdentification": 185774,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          77140
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Срок службы 20000 часов. Условия хранения указаны в технической документации изготовителя. Предприятие-изготовитель продукции (см. Приложение бланк &#8470; 0417369). Обозначение и наименование стандартов (см. Приложение бланк &#8470; 0417370). Оценка соответствия проведена на основе анализа рисков.",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116745,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 106960,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.3-2013 (IEC 61000-3-3:2008).\t\t",
+            "name": "Совместимость технических средств электромагнитная. Ограничение изменений напряжения, колебаний напряжения и фликера в низковольтных системах электроснабжения общего назначения. Технические средства с потребляемым током не более 16 А (в одной фазе), подключаемые к электрической сети при несоблюдении определенных условий подключения. Нормы и методы испытаний. \t\t\t",
+            "section": null,
+            "addlInfo": "Раздел 5.",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106959,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.2-2013 (IEC 61000-3-2:2009). \t\t",
+            "name": "Совместимость технических средств электромагнитная. Эмиссия гармонических составляющих тока техническими средствами с потребляемым током не более 16 А (в одной фазе). Нормы и методы испытаний. \t\t\t",
+            "section": null,
+            "addlInfo": "Разделы 5 и 7.",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106958,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "СТБ ЕН 55015-2006. \t\t",
+            "name": "Электромагнитная совместимость. Радиопомехи от электрического светового и аналогичного оборудования. Нормы и методы измерений.\t\t",
+            "section": null,
+            "addlInfo": "Разделы 4, 5",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106957,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 61547-2013. \t",
+            "name": "Электромагнитная совместимость. Помехоустойчивость светового оборудования общего назначения. Требования и методы испытаний.\t\t\t",
+            "section": null,
+            "addlInfo": "Раздел 5.",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106956,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 62031-2011. \t",
+            "name": "Модули светоизлучающих диодов для общего   освещения. Требования безопасности. ",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106955,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 62493-2014. \t\t",
+            "name": "Оценка осветительного оборудования, связанная с влиянием на человека электромагнитных полей.\t",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106954,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60598-2-1-2011. ",
+            "name": "Светильники. Часть 2. Частные требования. Раздел 4. Светильники стационарные общего назначения.",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106953,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60598-1-2013. \n\n",
+            "name": "Светильники. Часть 1. Общие требования и методы испытаний.",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106952,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106083,
+      "idPerson": 417029,
+      "idEmployee": null,
+      "firstName": "Ольга",
+      "surname": "Круглова",
+      "patronimyc": "Николаевна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121862,
+      "idStatus": 6,
+      "beginDate": "2017-11-16T08:55:10",
+      "endDate": "2020-11-15T01:06:55.942",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 4005546,
+      "idStatus": 1,
+      "beginDate": "2020-11-15T01:06:55.942",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2020-11-15T01:06:56.127",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112453,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "607ff5bd-7d45-4cda-a9ec-77bc78c1bcc4",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

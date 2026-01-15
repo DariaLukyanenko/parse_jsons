@@ -1,0 +1,1278 @@
+{
+  "idCertificate": 1006432,
+  "idTechnicalReglaments": [],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-PL.АГ92.В.06754",
+  "certRegDate": "2012-05-23",
+  "certEndDate": "2015-05-22",
+  "idBlank": 1481557,
+  "blankNumber": "1481557",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 244314,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 405969,
+          "blankNumber": "0405969"
+        },
+        {
+          "idBlank": 405967,
+          "blankNumber": "0405967"
+        },
+        {
+          "idBlank": 405968,
+          "blankNumber": "0405968"
+        },
+        {
+          "idBlank": 405966,
+          "blankNumber": "0405966"
+        },
+        {
+          "idBlank": 405971,
+          "blankNumber": "0405971"
+        },
+        {
+          "idBlank": 405970,
+          "blankNumber": "0405970"
+        }
+      ]
+    },
+    {
+      "idAnnex": 244315,
+      "idType": 3,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 405965,
+          "blankNumber": "0405965"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2019608,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": null,
+    "fullName": "«POLCAR» PPH;02-619 Warsaw, ul. Wejnerta 19, Польша",
+    "shortName": null,
+    "idPerson": 4030012,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4772829,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2019609,
+    "idEgrul": null,
+    "idLegalSubjectType": null,
+    "fullName": "«POLCAR» PPH;02-619 Warsaw, ul. Wejnerta 19, Польша",
+    "shortName": null,
+    "idPerson": 4030013,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4772830,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 639444,
+        "annex": true,
+        "fullName": "«EMBO S.p.A.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639445,
+        "annex": true,
+        "fullName": "«Euro Stamp S.r.L.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639446,
+        "annex": true,
+        "fullName": "«Truck-LITE Europe sp.z.o.o.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639447,
+        "annex": true,
+        "fullName": "\"Truck Lite\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639448,
+        "annex": true,
+        "fullName": "«Sogefi Filter Division»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639449,
+        "annex": true,
+        "fullName": "«Sogefi Filtration S.p.A. »",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639450,
+        "annex": true,
+        "fullName": "«GENERAL RICAMBI S.p.A.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639451,
+        "annex": true,
+        "fullName": "«GLO S.r.l.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639452,
+        "annex": true,
+        "fullName": "«GORDON AUTO BODY PARTS CO. LTD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639453,
+        "annex": true,
+        "fullName": "«Rockwood Italia S.P.A.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639454,
+        "annex": true,
+        "fullName": "«HellaKgaAHuek&Co»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639455,
+        "annex": true,
+        "fullName": "«Heng Fu Industrial Co. LTD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639456,
+        "annex": true,
+        "fullName": "«ICER BRAKES S.A.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639457,
+        "annex": true,
+        "fullName": "«I.S.A.M. S.p.A.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639458,
+        "annex": true,
+        "fullName": "«JESSE LAI  Incorporation»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639459,
+        "annex": true,
+        "fullName": "«Kale Oto Radyator Sanayi Veticaret A.S.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639460,
+        "annex": true,
+        "fullName": "«Klokkerholm Karosseridele A.S»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639461,
+        "annex": true,
+        "fullName": "«PT. KOYO JAYA INDONESIA»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639462,
+        "annex": true,
+        "fullName": "«Shaeffler Automotive Aftermarket GmbH& Co KG»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639463,
+        "annex": true,
+        "fullName": "«MagnetiMarelli Automotive Components Co. LTD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639464,
+        "annex": true,
+        "fullName": "«Wai Ming Auto Industries  Ltd»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639465,
+        "annex": true,
+        "fullName": "«Visteon Autopal S.r.O. »",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639466,
+        "annex": true,
+        "fullName": "«PULO Industrial Co Ltd. »",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639467,
+        "annex": true,
+        "fullName": "«TAIWAN KAI YIH INDUSTRIAL CO. LTD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639468,
+        "annex": true,
+        "fullName": "«Auto Parts Industry Co., LTD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639469,
+        "annex": true,
+        "fullName": "«SIMHOONG AUTO PARTS INDUSTRY Co. LTD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639470,
+        "annex": true,
+        "fullName": "«Re - Go Autoparts Ltd. Lenco House»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639471,
+        "annex": true,
+        "fullName": "«OT-SA OTOMOTIV SANAYI VE TIC.LTD. STI»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639472,
+        "annex": true,
+        "fullName": "«Polígono Industrial GOITONDO»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639473,
+        "annex": true,
+        "fullName": "«Zaklad Produkcyjny WESEM D.M.T. Hajduk Spolka jawna»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639474,
+        "annex": true,
+        "fullName": "«Cryomax Cooling System Corp. »",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639475,
+        "annex": true,
+        "fullName": "«SPJ - Espejos Retrovisores»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639476,
+        "annex": true,
+        "fullName": "«SHANGHAI SIMYI AUTO PARTS INDUSTRY CO. LTD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639477,
+        "annex": true,
+        "fullName": "«OWL LIHGT AUTOMOTIVE PRODUCTS MFG.CORP. »",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639478,
+        "annex": true,
+        "fullName": "«Auto Global Parts Industries Sdn. Bhd. »",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639479,
+        "annex": true,
+        "fullName": "«NEW HOONG FATT HOLDINGS BERHAD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639480,
+        "annex": true,
+        "fullName": "«Olsa S.p.A»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639481,
+        "annex": true,
+        "fullName": "«CHUNG FU CHING ENTERPRISE CO., LTD. »",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639482,
+        "annex": true,
+        "fullName": "«Metagal Industria e Comercio Ltda. »",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639483,
+        "annex": true,
+        "fullName": "«M & J Auto Parts LLC »",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639484,
+        "annex": true,
+        "fullName": "«CHIAN WAY AUTO BODY PARTS CO., LTD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639485,
+        "annex": true,
+        "fullName": "«SHUN SHING GROUP INTERNATIONAL Ltd. »",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639486,
+        "annex": true,
+        "fullName": "«China Flame Group Limited»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639487,
+        "annex": true,
+        "fullName": "«Ferdinand Bilstein GmbH+Co.KG.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639488,
+        "annex": true,
+        "fullName": "«Technical Product marketing Aussenhandels Geselschaft mbH»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639489,
+        "annex": true,
+        "fullName": "«SAFE WAY »",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639490,
+        "annex": true,
+        "fullName": "«INDUSTRIAS ARTEB S.A.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639491,
+        "annex": true,
+        "fullName": "«AIR TOP  ITALIAS.r.L.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639492,
+        "annex": true,
+        "fullName": "«Auto Parts Industrial Co., Ltd»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639493,
+        "annex": true,
+        "fullName": "«AUTOLITE INDIA LIMITED HED LAMP DIVISION»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639494,
+        "annex": true,
+        "fullName": "«Behr Hella Service GmbH»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639495,
+        "annex": true,
+        "fullName": "«Thyssenkrupp Bilstein GmbH»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639496,
+        "annex": true,
+        "fullName": "«Robert Bosch GmbH»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639497,
+        "annex": true,
+        "fullName": "«BUGATTI AUTORICAMBI S.P.A.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639498,
+        "annex": true,
+        "fullName": "«Complex S.A.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639499,
+        "annex": true,
+        "fullName": "«Delphi Poland S.A. Oddzial w OstrowieWielkopolskim»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639500,
+        "annex": true,
+        "fullName": "«DENSO Corporation»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639501,
+        "annex": true,
+        "fullName": "«Depo Auto Parts Industrial Co., LTD.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639502,
+        "annex": true,
+        "fullName": "«Joao de Deus &Filhos S.A.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639503,
+        "annex": true,
+        "fullName": "«DJ AUTO ComponentsCorp.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639504,
+        "annex": true,
+        "fullName": "«AVA Benelux»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639505,
+        "annex": true,
+        "fullName": "«Depo Auto Parts Industrial Co., Ltd»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639506,
+        "annex": true,
+        "fullName": "«Schaeffler Automotive Aftarmarket GmbH &Co. K.G.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639507,
+        "annex": true,
+        "fullName": "«EUROBUMP AUTOMOTIV SAN.VE TIC A.S.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639508,
+        "annex": true,
+        "fullName": "«S.P.M.P. SRL»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639509,
+        "annex": true,
+        "fullName": "«CAPAT s.r.l.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639510,
+        "annex": true,
+        "fullName": "«Chang   Zhou FeituoMoulded Plastics Co., Ltd»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639511,
+        "annex": true,
+        "fullName": "«YETAO Automobile Parts Industrial Co., Ltd»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639512,
+        "annex": true,
+        "fullName": "«CLIMETAL»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639513,
+        "annex": true,
+        "fullName": "«EAGLE EYES TRAFFIC IND.CO.Ltd. »",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639514,
+        "annex": true,
+        "fullName": "«Y.C.C. Parts MGF.CO»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639515,
+        "annex": true,
+        "fullName": "«PRO FORTUNE INDUSTRIAL CO LTD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639516,
+        "annex": true,
+        "fullName": "«COBRA KING INDUSTRY CO. LTD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639517,
+        "annex": true,
+        "fullName": "«DENJI TRAFFIC EQUIPMENTS CO. LTD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639518,
+        "annex": true,
+        "fullName": "«Eurolites S.p.A»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639519,
+        "annex": true,
+        "fullName": "«MARS OTOMOTIV SANAY VE TICARET A.S. »",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639520,
+        "annex": true,
+        "fullName": "«Metelli S.p.A. »",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639521,
+        "annex": true,
+        "fullName": "«Autogamma S.P.A. »",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639522,
+        "annex": true,
+        "fullName": "«Rdiadiresordones S.A. »",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639523,
+        "annex": true,
+        "fullName": "«Suplex GmbH»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639524,
+        "annex": true,
+        "fullName": "«Teknorot Otomotiv Urunleri A.S.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639525,
+        "annex": true,
+        "fullName": "«Tevema kudowa Sp.z.o.o.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639526,
+        "annex": true,
+        "fullName": "«Tong Yang Industry  Co. LTD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639527,
+        "annex": true,
+        "fullName": "«TYC BROTHER INDUSTRIAL CO., LTD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639528,
+        "annex": true,
+        "fullName": "«Odelo Deutschland GmbH»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639529,
+        "annex": true,
+        "fullName": "«Valeo Service Eastern Europe Sp.Z.o.o.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639530,
+        "annex": true,
+        "fullName": "\"Valeo Division VSDW B42\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639531,
+        "annex": true,
+        "fullName": "«View Max Industrial Co. Ltd.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639532,
+        "annex": true,
+        "fullName": "«Zaklad Produkcyjny WESEM D.M.T. Hajduk Spolkajawna»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639533,
+        "annex": true,
+        "fullName": "«YIH Sheng AUTO PARTS IND.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639534,
+        "annex": true,
+        "fullName": "«Neolite ZKW Lighting Pvt. Ltd»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639535,
+        "annex": true,
+        "fullName": "\"Magneti Marelli Aftermarket S.p.A.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639536,
+        "annex": true,
+        "fullName": "«MA-PA MAKINA PARCALARI END.A.S.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639537,
+        "annex": true,
+        "fullName": "«Olman S.p.A.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639538,
+        "annex": true,
+        "fullName": "«ORAN S.A.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639539,
+        "annex": true,
+        "fullName": "«Rdiadiresordones S.A.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639540,
+        "annex": true,
+        "fullName": "«PHIRA COMPONENTES AUTOMOCION S.A.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639541,
+        "annex": true,
+        "fullName": "«Plasting Processing»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639542,
+        "annex": true,
+        "fullName": "«POLCAR P.P.H.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639543,
+        "annex": true,
+        "fullName": "«FENDER P.P.H.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639544,
+        "annex": true,
+        "fullName": "«TOVLENT S.A.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639545,
+        "annex": true,
+        "fullName": "«R2A SRL»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639546,
+        "annex": true,
+        "fullName": "«Rhibo S.p.A.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639547,
+        "annex": true,
+        "fullName": "«Shin Hsiang Auto Parts Co. ltd.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639548,
+        "annex": true,
+        "fullName": "«SONAR AUTO PARTS CO. LTD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639549,
+        "annex": true,
+        "fullName": "«SOREA»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639550,
+        "annex": true,
+        "fullName": "«Shock Absorber Co. Ltd»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639551,
+        "annex": true,
+        "fullName": "«Machinery Coltd.»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639552,
+        "annex": true,
+        "fullName": "«Automotive Fittings Co, LTD»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639553,
+        "annex": true,
+        "fullName": "«Zhejiang Vibration Control Co. Ltd»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639554,
+        "annex": true,
+        "fullName": "«LAMPS LTD.»",
+        "shortName": null,
+        "addresses": []
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1009842,
+    "fullName": "Орган по сертификации продукции ООО \"КапиталСтрой\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ92",
+    "attestatRegDate": null,
+    "attestatEndDate": null,
+    "idRal": 11509,
+    "ogrn": "1107746552671",
+    "idPerson": 4030015,
+    "firstName": "А.",
+    "surname": "Ащеулов",
+    "patronymic": "А.",
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4772831,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115093",
+        "fullAddress": "115093, г. Москва, Партийный переулок д. 1, корп. 58, стр. 1, оф. 313, тел. (495) 6605025, факс (495) 6605025, E-mail Kapitalstroy-sert@bk.ru",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1009847,
+    "idProductOrigin": "616",
+    "fullName": "Унифицированные узлы и детали транспортных средств, т.м. (см. приложение на 1 листе, бланк № 0405965)",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": null,
+    "identifications": [
+      {
+        "idIdentification": 1529979,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1110339,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1024122,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": "Технический регламент о безопасности колесных транспортных средств (Постановление Правительства РФ от 10.09.2009 № 720, с изменениями, принятыми Постановлением Правительства РФ от 10.09.2010 № 706);",
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      },
+      {
+        "idIdentification": 1529980,
+        "annex": true,
+        "name": "Унифицированные узлы и детали транспортных средств, т.м.:",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1529981,
+        "annex": true,
+        "name": "«CX»,  «FEBI », «SH», «SRLine», «SRL»,  «Teknorot»,«MA-PA»",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1529982,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1529983,
+        "annex": true,
+        "name": "опоры амортизатора, двигателя, карданного вала, опоры пружин, отбойники пыльники, втулки",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1529984,
+        "annex": true,
+        "name": "Действие сертификата соответствия распространяется на изделия, указанные в сертификате соответствия, независимо от страны происхождения этих изделий.",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 999959,
+      "idPerson": 4030014,
+      "idEmployee": null,
+      "firstName": null,
+      "surname": "Д.С. Блинов",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1500195,
+      "idStatus": 1,
+      "beginDate": "2012-05-23T00:00:00",
+      "endDate": "2015-05-22T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:34:43.775",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1500196,
+      "idStatus": 1,
+      "beginDate": "2015-05-22T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:34:43.775",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1039384,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "b491d786-313a-d2cf-4425-79ec001e1044",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

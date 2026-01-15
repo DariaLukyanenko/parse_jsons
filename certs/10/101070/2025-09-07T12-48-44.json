@@ -1,0 +1,573 @@
+{
+  "idCertificate": 101070,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-TW.АГ21.В.02661",
+  "certRegDate": "2017-06-16",
+  "certEndDate": "2023-06-15",
+  "idBlank": 423717,
+  "blankNumber": "0423717",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 54177,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 298783,
+          "blankNumber": "0298783"
+        }
+      ]
+    },
+    {
+      "idAnnex": 54178,
+      "idType": 2,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 298788,
+          "blankNumber": "0298788"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 208965,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "Автономная некоммерческая организация “Центр экспертных программ ВОК”         \n(уполномоченная изготовителем BenQ Corporation (Тайвань))",
+    "shortName": null,
+    "idPerson": 420400,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1047732007355",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 252701,
+        "idContactType": 1,
+        "value": "+74959602015"
+      },
+      {
+        "idContact": 252702,
+        "idContactType": 4,
+        "value": "cepvok@yandex.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 641499,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, 115419, г. Москва, 2-й Рощинский пр-д, д. 8, корп. 4",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 641500,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, 119 618, г. Москва, ул. 50 лет Октября, д.4",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 208966,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "BenQ Corporation",
+    "shortName": null,
+    "idPerson": 420401,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 641501,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ТАЙВАНЬ, 16 Jihu Road, Neihu, Taipei 114",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 149834,
+        "annex": true,
+        "fullName": "1. Qisda Corporation.",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 641502,
+            "idAddrType": 1,
+            "idCodeOksm": "158",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "ТАЙВАНЬ (КИТАЙ), No. 157, Shan-Ying Road, Gueishan, Taoyuan",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 149835,
+        "annex": true,
+        "fullName": "2. Qisda (Suzhou) Co., Ltd.",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 641503,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, No. 169, Zhujiang Road, New District, Suzhou, Jiangsu Province",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 104474,
+    "fullName": "Орган по  сертификации продукции \"ГОСТ - АЗИЯ РУС\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АГ21",
+    "attestatRegDate": "2016-03-01",
+    "attestatEndDate": null,
+    "idRal": 6256,
+    "ogrn": null,
+    "idPerson": 420403,
+    "firstName": "Вадим",
+    "surname": "Воробьев",
+    "patronymic": "Федорович",
+    "contacts": [
+      {
+        "idContact": 194193,
+        "idContactType": 1,
+        "value": "+74956400914"
+      },
+      {
+        "idContact": 194194,
+        "idContactType": 4,
+        "value": "gostasia@umail.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 641504,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115191",
+        "fullAddress": "115191,Москва, ул. 2-ая Рощинская, 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 641505,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115191",
+        "fullAddress": "115191,г. Москва, ул. 2-ая Рощинская, д. 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 104472,
+    "idProductOrigin": "158",
+    "fullName": "Цветные мониторы с жидкокристаллическим дисплеем  ",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "BenQ модель XL2536*** \n(где «*» = 0-9, A-Z, a-z, «+», «-», «\\ », «/» или пробел)\n",
+    "identifications": [
+      {
+        "idIdentification": 187564,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74618
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Условия хранения: при температуре от минус  20&#176;С до плюс 60&#176;С и относительной влажности от 10% до 60%, без конденсации. Срок службы продукции 5 лет. ",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117699,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 108016,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.3-2013",
+            "name": "Совместимость технических средств электромагнитная. Ограничение изменений напряжения, колебаний напряжения и фликера в низковольтных системах электроснабжения общего назначения. Технические средства с потребляемым током не более 16 а (в одной фазе), подключаемые к электрической сети при несоблюдении определенных условий подключения. Нормы и методы испытаний",
+            "section": null,
+            "addlInfo": "Раздел 5",
+            "idStatus": null
+          },
+          {
+            "idStandard": 108015,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.2-2013",
+            "name": "Совместимость технических средств электромагнитная. Эмиссия гармонических составляющих тока техническими средствами с потребляемым током не более 16 А (в одной фазе). Нормы и методы испытаний ",
+            "section": null,
+            "addlInfo": "Разделы 5 и 7",
+            "idStatus": null
+          },
+          {
+            "idStandard": 108014,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ CISPR 24-2013",
+            "name": "Совместимость технических средств электромагнитная. Оборудование информационных технологий. Устойчивость к электромагнитным помехам. Требования и методы испытаний",
+            "section": null,
+            "addlInfo": "Раздел 5",
+            "idStatus": null
+          },
+          {
+            "idStandard": 108013,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30805.22-2013",
+            "name": "Совместимость технических средств электромагнитная. Оборудование информационных технологий. Радиопомехи индустриальные. Нормы и методы измерений",
+            "section": null,
+            "addlInfo": "Разделы 4-6",
+            "idStatus": null
+          },
+          {
+            "idStandard": 108012,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 62311-2013",
+            "name": "Оценка электронного и электрического оборудования в отношении ограничений воздействия на человека электромагнитных полей (0 МГц – 300 ГГц)",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 108011,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60950-1-2014",
+            "name": "Оборудование информационных технологий. Требования\nбезопасности. Часть 1. Общие требования\n",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 108010,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106942,
+      "idPerson": 420402,
+      "idEmployee": null,
+      "firstName": "Светлана",
+      "surname": "Кудрявцева",
+      "patronimyc": "Алексеевна"
+    },
+    {
+      "idExpert": 2733690,
+      "idPerson": 12862755,
+      "idEmployee": null,
+      "firstName": "Светлана",
+      "surname": "Кудинова",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122851,
+      "idStatus": 6,
+      "beginDate": "2017-06-16T13:41:50",
+      "endDate": "2023-06-16T01:18:31.309",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T15:01:48.695",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5977527,
+      "idStatus": 1,
+      "beginDate": "2023-06-16T01:18:31.309",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2023-06-16T01:18:31.85",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 113507,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a70253c3-01b1-4978-a5df-2c1f71910d9a",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

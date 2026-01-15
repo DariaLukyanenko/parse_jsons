@@ -1,0 +1,407 @@
+{
+  "idCertificate": 101035,
+  "idTechnicalReglaments": [
+    10
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-RU.АД32.В.00144",
+  "certRegDate": "2017-07-11",
+  "certEndDate": "2023-07-10",
+  "idBlank": 490955,
+  "blankNumber": "0490955",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 54160,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 411118,
+          "blankNumber": "0411118"
+        },
+        {
+          "idBlank": 411123,
+          "blankNumber": "0411123"
+        },
+        {
+          "idBlank": 411119,
+          "blankNumber": "0411119"
+        },
+        {
+          "idBlank": 411120,
+          "blankNumber": "0411120"
+        },
+        {
+          "idBlank": 411121,
+          "blankNumber": "0411121"
+        },
+        {
+          "idBlank": 411122,
+          "blankNumber": "0411122"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 208895,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью Машиностроительный завод «ТОНАР»",
+    "shortName": null,
+    "idPerson": 420257,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1025007458200",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 252613,
+        "idContactType": 1,
+        "value": "+74964148501"
+      },
+      {
+        "idContact": 252614,
+        "idContactType": 4,
+        "value": "designer@tonar.net"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 641329,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idDistrict": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "142635",
+        "fullAddress": "142635, РОССИЯ, Московская Область, Орехово-Зуевский район, деревня Губино,                                  улица 1-я Ленинская, дом 76а",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 208896,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью Машиностроительный завод «ТОНАР»",
+    "shortName": null,
+    "idPerson": 420258,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 641330,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idDistrict": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "142635",
+        "fullAddress": "142635, РОССИЯ, Московская Область, Орехово-Зуевский район, деревня Губино,                                  улица 1-я Ленинская, дом 76а",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 104439,
+    "fullName": "Орган по сертификации Общества с ограниченной ответственностью «Академ Тест» ",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АД32",
+    "attestatRegDate": "2016-09-26",
+    "attestatEndDate": null,
+    "idRal": 3480,
+    "ogrn": null,
+    "idPerson": 420260,
+    "firstName": "Владимир",
+    "surname": "Смирнов",
+    "patronymic": "Анатольевич",
+    "contacts": [
+      {
+        "idContact": 194134,
+        "idContactType": 4,
+        "value": "info@akademtest.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 641331,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "1",
+        "postCode": "117105",
+        "fullAddress": "117105, РОССИЯ, город Москва, ш. Варшавское, дом 25А, стр. 15, ком. 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 641332,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "1",
+        "postCode": "117105",
+        "fullAddress": "117105, РОССИЯ, город Москва, ш. Варшавское, д. 25А, стр. 15, этаж 2, комн. 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 104437,
+    "idProductOrigin": "643",
+    "fullName": "Прицепы тракторные сельскохозяйственные",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "марки ТОНАР категории Ra4, модели: ПТ1, ПТ3 (техническое описание согласно приложению - бланки №№ 0411118 - 0411122)",
+    "identifications": [
+      {
+        "idIdentification": 187512,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          76217
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Условия хранения, срок хранения (службы, годности) продукции указаны в прилагаемой к продукции эксплуатационной документации. Стандарты, обеспечивающие соблюдение требований Технического регламента Таможенного союза ТР ТС 031/2012 \"О безопасности сельскохозяйственных и лесохозяйственных тракторов и прицепов к ним\" (смотри приложение - бланк &#8470; 0411123)",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117663,
+            "name": "Продукция изготовлена в соответствии с ТУ 4739-081-4880669-10 (ПТ1), ТУ 4739-069-48806669-09 (ПТ3)",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106904,
+      "idPerson": 420259,
+      "idEmployee": null,
+      "firstName": "Владимир",
+      "surname": "Успенский",
+      "patronimyc": "Леонидович"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122809,
+      "idStatus": 6,
+      "beginDate": "2017-07-12T16:23:51",
+      "endDate": "2023-07-11T01:54:44.772",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T15:01:48.695",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 6092534,
+      "idStatus": 1,
+      "beginDate": "2023-07-11T01:54:44.772",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2023-07-11T01:54:45.589",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 113472,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a6ae6ccf-34f1-4dfe-8913-ced0bd5fa223",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

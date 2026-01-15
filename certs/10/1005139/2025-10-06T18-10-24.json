@@ -1,0 +1,3155 @@
+{
+  "idCertificate": 1005139,
+  "idTechnicalReglaments": [
+    97148
+  ],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-CN.АГ92.В.31672",
+  "certRegDate": "2013-05-30",
+  "certEndDate": "2016-05-29",
+  "idBlank": 1555139,
+  "blankNumber": "1555139",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 244097,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 482569,
+          "blankNumber": "0482569"
+        },
+        {
+          "idBlank": 482570,
+          "blankNumber": "0482570"
+        },
+        {
+          "idBlank": 482571,
+          "blankNumber": "0482571"
+        },
+        {
+          "idBlank": 482572,
+          "blankNumber": "0482572"
+        },
+        {
+          "idBlank": 482573,
+          "blankNumber": "0482573"
+        },
+        {
+          "idBlank": 482574,
+          "blankNumber": "0482574"
+        },
+        {
+          "idBlank": 482575,
+          "blankNumber": "0482575"
+        },
+        {
+          "idBlank": 482576,
+          "blankNumber": "0482576"
+        },
+        {
+          "idBlank": 482577,
+          "blankNumber": "0482577"
+        },
+        {
+          "idBlank": 482578,
+          "blankNumber": "0482578"
+        },
+        {
+          "idBlank": 482579,
+          "blankNumber": "0482579"
+        },
+        {
+          "idBlank": 482580,
+          "blankNumber": "0482580"
+        },
+        {
+          "idBlank": 482581,
+          "blankNumber": "0482581"
+        },
+        {
+          "idBlank": 482582,
+          "blankNumber": "0482582"
+        },
+        {
+          "idBlank": 482583,
+          "blankNumber": "0482583"
+        },
+        {
+          "idBlank": 482584,
+          "blankNumber": "0482584"
+        }
+      ]
+    },
+    {
+      "idAnnex": 244098,
+      "idType": 3,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 482568,
+          "blankNumber": "0482568"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2017022,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": 3,
+    "fullName": "«CHONGQING LIFAN PASSENGER VEHICLE CO.,LTD/LIFAN MOTOR SALES CO.LTD»",
+    "shortName": null,
+    "idPerson": 4024849,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4767544,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "No 1539 jinkai road, economy development park, northern new district, Chongqing, Китай",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2017023,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "«CHONGQING LIFAN PASSENGER VEHICLE CO.,LTD/LIFAN MOTOR SALES CO.LTD»",
+    "shortName": null,
+    "idPerson": 4024850,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4767545,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "No 1539 jinkai road, economy development park, northern new district, Chongqing, Китай. Филиалы завода-изготовителя",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 638836,
+        "annex": true,
+        "fullName": "\"Anhui Wending Mechinery Co.,ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638837,
+        "annex": true,
+        "fullName": "\"Anhui Zhongding Holding Rubber Shock Absorber Technology Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638838,
+        "annex": true,
+        "fullName": "\"TI Automotive Co., LTD. Chongqing Branch\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638839,
+        "annex": true,
+        "fullName": "\"Bengbu Filters Co., LTD. Chongqing Branch\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638840,
+        "annex": true,
+        "fullName": "\"Beijing Delphi Wanyuan Engine System Management Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638841,
+        "annex": true,
+        "fullName": "\"Beijing Pingjing Car Sound Proofing Supply Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638842,
+        "annex": true,
+        "fullName": "\"Beijing Jinglian Guoyu Brake Pump Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638843,
+        "annex": true,
+        "fullName": "\"Cangzhou Collaborative Mechenical and Electrical Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638844,
+        "annex": true,
+        "fullName": "\"Changchun Xinli Sealing Products Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638845,
+        "annex": true,
+        "fullName": "\"Changzhou Senstar Sensor Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638846,
+        "annex": true,
+        "fullName": "\"Changzhou Alpha Vehicle Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638847,
+        "annex": true,
+        "fullName": "\"Changzhou Chenshi Kaida Autombile Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638848,
+        "annex": true,
+        "fullName": "\"Changzhou Dongchen Vehicle Parts Co., Ltd. \"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638849,
+        "annex": true,
+        "fullName": "\"Changzhou Kangtai Electroacoustic Equipment Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638850,
+        "annex": true,
+        "fullName": "\"Changzhou Kebao Automotive Electronics Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638851,
+        "annex": true,
+        "fullName": "\"Changzhou Tianfa Power Assengly Manufacture Co.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638852,
+        "annex": true,
+        "fullName": "\"Changzhou Xiangrong Vehicle Industry Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638853,
+        "annex": true,
+        "fullName": "\"Chengdu Huachuan Electric Parts Co., Ltd \"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638854,
+        "annex": true,
+        "fullName": "\"Chengdu Shengbang Seals Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638855,
+        "annex": true,
+        "fullName": "\"Chengdu WanYou Filter Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638856,
+        "annex": true,
+        "fullName": "\"Cixi Kedi Vehicle Decorative Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638857,
+        "annex": true,
+        "fullName": "\"Dazhou Jinheng Machinery Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638858,
+        "annex": true,
+        "fullName": "\"Danyang Guomei Automotive Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638859,
+        "annex": true,
+        "fullName": "\"Fuyao Glass Co., Ltd. Chongqing Branch\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638860,
+        "annex": true,
+        "fullName": "\"Fusheng Electronic Techonology Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638861,
+        "annex": true,
+        "fullName": "\"Fuxin Dare Automobile Steering Pump Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638862,
+        "annex": true,
+        "fullName": "\"Guangdong Duo Nale Zhenhua Automotive System Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638863,
+        "annex": true,
+        "fullName": "\"Guangxi Liuzhou Yuming Automobile Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638864,
+        "annex": true,
+        "fullName": "\"Guiyang Yonghong Tengda Machinery Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638865,
+        "annex": true,
+        "fullName": "\"Guizhou HuaChang Automobile Electrics Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638866,
+        "annex": true,
+        "fullName": "\"Hainan Jieli Electrical and Mechenical Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638867,
+        "annex": true,
+        "fullName": "\"Hainan Junda Auto Ornament Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638868,
+        "annex": true,
+        "fullName": "\"Hangzhou Internal Combustion Engine Cylinder Gasket Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638869,
+        "annex": true,
+        "fullName": "\"HANGZHOU XZB TECH CO.,LTD\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638870,
+        "annex": true,
+        "fullName": "\"Hangzhou IVECO Automotive Transmission Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638871,
+        "annex": true,
+        "fullName": "\"Hebei Jiao Rubber Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638872,
+        "annex": true,
+        "fullName": "\"Hebei Shichang Automobile Components and parts Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638873,
+        "annex": true,
+        "fullName": "\"Heibei Xinhua Xinyue Automobile Fitting Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638874,
+        "annex": true,
+        "fullName": "\"Henan Wanxiang Brake System Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638875,
+        "annex": true,
+        "fullName": "\"Henan Province Xixia Automobile Water Pump Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638876,
+        "annex": true,
+        "fullName": "\"Heshan Jieshike Automobile Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638877,
+        "annex": true,
+        "fullName": "\"Hubei Knox Rubber Sealing Techonology Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638878,
+        "annex": true,
+        "fullName": "\"Hubei Tri-Ring Clutch Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638879,
+        "annex": true,
+        "fullName": "\"Hubei Tri-ring Auto Electric Co., ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638880,
+        "annex": true,
+        "fullName": "\"HUBEI SHUANGOU Automotive Trim Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638881,
+        "annex": true,
+        "fullName": "\"China VAGON Cartronics Holding Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638882,
+        "annex": true,
+        "fullName": "\"Huizhou Desay Automobile Electronics Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638883,
+        "annex": true,
+        "fullName": "\"CNGC Jilin Dongguang Group Corporation\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638884,
+        "annex": true,
+        "fullName": "\"Jiangsu Dechang Automobile Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638885,
+        "annex": true,
+        "fullName": "\"Jiangsu Dongfang Auto Parts Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638886,
+        "annex": true,
+        "fullName": "\"Jiangsu Hyde Wright Automobile Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638887,
+        "annex": true,
+        "fullName": "\"Jiangsu Haori Automobile Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638888,
+        "annex": true,
+        "fullName": "\"Jiangsu Tianlong Vehicle Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638889,
+        "annex": true,
+        "fullName": "\"Jiangsu Xintongda Electric Appliance Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638890,
+        "annex": true,
+        "fullName": "\"Jiangsu Xintong Auto Parts Co., Ltd..\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638891,
+        "annex": true,
+        "fullName": "\"Jiangsu Zhongcheng Hengxie Bearing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638892,
+        "annex": true,
+        "fullName": "\"Suzhou Zhongcheng Hengxie Bearing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638893,
+        "annex": true,
+        "fullName": "\"Jiangxi DaJi Car Anneate Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638894,
+        "annex": true,
+        "fullName": "\"Jiangxi Tianyue Automobile Electrics Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638895,
+        "annex": true,
+        "fullName": "\"Jiangyin Huahong Automobile Ornamental parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638896,
+        "annex": true,
+        "fullName": "\"Jiangyin Everise Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638897,
+        "annex": true,
+        "fullName": "\"Jinhua Fortuna Machinery Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638898,
+        "annex": true,
+        "fullName": "\"Jinzhou Jinheng Automotive Safety System Co., ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638899,
+        "annex": true,
+        "fullName": "\"Jingzhou Henglong Auto Parts Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638900,
+        "annex": true,
+        "fullName": "\"Jingjiang Xinyuan Power Equipment Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638901,
+        "annex": true,
+        "fullName": "\"Langfang Yuanxiang Automobile Fittings Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638902,
+        "annex": true,
+        "fullName": "\"Leping Xiangxun Micro-Motor Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638903,
+        "annex": true,
+        "fullName": "\"Lian Wei Auto Parts (Chonqging) Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638904,
+        "annex": true,
+        "fullName": "\"Lin'an DongFang Sliding Bearing Co.,ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638905,
+        "annex": true,
+        "fullName": "\"Liu zhou HuaHang Electric Equipment Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638906,
+        "annex": true,
+        "fullName": "\"Nanjing Aotecar Refrigerating Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638907,
+        "annex": true,
+        "fullName": "\"Nanjing Hongzheng Machinery & Electrical Appliance Manufacture Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638908,
+        "annex": true,
+        "fullName": "\"Nanning Liaowang Car Light Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638909,
+        "annex": true,
+        "fullName": "\"Nanning Tianxin Scientific and Technological Innovation Seal Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638910,
+        "annex": true,
+        "fullName": "\"Nanyang Cijan Auto Shock Absorber Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638911,
+        "annex": true,
+        "fullName": "\"Ningbo Changying Automobile Spares & Parts Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638912,
+        "annex": true,
+        "fullName": "\"Ningbo Fengmao Far-East Rubber Co.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638913,
+        "annex": true,
+        "fullName": "\"Ningbo New Yuanteng Automobile Parts Co.,ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638914,
+        "annex": true,
+        "fullName": "\"Ningbo Shenglong Automobile Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638915,
+        "annex": true,
+        "fullName": "\"Ningbo Stone Auto Accessory Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638916,
+        "annex": true,
+        "fullName": "\"Ningbo Yinzhou Huida Mechenical and Electrical Accessories Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638917,
+        "annex": true,
+        "fullName": "\"Ningbo Yinzhou Sanhe Automotive Cable Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638918,
+        "annex": true,
+        "fullName": "\"Ningbo Xingci Thermal Electric Appliances Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638919,
+        "annex": true,
+        "fullName": "\"Ningbo zhenhai qizheng Engine Parts Co.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638920,
+        "annex": true,
+        "fullName": "\"Qingdao Sanxiang Technology Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638921,
+        "annex": true,
+        "fullName": "\"Qinghe Guangying Automotive Mirror Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638922,
+        "annex": true,
+        "fullName": "\"Ruian Libang COJO Auto Brake System Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638923,
+        "annex": true,
+        "fullName": "\"Shangdong Tongchuang Auto Cooling System Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638924,
+        "annex": true,
+        "fullName": "\"Shangdong Zhenting Jinggong Piston Co, ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638925,
+        "annex": true,
+        "fullName": "\"Shanxi Qinhang Machinery Electec Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638926,
+        "annex": true,
+        "fullName": "\"Shanghai Baofu Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638927,
+        "annex": true,
+        "fullName": "\"Shanghai Baolu Automobile Business Co.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638928,
+        "annex": true,
+        "fullName": "\"Shanghai Spring Gasket Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638929,
+        "annex": true,
+        "fullName": "\"Shanghai HanQiang Auto-parts Co.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638930,
+        "annex": true,
+        "fullName": "\"Shanghai Hengan Auto Air Conditioner Co,. Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638931,
+        "annex": true,
+        "fullName": "\"Shanghai Jiashijiu Machinery Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638932,
+        "annex": true,
+        "fullName": "\"Shanghai Seyen Alloy Wheel Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638933,
+        "annex": true,
+        "fullName": "\"Shanghai Liyong Lock Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638934,
+        "annex": true,
+        "fullName": "\"Shanghai Maofeng Automotive Plastic Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638935,
+        "annex": true,
+        "fullName": "\"Shanghai ShangXiang Automobile Hoses Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638936,
+        "annex": true,
+        "fullName": "\"Shanghai SDZ Auto Parts C0., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638937,
+        "annex": true,
+        "fullName": "\"Shanghai Xiangsheng BECO Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638938,
+        "annex": true,
+        "fullName": "\"Shanghai Zhongli Corporation\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638939,
+        "annex": true,
+        "fullName": "\"Shenzhen Longhorn Enterprise\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638940,
+        "annex": true,
+        "fullName": "\"Shenyang Baikang Auto Parts Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638941,
+        "annex": true,
+        "fullName": "\"Shenyang Tiankai Auto Parts Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638942,
+        "annex": true,
+        "fullName": "\"Shiyan Dafeng Flexible Control Cables Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638943,
+        "annex": true,
+        "fullName": "\"Shiyan Tianhang Auto Parts Co., Ltd of Shiyan\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638944,
+        "annex": true,
+        "fullName": "\"Sichuan Chuanhuan Technology Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638945,
+        "annex": true,
+        "fullName": "\"Sichuan Fanhua Electric Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638946,
+        "annex": true,
+        "fullName": "\"Sichuan Feiya Automobile Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638947,
+        "annex": true,
+        "fullName": "\"Taizhou Baoli Machinery Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638948,
+        "annex": true,
+        "fullName": "\"Taizhou Kaikai Automobile Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638949,
+        "annex": true,
+        "fullName": "\"Taiyuan Evergreen Automotive Safety Equipment Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638950,
+        "annex": true,
+        "fullName": "\"Tianjin Jiangnan Processing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638951,
+        "annex": true,
+        "fullName": "\"Tianjin Automobile Bridge Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638952,
+        "annex": true,
+        "fullName": "\"Tianjin Shengyang Auto Parts Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638953,
+        "annex": true,
+        "fullName": "\"Tianjin Dagang Automobile Accessory Assembly Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638954,
+        "annex": true,
+        "fullName": "\"Tianjin Dagang Auto Fittings Spring Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638955,
+        "annex": true,
+        "fullName": "\"Tianjin Huanyu Rubber & Plastic Products Mfg. Corp.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638956,
+        "annex": true,
+        "fullName": "\"Tianjin Auto Radiator Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638957,
+        "annex": true,
+        "fullName": "\"Tianjin TianDe Suspention Systems Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638958,
+        "annex": true,
+        "fullName": "\"Tianjin YiLida Stearing Gear Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638959,
+        "annex": true,
+        "fullName": "\"Mando Chassis Components Co., Ltd. Suzhou Branch\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638960,
+        "annex": true,
+        "fullName": "\"Wenling Ruoheng Zhengda Machinery Parts Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638961,
+        "annex": true,
+        "fullName": "\"Mianyang Wanxin Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638962,
+        "annex": true,
+        "fullName": "\"Wenzhou Changjiang Automobile Electronic System Co., Ltd,\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638963,
+        "annex": true,
+        "fullName": "\"Wenzhou Chaohang Mechanical﹠Electrical Co.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638964,
+        "annex": true,
+        "fullName": "\"Wenzhou HUAKE Industry Development Co.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638965,
+        "annex": true,
+        "fullName": "\"Wenzhou Nanya Automobile Accessories Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638966,
+        "annex": true,
+        "fullName": "\"Wenzhou Xinye Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638967,
+        "annex": true,
+        "fullName": "\"WenZhou Yida Fasteners Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638968,
+        "annex": true,
+        "fullName": "\"Wuxi Honghu Muffler Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638969,
+        "annex": true,
+        "fullName": "\"Wuxi Tianlong High Strength Bolts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638970,
+        "annex": true,
+        "fullName": "\"Wuhan Orser Electronics Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638971,
+        "annex": true,
+        "fullName": "\"Wuhan Baode Automobile Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638972,
+        "annex": true,
+        "fullName": "\"Wuhan Feiya Automotive Plastics Engineering Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638973,
+        "annex": true,
+        "fullName": "\"Wuhan Qianyu Industry & Trade Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638974,
+        "annex": true,
+        "fullName": "\"Wuhan Dragon Automotive Air Conditioning Systems Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638975,
+        "annex": true,
+        "fullName": "\"Xixia County Jinpai Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638976,
+        "annex": true,
+        "fullName": "\"Shield Sealing & Packing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638977,
+        "annex": true,
+        "fullName": "\"Xiangyang Automobile Bearing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638978,
+        "annex": true,
+        "fullName": "\"Yantai Fushan Cylinder Gasket Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638979,
+        "annex": true,
+        "fullName": "\"YIBIN TIANGONG MACHINERY CO., LTD\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638980,
+        "annex": true,
+        "fullName": "\"Yiwu Chengxiao Plastic Products Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638981,
+        "annex": true,
+        "fullName": "\"Union (Shanghai) Auto Parts Technology Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638982,
+        "annex": true,
+        "fullName": "\"Yuyang Automobile Lock Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638983,
+        "annex": true,
+        "fullName": "\"Yuhua County Huayi Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638984,
+        "annex": true,
+        "fullName": "\"Yuhuan Huanqiu Rundian Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638985,
+        "annex": true,
+        "fullName": "\"Chaoda Auto Parts(Wenzhou)Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638986,
+        "annex": true,
+        "fullName": "\"ZheJiang Dahan Automobile Decorations Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638987,
+        "annex": true,
+        "fullName": "\"ZheJiang DingLi TianYi Automobile Accessories Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638988,
+        "annex": true,
+        "fullName": "\"Zhejiang Kaiou Transmissions Belt Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638989,
+        "annex": true,
+        "fullName": "\"Zhejiang Liming Engine Parts Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638990,
+        "annex": true,
+        "fullName": "\"Zhe Jiang MeiLi High Technology CO.,LTD.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638991,
+        "annex": true,
+        "fullName": "\"Zhejiang Qingyuan Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638992,
+        "annex": true,
+        "fullName": "\"Radiant Automotive Systems (Zhejiang) Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638993,
+        "annex": true,
+        "fullName": "\"Zhejiang Saikai Car Industry Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638994,
+        "annex": true,
+        "fullName": "\"Zhejiang saiyang seal products CO.,LTD\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638995,
+        "annex": true,
+        "fullName": "\"Shenghuabo Group\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638996,
+        "annex": true,
+        "fullName": "\"Zhejiang Wanchao Electric Appliance Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638997,
+        "annex": true,
+        "fullName": "\"Zhejiang Wanxiang Precision Industry Co.,LTD.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638998,
+        "annex": true,
+        "fullName": "\"Zhejiang Wanxiang System Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638999,
+        "annex": true,
+        "fullName": "\"ZHEJIANG CHINT AUTO PARTS INDUSTRIES CO.,LTD.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639000,
+        "annex": true,
+        "fullName": "\"Zhejiang Zhuji Wanbao Machinery Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639001,
+        "annex": true,
+        "fullName": "\"Zhengzhou Yubo Auto Electric Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639002,
+        "annex": true,
+        "fullName": "\"China Aviation Industry Standard Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639003,
+        "annex": true,
+        "fullName": "\"Chongqing Changan Konggang Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639004,
+        "annex": true,
+        "fullName": "\"Chongqing Changfeng Jiquan Machinery Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639005,
+        "annex": true,
+        "fullName": "\"Chongqing Changpeng Industry Group Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639006,
+        "annex": true,
+        "fullName": "\"Chongqing Changrong Machinery Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639007,
+        "annex": true,
+        "fullName": "\"Chongqing Chuanli Industry and Trade Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639008,
+        "annex": true,
+        "fullName": "\"Chongqing Dajiang Xinda Vehicle Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639009,
+        "annex": true,
+        "fullName": "\"DEGE Chongqing Technology Development Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639010,
+        "annex": true,
+        "fullName": "\"Chongqing East Filter Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639011,
+        "annex": true,
+        "fullName": "\"Chongqing Guangda Industrial Co.,ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639012,
+        "annex": true,
+        "fullName": "\"Chongqing Haitong Machinery Manufacture Co.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639013,
+        "annex": true,
+        "fullName": "\"Chongqing Hongqi Cylinder Head Manufacture Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639014,
+        "annex": true,
+        "fullName": "\"Chongqing HuaDa Automobile Parts Co., ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639015,
+        "annex": true,
+        "fullName": "\"Chongqing Global Mold Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639016,
+        "annex": true,
+        "fullName": "\"Chongqing Huiyuan Screw Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639017,
+        "annex": true,
+        "fullName": "\"Chongqing Jiyixin Industry and Trade Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639018,
+        "annex": true,
+        "fullName": "\"Chongqing Jicheng Automotive Electrionics Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639019,
+        "annex": true,
+        "fullName": "\"CHONGQING JIAXUAN AUTOMOBILE SEALINGS CO.,LTD\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639020,
+        "annex": true,
+        "fullName": "\"Chongqing Jiangdong Machinery Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639021,
+        "annex": true,
+        "fullName": "\"Chongqing Jindexin Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639022,
+        "annex": true,
+        "fullName": "\"Chongqing Ju Weng Plastic Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639023,
+        "annex": true,
+        "fullName": "\"Chongqing Caff Automotive braking & Streering Systems CO., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639024,
+        "annex": true,
+        "fullName": "\"Chongqing Kaitai Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639025,
+        "annex": true,
+        "fullName": "\"Chongqing LanDai Shive Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639026,
+        "annex": true,
+        "fullName": "\"Chongqing Lifan Passenger Cars Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639027,
+        "annex": true,
+        "fullName": "\"Chongqing Lifan Automobile Engine Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639028,
+        "annex": true,
+        "fullName": "\"Chongqing Lifan Automobile Sales Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639029,
+        "annex": true,
+        "fullName": "\"Chongqing Dragon Mold Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639030,
+        "annex": true,
+        "fullName": "\"Chongqing Lulong Machinery Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639031,
+        "annex": true,
+        "fullName": "\"Chongqing Meixin Hongao Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639032,
+        "annex": true,
+        "fullName": "\"Chongqing Mina Rubber and Plastic Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639033,
+        "annex": true,
+        "fullName": "\"Chongqing Mingqing Auto Parts Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639034,
+        "annex": true,
+        "fullName": "\"Chongqing Mingqing Auto Accessories Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639035,
+        "annex": true,
+        "fullName": "\"Chongqing Pingyang Industry & Trade Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639036,
+        "annex": true,
+        "fullName": "\"Chongqing Automobile Standard Components Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639037,
+        "annex": true,
+        "fullName": "\"\\Wuxi Tianlong Hinght Strength bolts Co.,ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639038,
+        "annex": true,
+        "fullName": "\"Chongqing Qiancheng Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639039,
+        "annex": true,
+        "fullName": "\"Chongqing Qiangli Mold Factroy Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639040,
+        "annex": true,
+        "fullName": "\"Chongqing Qinchuan Industry & Trade Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639041,
+        "annex": true,
+        "fullName": "\"Chongqing Rongkong Tools Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639042,
+        "annex": true,
+        "fullName": "\"Chongqing Rongsheng Motor Parts Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639043,
+        "annex": true,
+        "fullName": "\"Chongqing Rongtong Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639044,
+        "annex": true,
+        "fullName": "\"Chongqing Sanai Hailing Internal Combustion Engine Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639045,
+        "annex": true,
+        "fullName": "\"Chongqing Sanben Vehicle lamp Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639046,
+        "annex": true,
+        "fullName": "\"Chongqing HuaRui Miki Electrical Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639047,
+        "annex": true,
+        "fullName": "\"Chongqing Yazaki Instrument Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639048,
+        "annex": true,
+        "fullName": "\"Chongqing Daming Auto Electric Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639049,
+        "annex": true,
+        "fullName": "\"Chongqing Guoxiang Industry & Trade Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639050,
+        "annex": true,
+        "fullName": "\"Chongqing Hualu Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639051,
+        "annex": true,
+        "fullName": "\"Chongqing Huaqing Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639052,
+        "annex": true,
+        "fullName": "\"Chongqing Jiangbei Shunda Mold Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639053,
+        "annex": true,
+        "fullName": "\"Chongqing Jiuman Auto Car Interior Co., ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639054,
+        "annex": true,
+        "fullName": "\"Chongqing Ruike Motorcycle Parts Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639055,
+        "annex": true,
+        "fullName": "\"Chongqing Shapingba District Machinery Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639056,
+        "annex": true,
+        "fullName": "\"Chongqing Shapingba District Ruihe Transportation Motorcycle Machinery Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639057,
+        "annex": true,
+        "fullName": "\"Chongqing Xun Chang Adhesive Products Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639058,
+        "annex": true,
+        "fullName": "\"Chongqing Yonghong Chen Kee Industrial Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639059,
+        "annex": true,
+        "fullName": "\"Chongqing Zhongquan Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639060,
+        "annex": true,
+        "fullName": "\"Chongqing Shunfeng Automotive Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639061,
+        "annex": true,
+        "fullName": "\"Chongqing Shuokai Plastics Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639062,
+        "annex": true,
+        "fullName": "\"Chongqing Taixing Traffic Equipment Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639063,
+        "annex": true,
+        "fullName": "\"Chongqing Tianchi Rubber Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639064,
+        "annex": true,
+        "fullName": "\"Chongqing Wanglong Industrial Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639065,
+        "annex": true,
+        "fullName": "\"Chongqing Wenwu Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639066,
+        "annex": true,
+        "fullName": "\"Chongqing Yaming Machinery Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639067,
+        "annex": true,
+        "fullName": "\"Chongqing Yige Pipeline Technology Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639068,
+        "annex": true,
+        "fullName": "\"Chongqing Yimei Industry Development Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639069,
+        "annex": true,
+        "fullName": "\"Chongqing Yonggang Electronic & Machinery Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639070,
+        "annex": true,
+        "fullName": "\"Chongqing Yujie Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639071,
+        "annex": true,
+        "fullName": "\"Chongqing Yuanbi Limited Co,. Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639072,
+        "annex": true,
+        "fullName": "\"Chongqing Yuanshan Industries Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639073,
+        "annex": true,
+        "fullName": "\"Chongqing Zetian Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639074,
+        "annex": true,
+        "fullName": "\"Chongqing Zichao Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639075,
+        "annex": true,
+        "fullName": "\"Zhuzhou Accurate Drivetrain Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639076,
+        "annex": true,
+        "fullName": "\"Zhuzhou torch spark plug co.,ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639077,
+        "annex": true,
+        "fullName": "\"Lifan motor sales CO.,LTD\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639078,
+        "annex": true,
+        "fullName": "\"Chongqing Shangwan Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639079,
+        "annex": true,
+        "fullName": "\"Ruian Baojie Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639080,
+        "annex": true,
+        "fullName": "\"DareWheel Wheel Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639081,
+        "annex": true,
+        "fullName": "\"Anhui Zhongding Sealing Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639082,
+        "annex": true,
+        "fullName": "\"Danyang Tongda Engineering Equipment Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639083,
+        "annex": true,
+        "fullName": "\"Tianjin Tubing Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639084,
+        "annex": true,
+        "fullName": "\"Chongqing Tongsheng Vehicle Accessories Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639085,
+        "annex": true,
+        "fullName": "\"Jing Yang Xiangyu Auto Parts Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639086,
+        "annex": true,
+        "fullName": "\"Chongqing Panlong Technology Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639087,
+        "annex": true,
+        "fullName": "\"Ningbo Swell Industry Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639088,
+        "annex": true,
+        "fullName": "\"Chongqing Xin Yi Plastic Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639089,
+        "annex": true,
+        "fullName": "\"Dongfeng Motor Co., Ltd. Suizhou wheelplant\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639090,
+        "annex": true,
+        "fullName": "\"LIFAN MOTOR SALES CO.LTD / CHONGQING LIFAN PASSENGER VEHICLE CO.,LTD\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639091,
+        "annex": true,
+        "fullName": "\"Chongqing Yijiu Auto Parts Co.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639092,
+        "annex": true,
+        "fullName": "\"Chongqing Hongyang Sealing Products Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639093,
+        "annex": true,
+        "fullName": "\"Ningbo Hongxie Clutch Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639094,
+        "annex": true,
+        "fullName": "\"Dare Wheel Manufacturing CO.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639095,
+        "annex": true,
+        "fullName": "\"Chongqing Zhande Industry & Trade Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639096,
+        "annex": true,
+        "fullName": "\"Danyang Hongqi lights factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639097,
+        "annex": true,
+        "fullName": "\"HUBEI DONGTAI WHEEL CO.,LTD\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639098,
+        "annex": true,
+        "fullName": "\"Zhejiang Yabolan Electric Appliance Co.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639099,
+        "annex": true,
+        "fullName": "\"Chongqing Renmu Industrial Co,. Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639100,
+        "annex": true,
+        "fullName": "\"Chongqing Nengchuang Industry & Trade Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639101,
+        "annex": true,
+        "fullName": "\"Hubei Tri-Ring Auto Co., ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639102,
+        "annex": true,
+        "fullName": "\"Tianjin Longxinhui Auto Components Manufacturing Co.Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639103,
+        "annex": true,
+        "fullName": "\"Wenzhou Xinye Automobile Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639104,
+        "annex": true,
+        "fullName": "\"Huizhou Weiheng Audio products Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639105,
+        "annex": true,
+        "fullName": "\"Chongqing Changan Airport Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639106,
+        "annex": true,
+        "fullName": "\"Hebei Longchang Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639107,
+        "annex": true,
+        "fullName": "\"Chongqing Ming Yang Police-use Security Electrical Appliance Co.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639108,
+        "annex": true,
+        "fullName": "\"Kostal (Shanghai) Management Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639109,
+        "annex": true,
+        "fullName": "\"Wuhan Huasen Plastic Co.. Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639110,
+        "annex": true,
+        "fullName": "\"Chongqing Jiangtuo Automobile Parts Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639111,
+        "annex": true,
+        "fullName": "\"Beijing BeiQiXinFengTianQi Technology Company\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639112,
+        "annex": true,
+        "fullName": "\"Zhejiang Haikang Group Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639113,
+        "annex": true,
+        "fullName": "\"Wuhan HuaSen Plastics Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639114,
+        "annex": true,
+        "fullName": "\"Chongqing Tianyi Automotive insulation materials Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639115,
+        "annex": true,
+        "fullName": "\"Sichuan YiFungHeng Automobile Parts Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639116,
+        "annex": true,
+        "fullName": "\"Tianjin TK Filter Technical Development Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639117,
+        "annex": true,
+        "fullName": "\"University internship factory of Changan Automobile (Group) Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639118,
+        "annex": true,
+        "fullName": "\"Zhejiang Luoshi Industrial Development Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639119,
+        "annex": true,
+        "fullName": "\"Guizhou Guihang Automobile Parts Co., Ltd. Yonghong Radiator Company\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639120,
+        "annex": true,
+        "fullName": "\"Jiaxing Lixun Automobile Electronic Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639121,
+        "annex": true,
+        "fullName": "\"Hubei Austrian-absorber Manufacturing Co.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639122,
+        "annex": true,
+        "fullName": "\"Shengzhen KangLiDe Trading Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639123,
+        "annex": true,
+        "fullName": "\"Taizhou Huangyan Linda Automobile-motorcycle Parts Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639124,
+        "annex": true,
+        "fullName": "\"Changzhou Zhoucaiyi Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639125,
+        "annex": true,
+        "fullName": "\"Zhejiang YDG auto parts manufacture Co.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639126,
+        "annex": true,
+        "fullName": "\"Chongqing Jiahuang Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639127,
+        "annex": true,
+        "fullName": "\"Ningbo Strongteck Electromechanical Co. Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639128,
+        "annex": true,
+        "fullName": "\"Chengdu Lingchuan automotive fuel tank Co. Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639129,
+        "annex": true,
+        "fullName": "\"E-lead Electronics CO., LTD\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639130,
+        "annex": true,
+        "fullName": "\"WIESON TECHNOLOGIES (KUN SHAN) CO., LTD\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639131,
+        "annex": true,
+        "fullName": "\"Shanghai Yonghong Auto Parts Co.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639132,
+        "annex": true,
+        "fullName": "\"Chongqing JinTai Automotive Art and Design Co.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639133,
+        "annex": true,
+        "fullName": "\"Tianjin HuaTao Automotive Plastic Accessory Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639134,
+        "annex": true,
+        "fullName": "\"Wuxi MingYu Machinery Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639135,
+        "annex": true,
+        "fullName": "\"Neijing Jinhong crankshaft Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639136,
+        "annex": true,
+        "fullName": "\"Zhejiang Hongding Auto Accessories Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639137,
+        "annex": true,
+        "fullName": "\"China Ruiming Industrial Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639138,
+        "annex": true,
+        "fullName": "\"Schaeffler (China) Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639139,
+        "annex": true,
+        "fullName": "\"Chongqing Bright Industrial Corporation, Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639140,
+        "annex": true,
+        "fullName": "\"Hella Shanghai Electronics Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639141,
+        "annex": true,
+        "fullName": "\"BWI Group\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639142,
+        "annex": true,
+        "fullName": "\"Jiangxi Tongxin Machinery Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639143,
+        "annex": true,
+        "fullName": "\"Chongqing FengHai chemical products Co., LTD.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639144,
+        "annex": true,
+        "fullName": "\"Chongqing Changjiang Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639145,
+        "annex": true,
+        "fullName": "\"JiLin Universal Machinery Limited Liability Company\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639146,
+        "annex": true,
+        "fullName": "\"WuHu Bethel Automotive safety Systems Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639147,
+        "annex": true,
+        "fullName": "\"Takata (Shanghai) Automotive Component Co.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639148,
+        "annex": true,
+        "fullName": "\"Chongqing SuLian Plastic Co.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639149,
+        "annex": true,
+        "fullName": "\"GKN Driveshaft (Chongqing) Company\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639150,
+        "annex": true,
+        "fullName": "\"Fuxin Dare Automotive Parts Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639151,
+        "annex": true,
+        "fullName": "\"Saint-Gobain HanGlas Sekurit(Shanghai)Co.,Ltd \"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639152,
+        "annex": true,
+        "fullName": "\"MIKUNI ( SHANGHAI ) CO.,LTD.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639153,
+        "annex": true,
+        "fullName": "\"Tianhai Xuecheng Automotive electronics (Chongqing) Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639154,
+        "annex": true,
+        "fullName": "\"NINGBO AUTOWIN ELECTRICAL CO.,LTD.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639155,
+        "annex": true,
+        "fullName": "\"ChengDu YinLi Automotive Parts Limited company\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639156,
+        "annex": true,
+        "fullName": "\"Chongqing Hongrui Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639157,
+        "annex": true,
+        "fullName": "\"Kunshan Huangtian Auto Fittings Industry Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639158,
+        "annex": true,
+        "fullName": "\"Jiangsu Linquan Auto Decoration Articles Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639159,
+        "annex": true,
+        "fullName": "\"Chongqing HuaXinChang Auto Parts Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639160,
+        "annex": true,
+        "fullName": "\"Hangzhou Guangan Automobile Electric Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639161,
+        "annex": true,
+        "fullName": "\"Wuhan Huagong Xingaoli Electron Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639162,
+        "annex": true,
+        "fullName": "\"Chongqing XingGuo JinKe Lighting Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639163,
+        "annex": true,
+        "fullName": "\"Wenzhou Lantian Automobile Door And Window Machinery Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639164,
+        "annex": true,
+        "fullName": "\"Sichuan JiangHua Pump Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639165,
+        "annex": true,
+        "fullName": "\"Huzhou Qiujing Auto chain Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639166,
+        "annex": true,
+        "fullName": "\"Shanghai HanTong Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639167,
+        "annex": true,
+        "fullName": "\"Chongqing Best Auto Accessories Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639168,
+        "annex": true,
+        "fullName": "\"Zhejiang HuaWei Spring Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639169,
+        "annex": true,
+        "fullName": "\"Chongqing YuanPing Rubber Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639170,
+        "annex": true,
+        "fullName": "\"Chongqing LingHui Polyurethane Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639171,
+        "annex": true,
+        "fullName": "\"Chongqing Cai yi Auto Parts Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639172,
+        "annex": true,
+        "fullName": "\"Taizhou Guangtian Auto Parts Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639173,
+        "annex": true,
+        "fullName": "\"Hangzhou Qianwang machinery fitting co.,ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639174,
+        "annex": true,
+        "fullName": "\"Hubei Tri-Ring Automotive Plastics Engineering Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639175,
+        "annex": true,
+        "fullName": "\"Beijing Zhongyong Auto parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639176,
+        "annex": true,
+        "fullName": "\"Jiaozuo Beidaer Plastic Products Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639177,
+        "annex": true,
+        "fullName": "\"K Source Mirror Industry Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639178,
+        "annex": true,
+        "fullName": "\"Suzhou Autoboss Automotive Products Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639179,
+        "annex": true,
+        "fullName": "\"Chongqing Lihua Technology CO.,LTD\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639180,
+        "annex": true,
+        "fullName": "\"HENAN THB ELECTRIC CO.，LTD\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639181,
+        "annex": true,
+        "fullName": "\"Chongqing Wanyong Auto Parts Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639182,
+        "annex": true,
+        "fullName": "\"Baoding Sail Storage Battery Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639183,
+        "annex": true,
+        "fullName": "\"Triangle Group Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639184,
+        "annex": true,
+        "fullName": "\"Chongqing Hiter Automotive exhaust system Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639185,
+        "annex": true,
+        "fullName": "\"Wangxiang Qianchao(Shanghai)Automotive Systems Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639186,
+        "annex": true,
+        "fullName": "\"WUHU JAPHL POWERTRAIN SYSTEMS CO.,LTD.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639187,
+        "annex": true,
+        "fullName": "\"Giti Tire (China) Investment Co. Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639188,
+        "annex": true,
+        "fullName": "\"Chongqing Minte Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639189,
+        "annex": true,
+        "fullName": "\"Camel Group Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639190,
+        "annex": true,
+        "fullName": "\"Chongqing Dikai Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639191,
+        "annex": true,
+        "fullName": "\"Wenzhou KeboDa Auto Parts Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639192,
+        "annex": true,
+        "fullName": "\"Chongqing Pingwei Science and Technology (Group) Co.,Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639193,
+        "annex": true,
+        "fullName": "\"KAIYUE Electronics Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639194,
+        "annex": true,
+        "fullName": "\"SANGSIN BRAKE （Wuxi） Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639195,
+        "annex": true,
+        "fullName": "\"Chongqing dongneng Automotive Electronics Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639196,
+        "annex": true,
+        "fullName": "\"Jinzhou Xinrong Automotive Materials Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639197,
+        "annex": true,
+        "fullName": "\"Chongqing Sen Zhan Technology Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639198,
+        "annex": true,
+        "fullName": "\"Changchun Lantime Sealing Co.,Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639199,
+        "annex": true,
+        "fullName": "\"Jinzhou Halla Electrical Equipment Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639200,
+        "annex": true,
+        "fullName": "\"Shanghai xinshang Automotive Rubber Hose Co.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639201,
+        "annex": true,
+        "fullName": "\"Hangzhou Hai Kang Xi Mu Intelligent Technology Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639202,
+        "annex": true,
+        "fullName": "\"Huangyan Xinxing Machinery Fitting Factory\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639203,
+        "annex": true,
+        "fullName": "\"Yuhuan jiuhe Rubber & Plastics machinery Co., LTD\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639204,
+        "annex": true,
+        "fullName": "\"Hangzhou Spring Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639205,
+        "annex": true,
+        "fullName": "\"Chongqing Sitong Machinery Manufacturing Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639206,
+        "annex": true,
+        "fullName": "\"Hengshui Shentong Car steering wheel Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639207,
+        "annex": true,
+        "fullName": "\"Jiangsu Xinchang Auto Parts Co.,LTD \"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639208,
+        "annex": true,
+        "fullName": "\"NingBo LuRun Cooler Manufacuring CO.,LTD\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639209,
+        "annex": true,
+        "fullName": "\"Ningbo Gaofa Automotive Control System CO.,LTD\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639210,
+        "annex": true,
+        "fullName": "\"Hunan Jianglu&Rongda Vehicle Transmission limited company\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639211,
+        "annex": true,
+        "fullName": "\"Shanghai Zheng Yuan Automobile Accessories Co., Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 639212,
+        "annex": true,
+        "fullName": "\"Chongqing Jiulongpo District Chuan Lin Machinery Factory\"",
+        "shortName": null,
+        "addresses": []
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [
+    {
+      "idFilial": 173028,
+      "fullName": null,
+      "shortName": null,
+      "idLegalForm": null,
+      "kpp": null,
+      "annex": false,
+      "contacts": [],
+      "addresses": [
+        {
+          "idAddress": 4767546,
+          "idAddrType": 1,
+          "idCodeOksm": null,
+          "oksmShort": null,
+          "idSubject": null,
+          "idDistrict": null,
+          "idCity": null,
+          "idLocality": null,
+          "idStreet": null,
+          "idHouse": null,
+          "flat": null,
+          "postCode": null,
+          "fullAddress": null,
+          "gln": null,
+          "foreignDistrict": null,
+          "foreignCity": null,
+          "foreignLocality": null,
+          "foreignStreet": null,
+          "foreignHouse": null,
+          "uniqueAddress": null,
+          "otherGln": null,
+          "glonass": null
+        }
+      ]
+    }
+  ],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1008549,
+    "fullName": "Орган по сертификации продукции ООО \"КапиталСтрой\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ92",
+    "attestatRegDate": "2013-05-16",
+    "attestatEndDate": null,
+    "idRal": 11509,
+    "ogrn": "1107746552671",
+    "idPerson": 4024852,
+    "firstName": "А.",
+    "surname": "Ащеулов",
+    "patronymic": "А.",
+    "contacts": [
+      {
+        "idContact": 645237,
+        "idContactType": 1,
+        "value": "+74993915007"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4767547,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115093",
+        "fullAddress": "115093, г. Москва, пер. Партийный, д. 1, корп. 58, стр. 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1008554,
+    "idProductOrigin": "156",
+    "fullName": "Запасные части для транспортных средств, т.м. «LIFAN»",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": null,
+    "identifications": [
+      {
+        "idIdentification": 1528049,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1108984,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1022747,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      },
+      {
+        "idIdentification": 1528050,
+        "annex": true,
+        "name": "Запасные части для транспортных средств, т.м. «LIFAN»:",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1528051,
+        "annex": true,
+        "name": "зеркальный элемент лев (с подогревом),зеркальный элемент прав (с подогревом),зеркало в сборе лев.,зеркальный элемент лев,зеркало в сборе прав.,зеркало зад вида (салон),зеркало в сборе лев с подогревом,зеркало в сборе прав с подогревом,зеркало заднего вида (салон),зеркальный элемент прав.,зеркальный элемент прав. solano,зеркало в сборе лев. (руч),зеркало наружное прав.,зеркало в сборе лев. (с электро подогревом)",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 998675,
+      "idPerson": 4024851,
+      "idEmployee": null,
+      "firstName": "Н.",
+      "surname": "Верещака",
+      "patronimyc": "В."
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1498468,
+      "idStatus": 1,
+      "beginDate": "2013-05-30T00:00:00",
+      "endDate": "2016-05-29T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:33:04.934",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1498469,
+      "idStatus": 1,
+      "beginDate": "2016-05-29T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:33:04.934",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1038092,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "b301c5ec-7ab3-4ee0-8f7a-5a929ee3bf88",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

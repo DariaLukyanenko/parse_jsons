@@ -1,0 +1,441 @@
+{
+  "idCertificate": 100149,
+  "idTechnicalReglaments": [
+    12
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-US.АА87.В.00832",
+  "certRegDate": "2017-12-21",
+  "certEndDate": "2022-12-20",
+  "idBlank": 606491,
+  "blankNumber": "0606491",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53658,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 405414,
+          "blankNumber": "0405414"
+        },
+        {
+          "idBlank": 405415,
+          "blankNumber": "0405415"
+        },
+        {
+          "idBlank": 405416,
+          "blankNumber": "0405416"
+        },
+        {
+          "idBlank": 405417,
+          "blankNumber": "0405417"
+        },
+        {
+          "idBlank": 405418,
+          "blankNumber": "0405418"
+        },
+        {
+          "idBlank": 405419,
+          "blankNumber": "0405419"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207123,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью «ДжиИ Рус Инфра»",
+    "shortName": null,
+    "idPerson": 416693,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "5077746899687",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250405,
+        "idContactType": 1,
+        "value": "+74957396811"
+      },
+      {
+        "idContact": 250406,
+        "idContactType": 4,
+        "value": "Nikolay.modin@ge.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 634256,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Россия, 123317, Москва, Пресненская наб., 10, 11 этаж",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207124,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "Bently Nevada, LLC",
+    "shortName": null,
+    "idPerson": 416694,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 634257,
+        "idAddrType": 1,
+        "idCodeOksm": "840",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Соединенные Штаты, 1631 Bently Parkway South Minden, NV 89423",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103553,
+    "fullName": "Орган по сертификации взрывозащищенного и рудничного оборудования Общества с ограниченной ответственностью «Центр по сертификации взрывозащищенного и рудничного оборудования»",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АА87",
+    "attestatRegDate": "2015-07-20",
+    "attestatEndDate": null,
+    "idRal": 2301,
+    "ogrn": null,
+    "idPerson": 416696,
+    "firstName": null,
+    "surname": "А.С. Залогин - руководитель ОС",
+    "patronymic": null,
+    "contacts": [
+      {
+        "idContact": 192313,
+        "idContactType": 1,
+        "value": "+74955578244"
+      },
+      {
+        "idContact": 192314,
+        "idContactType": 1,
+        "value": "+74955588353"
+      },
+      {
+        "idContact": 192315,
+        "idContactType": 1,
+        "value": "+74955540150"
+      },
+      {
+        "idContact": 192316,
+        "idContactType": 4,
+        "value": "ccve@ccve.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 634258,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "140004, РОССИЯ, Московская область, пос. ВУГИ, г. Люберцы, ОАО \"Завод \"ЭКОМАШ\"",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 634259,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idDistrict": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "140004",
+        "fullAddress": "140004, РОССИЯ, Московская область, Люберецкий район, г. Люберцы, пос. ВУГИ, ОАО \"Завод \"ЭКОМАШ\", корпус КВС",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103551,
+    "idProductOrigin": "840",
+    "fullName": "Система непрерывного мониторинга серии 3500",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "с Ех-маркировкой модулей согласно приложению",
+    "identifications": [
+      {
+        "idIdentification": 185574,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          76814
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Перечень стандартов &ndash; см. приложение\f\nУсловия и срок хранения и указаны в технической документации.\f\nНазначенный срок службы &ndash; 10 лет.\f\n",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116657,
+            "name": "выпускается в соответствии с технической документацией предприятия-изготовителя Bently Nevada LLC",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 106791,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 105998,
+      "idPerson": 416695,
+      "idEmployee": null,
+      "firstName": "Борис",
+      "surname": "Рафалович",
+      "patronimyc": "Александрович"
+    },
+    {
+      "idExpert": 2819223,
+      "idPerson": 13122793,
+      "idEmployee": null,
+      "firstName": "Юлия",
+      "surname": "Тихоненко",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121756,
+      "idStatus": 6,
+      "beginDate": "2017-12-21T17:05:50",
+      "endDate": "2022-12-21T01:18:04.192",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5842728,
+      "idStatus": 1,
+      "beginDate": "2022-12-21T01:18:04.192",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2022-12-21T01:18:04.605",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112327,
+      "annex": false,
+      "idRal": 7952,
+      "regNumber": "RA.RU.21АК06",
+      "fullName": "Испытательная лаборатория взрывозащищенного и рудничного оборудования  Общества с ограниченной ответственностью «Центр по сертификации взрывозащищенного и рудничного оборудования»",
+      "beginDate": "2016-01-19",
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "5fe047cd-3f6c-4729-bf77-ede248c70a28",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

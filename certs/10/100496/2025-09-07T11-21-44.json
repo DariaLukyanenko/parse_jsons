@@ -1,0 +1,551 @@
+{
+  "idCertificate": 100496,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-TW.АЯ46.В.79758",
+  "certRegDate": "2017-04-28",
+  "certEndDate": "2022-04-27",
+  "idBlank": 435131,
+  "blankNumber": "0435131",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53908,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 370747,
+          "blankNumber": "0370747"
+        }
+      ]
+    },
+    {
+      "idAnnex": 53909,
+      "idType": 2,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 370748,
+          "blankNumber": "0370748"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207817,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 3,
+    "fullName": "\"Asian Power Devices Inc.\" в лице уполномоченного изготовителем представителя: Общество с ограниченной ответственностью \"Р-ГРУПП\" по договору поручения № 541-17/04-17 от 17.04.2017 г. (ОГРН 1157746642580. Адрес: 107023, Россия, город Москва, ул. Малая Семеновская, дом 3А, строение 1, комната 4.\nТелефон: +79261705302, E-mail: rgrouprus@gmail.com)",
+    "shortName": null,
+    "idPerson": 418094,
+    "surname": "Белова",
+    "firstName": "Наталья",
+    "patronymic": "Александровна",
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 251305,
+        "idContactType": 4,
+        "value": "Jason.chen@apd.com.tw"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 638202,
+        "idAddrType": 1,
+        "idCodeOksm": "158",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ТАЙВАНЬ (КИТАЙ), No.5, Lane 83, Lung-Sou St. Taoyuan City 330",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207818,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"Asian Power Devices Inc\"",
+    "shortName": null,
+    "idPerson": 418095,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 638203,
+        "idAddrType": 1,
+        "idCodeOksm": "158",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ТАЙВАНЬ (КИТАЙ), No.5, Lane 83, Lung-Sou St. Taoyuan City 330",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 149350,
+        "annex": true,
+        "fullName": "\"Yang Ming Industrial\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 638204,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, 1#, 2# Room, No. 10, Maliu Road, Henggang Street, Long Gang District, Shen Zhen",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 149351,
+        "annex": true,
+        "fullName": "\"APD Shenzhen DK Inc\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 638205,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, 1-5/F, No. 1, Fengwei Street, Dakang Community, Henggang Subdistrict, Longgang District, Shenzhen",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103900,
+    "fullName": "Орган по сертификации \"РОСТЕСТ- Москва\" ЗАО \"Региональный орган по сертификации и тестированию\"",
+    "accredOrgName": "Росаккредитация",
+    "attestatRegNumber": "RA.RU.10АЯ46",
+    "attestatRegDate": "2015-04-27",
+    "attestatEndDate": null,
+    "idRal": 8887,
+    "ogrn": null,
+    "idPerson": 418097,
+    "firstName": "Александр",
+    "surname": "Коротенков",
+    "patronymic": "Викторович",
+    "contacts": [
+      {
+        "idContact": 193179,
+        "idContactType": 1,
+        "value": "+74956682715"
+      },
+      {
+        "idContact": 193180,
+        "idContactType": 1,
+        "value": "+74991291911"
+      },
+      {
+        "idContact": 193181,
+        "idContactType": 4,
+        "value": "info@rostest.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 638206,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117418",
+        "fullAddress": "117418, Российская Федерация, г. Москва, Нахимовский проспект, д. 31",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 638207,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "119049",
+        "fullAddress": "119049, Российская Федерация, г. Москва, ул. Житная, д. 14, стр. 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103898,
+    "idProductOrigin": "158",
+    "fullName": "Адаптер питания торговой марки «LG»",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "модель DA-16C19XXXXX, где вместо \"X\" может быть цифра от 0 до 9, буква латинского алфавита от A до Z, дефис или отсутствие знака, используемые только для маркетинговых целей.",
+    "identifications": [
+      {
+        "idIdentification": 186262,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74044
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Условия хранения и срок службы продукции указаны в сопроводительной документации. Предприятие-изготовитель  (см. Приложение - бланк &#8470; 0370748). Обозначение и наименование стандартов (см. Приложение - бланк &#8470; 0370747).",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117029,
+            "name": "Директива 2014/35/EU ЕВРОПЕЙСКОГО ПАРЛАМЕНТА И СОВЕТА  от 26 февраля 2014 г. «О гармонизации законодательств государств-членов в области размещения на рынке электрооборудования, предназначенного для использования в определенных пределах напряжения»; ДИРЕКТИВА 2014/30/ЕU ЕВРОПЕЙСКОГО ПАРЛАМЕНТА И СОВЕТА от 26 февраля 2014 г. «О гармонизации законодательств государств-членов ЕС в области электромагнитной совместимости».",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 107453,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ CISPR 24-2013",
+            "name": "Совместимость технических средств электромагнитная. Оборудование информационных технологий. Устойчивость к электромагнитным помехам. Требования и методы испытаний",
+            "section": null,
+            "addlInfo": "раздел 5",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107458,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC\n62311-2013",
+            "name": "Оценка электронного и электрического оборудования\nв отношении ограничений воздействия на человека\nэлектромагнитных полей (0 Гц – 300 ГГц)",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107457,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 62479-2013",
+            "name": "Оценка маломощного электронного и электрического оборудования на соответствие основным ограничениям, связанным с воздействием на человека электромагнитных полей (10 МГц – 300 ГГц).",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107456,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC  60950-1-2011",
+            "name": "Оборудование информационных технологий. Требования безопасности. Часть 1. Общие требования",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107455,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.3 – 2013 (IEC 61000-3-3:2008)",
+            "name": "Совместимость технических средств электромагнитная. Ограничение изменений напряжения, колебаний напряжения и фликера в низковольтных системах электроснабжения общего назначения. Технические средства с потребляемым током не более 16 А (в одной фазе),подключаемые к электрической сети при несоблюдении определенных условий подключения. Нормы и методы испытаний.",
+            "section": null,
+            "addlInfo": "раздел 5",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107454,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.2-2013 (IEC 61000-3-2:2009)",
+            "name": "Совместимость технических средств электромагнитная. Эмиссия гармонических составляющих тока техническими средствами с потребляемым током не более 16 А (в одной фазе). Нормы и методы испытаний.",
+            "section": null,
+            "addlInfo": "разделы 5 и 7",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107452,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30805.22-2013 (CISPR 22:2006)",
+            "name": "Cовместимость технических средств электромагнитная. Оборудование информационных технологий. Радиопомехи индустриальные. Нормы и методы измерений",
+            "section": null,
+            "addlInfo": "разделы 4–6 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107451,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106358,
+      "idPerson": 418096,
+      "idEmployee": null,
+      "firstName": "Ольга",
+      "surname": "Круглова",
+      "patronimyc": "Николаевна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122200,
+      "idStatus": 14,
+      "beginDate": "2017-04-28T00:00:00",
+      "endDate": "2017-04-28T14:54:39",
+      "comment": "Техническая ошибка\n",
+      "idBasis": 2,
+      "docNumber": "79758\n",
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": "2017-04-28",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 122201,
+      "idStatus": 14,
+      "beginDate": "2017-04-28T14:54:39",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112898,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "6304f96e-0366-4ac7-9bfe-a392f950f791",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

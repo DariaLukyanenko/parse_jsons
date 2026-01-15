@@ -1,0 +1,443 @@
+{
+  "idCertificate": 100185,
+  "idTechnicalReglaments": [
+    33
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 2,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-RU.АА85.А.00014",
+  "certRegDate": "2017-02-28",
+  "certEndDate": "2018-02-27",
+  "idBlank": 355975,
+  "blankNumber": "0355975",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53683,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 259399,
+          "blankNumber": "0259399"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207195,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 1,
+    "fullName": "Закрытое акционерное общество \"Электро СИ\"",
+    "shortName": null,
+    "idPerson": 416839,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1047796180134",
+    "ogrnAssignDate": null,
+    "inn": "7713522838",
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250502,
+        "idContactType": 1,
+        "value": "+74955442199"
+      },
+      {
+        "idContact": 250503,
+        "idContactType": 3,
+        "value": "+74956557976"
+      },
+      {
+        "idContact": 250504,
+        "idContactType": 4,
+        "value": "info@electro-si.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 634743,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115404",
+        "fullAddress": "115404, Россия, город Москва, улица 6-ая Радиальная, дом 9",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207196,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "Закрытое акционерное общество \"Электро СИ\"",
+    "shortName": null,
+    "idPerson": 416840,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1047796180134",
+    "ogrnAssignDate": null,
+    "inn": "7713522838",
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250505,
+        "idContactType": 1,
+        "value": "+74955442199"
+      },
+      {
+        "idContact": 250506,
+        "idContactType": 3,
+        "value": "+74956557976"
+      },
+      {
+        "idContact": 250507,
+        "idContactType": 4,
+        "value": "info@electro-si.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 634744,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115404",
+        "fullAddress": "115404, Россия, город Москва, улица 6-ая Радиальная, дом 9",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 634745,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "f10763dc-63e3-48db-83e1-9c566fe3092b",
+        "idDistrict": "f10763dc-63e3-48db-83e1-9c566fe3092b",
+        "idCity": "a216cad5-7027-40b8-b1a1-d64abefbd5cd",
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "346780",
+        "fullAddress": "346780, РОССИЯ, Ростовская область, Азов, ул. Промышленная, 5, 21",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103589,
+    "fullName": "Орган по сертификации продукции  Акционерного общества \"Новый регистр\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АА85",
+    "attestatRegDate": "2015-07-14",
+    "attestatEndDate": null,
+    "idRal": 18380,
+    "ogrn": null,
+    "idPerson": 416842,
+    "firstName": "Ю.",
+    "surname": "Рязанов",
+    "patronymic": "В.",
+    "contacts": [
+      {
+        "idContact": 192403,
+        "idContactType": 4,
+        "value": "info@newregister.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 634746,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "105318",
+        "fullAddress": "105318, РОССИЯ, город Москва, ул. Ибрагимова, д. 31",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 634747,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "105318",
+        "fullAddress": "105318, РОССИЯ, город Москва, ул. Ибрагимова, д. 31",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103587,
+    "idProductOrigin": "643",
+    "fullName": "Преобразователь частоты ПЧ-3 трехфазный ПЧ-ПТПТ-10-220-50-У2, однофазный ПЧ-ПОПТ-16-220-50-У2",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "Продукция изготавливается по конструкторской документации МАУВ.435231.003 \"Преобразователь частоты ПЧ-3\" в соответствии с требованиями технических условий МАУВ.435231.003 ТУ \"Преобразователи частоты ПЧ-3. Технические условия\"",
+    "identifications": [
+      {
+        "idIdentification": 185635,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74052
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116695,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 106847,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106036,
+      "idPerson": 416841,
+      "idEmployee": null,
+      "firstName": "Владимир",
+      "surname": "Чичков",
+      "patronimyc": "Михайлович"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121800,
+      "idStatus": 14,
+      "beginDate": "2017-09-05T00:00:00",
+      "endDate": "2017-04-26T13:25:39",
+      "comment": "Реорганизация и переименование заявителя",
+      "idBasis": 2,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 121801,
+      "idStatus": 14,
+      "beginDate": "2017-04-26T13:25:39",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112379,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "602ddcef-fdca-4338-b039-4f32f9e7f5ea",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

@@ -1,0 +1,492 @@
+{
+  "idCertificate": 100126,
+  "idTechnicalReglaments": [
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-CH.АГ21.В.02646",
+  "certRegDate": "2017-06-09",
+  "certEndDate": "2022-06-08",
+  "idBlank": 423700,
+  "blankNumber": "0423700",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53644,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 298755,
+          "blankNumber": "0298755"
+        }
+      ]
+    },
+    {
+      "idAnnex": 53645,
+      "idType": 2,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 298756,
+          "blankNumber": "0298756"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207077,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "Автономная некоммерческая организация «Центр экспертных программ ВОК» \n(уполномоченная изготовителем Logitech Europe S.A. (Швейцария))",
+    "shortName": null,
+    "idPerson": 416600,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1047732007355",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250345,
+        "idContactType": 1,
+        "value": "+74959602015"
+      },
+      {
+        "idContact": 250346,
+        "idContactType": 4,
+        "value": "cepvok@yandex.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 634083,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, 115419, г. Москва, 2-й Рощинский пр-д, д. 8, корп. 4",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 634084,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, 119 618, г. Москва, ул. 50 лет Октября, д.4",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207078,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "Logitech Europe S.A.",
+    "shortName": null,
+    "idPerson": 416601,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 634085,
+        "idAddrType": 1,
+        "idCodeOksm": "756",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ШВЕЙЦАРИЯ, EPFL-Quartier de I’Innovation, Daniel Borel Innovation Center, 1015 Lausanne",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 146905,
+        "annex": true,
+        "fullName": "Ryder Electronics (Xinfeng) LTD",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 634086,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, 3 Lvyuan Ave, Industrial Park, 341600 Xinfeng County, Ganzhou City, Jiangxi",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103530,
+    "fullName": "Орган по  сертификации продукции \"ГОСТ - АЗИЯ РУС\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АГ21",
+    "attestatRegDate": "2016-03-01",
+    "attestatEndDate": null,
+    "idRal": 6256,
+    "ogrn": null,
+    "idPerson": 416603,
+    "firstName": "Вадим",
+    "surname": "Воробьев",
+    "patronymic": "Федорович",
+    "contacts": [
+      {
+        "idContact": 192261,
+        "idContactType": 1,
+        "value": "+74956400914"
+      },
+      {
+        "idContact": 192262,
+        "idContactType": 4,
+        "value": "gostasia@umail.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 634087,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115191",
+        "fullAddress": "115191,Москва, ул. 2-ая Рощинская, 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 634088,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115191",
+        "fullAddress": "115191,г. Москва, ул. 2-ая Рощинская, д. 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103528,
+    "idProductOrigin": "756",
+    "fullName": "Игровые контроллеры PC X52 Pro Flight Control Sys (джойстики) ",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "logitech G модель J-U0003  ",
+    "identifications": [
+      {
+        "idIdentification": 185540,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          77272
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Условия хранения: при температуре от минус 40&#176;С до плюс 70&#176;С и относительной влажности от 10% до 90%, \nбез конденсации. Срок службы продукции 5 лет. \nМаркетинговое наименование продукции:  Logitech G X52 Professional Space/Flight H.O.T.A.S.",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116633,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 106752,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ CISPR 24-2013",
+            "name": "Совместимость технических средств электромагнитная. Оборудование информационных технологий. Устойчивость к электромагнитным помехам. Требования и методы испытаний",
+            "section": null,
+            "addlInfo": "Раздел 5",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106751,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30805.22-2013",
+            "name": "Совместимость технических средств электромагнитная. Оборудование информационных технологий. Радиопомехи индустриальные. Нормы и методы измерений",
+            "section": null,
+            "addlInfo": "Разделы 4-6",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106750,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 105974,
+      "idPerson": 416602,
+      "idEmployee": null,
+      "firstName": "Марианна",
+      "surname": "Аксенова",
+      "patronimyc": "Евгеньевна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121721,
+      "idStatus": 14,
+      "beginDate": "2017-11-10T00:00:00",
+      "endDate": "2017-06-09T15:10:11",
+      "comment": "В связи с изменением заявителем наименования продукции в сертификате соответствия.",
+      "idBasis": 8,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:53:37.353",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 121722,
+      "idStatus": 14,
+      "beginDate": "2017-06-09T15:10:11",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:53:37.353",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112294,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a66435a5-6c3b-453d-8fcb-f168cc1fa95d",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

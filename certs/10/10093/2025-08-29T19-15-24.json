@@ -1,0 +1,580 @@
+{
+  "idCertificate": 10093,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-RU.АД77.В.00063",
+  "certRegDate": "2018-01-26",
+  "certEndDate": "2023-01-25",
+  "idBlank": 631164,
+  "blankNumber": "0631164",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 4700,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 448051,
+          "blankNumber": "0448051"
+        }
+      ]
+    },
+    {
+      "idAnnex": 4701,
+      "idType": 3,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 448052,
+          "blankNumber": "0448052"
+        },
+        {
+          "idBlank": 448053,
+          "blankNumber": "0448053"
+        },
+        {
+          "idBlank": 448054,
+          "blankNumber": "0448054"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 26993,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 1,
+    "fullName": "Акционерное общество «Грасис»",
+    "shortName": null,
+    "idPerson": 54119,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1087746761563",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 37134,
+        "idContactType": 1,
+        "value": "+74957777734"
+      },
+      {
+        "idContact": 37135,
+        "idContactType": 4,
+        "value": "info@grasys.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 70365,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115088",
+        "fullAddress": "115088, Россия, город Москва, 2-й Южнопортовый проезд, дом 16, строение 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 70366,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117303",
+        "fullAddress": "117303, Россия, город Москва, улица Малая Юшуньская, дом 1, корпус 1, помещение 1, комната 24",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 26994,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "Акционерное общество «Грасис»",
+    "shortName": null,
+    "idPerson": 54120,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1087746761563",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 37136,
+        "idContactType": 1,
+        "value": "+74957777734"
+      },
+      {
+        "idContact": 37137,
+        "idContactType": 4,
+        "value": "info@grasys.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 70367,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115088",
+        "fullAddress": "115088, Россия, город Москва, 2-й Южнопортовый проезд, дом 16, строение 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 70368,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117303",
+        "fullAddress": "117303, Россия, город Москва, улица Малая Юшуньская, дом 1, корпус 1, помещение 1, комната 24",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 13497,
+    "fullName": "Орган по сертификации общества с ограниченной ответственностью \"Мегалит 23\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.10АД77",
+    "attestatRegDate": "2017-08-08",
+    "attestatEndDate": null,
+    "idRal": 6713,
+    "ogrn": null,
+    "idPerson": 54122,
+    "firstName": "Реваз",
+    "surname": "Туманишвили",
+    "patronymic": "Михайлович",
+    "contacts": [
+      {
+        "idContact": 26605,
+        "idContactType": 4,
+        "value": "23megalit@gmail.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 70369,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "127474, РОССИЯ, город Москва, ш. Дмитровское, д. 60",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 70370,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "c2deb16a-0330-4f05-821f-1d09c93331e6",
+        "idDistrict": "c2deb16a-0330-4f05-821f-1d09c93331e6",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "191123",
+        "fullAddress": "191123, РОССИЯ, город Санкт-Петербург, ул. Радищева, д. 44, лит. А, пом. 8-Н",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 13495,
+    "idProductOrigin": "643",
+    "fullName": "Устройства комплектные низковольтные",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "модели согласно приложению",
+    "identifications": [
+      {
+        "idIdentification": 19876,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74828
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Условия хранения: продукция хранится в сухих, проветриваемых складских помещениях при температуре от 0 &deg;С до +30 &deg;С, при относительной влажности воздуха не более 80 %. Срок хранения: изготовителем не установлен. Срок службы: 5 лет.",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 15010,
+            "name": "Продукция изготовлена в соответствии с ТУ 27.12.31-018-86582603-2017 «Низковольтные комплектные устройства серии ГЭЩ на номинальный ток до 5000 А»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 13223,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ Р 51321.1-2007",
+            "name": "\"Устройства комплектные низковольтные распределения и управления. Часть 1. Устройства, испытанные полностью или частично. Общие технические требования и методы испытаний\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 13222,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 13224,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.4.2-2013 (IEC 61000-4-2:2008)",
+            "name": "\"Совместимость технических средств электромагнитная. Устойчивость к электростатическим разрядам. Требования и методы испытаний\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 13226,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.4.4-2013 (IEC 61000-4-4:2004)",
+            "name": "\"Совместимость технических средств электромагнитная. Устойчивость к наносекундным импульсным помехам. Требования и методы испытаний\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 13225,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.4.3-2013 (IEC 61000-4-3:2006)",
+            "name": "\"Совместимость технических средств электромагнитная. Устойчивость к радиочастотному электромагнитному полю. Требования и методы испытаний\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 13227,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 12.2.007.0-75",
+            "name": "\"Система стандартов безопасности труда. Изделия электротехнические. Общие требования безопасности\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      },
+      {
+        "idIdentification": 19877,
+        "annex": true,
+        "name": "Устройства комплектные низковольтные",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74828
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 15011,
+            "name": "Продукция изготовлена в соответствии с ТУ 27.12.31-018-86582603-2017 «Низковольтные комплектные устройства серии ГЭЩ на номинальный ток до 5000 А»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 13631,
+      "idPerson": 54121,
+      "idEmployee": null,
+      "firstName": "Борис",
+      "surname": "Мигдалович",
+      "patronimyc": "Анатольевич"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 16470,
+      "idStatus": 6,
+      "beginDate": "2018-01-26T13:00:30",
+      "endDate": "2021-12-10T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-05T14:50:52.895",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5611267,
+      "idStatus": 15,
+      "beginDate": "2021-12-10T00:00:00",
+      "endDate": "2023-01-26T01:02:11.578",
+      "comment": "На основании подпункта «к» пункта 14, подпункта «в» пункта 16, пункта 17, пункта 22 Правил приостановления, возобновления и прекращения действия сертификатов соответствия, признания их недействительными, утвержденных постановлением Правительства Российской Федерации от 19.06.2021 № 936",
+      "idBasis": 21,
+      "docNumber": "260",
+      "publicated": true,
+      "publishDate": "2021-12-10T09:25:22.757",
+      "lkType": "dict.orgtypes.rosaccr",
+      "idMrpa": null,
+      "docName": "Приказ Росаккредитации",
+      "docDate": "2021-12-10",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5872738,
+      "idStatus": 1,
+      "beginDate": "2023-01-26T01:02:11.578",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2023-01-26T01:02:12.445",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 13729,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "5cc4b91c-db8d-4a86-ac90-2ed031be2cd3",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

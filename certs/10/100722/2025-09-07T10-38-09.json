@@ -1,0 +1,436 @@
+{
+  "idCertificate": 100722,
+  "idTechnicalReglaments": [
+    12
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-RU.МГ07.В.00403",
+  "certRegDate": "2016-05-12",
+  "certEndDate": "2021-05-11",
+  "idBlank": 168774,
+  "blankNumber": "0168774",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 54014,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 128069,
+          "blankNumber": "0128069"
+        },
+        {
+          "idBlank": 128070,
+          "blankNumber": "0128070"
+        },
+        {
+          "idBlank": 128071,
+          "blankNumber": "0128071"
+        },
+        {
+          "idBlank": 128072,
+          "blankNumber": "0128072"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 208269,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью Научно-производственное предприятие «Томская электронная компания» ",
+    "shortName": null,
+    "idPerson": 419001,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1037000091105",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 251855,
+        "idContactType": 1,
+        "value": "+73822633837"
+      },
+      {
+        "idContact": 251856,
+        "idContactType": 3,
+        "value": "+73822633841"
+      },
+      {
+        "idContact": 251857,
+        "idContactType": 4,
+        "value": "npp@mail.npptec.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 639665,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "889b1f3a-98aa-40fc-9d3d-0f41192758ab",
+        "idDistrict": "889b1f3a-98aa-40fc-9d3d-0f41192758ab",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "634040",
+        "fullAddress": "634040, РОССИЯ, Томская область, город Томск, улица Высоцкого, дом 33",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 208270,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью Научно-производственное предприятие «Томская электронная компания» ",
+    "shortName": null,
+    "idPerson": 419002,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1037000091105",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 251858,
+        "idContactType": 1,
+        "value": "+73822633837"
+      },
+      {
+        "idContact": 251859,
+        "idContactType": 3,
+        "value": "+73822633841"
+      },
+      {
+        "idContact": 251860,
+        "idContactType": 4,
+        "value": "npp@mail.npptec.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 639666,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "889b1f3a-98aa-40fc-9d3d-0f41192758ab",
+        "idDistrict": "889b1f3a-98aa-40fc-9d3d-0f41192758ab",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "634040",
+        "fullAddress": "634040, РОССИЯ, Томская область, город Томск, улица Высоцкого, дом 33",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 104126,
+    "fullName": "Орган по сертификации взрывозащищенного и рудничного электрооборудования АО  \"Научный центр ВостНИИ по безопасности работ в горной промышленности \"",
+    "accredOrgName": "Росаккредитация",
+    "attestatRegNumber": "RA.RU.11МГ07",
+    "attestatRegDate": "2014-12-02",
+    "attestatEndDate": null,
+    "idRal": 1942,
+    "ogrn": null,
+    "idPerson": 419004,
+    "firstName": "Игорь",
+    "surname": "Монахов",
+    "patronymic": "Алексеевич",
+    "contacts": [
+      {
+        "idContact": 193600,
+        "idContactType": 1,
+        "value": "+73842642462"
+      },
+      {
+        "idContact": 193601,
+        "idContactType": 1,
+        "value": "+73842643398"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 639667,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idDistrict": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "650002",
+        "fullAddress": "650002,г. Кемерово, ул. Институтская, 3",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 639668,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idDistrict": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "650002",
+        "fullAddress": "650002,Российская Федерация, Кемеровская область, г. Кемерово, ул. Институтская, 3",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 104124,
+    "idProductOrigin": "643",
+    "fullName": "Электропривод РэмТЭК для запорной и запорно-регулирующей трубопроводной арматуры.",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "РэмТЭК",
+    "identifications": [
+      {
+        "idIdentification": 186795,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74828
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Срок службы до списания - 40 лет. Полный назначенный срок службы 30 лет. Условия и сроки хранения в соответствии с эксплуатационной документацией изготовителя.",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117296,
+            "name": "ТУ 3791-332-20885897-2004 «Электропривод РэмТЭК для запорной и запорно-регулирующей трубопроводной арматуры».",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 107693,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106587,
+      "idPerson": 419003,
+      "idEmployee": null,
+      "firstName": "Константин",
+      "surname": "Нехорошев",
+      "patronimyc": "Владимирович"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122454,
+      "idStatus": 6,
+      "beginDate": "2016-05-12T06:44:15",
+      "endDate": "2021-06-12T01:28:37.723",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:56:18.819",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5415642,
+      "idStatus": 1,
+      "beginDate": "2021-06-12T01:28:37.723",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2021-06-12T01:28:37.81",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 113144,
+      "annex": false,
+      "idRal": 26044,
+      "regNumber": "RA.RU.21ГБ07",
+      "fullName": "Испытательный центр взрывозащищенного и рудничного электрооборудования, изделий и материалов АО  \"Научный центр ВостНИИ по безопасности работ в горной промышленности \"",
+      "beginDate": "2014-12-09",
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a41c4471-6825-4eac-b043-021e972f1761",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

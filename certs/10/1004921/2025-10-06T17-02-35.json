@@ -1,0 +1,409 @@
+{
+  "idCertificate": 1004921,
+  "idTechnicalReglaments": [
+    97148
+  ],
+  "idCertScheme": 54,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-CN.АГ88.В.64175",
+  "certRegDate": "2014-01-29",
+  "certEndDate": "2015-01-28",
+  "idBlank": 1781697,
+  "blankNumber": "1781697",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 244069,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 502728,
+          "blankNumber": "0502728"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2016586,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"FAW Jiefang automobile corporation co.ltd\"",
+    "shortName": null,
+    "idPerson": 4023982,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1009037,
+        "idContactType": 1,
+        "value": "+086051085996619"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4766676,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Changchun city, Dongfeng street, 76",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2016587,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"FAW Jiefang automobile corporation co.ltd\"",
+    "shortName": null,
+    "idPerson": 4023983,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1009038,
+        "idContactType": 1,
+        "value": "+086051085996619"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4766677,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Changchun city, Dongfeng street, 76",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [
+    {
+      "idFilial": 172942,
+      "fullName": null,
+      "shortName": null,
+      "idLegalForm": null,
+      "kpp": null,
+      "annex": false,
+      "contacts": [],
+      "addresses": [
+        {
+          "idAddress": 4766678,
+          "idAddrType": 1,
+          "idCodeOksm": null,
+          "oksmShort": null,
+          "idSubject": null,
+          "idDistrict": null,
+          "idCity": null,
+          "idLocality": null,
+          "idStreet": null,
+          "idHouse": null,
+          "flat": null,
+          "postCode": null,
+          "fullAddress": null,
+          "gln": null,
+          "foreignDistrict": null,
+          "foreignCity": null,
+          "foreignLocality": null,
+          "foreignStreet": null,
+          "foreignHouse": null,
+          "uniqueAddress": null,
+          "otherGln": null,
+          "glonass": null
+        }
+      ]
+    }
+  ],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1008331,
+    "fullName": "Орган по сертификации продукции ООО \"Проксима\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ88",
+    "attestatRegDate": "2013-10-15",
+    "attestatEndDate": null,
+    "idRal": 17491,
+    "ogrn": "1117746508450",
+    "idPerson": 4023985,
+    "firstName": "Л.",
+    "surname": "Сумцов",
+    "patronymic": "Л.",
+    "contacts": [
+      {
+        "idContact": 645176,
+        "idContactType": 1,
+        "value": "+74956262462"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4766679,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115682",
+        "fullAddress": "115682,РФ, г. Москва, ул. Шипиловская, д. 64, корп. 1, оф. 147",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1008336,
+    "idProductOrigin": "156",
+    "fullName": "Запасные части для ремонта и технического обслуживания автотранспортных средств,",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "т.м. \"FAW\" согласно Приложению (бланк № 0502728)",
+    "identifications": [
+      {
+        "idIdentification": 1527756,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1108760,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1022545,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 998462,
+      "idPerson": 4023984,
+      "idEmployee": null,
+      "firstName": "Петр",
+      "surname": "Малышкин",
+      "patronimyc": "Валерьевич"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1498191,
+      "idStatus": 1,
+      "beginDate": "2014-01-29T00:00:00",
+      "endDate": "2015-01-28T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:33:04.934",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1498192,
+      "idStatus": 1,
+      "beginDate": "2015-01-28T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:33:04.934",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1037874,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "b1f3c9c1-bdba-434d-97d1-a909ac2aa010",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

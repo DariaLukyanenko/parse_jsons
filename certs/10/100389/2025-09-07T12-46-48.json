@@ -1,0 +1,514 @@
+{
+  "idCertificate": 100389,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-NL.АЯ46.В.80166",
+  "certRegDate": "2017-05-30",
+  "certEndDate": "2022-05-29",
+  "idBlank": 517087,
+  "blankNumber": "0517087",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53829,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 385503,
+          "blankNumber": "0385503"
+        }
+      ]
+    },
+    {
+      "idAnnex": 53830,
+      "idType": 2,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 385504,
+          "blankNumber": "0385504"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207603,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 1,
+    "fullName": "\"PHILIPS CONSUMER LIFESTYLE B.V.\" (Уполномоченное изготовителем лицо: Общество с ограниченной ответственностью \"ФИЛИПС\" по договору № 29/06/12/TR от 29.06.2012 г. ОГРН 1027700044074. Адрес:123022, Российская Федерация, город Москва, улица Сергея Макеева, дом 13. Телефон: +74959379300, e-mail: support.hotline.moscow@philips.com)",
+    "shortName": null,
+    "idPerson": 417660,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 251053,
+        "idContactType": 1,
+        "value": "+31402784218"
+      },
+      {
+        "idContact": 251054,
+        "idContactType": 4,
+        "value": "communicatie.drachten@philips.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 636979,
+        "idAddrType": 1,
+        "idCodeOksm": "528",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "НИДЕРЛАНДЫ, Tussendiepen 4, 9206 AD Drachten",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207604,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "\"PHILIPS CONSUMER LIFESTYLE B.V.\"",
+    "shortName": null,
+    "idPerson": 417661,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 636980,
+        "idAddrType": 1,
+        "idCodeOksm": "528",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "НИДЕРЛАНДЫ, Tussendiepen 4, 9206 AD Drachten",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 148594,
+        "annex": true,
+        "fullName": "“Xin Sheng Electrical (Shenzhen) Company Limited”",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 636981,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, Junction of Xihuan Road and Li Yuan Road, Fuyong Sub-District office, Baoan, Shenzhen, China",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103793,
+    "fullName": "Орган по сертификации \"РОСТЕСТ- Москва\" ЗАО \"Региональный орган по сертификации и тестированию\"",
+    "accredOrgName": "Росаккредитация",
+    "attestatRegNumber": "RA.RU.10АЯ46",
+    "attestatRegDate": "2015-04-27",
+    "attestatEndDate": null,
+    "idRal": 8887,
+    "ogrn": null,
+    "idPerson": 417663,
+    "firstName": "Павел",
+    "surname": "Меденко",
+    "patronymic": "Валентинович",
+    "contacts": [
+      {
+        "idContact": 192903,
+        "idContactType": 1,
+        "value": "+74956682715"
+      },
+      {
+        "idContact": 192904,
+        "idContactType": 1,
+        "value": "+74991291911"
+      },
+      {
+        "idContact": 192905,
+        "idContactType": 4,
+        "value": "info@rostest.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 636982,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117418",
+        "fullAddress": "117418, Российская Федерация, г. Москва, Нахимовский проспект, д. 31",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 636983,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "119049",
+        "fullAddress": "119049, Российская Федерация, г. Москва, ул. Житная, д. 14, стр. 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103791,
+    "idProductOrigin": "528",
+    "fullName": "Шнековые соковыжималки электрические PHILIPS",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "типы: HR1945 HR1946 HR1947 HR1949",
+    "identifications": [
+      {
+        "idIdentification": 186054,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74140
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Cрок службы продукции указан в сопроводительной документации. Условия хранения стандартные при нормальных значениях климатических факторов внешней среды. Срок хранения не установлен. Оценка соответствия осуществлена на основе анализа рисков. Обозначение и наименование стандартов (см. приложение - бланк &#8470; 0385503). Предприятие-изготовитель (см. приложение - бланк &#8470; 0385504)",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116906,
+            "name": "ДИРЕКТИВА 2014/30/ЕU ЕВРОПЕЙСКОГО ПАРЛАМЕНТА И СОВЕТА от 26 февраля 2014 г. «О гармонизации законодательств государств-членов ЕС в области электромагнитной совместимости». Директива 2014/35/EU ЕВРОПЕЙСКОГО ПАРЛАМЕНТА И СОВЕТА  от 26 февраля 2014 г. «О гармонизации законодательств государств-членов в области размещения на рынке электрооборудования, предназначенного для использования в определенных пределах напряжения»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 107251,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.2-2013  (IEC 61000-3-2:2009)",
+            "name": "Совместимость технических средств электромагнитная. Эмиссия гармонических составляющих тока техническими средствами с потребляемым током не более 16 А (в одной фазе). Нормы и методы испытаний ",
+            "section": null,
+            "addlInfo": "разделы 5 и 7 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107250,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.3-2013 (IEC 61000-3-3:2008)",
+            "name": "Совместимость технических средств электромагнитная. Ограничение изменений напряжения, колебаний напряжения и фликера в низковольтных системах электроснабжения общего назначения. Технические средства с потребляемым током не более 16 А (в одной фазе),подключаемые к электрической сети при несоблюдении определенных условий подключения. Нормы и методы испытаний",
+            "section": null,
+            "addlInfo": "раздел 5 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107249,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30805.14.1-2013 (CISPR 14-1:2005)",
+            "name": "Совместимость технических средств электромагнитная. Бытовые приборы, электрические инструменты и аналогичные устройства. Радиопомехи индустриальные. Нормы и методы измерений",
+            "section": null,
+            "addlInfo": "раздел 4 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107248,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30805.14.2-2013 (CISPR 14-2:2001)",
+            "name": "Совместимость технических средств электромагнитная. Бытовые приборы, электрические инструменты и аналогичные устройства. Устойчивость \nк электромагнитным помехам. Требования и методы испытаний\n",
+            "section": null,
+            "addlInfo": "разделы 4 и 5, подраздел 7.2 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107247,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "СТБ EN 50366-2007",
+            "name": "Бытовые и аналогичные электрические приборы. Поля\nэлектромагнитные. Методы оценки и измерения",
+            "section": null,
+            "addlInfo": "раздел 6",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107246,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ МЭК 60335-1-2008",
+            "name": "Бытовые и аналогичные электрические приборы. Безопасность. Часть 1. Общие требования",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107245,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106245,
+      "idPerson": 417662,
+      "idEmployee": null,
+      "firstName": "Ольга",
+      "surname": "Круглова",
+      "patronimyc": "Николаевна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122059,
+      "idStatus": 14,
+      "beginDate": "2017-05-30T00:00:00",
+      "endDate": "2017-05-30T13:14:55",
+      "comment": "Техническая ошибка\n",
+      "idBasis": 2,
+      "docNumber": "80166\n",
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": "2017-05-30",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 122060,
+      "idStatus": 14,
+      "beginDate": "2017-05-30T13:14:55",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112713,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "61ff276d-c706-4fce-ac79-3d5759896b86",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

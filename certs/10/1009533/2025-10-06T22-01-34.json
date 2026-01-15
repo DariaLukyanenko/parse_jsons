@@ -1,0 +1,816 @@
+{
+  "idCertificate": 1009533,
+  "idTechnicalReglaments": [],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-DE.АГ92.В.02191",
+  "certRegDate": "2012-03-30",
+  "certEndDate": "2015-03-29",
+  "idBlank": 1360060,
+  "blankNumber": "1360060",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 244833,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 404774,
+          "blankNumber": "0404774"
+        },
+        {
+          "idBlank": 404775,
+          "blankNumber": "0404775"
+        }
+      ]
+    },
+    {
+      "idAnnex": 244834,
+      "idType": 3,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 404776,
+          "blankNumber": "0404776"
+        },
+        {
+          "idBlank": 404777,
+          "blankNumber": "0404777"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2025810,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": null,
+    "fullName": "\"HANS PRIES GMBH CO. KG\";Bergedorfer Str./Industriegebiet, D-27767 Ganderkesse, Germany, Германия",
+    "shortName": null,
+    "idPerson": 4042384,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4785457,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2025811,
+    "idEgrul": null,
+    "idLegalSubjectType": null,
+    "fullName": "\"HANS PRIES GMBH CO. KG\";Bergedorfer Str./Industriegebiet, D-27767 Ganderkesse, Germany, Германия",
+    "shortName": null,
+    "idPerson": 4042385,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4785458,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 640461,
+        "annex": true,
+        "fullName": "\"HANS PRIES GMBH CO. KG\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640462,
+        "annex": true,
+        "fullName": "\"AL-KO KOBER AG\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640463,
+        "annex": true,
+        "fullName": "\"AP Racing\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640464,
+        "annex": true,
+        "fullName": "\"Arthur Langenhan GmbH & Co. KG\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640465,
+        "annex": true,
+        "fullName": "\"ASSO MARMITTE srl\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640466,
+        "annex": true,
+        "fullName": "\"AtechVertriebsGmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640467,
+        "annex": true,
+        "fullName": "\"BOUGICORD\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640468,
+        "annex": true,
+        "fullName": "\"BREMI Fahrzeug-Elektrik GmbH + Co. KG\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640469,
+        "annex": true,
+        "fullName": "\"CEBI DeutschlandVertriebs-GmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640470,
+        "annex": true,
+        "fullName": "\"ContinentalAftermarketGmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640471,
+        "annex": true,
+        "fullName": "\"ContinentalAktiengesellschaft\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640472,
+        "annex": true,
+        "fullName": "\"DANA AUTOMOCIУN, S.A.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640473,
+        "annex": true,
+        "fullName": "\"Dayco Europe S.r.l \"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640474,
+        "annex": true,
+        "fullName": "\"DelgrossoS.p.A.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640475,
+        "annex": true,
+        "fullName": "\"DelphiThermalSystems\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640476,
+        "annex": true,
+        "fullName": "\"DODUCO GmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640477,
+        "annex": true,
+        "fullName": "\"ERA S.p.A.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640478,
+        "annex": true,
+        "fullName": "\"EurolitesS.p.A.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640479,
+        "annex": true,
+        "fullName": "\"FEP FAHRZEUGELEKTRIK PIRNA GMBH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640480,
+        "annex": true,
+        "fullName": "\"FER FahrzeugelektrikGmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640481,
+        "annex": true,
+        "fullName": "\"GEMO D.G. Moritz GmbH & Co KG\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640482,
+        "annex": true,
+        "fullName": "\"Gustav Wahler GmbH u. Co. KG\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640483,
+        "annex": true,
+        "fullName": "\"HengstGmbH&Co. KG",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640484,
+        "annex": true,
+        "fullName": "\"Honeywell Friction Materials Germany GmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640485,
+        "annex": true,
+        "fullName": "\"HUCO AutomotiveGmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640486,
+        "annex": true,
+        "fullName": "\"Hutchinson SA\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640487,
+        "annex": true,
+        "fullName": "\"JahnLightingGmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640488,
+        "annex": true,
+        "fullName": "\"KACO GmbH + Co. KG\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640489,
+        "annex": true,
+        "fullName": "\"KOYO DEUTSCHLAND GMBH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640490,
+        "annex": true,
+        "fullName": "\"KSPG AG\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640491,
+        "annex": true,
+        "fullName": "\"LASERTECHNOLOGIE WinterGmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640492,
+        "annex": true,
+        "fullName": "\"Littelfuse, Inc.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640493,
+        "annex": true,
+        "fullName": "\"Magneti Marelli S.p.A.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640494,
+        "annex": true,
+        "fullName": "\"Metelli S.p.A.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640495,
+        "annex": true,
+        "fullName": "\"MTS S.p.A.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640496,
+        "annex": true,
+        "fullName": "\"OptibeltGmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640497,
+        "annex": true,
+        "fullName": "\"OPTIMAL AG &Co. KG\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640498,
+        "annex": true,
+        "fullName": "\"OttoZimmermannGmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640499,
+        "annex": true,
+        "fullName": "\"PowerDrive LLC\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640500,
+        "annex": true,
+        "fullName": "\"Roberto Nuti S.p.A\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640501,
+        "annex": true,
+        "fullName": "\"Service Technologies GmbH & Co OG\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640502,
+        "annex": true,
+        "fullName": "\"StabilusGmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640503,
+        "annex": true,
+        "fullName": "\"Standard Motor Products Europe Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640504,
+        "annex": true,
+        "fullName": "\"SUSPA GmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640505,
+        "annex": true,
+        "fullName": "\"TMD FrictionGmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640506,
+        "annex": true,
+        "fullName": "\"TRW KFZ AusruestungGmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640507,
+        "annex": true,
+        "fullName": "\"TYC EUROPE B.V.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640508,
+        "annex": true,
+        "fullName": "\"View Max industrial Co., Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640509,
+        "annex": true,
+        "fullName": "\"WILHELM PUDENZ GMBH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640510,
+        "annex": true,
+        "fullName": "PP \"DOBMAR”",
+        "shortName": null,
+        "addresses": []
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1012943,
+    "fullName": "Орган по сертификации продукции ООО \"КапиталСтрой\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ92",
+    "attestatRegDate": null,
+    "attestatEndDate": null,
+    "idRal": 11509,
+    "ogrn": "1107746552671",
+    "idPerson": 4042387,
+    "firstName": "А.",
+    "surname": "Бужацкий",
+    "patronymic": "Е.",
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4785459,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115093",
+        "fullAddress": "115093, г. Москва, Партийный переулок, д. 1, корп. 58, стр. 1, оф. 313, тел. (495) 6605025, факс (495) 6605025, E-mail Kapitalstroy-sert@bk.ru",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1012948,
+    "idProductOrigin": "276",
+    "fullName": "Запасные части для технического обслуживания и ремонта автомобилей, т.м. (см. приложение на 2 листах, бланки №№ 0404776, 0404777)",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": null,
+    "identifications": [
+      {
+        "idIdentification": 1534984,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1113556,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1027273,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": "Технический регламент о безопасности колесных транспортных средств (Постановление Правительства РФ от 10.09.2009 N 720);",
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      },
+      {
+        "idIdentification": 1534985,
+        "annex": true,
+        "name": "Запасные части для технического обслуживания и ремонта автомобилей, т.м. \"HANS PRIES\", \"AL-KO\", \"AP RACING\", \"ASSO\", \"ATE\", \"BENDIX\", \"BLAU\", \"BOUGICORD\", \"BREMI\", \"CLEAN\", \"CONTINENTAL\", \"DAYCO\", \"DELPHI\", \"DOBMAR\", \"DODUCO\", \"ELTH\", \"ERBURG\", \"EUROLITES\", \"FEP\", \"FER\", \"FTE\", \"GEMO\", \"GLASER\", \"HENGST\", \"HINSON\", \"HUCO\", \"INTERMOTOR\", \"JAHN\", \"JURID\", \"KACO\", \"KOSTAL\", \"KOYO\", \"LARA\", \"LASO\", \"LITENS\", \"LITTELFUSE\", \"MAGNETI MARELLI\", \"MARWAL\", \"MESSMER\", \"MTS\", \"OPTIBELT\", \"OPTIMAL\", \"PAGID\", \"POWERDRIVE\", \"PUDENZ\", \"SABO\", \"SAGEM\", \"STABILUS\", \"SUSPA\", \"TEXTAR\", \"TIMKEN\", \"TRW\", \"TYC\", \"VDO\", \"VIEW MAX\", \"WAHLER\", \"WEHRLE\", \"ZIMMERMANN\" ",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1534986,
+        "annex": true,
+        "name": "лампы накаливания, в том числе галогеновые для автотранспортных средств детали подвески и рулевого управления для автомобилей (амортизаторы, рычаги, стойки стабилизатора, наконечники рулевых тяг, рулевые тяги, рулевая рейка, тросы, шкивы, шрусы, крестовины, колпачок защитный ступицы колеса, ступицы и крепеж к ним (болты, гайки, хомуты)) части тормозной системы (диски, барабаны, колодки дискового и барабанного тормоза, усилители тормозов, тормозные шланги, датчики износа тормозных колодок, индуктор противоблокировочный ABS, суппорт, часть суппорта, установочный комплект для колодок, трос ручного тормоза, гидравлические цилиндры, регулятор тормозных сил) части электрооборудования для автотранспортных средств  (бегунок, вентилятор, датчики (включения вентилятора, включения стоп сигнала, вращения колеса (ABS)",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1534987,
+        "annex": true,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1534988,
+        "annex": true,
+        "name": "давления масла, положения дроссельной заслонки, температуры, частоты вращения коленчатого вала, катушка зажигания, кнопка аварийной остановки, коммутатор системы зажигания, контактная группа, крышка трамблера, мотор (печки, стеклоподъемника, вентилятора, корректора фары, переключатель кнопочный, переключатель подрулевой, разъем электрический, резистор, реле, свеча зажигания, приборы визуальной и звуковой сигнализации, предохранитель, расходомер воздуха), глушители, нейтрализаторы и их части, части двигателя (ремни (клиновые, поликлиновые, зубчатые), ролики, клапана регулировочные, коромысло клапана, прокладки, наборы прокладок, сальники, цепь привода, термостат, фланец системы охлаждения, насос топливный, насос системы охлаждения, натяжитель ремня) части кузовов для автотранспортных средств  (панель кузовная, бампер, арка, решетка, зеркала, стекла зеркал, крышки бензобаков)",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 1003028,
+      "idPerson": 4042386,
+      "idEmployee": null,
+      "firstName": null,
+      "surname": "Е.Н. Кравцов",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1504317,
+      "idStatus": 1,
+      "beginDate": "2012-03-30T00:00:00",
+      "endDate": "2015-03-29T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:39:59.597",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1504318,
+      "idStatus": 1,
+      "beginDate": "2015-03-29T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:39:59.597",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1042489,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "b9f8653a-e7f2-85c4-c325-79d1003bea7c",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

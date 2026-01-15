@@ -1,0 +1,698 @@
+{
+  "idCertificate": 100249,
+  "idTechnicalReglaments": [
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-KR.АЯ46.В.79370",
+  "certRegDate": "2017-04-05",
+  "certEndDate": "2023-03-28",
+  "idBlank": 516188,
+  "blankNumber": "0516188",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53744,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 370190,
+          "blankNumber": "0370190"
+        }
+      ]
+    },
+    {
+      "idAnnex": 53745,
+      "idType": 2,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 370189,
+          "blankNumber": "0370189"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207323,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "\"Samsung Electronics Co., Ltd.\" в лице Уполномоченного изготовителем представителя: Общество с ограниченной ответственностью «Самсунг Электроникс Рус Компани». ОГРН 5067746785882. Адрес: 123242, г. Москва, Новинский бульвар, д. 31, помещение 1, 2, Российская Федерация . Телефон: +74959264200, E-mail: info@samsung.com",
+    "shortName": null,
+    "idPerson": 417095,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250677,
+        "idContactType": 1,
+        "value": "+74959264200"
+      },
+      {
+        "idContact": 250678,
+        "idContactType": 4,
+        "value": "info@samsung.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 635603,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Республика Корея, Maetan-dong, 129, Samsung-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do, Republic of Korea",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207324,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "\"Samsung Electronics Co., Ltd.\"",
+    "shortName": null,
+    "idPerson": 417096,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 635604,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Республика Корея, Maetan-dong, 129, Samsung-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do, Republic of Korea",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 147857,
+        "annex": true,
+        "fullName": "Предприятия-изготовители:",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 147858,
+        "annex": true,
+        "fullName": "\"Samsung Electronics Co., Ltd.\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 635605,
+            "idAddrType": 1,
+            "idCodeOksm": null,
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "Республика Корея, № 94-1, Imsu-Dong, Gumi-Sity, Gyeongsangbuk-Do, 730-350",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 147859,
+        "annex": true,
+        "fullName": "\"Tianjin Samsung Telecom Communication Co., Ltd.\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 635606,
+            "idAddrType": 1,
+            "idCodeOksm": null,
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "Китай, No. 9, Wei Wu Road, Micro-Electronics Industrial  Park TEDA, Xiqing District, Tianjin 300385",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 147860,
+        "annex": true,
+        "fullName": "\"Samsung Electronics Huizhou Co., Ltd.\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 635607,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, Chenjiang Town, Huizhou City, Guangdong Province",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 147861,
+        "annex": true,
+        "fullName": "\"Samsung Electronics VietNam Thai Nguyen\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 635608,
+            "idAddrType": 1,
+            "idCodeOksm": "704",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "ВЬЕТНАМ, Yen Binh 1 Industrial park, Dong Tien Commune, Pho Yen District, Thai Nguyen Province",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 147862,
+        "annex": true,
+        "fullName": "\"Samsung Electronics Vietnam Co., Ltd.\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 635609,
+            "idAddrType": 1,
+            "idCodeOksm": "704",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "ВЬЕТНАМ, Yen Phong 1 P, Yen Trung Commune, Yen Phong District, Bac Ninh Province",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103653,
+    "fullName": "Орган по сертификации \"РОСТЕСТ- Москва\" ЗАО \"Региональный орган по сертификации и тестированию\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.10АЯ46",
+    "attestatRegDate": "2015-04-27",
+    "attestatEndDate": null,
+    "idRal": 8887,
+    "ogrn": null,
+    "idPerson": 417098,
+    "firstName": "Александр",
+    "surname": "Коротенков",
+    "patronymic": "Викторович",
+    "contacts": [
+      {
+        "idContact": 192565,
+        "idContactType": 1,
+        "value": "+74956682715"
+      },
+      {
+        "idContact": 192566,
+        "idContactType": 1,
+        "value": "+74991291911"
+      },
+      {
+        "idContact": 192567,
+        "idContactType": 4,
+        "value": "info@rostest.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 635610,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117418",
+        "fullAddress": "117418, Российская Федерация, г. Москва, Нахимовский проспект, д. 31",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 635611,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "119049",
+        "fullAddress": "119049, Российская Федерация, г. Москва, ул. Житная, д. 14, стр. 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103651,
+    "idProductOrigin": "410",
+    "fullName": "Мобильные телефоны, торговой марки \"Samsung\"\n",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "модели: SM-G950X, SM-G950FD, SM-G950F",
+    "identifications": [
+      {
+        "idIdentification": 185806,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74285
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Условия хранения, срок службы указаны в сопроводительной документации. Предприятия-изготовители продукции указаны в Приложении на 1 листе (бланк &#8470; 0370189). Обозначение и наименование стандартов (см Приложение &#8211; бланк &#8470; 0370190). Оценка соответствия осуществлена на основе анализа рисков.",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116762,
+            "name": "ДИРЕКТИВА 2014/30/ЕU ЕВРОПЕЙСКОГО ПАРЛАМЕНТА И СОВЕТА от 26 февраля 2014 г. «О гармонизации законодательств государств-членов ЕС в области электромагнитной совместимости»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 107007,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ Р 52459.17-2009 (ЕН 301 489-17-2008)",
+            "name": "Совместимость технических средств электромагнитная. Технические средства радиосвязи. Часть 17. Частные требования к оборудованию широкополосных систем передачи в диапазоне 2,4 ГГц, высокоскоростных локальных сетей в диапазоне 5 ГГц и широкополосных систем передачи данных в диапазоне 5,8 ГГц.",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107006,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 32134.1-2013 (EN 301 489-1:2008)",
+            "name": "Совместимость технических средств электромагнитная. Технические средства радиосвязи. Часть 1. Общие технические требования и методы испытаний",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107005,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ CISPR 24-2013",
+            "name": "Совместимость технических средств электромагнитная. Оборудование информационных технологий. Устойчивость к электромагнитным помехам. Требования и методы испытаний",
+            "section": null,
+            "addlInfo": "раздел 5",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107004,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30805.22-2013 (CISPR 22:2006)",
+            "name": "Совместимость технических средств электромагнитная. Оборудование информационных технологий. Радиопомехи индустриальные. Нормы и методы измерений",
+            "section": null,
+            "addlInfo": "разделы 4 – 6",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107003,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106100,
+      "idPerson": 417097,
+      "idEmployee": null,
+      "firstName": "Ольга",
+      "surname": "Круглова",
+      "patronimyc": "Николаевна"
+    },
+    {
+      "idExpert": 2775097,
+      "idPerson": 12929779,
+      "idEmployee": null,
+      "firstName": "Наталья",
+      "surname": "Добрина",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2775095,
+      "idPerson": 12929777,
+      "idEmployee": null,
+      "firstName": "Алексей",
+      "surname": "Гудович",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2775092,
+      "idPerson": 12929774,
+      "idEmployee": null,
+      "firstName": "Ольга",
+      "surname": "Круглова",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2775093,
+      "idPerson": 12929775,
+      "idEmployee": null,
+      "firstName": "Рустам",
+      "surname": "Фейзрахманов",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121882,
+      "idStatus": 6,
+      "beginDate": "2017-04-07T09:23:59",
+      "endDate": "2023-03-29T01:21:50.478",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5913296,
+      "idStatus": 1,
+      "beginDate": "2023-03-29T01:21:50.478",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2023-03-29T01:21:51.835",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112484,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    },
+    {
+      "idTestingLab": 112485,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    },
+    {
+      "idTestingLab": 112486,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "60a592ad-a44f-4f2f-9a39-7275ad31e671",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

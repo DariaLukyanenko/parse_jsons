@@ -1,0 +1,506 @@
+{
+  "idCertificate": 100318,
+  "idTechnicalReglaments": [
+    11
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-RU.ОС12.В.00046",
+  "certRegDate": "2017-12-11",
+  "certEndDate": "2022-12-10",
+  "idBlank": 138827,
+  "blankNumber": "0138827",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53783,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 97046,
+          "blankNumber": "0097046"
+        }
+      ]
+    },
+    {
+      "idAnnex": 53784,
+      "idType": 5,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 97045,
+          "blankNumber": "0097045"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207461,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью \"Ремстрой\"",
+    "shortName": null,
+    "idPerson": 417375,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250855,
+        "idContactType": 1,
+        "value": "+78312600110"
+      },
+      {
+        "idContact": 250856,
+        "idContactType": 4,
+        "value": "info@remstroynn.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 636287,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "88cd27e2-6a8a-4421-9718-719a28a0a088",
+        "idDistrict": "88cd27e2-6a8a-4421-9718-719a28a0a088",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "603011",
+        "fullAddress": "603011, РОССИЯ, Нижегородская область, Нижний Новгород, улица Литературная, дом 6А, помещение 2",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207462,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью \"Ремстрой\"",
+    "shortName": null,
+    "idPerson": 417376,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250857,
+        "idContactType": 1,
+        "value": "+78312600110"
+      },
+      {
+        "idContact": 250858,
+        "idContactType": 4,
+        "value": "info@remstroynn.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 636288,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "88cd27e2-6a8a-4421-9718-719a28a0a088",
+        "idDistrict": "88cd27e2-6a8a-4421-9718-719a28a0a088",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "603011",
+        "fullAddress": "603011, РОССИЯ, Нижегородская область, Нижний Новгород, улица Литературная, дом 6А, помещение 2",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103722,
+    "fullName": "Орган по сертификации Общества с ограниченной ответственностью \"Центр испытаний, сертификации и аттестации\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.10ОС12",
+    "attestatRegDate": "2015-03-16",
+    "attestatEndDate": null,
+    "idRal": 6724,
+    "ogrn": null,
+    "idPerson": 417378,
+    "firstName": "Алексей",
+    "surname": "Архипов",
+    "patronymic": "Викторович",
+    "contacts": [
+      {
+        "idContact": 192727,
+        "idContactType": 1,
+        "value": "+78314111415"
+      },
+      {
+        "idContact": 192728,
+        "idContactType": 4,
+        "value": "csiann@yandex.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 636289,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "8",
+        "postCode": "603022",
+        "fullAddress": "603022, РОССИЯ, Нижегородская область, г. Нижний Новгород, проспект Гагарина, д. 1, офис 8",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 636290,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "603000",
+        "fullAddress": "603000, Россия, Нижегородская область, Нижний Новгород, ул. Ярославская, д. 4",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103720,
+    "idProductOrigin": "643",
+    "fullName": "Низковольтные комплектные устройства:",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "- щиты главные распределительные (ГРЩ);\n- устройства вводно-распределительные (ВРУ);\n- шкафы и щиты распределительные (ШР, ЩР);\n- шкафы и щиты автоматического ввода резерва (ШАВР, ЩАВР);\n- щиты автоматического переключения между вводами (ЩАП)",
+    "identifications": [
+      {
+        "idIdentification": 185953,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74828
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116835,
+            "name": "ТУ 3430-002-80457096-2017 \"Устройства комплектные низковольтные\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 107121,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 61439-1-2013 ",
+            "name": "«Устройства комплектные низковольтные распределения и управления. Часть 1.Общие требования\"",
+            "section": null,
+            "addlInfo": "Разделы 6,7,8.9, приложения А,G, K, N, P",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107120,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "СТБ МЭК 60439-1-2007 (IEC 60439-1:2004) ",
+            "name": "Низковольтные комплектные устройства распределения и управления. Часть 1. Устройства, подвергаемые испытаниям типа полностью или частично. Общие технические требования и методы испытания.\" ",
+            "section": null,
+            "addlInfo": "Раздел 5, пункты 7.1-7.9",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107119,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ Р 51321.1-2007 (IEC60439-1:2004) ",
+            "name": "Устройства комплектные низковольтные распределения и управления. Часть 1. Устройства, подвергаемые испытаниям типа полностью или частично. Общие технические требования и методы испытания.\" ",
+            "section": null,
+            "addlInfo": "Раздел.5, пункты 7.1-7.9 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107118,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 12.2.007.0-75 ",
+            "name": "Изделия электротехнические.\nОбщие требования безопасности ",
+            "section": null,
+            "addlInfo": "Пункты 2.1, 3.2, 3.3, 3.4, 3.6-3.9 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107117,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106173,
+      "idPerson": 417377,
+      "idEmployee": null,
+      "firstName": "Марина ",
+      "surname": "Петрова",
+      "patronimyc": "Александровна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121968,
+      "idStatus": 6,
+      "beginDate": "2017-12-11T13:19:11",
+      "endDate": "2020-11-24T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5474924,
+      "idStatus": 16,
+      "beginDate": "2020-11-24T00:00:00",
+      "endDate": "2022-12-10T00:00:00",
+      "comment": "Проведение планового инспекционного контроля",
+      "idBasis": 2,
+      "docNumber": "00045/3",
+      "publicated": true,
+      "publishDate": "2021-08-06T14:53:41.043",
+      "lkType": "dict.orgtypes.os",
+      "idMrpa": null,
+      "docName": "РЕШЕНИЕ о подтверждении действия сертификата по результатам планового инспекционного контроля сертифицированной продукции",
+      "docDate": "2020-11-24",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": "dffd3c51-a00c-4f22-ab6e-e222eff0889e"
+    },
+    {
+      "idChangeStatus": 5595322,
+      "idStatus": 6,
+      "beginDate": "2021-11-30T00:00:00",
+      "endDate": "2021-12-10T15:25:14",
+      "comment": "В соответствии с ПП №1856",
+      "idBasis": 1,
+      "docNumber": "ПП №1856",
+      "publicated": true,
+      "publishDate": "2021-11-30T15:04:09.425",
+      "lkType": "dict.orgtypes.rosaccr",
+      "idMrpa": null,
+      "docName": "ПП №1856",
+      "docDate": "2020-11-18",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5613091,
+      "idStatus": 14,
+      "beginDate": "2021-12-10T15:25:14",
+      "endDate": null,
+      "comment": "На основании письма, исх. № 1012/1 от 10.12.2021, о прекращении выпуска продукции",
+      "idBasis": 2,
+      "docNumber": "00046-4",
+      "publicated": true,
+      "publishDate": "2021-12-10T12:32:58.389",
+      "lkType": "dict.orgtypes.os",
+      "idMrpa": null,
+      "docName": "Решение о прекращении действия сертификата соответствия",
+      "docDate": "2021-12-10",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": "bc4837e2-8807-4d51-ae71-9663a0252f91"
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112597,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "6156a143-d0a6-4964-948e-dbd78e243a48",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

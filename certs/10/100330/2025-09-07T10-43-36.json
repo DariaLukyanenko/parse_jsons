@@ -1,0 +1,426 @@
+{
+  "idCertificate": 100330,
+  "idTechnicalReglaments": [
+    11,
+    14,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-CN.АЯ60.В.00222",
+  "certRegDate": "2017-11-30",
+  "certEndDate": "2020-06-22",
+  "idBlank": 641070,
+  "blankNumber": "0641070",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53796,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 52823,
+          "blankNumber": "0052823"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207485,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭНКОР-ИНСТРУМЕНТ-ВОРОНЕЖ\"",
+    "shortName": null,
+    "idPerson": 417423,
+    "surname": "Соколов",
+    "firstName": "Сергей",
+    "patronymic": "Алексеевич",
+    "headPosition": null,
+    "ogrn": "1043600095780",
+    "ogrnAssignDate": null,
+    "inn": "3666118233",
+    "kpp": null,
+    "idLegalForm": 12,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250885,
+        "idContactType": 1,
+        "value": "+74732390333"
+      },
+      {
+        "idContact": 250886,
+        "idContactType": 3,
+        "value": "+74732619646"
+      },
+      {
+        "idContact": 250887,
+        "idContactType": 4,
+        "value": "konsul@enkor.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 636423,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "b756fe6b-bbd3-44d5-9302-5bfcc740f46e",
+        "idDistrict": "b756fe6b-bbd3-44d5-9302-5bfcc740f46e",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "394026",
+        "fullAddress": "394026, РОССИЯ, Воронежская область, город Воронеж, улица Текстильщиков, дом 2д, кабинет 17",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207486,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "SHANGHAI JOYE IMPORT & EXPORT CO.,LTD",
+    "shortName": null,
+    "idPerson": 417424,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250888,
+        "idContactType": 1,
+        "value": "+862151873988"
+      },
+      {
+        "idContact": 250889,
+        "idContactType": 3,
+        "value": "+862134248393"
+      },
+      {
+        "idContact": 250890,
+        "idContactType": 4,
+        "value": "pan@joye-china.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 636424,
+        "idAddrType": 1,
+        "idCodeOksm": "156",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "КИТАЙ, PUDONG, SHANGHAI, LAOSHANWUCUN, №551, RM339",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103734,
+    "fullName": "Орган по сертификации продукции и услуг Частного Учреждения \"Воронежский центр сертификации и мониторинга\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.10АЯ60",
+    "attestatRegDate": "2015-10-15",
+    "attestatEndDate": null,
+    "idRal": 22209,
+    "ogrn": null,
+    "idPerson": 417426,
+    "firstName": "Сергей",
+    "surname": "Калашников",
+    "patronymic": "Владимирович",
+    "contacts": [
+      {
+        "idContact": 192759,
+        "idContactType": 1,
+        "value": "+74732597793"
+      },
+      {
+        "idContact": 192760,
+        "idContactType": 4,
+        "value": "mail@vcsm.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 636425,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "b756fe6b-bbd3-44d5-9302-5bfcc740f46e",
+        "idDistrict": "b756fe6b-bbd3-44d5-9302-5bfcc740f46e",
+        "idCity": "5bf5ddff-6353-4a3d-80c4-6fb27f00c6c1",
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "394018",
+        "fullAddress": "394018, РОССИЯ, Воронежская область, Воронеж, ул. Станкевича, д. 2А",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 636426,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "b756fe6b-bbd3-44d5-9302-5bfcc740f46e",
+        "idDistrict": "b756fe6b-bbd3-44d5-9302-5bfcc740f46e",
+        "idCity": "5bf5ddff-6353-4a3d-80c4-6fb27f00c6c1",
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "394018",
+        "fullAddress": "394018, РОССИЯ, Воронежская область, Воронеж, ул. Станкевича, д. 2А",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103732,
+    "idProductOrigin": "156",
+    "fullName": "Машины ручные электрические  с торговым знаком \"Энкор\": краскопульты электрические",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "моделей КЭ-100, КЭ-400, КЭ-700, КЭС-700",
+    "identifications": [
+      {
+        "idIdentification": 185965,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          73480
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Условия хранения и эксплуатации при температуре от +1&#176;С до +35&#176;С и относительной влажности воздуха до 80%. Срок службы не менее 3 лет. Перечень стандартов, в результате применения которых на добровольной основе обеспечивается соблюдение требований технических регламентов - см. приложение                                               ",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116847,
+            "name": "выпускаемые в соответствии с IEC 60745-2-7:1989 \"Безопасность ручных ручных электромеханических инструментов. Часть 2-7. Дополнительные требования к распылительным пистолетам для невоспламеняющихся жидкостей\"                                                                                                                                                                                                                                                                                                                                                                           ",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 107147,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106185,
+      "idPerson": 417425,
+      "idEmployee": null,
+      "firstName": "Любовь",
+      "surname": "Романенко",
+      "patronimyc": "Васильевна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121983,
+      "idStatus": 6,
+      "beginDate": "2017-11-30T17:15:38",
+      "endDate": "2020-06-23T01:16:15.804",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 3887323,
+      "idStatus": 1,
+      "beginDate": "2020-06-23T01:16:15.804",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2020-06-23T01:16:16.08",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112617,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "61721197-676a-4545-86a7-bdc4f6dbebc2",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

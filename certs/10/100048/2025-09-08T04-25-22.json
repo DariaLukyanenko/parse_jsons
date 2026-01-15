@@ -1,0 +1,453 @@
+{
+  "idCertificate": 100048,
+  "idTechnicalReglaments": [
+    14
+  ],
+  "idCertScheme": 3,
+  "idObjectCertType": 2,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 6,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-SE.АБ58.А.01712",
+  "certRegDate": "2017-06-29",
+  "certEndDate": null,
+  "idBlank": 523564,
+  "blankNumber": "0523564",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53587,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 354825,
+          "blankNumber": "0354825"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 206921,
+    "idEgrul": null,
+    "idApplicantType": 3,
+    "idLegalSubjectType": 1,
+    "fullName": "«Линде Материал Хэндлинг Рус»",
+    "shortName": null,
+    "idPerson": 416288,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1117746493842",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": 12,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250174,
+        "idContactType": 1,
+        "value": "+74952584045"
+      },
+      {
+        "idContact": 250175,
+        "idContactType": 4,
+        "value": "Zhanna.Chernyuk@linde-mh.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 633664,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "129085",
+        "fullAddress": "129085, РОССИЯ, Москва Город, город Москва, улица Годовикова, строение 1, дом 9",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 206922,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "UNICARRIERS EUROPE AB",
+    "shortName": null,
+    "idPerson": 416289,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 633665,
+        "idAddrType": 1,
+        "idCodeOksm": "752",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ШВЕЦИЯ, SE-435 82 MOLNLYCKE",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103452,
+    "fullName": "Орган по сертификации продукции \"М-ФОНД\" Общества с ограниченной ответственностью \"Агентство по экспертизе и испытаниям продукции\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АБ58",
+    "attestatRegDate": "2016-04-07",
+    "attestatEndDate": null,
+    "idRal": 596,
+    "ogrn": null,
+    "idPerson": 416291,
+    "firstName": "А.",
+    "surname": "Иванов",
+    "patronymic": "М.",
+    "contacts": [
+      {
+        "idContact": 192130,
+        "idContactType": 1,
+        "value": "+74951501658"
+      },
+      {
+        "idContact": 192131,
+        "idContactType": 4,
+        "value": "info@mfond.org"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 633666,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "125167",
+        "fullAddress": "125167, РОССИЯ, город Москва, ул. Викторенко, д. 16, стр. 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 633667,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "125167",
+        "fullAddress": "125167, РОССИЯ, город Москва, ул. Викторенко, дом 16, стр. 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103450,
+    "idProductOrigin": "752",
+    "fullName": "Транспорт производственный напольный безрельсовый: электроштабелер",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "торговой марки \"LINDE\", модели R25F",
+    "identifications": [
+      {
+        "idIdentification": 185438,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          72652
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Условия и сроки хранения, срок службы продукции согласно документации изготовителя. Сведения о стандартах, в результате применения которых на добровольной основе обеспечивается соблюдение требований ТР ТС (смотри приложение)",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116545,
+            "name": "ТР ТС 010/2011 \"О безопасности машин и оборудования\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 106664,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 29249-2001 (ИСО 6055-97)",
+            "name": "Транспорт напольный безрельсовый. Защитные навесы. Технические характеристики и методы испытаний (пункты: 3.1.1, 3.1.2, 3.1.3, 3.1.4, 3.2.1, 3.2.2, 3.2.3, 3.2.4, 3.2.5, 3.2.6)",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106663,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 31202-2003",
+            "name": "Машины напольного безрельсового электрифицированного транспорта. Рабочее место водителя. Общие эргономические требования (пункты: 3.1, 3.3, 4.1, 4.2, 5.1, 5.3, 5.4, 5.5, 6.1, 6.2, 6.3, 6.4, 6.5, 6.6, 6.7, 7.1)",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106662,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 18962-97",
+            "name": "Машины напольного безрельсового электрифицированного транспорта. Общие технические условия (пункты: 5.1.3, 5.1.5, 5.1.6, 5.1.8, 5.2.2, 5.2.3, 5.2.4, 5.2.5, 5.2.6, 5.2.8, 5.2.10, 5.2.11, 5.3.1, 5.3.2, 5.3.3, 5.3.4, 5.3.8, 5.3.9, 5.4.1, 5.4.3, 5.4.4, 5.4.5, 5.4.6, 5.4.7, 5.4.9, 5.5.1, 5.5.5, 5.5.6, 5.5.7, 5.5.8, 5.5.9, 5.5.10, 5.5.11, 5.5.14, 5.5.16, 5.6.1, 5.6.2, 7.1, 7.2, 7.3, 7.4, 7.5, 7.7, 7.8, 7.9, 7.10, 7.11, 7.12, 7.13, 7.14, 7.15, 7.16, 7.17, 7.19)",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106661,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ Р 51349-99 (ИСО 2328-93, ИСО 2330-95, ИСО 2331-74)",
+            "name": "Транспорт напольный безрельсовый. Плиты грузовые, вилы. Технические условия (пункты: 3.1, 3.2, 5.1, 5.2, 5.3, 5.4, 5.5)",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106660,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30871-2002 (ИСО 3691:1980)",
+            "name": "Транспорт напольный безрельсовый. Требования безопасности (пункты: 5.1.2, 5.1.3, 5.2, 5.3, 6.2, 7.1, 8.1, 9, 10.1.3.1.3, 10.1.3.1.4, 10.1.3.2, 10.1.3.3, 10.1.3.4, 10.1.3.5, 10.1.3.5, а), 11.1.1.3, 11.1.1.4, 11.1.1.5, 11.1.1.6, 11.1.2.1, 11.1.2.2, 11.2.1, 11.3.1, 11.4.1, 11.4.2, 12.1.1, 12.1.2, 12.2, 12.3, 12.7, 13.1, 13.2, 13.4)",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106659,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30868-2002 (ИСО 6292:1996)",
+            "name": "Транспорт напольный безрельсовый. Системы тормозные. Технические требования (пункты: 3.1, 3.2, 4.1, 5.4, 6.1, 6.4, 7.1)",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106658,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 25940-83 (ИСО 3287-78)",
+            "name": "Машины напольного транспорта. Маркировка и символы (пункты: 1.1, 1.2, 2.2, 2.3)",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106657,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 105896,
+      "idPerson": 416290,
+      "idEmployee": null,
+      "firstName": "Н.",
+      "surname": "Гудилин",
+      "patronimyc": "Д."
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121628,
+      "idStatus": 6,
+      "beginDate": "2017-06-29T12:14:03",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:53:37.353",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112216,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a5c4b0f3-a6f6-4bf6-8fd1-3ea46c15b8b4",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

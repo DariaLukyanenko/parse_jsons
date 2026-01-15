@@ -1,0 +1,419 @@
+{
+  "idCertificate": 10090,
+  "idTechnicalReglaments": [
+    6
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-ES.АБ71.В.00003",
+  "certRegDate": "2016-07-01",
+  "certEndDate": "2021-07-01",
+  "idBlank": 421103,
+  "blankNumber": "0421103",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 502324,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 290722,
+          "blankNumber": "0290722"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 4095180,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 3,
+    "fullName": "Aplicaciones Electromecánicas Gervall, S.A.",
+    "shortName": null,
+    "idPerson": 8173349,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 2138665,
+        "idContactType": 1,
+        "value": "+34938930228"
+      },
+      {
+        "idContact": 2138666,
+        "idContactType": 3,
+        "value": "+34938935590"
+      },
+      {
+        "idContact": 2138667,
+        "idContactType": 4,
+        "value": "cis@gervall.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9365313,
+        "idAddrType": 1,
+        "idCodeOksm": "724",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ИСПАНИЯ, Eusebi Millán, 5-7 Polígono Industrial Les Roquetes 08800, Vilanova i la Geltrú (Barcelona)",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 4095181,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "Aplicaciones Electromecánicas Gervall, S.A.",
+    "shortName": null,
+    "idPerson": 8173350,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 2138668,
+        "idContactType": 1,
+        "value": "+34938930228"
+      },
+      {
+        "idContact": 2138669,
+        "idContactType": 3,
+        "value": "+34938935590"
+      },
+      {
+        "idContact": 2138670,
+        "idContactType": 4,
+        "value": "cis@gervall.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9365314,
+        "idAddrType": 1,
+        "idCodeOksm": "724",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ИСПАНИЯ, Eusebi Millán, 5-7 Polígono Industrial Les Roquetes 08800, Vilanova i la Geltrú (Barcelona)",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 2116262,
+    "fullName": "Орган по сертификации общества с ограниченной ответственностью «РусСертифик»",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.10АБ71",
+    "attestatRegDate": "2016-05-12",
+    "attestatEndDate": null,
+    "idRal": 7897,
+    "ogrn": null,
+    "idPerson": 8173352,
+    "firstName": "Василий",
+    "surname": "Комиссаров",
+    "patronymic": "Яковлевич",
+    "contacts": [
+      {
+        "idContact": 1254272,
+        "idContactType": 4,
+        "value": "ruscertific@mail.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9365315,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "127018",
+        "fullAddress": "127018, РОССИЯ, г. Москва, ул. Складочная, д. 1, стр. 10, эт. 2, пом. 1, ком. 5",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 9365316,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "127018",
+        "fullAddress": "127018, РОССИЯ, г. Москва, ул. Складочная, д. 1, стр. 10, эт. 2, пом. 1, ком. 5",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 2047958,
+    "idProductOrigin": "724",
+    "fullName": "Ограничители скорости моделей Aljo 2129 (Aljo 2129B), Aljo 2130 (Aljo 2130B), Aljo 2128.200, Aljo 2128.300 для лифтов",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "Aljo 2129 (Aljo 2129B), Aljo 2130 (Aljo 2130B), Aljo 2128.200, Aljo 2128.300",
+    "identifications": [
+      {
+        "idIdentification": 2976697,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          72760
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Срок хранения 21 месяц в закрытом помещении с естественной вентиляцией при температуре от -50&#176;С до +40&#176;С, относительной влажности до 98% при 25&#176;С. Срок службы 12,5 лет. Схема подтверждения соответствия 1С.\nПериодичность проведения инспекционного контроля не реже одного раза в год.\n",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 2228041,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 2169867,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 2029548,
+      "idPerson": 8173351,
+      "idEmployee": null,
+      "firstName": "Евгений",
+      "surname": "Сологубов",
+      "patronimyc": "Викторович"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 3090175,
+      "idStatus": 14,
+      "beginDate": "2018-06-01T00:00:00",
+      "endDate": null,
+      "comment": "Предписание Федеральной службы по аккредитации от 04.05.2018 № 21-Прд",
+      "idBasis": 7,
+      "docNumber": "В-03-РС-ТР-А",
+      "publicated": true,
+      "publishDate": "2018-09-27T18:40:20.335",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": "2018-06-01",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 3090176,
+      "idStatus": 6,
+      "beginDate": "2016-07-01T10:27:16",
+      "endDate": "2018-06-01T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-09-27T18:40:20.335",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 2086466,
+      "annex": false,
+      "idRal": 11832,
+      "regNumber": "РОСС RU.0001.21ЛХ85",
+      "fullName": "Испытательная лаборатория ООО \"Лифт Аудит\"",
+      "beginDate": "2013-03-19",
+      "endDate": "2018-03-19",
+      "basis": "Протоколы сертификационных испытаний №№ 98-СИ-ТР-06/16, 99-СИ-ТР-06/16 от 28.06.2016; №№ 100-СИ-ТР-06/16, 101-СИ-ТР-06/16 от 29.06.2016\nИспытательная лаборатория Общества с ограниченной ответственностью «Лифт Аудит»\nАттестат № РОСС RU.0001.21ЛХ85, срок действия с 19.03.2013 по 19.03.2018,выдан Федеральной службой по аккредитации.\nАкт о результатах анализа состояния производства № 01-АП-06/16 от 22.06.2016\n",
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "5cb4c82a-903c-45e7-8968-b1345cc16eba",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

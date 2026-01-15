@@ -1,0 +1,542 @@
+{
+  "idCertificate": 100751,
+  "idTechnicalReglaments": [
+    12
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-BY.МЕ92.В.00869",
+  "certRegDate": "2017-10-30",
+  "certEndDate": "2022-10-29",
+  "idBlank": 572650,
+  "blankNumber": "0572650",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 54021,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 395795,
+          "blankNumber": "0395795"
+        }
+      ]
+    },
+    {
+      "idAnnex": 54022,
+      "idType": 3,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 395796,
+          "blankNumber": "0395796"
+        }
+      ]
+    },
+    {
+      "idAnnex": 54023,
+      "idType": 5,
+      "ord": 2,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 395797,
+          "blankNumber": "0395797"
+        },
+        {
+          "idBlank": 395798,
+          "blankNumber": "0395798"
+        },
+        {
+          "idBlank": 395799,
+          "blankNumber": "0395799"
+        },
+        {
+          "idBlank": 395800,
+          "blankNumber": "0395800"
+        },
+        {
+          "idBlank": 395801,
+          "blankNumber": "0395801"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 208327,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с дополнительной ответственностью «Завод Универсал-Импульс». ",
+    "shortName": null,
+    "idPerson": 419117,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 251939,
+        "idContactType": 1,
+        "value": "+375174212110"
+      },
+      {
+        "idContact": 251940,
+        "idContactType": 4,
+        "value": "impsol@inbox.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 639822,
+        "idAddrType": 1,
+        "idCodeOksm": "112",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "223710",
+        "fullAddress": "223710, БЕЛАРУСЬ, Минская область, город Солигорск, улица Коммунальная, дом 3",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 208328,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "Общество с дополнительной ответственностью «Завод Универсал-Импульс». ",
+    "shortName": null,
+    "idPerson": 419118,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 639823,
+        "idAddrType": 1,
+        "idCodeOksm": "112",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "223710",
+        "fullAddress": "223710, БЕЛАРУСЬ, Минская область, город Солигорск, улица Коммунальная, дом 3",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 104155,
+    "fullName": "Орган по сертификации взрывозащищенного и рудничного оборудования \"Сертиум\" Фонда \"Межотраслевой орган сертификации \"Сертиум\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11МЕ92",
+    "attestatRegDate": "2015-06-01",
+    "attestatEndDate": null,
+    "idRal": 18565,
+    "ogrn": null,
+    "idPerson": 419120,
+    "firstName": "Алексей",
+    "surname": "Шатило",
+    "patronymic": "Николаевич",
+    "contacts": [
+      {
+        "idContact": 193649,
+        "idContactType": 1,
+        "value": "+74955547027"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 639824,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idDistrict": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idCity": null,
+        "idLocality": "427b4e19-f221-4abc-8904-81f7409c1ce3",
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "140004",
+        "fullAddress": "140004, РОССИЯ, Московская область, Люберецкий район, город Люберцы, ул. Электрификации, 26",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 639825,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117910",
+        "fullAddress": "117910, РОССИЯ, город Москва, пр-кт. Ленинский, 29",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 104153,
+    "idProductOrigin": "112",
+    "fullName": "Система мониторинга шахтного подъёма СМШП с комплектующим оборудованием",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "Продукция изготовлена в соответствии с техническими условиями ТУ BY 600270799.012-2017 «Система мониторинга шахтного подъёма СМШП». ",
+    "identifications": [
+      {
+        "idIdentification": 186829,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74828
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117330,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 107725,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 22782.3-77",
+            "name": "Электрооборудование взрывозащищенное со специальным видом взрывозащиты. Технические требования и методы испытаний.",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107724,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30852.10-2002 \n(МЭК 60079-11:1999)\n",
+            "name": "Электрооборудование взрывозащищенное. Часть 11. Искробезопасная электрическая цепь i.",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107723,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30852.1-2002 \n(МЭК 60079-1:1998) \n",
+            "name": "Электрооборудование взрывозащищенное. Часть 1. Взрывозащита вида «взрывонепроницаемая оболочка».",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107722,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30852.0-2002 \n(МЭК 60079-0:1998)\n",
+            "name": "Электрооборудование взрывозащищенное. Часть 0. \nОбщие требования.\n",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107721,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      },
+      {
+        "idIdentification": 186830,
+        "annex": true,
+        "name": "Комплектующее оборудование системы мониторинга шахтного подъёма СМШП, применяемое во взрывоопасной зоне:\n- устройство беспроводной передачи энергии УБПЭ;\n- катушка передачи энергии УБПЭ-КПД;\n- датчик линейного положения ДЛП-750/25;\n- катушка приёма энергии УБПЭ-КПР;\n- модуль выпрямителя УБПЭ-МВ;\n- буферный модуль УБПЭ-БУФ;\t\n- устройство беспроводной цифровой связи УБЦС в комплекте с антенной УБЦС-А1 или УБЦС-А2;\n- устройство громкоговорящей связи на смотровой площадке подъёмного сосуда УГС-С;\n- устройство контроля динамических параметров УКДП;\n- устройство контроля давления в гидравлическом подвесном узле УКД;\n",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74828
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117331,
+            "name": "Технические условия\nТУ BY 600270799.012-2017\n",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 186831,
+        "annex": true,
+        "name": "Комплектующее оборудование системы мониторинга шахтного подъёма СМШП, являющееся средствами обеспечения системы, применяемое вне взрывоопасной зоны:\n- шкаф управления ШУ-СМ;\n- шкаф распределённой периферии ШРП-СМ;\n- устройство контроля углового положения оси вала барабана подъёмной машины УКП;\n- устройство громкоговорящей связи машиниста подъёма УГС-М;\n- шкаф с безвентиляторным персональным компьютером ШБПК\n",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74828
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117332,
+            "name": "Технические условия\nТУ BY 600270799.012-2017\n",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106616,
+      "idPerson": 419119,
+      "idEmployee": null,
+      "firstName": "Юрий",
+      "surname": "Буров",
+      "patronimyc": "Владимирович"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122490,
+      "idStatus": 6,
+      "beginDate": "2017-10-30T15:57:19",
+      "endDate": "2021-11-10T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:56:18.819",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5559788,
+      "idStatus": 14,
+      "beginDate": "2021-11-10T00:00:00",
+      "endDate": null,
+      "comment": "На основании пункта 15, подпункта «в» пункта 16 и пункта 22 Правил приостановления, возобновления и прекращения действия сертификатов соответствия, признания их недействительными, утвержденных постановлением Правительства Российской Федерации от 19.06.2021 № 936",
+      "idBasis": 21,
+      "docNumber": "212",
+      "publicated": true,
+      "publishDate": "2021-11-10T14:03:40.582",
+      "lkType": "dict.orgtypes.rosaccr",
+      "idMrpa": null,
+      "docName": "Приказ Росаккредитации",
+      "docDate": "2021-11-03",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 113175,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a451ed5e-488e-4db5-8f8f-8ab452c8872b",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

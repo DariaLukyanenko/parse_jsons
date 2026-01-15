@@ -1,0 +1,523 @@
+{
+  "idCertificate": 100733,
+  "idTechnicalReglaments": [
+    12
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-RU.МГ07.В.00482",
+  "certRegDate": "2017-12-14",
+  "certEndDate": "2020-12-22",
+  "idBlank": 170975,
+  "blankNumber": "0170975",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 54018,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 129290,
+          "blankNumber": "0129290"
+        }
+      ]
+    },
+    {
+      "idAnnex": 54019,
+      "idType": 5,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 129291,
+          "blankNumber": "0129291"
+        },
+        {
+          "idBlank": 129292,
+          "blankNumber": "0129292"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 208291,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью \"Завод взрывозащищенного и общепромышленного оборудования \"Горэкс-Светотехника\"",
+    "shortName": null,
+    "idPerson": 419045,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 251888,
+        "idContactType": 1,
+        "value": "+73846669276"
+      },
+      {
+        "idContact": 251889,
+        "idContactType": 4,
+        "value": "zavod@gorex-ex.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 639724,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idDistrict": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "653024",
+        "fullAddress": "653024, РОССИЯ, Кемеровская область, город Прокопьевск, улица Сафоновская, дом 28",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 639725,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "1ac46b49-3209-4814-b7bf-a509ea1aecd9",
+        "idDistrict": "1ac46b49-3209-4814-b7bf-a509ea1aecd9",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "109",
+        "postCode": "630108",
+        "fullAddress": "630108, РОССИЯ, Новосибирская область, город Новосибирск, улица Станционная, дом 32, офис 109",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 208292,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью \"Завод взрывозащищенного и общепромышленного оборудования \"Горэкс-Светотехника\"",
+    "shortName": null,
+    "idPerson": 419046,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 251890,
+        "idContactType": 1,
+        "value": "+73846669276"
+      },
+      {
+        "idContact": 251891,
+        "idContactType": 4,
+        "value": "zavod@gorex-ex.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 639726,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idDistrict": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "653024",
+        "fullAddress": "653024, РОССИЯ, Кемеровская область, город Прокопьевск, улица Сафоновская, дом 28",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 639727,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "1ac46b49-3209-4814-b7bf-a509ea1aecd9",
+        "idDistrict": "1ac46b49-3209-4814-b7bf-a509ea1aecd9",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "109",
+        "postCode": "630108",
+        "fullAddress": "630108, РОССИЯ, Новосибирская область, город Новосибирск, улица Станционная, дом 32, офис 109",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 104137,
+    "fullName": "Орган по сертификации взрывозащищенного и рудничного электрооборудования АО  \"Научный центр ВостНИИ по промышленной и экологической безопасности в горной отрасли\"",
+    "accredOrgName": "Росаккредитация",
+    "attestatRegNumber": "RA.RU.11МГ07",
+    "attestatRegDate": "2014-12-02",
+    "attestatEndDate": null,
+    "idRal": 1942,
+    "ogrn": null,
+    "idPerson": 419048,
+    "firstName": "Игорь",
+    "surname": "Монахов",
+    "patronymic": "Алексеевич",
+    "contacts": [
+      {
+        "idContact": 193618,
+        "idContactType": 4,
+        "value": "642462@mail.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 639728,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idDistrict": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idCity": "94bb19a3-c1fa-410b-8651-ac1bf7c050cd",
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "650002",
+        "fullAddress": "650002, РОССИЯ, Кемеровская область, Кемерово, ул. Институтская, д. 3",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 639729,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idDistrict": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idCity": "94bb19a3-c1fa-410b-8651-ac1bf7c050cd",
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "650002",
+        "fullAddress": "650002, РОССИЯ, Кемеровская область, Кемерово, ул. Институтская, д. 3",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 104135,
+    "idProductOrigin": "643",
+    "fullName": "Светильник головной взрывобезопасный со встроенным сигнализатором метана СМГВ (сигнализатор метана СМГВ, совмещенный со светильником головным взрывобезопасным).",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "Светильник головной взрывобезопасный со встроенным сигнализатором метана СМГВ",
+    "identifications": [
+      {
+        "idIdentification": 186811,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74208
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Сведения о стандартах - смотри приложение  к сертификату. Условия и сроки хранения, срок службы &#8211; в соответствии с эксплуатационной документацией изготовителя.\nВыдан взамен сертификата соответствия &#8470; ТС RU C-RU.МГ07.В.00377 от 23.12.2015.\n",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117312,
+            "name": "ТУ 3146-046-50578968-2015 «Светильник головной взрывобезопасный со встроенным сигнализатором метана СМГВ (сигнализатор метана СМГВ, совмещенный со светильником головным взрывобезопасным)».",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 107708,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ Р 52350.29.1-2010 (МЭК 60079-29-1:2007)",
+            "name": "Взрывоопасные среды. Часть 29-1.\nГазоанализаторы. Общие технические требования и методы испытаний газоанализаторов горючих газов.\n",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107707,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 31611.2-2012 (IEC 62013-2:2005)",
+            "name": "Головные светильники для применения в шахтах, опасных по газу. Часть 2.\nЭксплуатационные и другие характеристики, относящиеся к безопасности.\n",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107706,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 31610. 35-1-2014 (IEC 60079-35-1: 2011)",
+            "name": "Взрывоопасные среды. Часть 35-1. Головные светильники для применения в шахтах, опасных по рудничному газу. Общие требования и методы испытаний, относящиеся к риску взрыва.",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107705,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 31610.11-2014 (IEC 60079-11:2011)",
+            "name": "Взрывоопасные среды. Часть 11. Оборудование с видом взрывозащиты «искробезопасная электрическая цепь «i».",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107704,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 31610.0-2014 (IEC 60079-0:2011)",
+            "name": "Взрывоопасные среды. Часть 0. Оборудование. Общие требования.",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107703,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106598,
+      "idPerson": 419047,
+      "idEmployee": null,
+      "firstName": "Александр",
+      "surname": "Князев",
+      "patronimyc": "Сергеевич"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122467,
+      "idStatus": 6,
+      "beginDate": "2017-12-14T08:25:21",
+      "endDate": "2020-12-23T01:07:48.453",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:56:18.819",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 4045472,
+      "idStatus": 1,
+      "beginDate": "2020-12-23T01:07:48.453",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2020-12-23T01:07:48.646",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 113157,
+      "annex": false,
+      "idRal": 26044,
+      "regNumber": "RA.RU.21ГБ07",
+      "fullName": "Испытательный центр взрывозащищенного и рудничного электрооборудования, изделий и материалов АО  \"Научный центр ВостНИИ по промышленной и экологической безопасности в горной отрасли\"",
+      "beginDate": "2014-12-09",
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a4336360-789f-4693-8540-33533d91fc34",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

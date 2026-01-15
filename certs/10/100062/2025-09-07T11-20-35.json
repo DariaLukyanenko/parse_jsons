@@ -1,0 +1,541 @@
+{
+  "idCertificate": 100062,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-DK.АГ21.В.02793",
+  "certRegDate": "2017-09-05",
+  "certEndDate": "2022-09-04",
+  "idBlank": 423845,
+  "blankNumber": "0423845",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53597,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 416042,
+          "blankNumber": "0416042"
+        }
+      ]
+    },
+    {
+      "idAnnex": 53598,
+      "idType": 2,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 416041,
+          "blankNumber": "0416041"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 206949,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "Автономная некоммерческая организация “Центр экспертных программ ВОК”           \n(уполномоченная изготовителем ICEPOWER A/S (Дания))",
+    "shortName": null,
+    "idPerson": 416344,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1047732007355",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250208,
+        "idContactType": 1,
+        "value": "+74959602015"
+      },
+      {
+        "idContact": 250209,
+        "idContactType": 4,
+        "value": "cepvok@yandex.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 633728,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, 115419, г. Москва, 2-й Рощинский пр-д, д. 8, корп. 4",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 633729,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, 119 618, г. Москва, ул. 50 лет Октября, д.4",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 206950,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "ICEPOWER A/S",
+    "shortName": null,
+    "idPerson": 416345,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 633730,
+        "idAddrType": 1,
+        "idCodeOksm": "208",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ДАНИЯ, Vandtarnsvej 62A, 3B – DK-2860  Soborg",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 146830,
+        "annex": true,
+        "fullName": "SVI PUBLIC CO LTD",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 633731,
+            "idAddrType": 1,
+            "idCodeOksm": "764",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "ТАИЛАНД, 141-142 MOO 5 TIWANON RD, BANGKADI, PATHUMTHANI 12000 ",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103466,
+    "fullName": "Орган по  сертификации продукции \"ГОСТ - АЗИЯ РУС\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АГ21",
+    "attestatRegDate": "2016-03-01",
+    "attestatEndDate": null,
+    "idRal": 6256,
+    "ogrn": null,
+    "idPerson": 416347,
+    "firstName": "Вадим",
+    "surname": "Воробьев",
+    "patronymic": "Федорович",
+    "contacts": [
+      {
+        "idContact": 192158,
+        "idContactType": 1,
+        "value": "+74956400914"
+      },
+      {
+        "idContact": 192159,
+        "idContactType": 4,
+        "value": "gostasia@umail.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 633732,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115191",
+        "fullAddress": "115191, РОССИЯ, город Москва, ул. Рощинская 2-я, д. 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 633733,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115191",
+        "fullAddress": "115191,г. Москва, ул. 2-ая Рощинская, д. 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103464,
+    "idProductOrigin": "208",
+    "fullName": "Усилители звука ",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "Bang & Olufsen  модель BeoAmp 2",
+    "identifications": [
+      {
+        "idIdentification": 185453,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74337
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Условия хранения: при температуре от 0&#176;С до плюс 70&#176;С и относительной влажности от 0% до 85% без конденсации. Срок службы продукции 5 лет.",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116560,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 106690,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.3-2013 (IEC 61000-3-3:2008)",
+            "name": "Совместимость технических средств электромагнитная. Ограничение изменений напряжения, колебаний напряжения и фликера в низковольтных системах электроснабжения общего назначения. Технические средства с потребляемым током не более 16 А (в одной фазе), подключаемые к электрической сети при несоблюдении определенных условий подключения. Нормы и методы испытаний",
+            "section": null,
+            "addlInfo": "Раздел 5",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106689,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.2-2013 (IEC 61000-3-2:2009)",
+            "name": "Совместимость технических средств электромагнитная. Эмиссия гармонических составляющих тока техническими средствами с потребляемым током не более 16 А (в одной фазе). Нормы и методы испытаний ",
+            "section": null,
+            "addlInfo": "Разделы 5 и 7",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106688,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ Р 51318.20-2012 (СИСПР 20:2006)",
+            "name": "Совместимость технических средств электромагнитная. Приемники звукового и телевизионного вещания и связанное с ними оборудование. Характеристики помехоустойчивости. Нормы и методы измерений",
+            "section": null,
+            "addlInfo": "Раздел 4",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106687,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30805.13-2013 (CISPR 13:2006)",
+            "name": "Совместимость технических средств электромагнитная. Радиовещательные приемники, телевизоры и другая бытовая радиоэлектронная аппаратура. Радиопомехи индустриальные. Нормы и методы измерений",
+            "section": null,
+            "addlInfo": "Раздел 4",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106686,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 62311-2013",
+            "name": "Оценка электронного и электрического оборудования в отношении ограничений воздействия на человека электромагнитных полей (0 МГц – 300 ГГц)",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106685,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60065-2013",
+            "name": "Аудио-, видео- и аналогичная электронная аппаратура. \nТребования безопасности\n",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106684,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 105910,
+      "idPerson": 416346,
+      "idEmployee": null,
+      "firstName": "Ирина",
+      "surname": "Кузнецова",
+      "patronimyc": "Юрьевна"
+    },
+    {
+      "idExpert": 2738204,
+      "idPerson": 12875670,
+      "idEmployee": null,
+      "firstName": "Ирина",
+      "surname": "Кузнецова",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121645,
+      "idStatus": 6,
+      "beginDate": "2017-09-05T15:43:26",
+      "endDate": "2022-09-05T01:08:32.441",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:53:37.353",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5773570,
+      "idStatus": 1,
+      "beginDate": "2022-09-05T01:08:32.441",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2022-09-05T01:08:32.664",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112230,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a5e31712-c9d4-4e8b-bd55-c755850a3031",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

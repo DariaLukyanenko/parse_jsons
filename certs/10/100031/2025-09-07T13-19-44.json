@@ -1,0 +1,607 @@
+{
+  "idCertificate": 100031,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-TW.АГ21.В.02906",
+  "certRegDate": "2017-12-04",
+  "certEndDate": "2022-09-19",
+  "idBlank": 423960,
+  "blankNumber": "0423960",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53574,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 416264,
+          "blankNumber": "0416264"
+        }
+      ]
+    },
+    {
+      "idAnnex": 53575,
+      "idType": 2,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 416263,
+          "blankNumber": "0416263"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 206887,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "Автономная некоммерческая организация «Центр экспертных программ ВОК» \n(уполномоченная изготовителем Chicony Power Technology Co., Ltd. (Тайвань))\n",
+    "shortName": null,
+    "idPerson": 416220,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1047732007355",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250133,
+        "idContactType": 1,
+        "value": "+74959602015"
+      },
+      {
+        "idContact": 250134,
+        "idContactType": 4,
+        "value": "cepvok@yandex.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 633576,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, 115419, г. Москва, 2-й Рощинский пр-д, д. 8, корп. 4",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 633577,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, 119 618, г. Москва, ул. 50 лет Октября, д.4",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 206888,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "Chicony Power Technology Co., Ltd.",
+    "shortName": null,
+    "idPerson": 416221,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 633578,
+        "idAddrType": 1,
+        "idCodeOksm": "158",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ТАЙВАНЬ (КИТАЙ), 30F, NO. 69, Sec. 2, Guangfu Rd., Sanchong Dist., New Taipei City  24158 ",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 146816,
+        "annex": true,
+        "fullName": "1. Chicony Power Technology (Suzhou) Co., Ltd.",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 633579,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, No. 2379, Zhongshan North Road, Song Ling Town, Wu Jiang City, Jiang Su",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 146817,
+        "annex": true,
+        "fullName": "2. Chicony Power Technology (Chong Qing) Co., Ltd.",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 633580,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, No. 18 JiuJiang Road, Street office of ShuangFu, Jiangjin District, Chong Qing 402247",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 146818,
+        "annex": true,
+        "fullName": "3. Chicony Power Technology (Suzhou) Co., Ltd.",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 633581,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, No. 1058, Jiulong Road, Wujiang Economic and Technological Development Zone, Jiangsu Province",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103435,
+    "fullName": "Орган по  сертификации продукции \"ГОСТ - АЗИЯ РУС\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АГ21",
+    "attestatRegDate": "2016-03-01",
+    "attestatEndDate": null,
+    "idRal": 6256,
+    "ogrn": null,
+    "idPerson": 416223,
+    "firstName": "Вадим",
+    "surname": "Воробьев",
+    "patronymic": "Федорович",
+    "contacts": [
+      {
+        "idContact": 192104,
+        "idContactType": 1,
+        "value": "+74956400914"
+      },
+      {
+        "idContact": 192105,
+        "idContactType": 4,
+        "value": "gostasia@umail.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 633582,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115191",
+        "fullAddress": "115191, РОССИЯ, город Москва, ул. Рощинская 2-я, д. 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 633583,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115191",
+        "fullAddress": "115191,г. Москва, ул. 2-ая Рощинская, д. 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103433,
+    "idProductOrigin": "158",
+    "fullName": "Блоки питания для информационной техники ",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "Chicony POWER TECHNOLOGY модель A17-120P1A",
+    "identifications": [
+      {
+        "idIdentification": 185418,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74044
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Условия хранения: при температуре от минус 40&#176;С до плюс 70&#176;С и относительной влажности не более 95%, \nбез конденсации.  Срок службы продукции 5 лет. ",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116527,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 106636,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.3-2013 (IEC 61000-3-3:2008)",
+            "name": "Совместимость технических средств электромагнитная. Ограничение изменений напряжения, колебаний напряжения и фликера в низковольтных системах электроснабжения общего назначения. Технические средства с потребляемым током не более 16 А (в одной фазе), подключаемые к электрической сети при несоблюдении определенных условий подключения. Нормы и методы испытаний",
+            "section": null,
+            "addlInfo": "Раздел 5",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106635,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.2-2013 (IEC 61000-3-2:2009)",
+            "name": "Совместимость технических средств электромагнитная. Эмиссия гармонических составляющих тока техническими средствами с потребляемым током не более 16 А (в одной фазе). Нормы и методы испытаний ",
+            "section": null,
+            "addlInfo": "Разделы 5 и 7",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106634,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ CISPR 24-2013",
+            "name": "Совместимость технических средств электромагнитная. Оборудование информационных технологий. Устойчивость к электромагнитным помехам. Требования и методы испытаний",
+            "section": null,
+            "addlInfo": "Раздел 5",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106633,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30805.22-2013 (CISPR 22:2006)",
+            "name": "Совместимость технических средств электромагнитная. Оборудование информационных технологий. Радиопомехи индустриальные. Нормы и методы измерений",
+            "section": null,
+            "addlInfo": "Разделы 4 – 6",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106632,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 62311-2013",
+            "name": "Оценка электронного и электрического оборудования в отношении ограничений воздействия на человека электромагнитных полей (0 МГц – 300 ГГц)",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106631,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60950-1-2014",
+            "name": "Оборудование информационных технологий. Требования безопасности. Часть 1. Общие требования",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106630,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 105879,
+      "idPerson": 416222,
+      "idEmployee": null,
+      "firstName": "Ирина",
+      "surname": "Кузнецова",
+      "patronimyc": "Юрьевна"
+    },
+    {
+      "idExpert": 2783118,
+      "idPerson": 12953540,
+      "idEmployee": null,
+      "firstName": "Ирина",
+      "surname": "Кузнецова",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121611,
+      "idStatus": 6,
+      "beginDate": "2017-12-04T14:26:00",
+      "endDate": "2022-09-19T15:09:42.874",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:53:37.353",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5781663,
+      "idStatus": 14,
+      "beginDate": "2022-09-19T15:09:42.874",
+      "endDate": null,
+      "comment": "в соответствии с пп. «в» п. 5 Правил приостановления, возобновления и прекращения действия сертификатов соответствия, признания их недействительными, утв. Постановлением Правительства РФ от 19.06.2021 № 936 \"ликвидация организации заявителя и (или) изготовителя либо снятие по инициативе заявителя продукции с серийного производства\".",
+      "idBasis": 2,
+      "docNumber": "464-02906",
+      "publicated": true,
+      "publishDate": "2022-09-19T15:09:43.396",
+      "lkType": "dict.orgtypes.os",
+      "idMrpa": null,
+      "docName": "Решение",
+      "docDate": "2022-09-19",
+      "idBasisSolutions": [
+        29
+      ],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": "7fb1846e-c842-4264-97b9-b5f3ca9f240d"
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112200,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a59eb21c-a767-401a-8148-d58382e3c34b",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

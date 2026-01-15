@@ -1,0 +1,547 @@
+{
+  "idCertificate": 1007594,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-IT.АГ03.В.15837",
+  "certRegDate": "2017-12-20",
+  "certEndDate": "2020-12-19",
+  "idBlank": 511013,
+  "blankNumber": "0511013",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 244509,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 229781,
+          "blankNumber": "0229781"
+        }
+      ]
+    },
+    {
+      "idAnnex": 244510,
+      "idType": 5,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 229782,
+          "blankNumber": "0229782"
+        },
+        {
+          "idBlank": 229783,
+          "blankNumber": "0229783"
+        },
+        {
+          "idBlank": 229784,
+          "blankNumber": "0229784"
+        },
+        {
+          "idBlank": 229785,
+          "blankNumber": "0229785"
+        },
+        {
+          "idBlank": 229786,
+          "blankNumber": "0229786"
+        },
+        {
+          "idBlank": 229787,
+          "blankNumber": "0229787"
+        },
+        {
+          "idBlank": 229788,
+          "blankNumber": "0229788"
+        },
+        {
+          "idBlank": 229789,
+          "blankNumber": "0229789"
+        },
+        {
+          "idBlank": 229790,
+          "blankNumber": "0229790"
+        },
+        {
+          "idBlank": 229791,
+          "blankNumber": "0229791"
+        },
+        {
+          "idBlank": 229792,
+          "blankNumber": "0229792"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2021932,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью \"АРИСТОН ТЕРМО РУСЬ\"",
+    "shortName": null,
+    "idPerson": 4034650,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1024700561742",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1010696,
+        "idContactType": 1,
+        "value": "+74952130300"
+      },
+      {
+        "idContact": 1010697,
+        "idContactType": 4,
+        "value": "reports.ru@aristonthermo.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4777561,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "6d1ebb35-70c6-4129-bd55-da3969658f5d",
+        "idDistrict": "6d1ebb35-70c6-4129-bd55-da3969658f5d",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "188676",
+        "fullAddress": "188676, РОССИЯ, Ленинградская Область, Всеволожский район, город Всеволожск, Производственная зона города Всеволожска, улица Индустриальная, дом № 9, литера А",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2021933,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"Ariston Thermo SpA\"",
+    "shortName": null,
+    "idPerson": 4034651,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4777562,
+        "idAddrType": 1,
+        "idCodeOksm": "380",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ИТАЛИЯ, Fabriano (AN). VialeA.Merloni, 45 CAP 60044 Italy",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [
+    {
+      "idFilial": 173423,
+      "fullName": null,
+      "shortName": null,
+      "idLegalForm": null,
+      "kpp": null,
+      "annex": false,
+      "contacts": [],
+      "addresses": [
+        {
+          "idAddress": 4777563,
+          "idAddrType": 1,
+          "idCodeOksm": null,
+          "oksmShort": null,
+          "idSubject": null,
+          "idDistrict": null,
+          "idCity": null,
+          "idLocality": null,
+          "idStreet": null,
+          "idHouse": null,
+          "flat": null,
+          "postCode": null,
+          "fullAddress": ", Адреса мест осуществления деятельности по изготовлению продукции: согласно приложению (бланк № 0229792)",
+          "gln": null,
+          "foreignDistrict": null,
+          "foreignCity": null,
+          "foreignLocality": null,
+          "foreignStreet": null,
+          "foreignHouse": null,
+          "uniqueAddress": null,
+          "otherGln": null,
+          "glonass": null
+        }
+      ]
+    }
+  ],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1011004,
+    "fullName": "Орган по сертификации продукции Общества с ограниченной ответственностью  \"Альсена \"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ03",
+    "attestatRegDate": "2016-07-13",
+    "attestatEndDate": null,
+    "idRal": 27579,
+    "ogrn": null,
+    "idPerson": 4034655,
+    "firstName": "Сергей",
+    "surname": "Кравчук",
+    "patronymic": "Александрович",
+    "contacts": [
+      {
+        "idContact": 646265,
+        "idContactType": 4,
+        "value": "alsena@inbox.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4777566,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "129626",
+        "fullAddress": "129626, Москва, 3-я Мытищинская ул., 3, стр. 1, оф. 405",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4777567,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "58",
+        "postCode": "115230",
+        "fullAddress": "115230, РОССИЯ, город Москва, проезд Хлебозаводский, д. 7, стр. 9, оф. 58",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1011009,
+    "idProductOrigin": "380",
+    "fullName": "Водонагреватели электрические бытовые аккумуляционные,",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "торговые марки, модели и артикулы согласно приложениям (бланки №№ 0229782-0229791)",
+    "identifications": [
+      {
+        "idIdentification": 1531582,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74243
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Перечень стандартов согласно приложению к сертификату соответствия (бланк &#8470; 0229781). Условия и сроки хранения продукции, срок службы (годности) указаны в прилагаемой к продукции эксплуатационной документации",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1111545,
+            "name": "Продукция изготовлена в соответствии с Директивами Европейского парламента и Совета 2014/35/EU от 26 февраля 2014 года по гармонизации законодательств государств-членов, касающихся обеспечения наличия на рынке электрического  оборудования, предназначенного для применения в определенных пределах напряжения; 2014/30/EU от 26 февраля 2014 года по гармонизации законодательств государств-членов, касающихся электромагнитной совместимости",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1025330,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60335-2-21-2014",
+            "name": "Бытовые и аналогичные электрические приборы. Безопасность. Часть 2-21. Частные требования к аккумуляционным водонагревателям",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 1025329,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60335-1-2015",
+            "name": "Бытовые и аналогичные электрические приборы. Безопасность. Часть 1. Общие требования",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 1025332,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "раздел 4 ГОСТ 30805.14.1-2013 (CISPR 14-1:2005)",
+            "name": "Совместимость технических средств электромагнитная. Бытовые приборы, электрические инструменты и аналогичные устройства. Радиопомехи индустриальные. Нормы и методы измерений",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 1025331,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "раздел 6 ГОСТ EN 62233-2013",
+            "name": "Методы измерений электромагнитных полей, создаваемых бытовыми и аналогичными электрическими приборами, в части их воздействия на человека",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 1025335,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "раздел 5 ГОСТ 30804.3.3-2013 (IEC 61000-3-3:2008)",
+            "name": "Совместимость технических средств электромагнитная. Ограничение изменений напряжения, колебаний напряжения и фликера в низковольтных системах электроснабжения общего назначения. Технические средства с потребляемым током не более 16 А (в одной фазе), подключаемые к электрической сети при несоблюдении определенных условий подключения. Нормы и методы испытаний",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 1025334,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "разделы 5 и 7  ГОСТ 30804.3.2-2013 (IEC 61000-3-2:2009)",
+            "name": "Совместимость технических средств электромагнитная. Эмиссия гармонических составляющих тока техническими средствами с потребляемым током не более 16 А (в одной фазе). Нормы и методы испытаний",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 1025333,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "разделы 4 и 5, подраздел 7.2 ГОСТ 30805.14.2-2013 (CISPR 14-2:2001)",
+            "name": "Совместимость технических средств электромагнитная. Бытовые приборы, электрические инструменты и аналогичные устройства. Устойчивость к электромагнитным помехам. Требования и методы испытаний",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 1001111,
+      "idPerson": 4034654,
+      "idEmployee": null,
+      "firstName": "Римма",
+      "surname": "Дмитриева",
+      "patronimyc": "Валентиновна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1501727,
+      "idStatus": 6,
+      "beginDate": "2017-12-21T11:04:22",
+      "endDate": "2020-12-20T01:54:31.524",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:36:22.383",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 4041479,
+      "idStatus": 1,
+      "beginDate": "2020-12-20T01:54:31.524",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2020-12-20T01:54:31.767",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1040548,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "6588b31f-2341-415d-beba-209c29bb7481",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

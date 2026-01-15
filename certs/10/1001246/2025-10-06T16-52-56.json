@@ -1,0 +1,612 @@
+{
+  "idCertificate": 1001246,
+  "idTechnicalReglaments": [],
+  "idCertScheme": 3,
+  "idObjectCertType": 3,
+  "idCertType": 3,
+  "isTs": false,
+  "idProductSingleLists": [
+    8
+  ],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-CN.АГ16.В.00119",
+  "certRegDate": "2014-09-12",
+  "certEndDate": "2016-09-11",
+  "idBlank": 122032,
+  "blankNumber": "0122032",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 243443,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 12488,
+          "blankNumber": "0012488"
+        }
+      ]
+    },
+    {
+      "idAnnex": 243444,
+      "idType": 3,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 12489,
+          "blankNumber": "0012489"
+        },
+        {
+          "idBlank": 12490,
+          "blankNumber": "0012490"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2009236,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 3,
+    "fullName": "\"Chaozhou Jianyang Handiwork Making Co., LTD\"",
+    "shortName": null,
+    "idPerson": 4009316,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1006759,
+        "idContactType": 1,
+        "value": "+8607686882189"
+      },
+      {
+        "idContact": 1006760,
+        "idContactType": 3,
+        "value": "+8607686876089"
+      },
+      {
+        "idContact": 1006761,
+        "idContactType": 4,
+        "value": "hongyi@bbapp.net"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4751623,
+        "idAddrType": 1,
+        "idCodeOksm": "156",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Китай, Chaozhou Fengxi Chinu Industrial District. Guangdong",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2009237,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"Chaozhou Jianyang Handiwork Making Co., LTD\"",
+    "shortName": null,
+    "idPerson": 4009317,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1006762,
+        "idContactType": 1,
+        "value": "+8607686882189"
+      },
+      {
+        "idContact": 1006763,
+        "idContactType": 3,
+        "value": "+8607686876089"
+      },
+      {
+        "idContact": 1006764,
+        "idContactType": 4,
+        "value": "hongyi@bbapp.net"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4751624,
+        "idAddrType": 1,
+        "idCodeOksm": "156",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Китай, Chaozhou Fengxi Chinu Industrial District. Guangdong  Филиалы изготовителя по приложению",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 637697,
+        "annex": true,
+        "fullName": "\"Yilin Ceramics\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 4751626,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "Китай, Rm.502,3/F.,A Block,Ceramic Center,Meiyuan Rd.,Shenzhen",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 637698,
+        "annex": true,
+        "fullName": "\"Shenzhen Fine Arts&Crafts Factory\" ",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 4751627,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "Китай, 17 B Block A,Jinxiu bld.,Wenjin Road Center,Shenzhen, Guangdong",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 637699,
+        "annex": true,
+        "fullName": "\"Guangzhou Hengda Porcelain Fty\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 4751628,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "Китай, Xinzhuang road, Huacheng village, Huashan town, Huadu district, Guangzhou",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [
+    {
+      "idFilial": 172342,
+      "fullName": null,
+      "shortName": null,
+      "idLegalForm": null,
+      "kpp": null,
+      "annex": false,
+      "contacts": [],
+      "addresses": [
+        {
+          "idAddress": 4751625,
+          "idAddrType": 1,
+          "idCodeOksm": null,
+          "oksmShort": null,
+          "idSubject": null,
+          "idDistrict": null,
+          "idCity": null,
+          "idLocality": null,
+          "idStreet": null,
+          "idHouse": null,
+          "flat": null,
+          "postCode": null,
+          "fullAddress": null,
+          "gln": null,
+          "foreignDistrict": null,
+          "foreignCity": null,
+          "foreignLocality": null,
+          "foreignStreet": null,
+          "foreignHouse": null,
+          "uniqueAddress": null,
+          "otherGln": null,
+          "glonass": null
+        }
+      ]
+    }
+  ],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1004656,
+    "fullName": "Орган по сертификации продукции ООО \"ИнтерТестСтрой\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ16",
+    "attestatRegDate": "2011-01-12",
+    "attestatEndDate": null,
+    "idRal": 11830,
+    "ogrn": null,
+    "idPerson": 4009319,
+    "firstName": "А.",
+    "surname": "Калошкин",
+    "patronymic": "М.",
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4751629,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idDistrict": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "141021",
+        "fullAddress": "141021,Московская обл., г. Мытищи, ул. Благовещенская, 19, пом. 14",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4751630,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "3e43fba9-fec0-423a-b046-59e6debc5c02",
+        "idDistrict": "3e43fba9-fec0-423a-b046-59e6debc5c02",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "141021",
+        "fullAddress": "141021,Российская Федерация, Московская область, город Мытищи, ул. Благовещенская, д. 19, помещение 14",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1004661,
+    "idProductOrigin": "156",
+    "fullName": "Посуда и кухонные принадлежности из фарфора в наборах и отдельными предметами, в т.ч. на металлических или деревянных подставках, в т.ч. с крышками",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "с маркировкой Kwestor, Briswild, Larange, Saguro, Gumertal, Molento, BESKO, Pekorino, Kitchen DELUXE, Mr.Glass, K, Flo gardens, Karl&Morits; Дом и все, что в нем; Magic Crystal, KATERINA, Bennet, LIMON&LIMON, СТС, КУХНЯ и без маркировки по приложению",
+    "identifications": [
+      {
+        "idIdentification": 1522352,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          69570
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1104853,
+            "name": "Продукция изготовлена в соответствии с \nдирективой 2001/95/EC\n",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1018830,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": "ГОСТ 28390-89",
+            "name": "Единые санитарно-эпидемиологические и гигиенические требования к товарам, подлежащим санитарно-эпидемио-логическому надзору (контролю)",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      },
+      {
+        "idIdentification": 1522353,
+        "annex": true,
+        "name": "Посуда и кухонные принадлежности из фарфора в наборах и отдельными предметами, в т.ч. на металлических или деревянных подставках, в т.ч. с крышками, с маркировкой Kwestor, Briswild, Larange, Saguro, Gumertal, Molento, BESKO, Pekorino, Kitchen DELUXE, Mr.Glass, K, Flo gardens, Karl&Morits; Дом и все, что в нем; Magic Crystal, KATERINA, Bennet, LIMON&LIMON, СТС, КУХНЯ и без маркировки: банки, банки для сыпучих продуктов, банки для меда, банки для печенья, банки для соли, банки для спагетти, банки для специй, банки для чая, банки для чайных пакетиков, в т. ч. с клипсой, мерной ложкой; блиннницы; блюда, в т.ч. для снеков, блюда для закусок, для костей, для соевого соуса, холодца, яиц, печенья; блюда для запекания, блюда фуршетные, блюдца, бокалы, бочки, бочонки, бульонницы, бутыли, бутылки, вазы, в т.ч. многоярусные; вазы для фруктов, вазочки для зубочисток, вилки, ведерки, в т.ч. для льда, горчичницы, горшки, горшочки в т.ч. для запекания, тушения; горшочки для меда, графины, декантеры, держатели и кольца для салфеток; десертницы, джемницы, дозаторы для сахара, соуса, уксуса; доски разделочные, доски для сыра, доски подстановочные, емкости для масла и уксуса, емкости для пищевых продуктов различного назначения, емкости для запекания, емкости для микроволновых печей, жаровни, жульенницы, икорницы, кадушки, кастрюли, кисе, контейнеры, кокотницы; кружки, в т.ч. пивные, заварочные, с крышками, с подставками, с блюдцами; кокотницы, конфетницы, конфитюрницы, коньячницы, корзинки, креманки, кофейники, крышки для блюд, кувшины, лимонницы, в т.ч. с вилочкой; ложки, лопатки, лопатки для торта, лотки и контейнеры для пищевых продуктов, в т.ч. с крышками; масленки, медовницы, ",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          69570
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1522354,
+        "annex": true,
+        "name": "мельницы для специй, менажницы, мерные емкости, мерные ложки, миски, молочники, наборы винные, наборы для напитков, наборы коньячные, наборы для варенья, наборы для заваривания чая, наборы для завтрака, наборы для десертов, наборы для саке, наборы для специй, наборы для фондю, наборы для соусов, наборы для супа, наборы посуды для суши, для блинов, молока, пельменей, салатов, торта, канапе; наборы для чаепития, оливницы, орешницы, пасхальницы, пашотницы, паштетницы, перечницы, пестики, пиалы, подложники, подносы, подставки различного назначения, подставки для кухонных принадлежностей, подставки для столовых приборов, подставки для чайников, подставки для подогрева, подставки под горячую посуду, подставки под губку, подставки под закуски, подставки под зубочистки, подставки под лимон, подставки под ложку, подставки под луковицу, под чеснок, в т.ч. с крышками; подставки под половник, подставки под торты, подставки под чайные пакетики, подставки под яйца, розетки, розетки для варенья, розетки для меда, рюмки, рыбницы, салатники, в т.ч. с крышками; салфетницы, сахарницы, селедочницы, сита, сковороды, сливочники, соковыжималки, солонки, сосуды, сотейники, соусники, стаканы, стаканчики под мороженое, стопки, ступки, супницы, сухарницы, сырницы, тарелки, в т.ч. десертные, обеденные, суповые, подстановочные; тарелки для хлеба, лимона, чеснока, лука; терки, тортницы, фондюшницы, формы, формы для запекания, тушения, выпечки; фруктовницы, фужеры, хлебницы, чайники; чайники заварочные, в т.ч. с подставкой; чесночницы, с ситом или крышкой; чайники для кипятка, чашки, шашлычницы, штофы, шубницы, этажерки, сервизы и наборы чайные, кофейные, столовые, чайно-столовые, винные, коньячные",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          69570
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 994821,
+      "idPerson": 4009318,
+      "idEmployee": null,
+      "firstName": "Т.В.",
+      "surname": "Радецкая",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1493279,
+      "idStatus": 1,
+      "beginDate": "2014-09-12T11:43:26",
+      "endDate": "2016-09-11T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:28:06.426",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1493280,
+      "idStatus": 1,
+      "beginDate": "2016-09-11T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:28:06.426",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1034191,
+      "annex": false,
+      "idRal": 198,
+      "regNumber": "РОСС RU.0001.21АЮ24",
+      "fullName": "Испытательный центр \"Питон\" Открытого акционерного общества \"НПО Стеклопластик\"",
+      "beginDate": "2011-08-26",
+      "endDate": "2016-08-26",
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "6131fc80-0f3a-4b6a-a1de-c011d169a72b",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

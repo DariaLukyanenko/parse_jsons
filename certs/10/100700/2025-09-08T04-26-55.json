@@ -1,0 +1,517 @@
+{
+  "idCertificate": 100700,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-RU.МЕ68.В.00142",
+  "certRegDate": "2017-12-25",
+  "certEndDate": "2022-12-24",
+  "idBlank": 410143,
+  "blankNumber": "0410143",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 54007,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 378946,
+          "blankNumber": "0378946"
+        }
+      ]
+    },
+    {
+      "idAnnex": 54008,
+      "idType": 3,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 378938,
+          "blankNumber": "0378938"
+        },
+        {
+          "idBlank": 378939,
+          "blankNumber": "0378939"
+        },
+        {
+          "idBlank": 378940,
+          "blankNumber": "0378940"
+        },
+        {
+          "idBlank": 378941,
+          "blankNumber": "0378941"
+        },
+        {
+          "idBlank": 378942,
+          "blankNumber": "0378942"
+        },
+        {
+          "idBlank": 378943,
+          "blankNumber": "0378943"
+        },
+        {
+          "idBlank": 378944,
+          "blankNumber": "0378944"
+        },
+        {
+          "idBlank": 378945,
+          "blankNumber": "0378945"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 208225,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью Александровский электротехнический завод \"Рекорд\"",
+    "shortName": null,
+    "idPerson": 418913,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1033303200479",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 251789,
+        "idContactType": 1,
+        "value": "+74957271762"
+      },
+      {
+        "idContact": 251790,
+        "idContactType": 4,
+        "value": "record@aetz.info"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 639554,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "b8837188-39ee-4ff9-bc91-fcc9ed451bb3",
+        "idDistrict": "b8837188-39ee-4ff9-bc91-fcc9ed451bb3",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "601655",
+        "fullAddress": "601655, РОССИЯ, Владимирская область, г. Александров, ул. Гагарина, д. 2",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 208226,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью Александровский электротехнический завод \"Рекорд\"",
+    "shortName": null,
+    "idPerson": 418914,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 639555,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "b8837188-39ee-4ff9-bc91-fcc9ed451bb3",
+        "idDistrict": "b8837188-39ee-4ff9-bc91-fcc9ed451bb3",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "601655",
+        "fullAddress": "601655, РОССИЯ, Владимирская область, г. Александров, ул. Гагарина, д. 2",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 104104,
+    "fullName": "ОРГАН ПО СЕРТИФИКАЦИИ ОБЩЕСТВА С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АЛЕКСАНДРОВСКИЙ ИСПЫТАТЕЛЬНЫЙ ЦЕНТР\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11МЕ68",
+    "attestatRegDate": "2016-04-13",
+    "attestatEndDate": null,
+    "idRal": 19088,
+    "ogrn": null,
+    "idPerson": 418916,
+    "firstName": "Елена",
+    "surname": "Гаврилова",
+    "patronymic": "Александровна",
+    "contacts": [
+      {
+        "idContact": 193568,
+        "idContactType": 4,
+        "value": "me68@mail.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 639556,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "b8837188-39ee-4ff9-bc91-fcc9ed451bb3",
+        "idDistrict": "b8837188-39ee-4ff9-bc91-fcc9ed451bb3",
+        "idCity": null,
+        "idLocality": "59e55956-69a2-432f-b880-74cf8ec0b9fe",
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "601655",
+        "fullAddress": "601655, РОССИЯ, Владимирская область, Александровский район, город Александров, ул. Гагарина, д. 2",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 104102,
+    "idProductOrigin": "643",
+    "fullName": "Светильники серий ЛВО16 (TLC, TLA, TLGR, TLC RF) (УХЛ4, IP20), ЛВО31 (TL) (УХЛ4, IP20), ЛВО31 (TL) (УХЛ4, IP44/20), ГВО31 (TL08H, TL10H, TL20H, TL30H) (УХЛ4, IP20), ГВО31 (TL08H, TL10H) (УХЛ4, IP44/20) торговой марки \"TECHNOLUX\"",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "типов согласно приложению на восьми листах (бланки: № 0378938, № 0378939, № 0378940, № 0378941, № 0378942, № 0378943, № 0378944, № 0378945)       ",
+    "identifications": [
+      {
+        "idIdentification": 186723,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          77140
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Обозначение и наименование стандартов согласно приложению (бланк &#8470; 0378946 ). Условия хранения, срок службы указаны в сопроводительной документации",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117273,
+            "name": "ТУ 3461-010-21098894-2011",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 107670,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60598-2-2-2012",
+            "name": "Светильники. Часть 2. Частные требования. Раздел 2. Светильники встраиваемые",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107669,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.3-2013",
+            "name": "Совместимость технических средств электромагнитная. Ограничение изменений напряжения, колебаний напряжения и фликера в низковольтных системах электроснабжения общего назначения. Технические средства с потребляемым током не более 16 А (в одной фазе), подключаемые к электрической сети при несоблюдении определенных условий подключения. Нормы и методы испытаний",
+            "section": null,
+            "addlInfo": "раздел 5",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107668,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.2-2013",
+            "name": "Совместимость технических средств электромагнитная. Эмиссия гармонических составляющих тока техническими средствами с потребляемым током не более 16 А (в одной фазе). Нормы и методы испытаний",
+            "section": null,
+            "addlInfo": "разделы 5 и 7",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107667,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "СТБ ЕН 55015-2006",
+            "name": "Электромагнитная совместимость. Радиопомехи от электрического светового и аналогичного оборудования. Нормы и методы измерений ",
+            "section": null,
+            "addlInfo": "разделы 4 и 5 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107666,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": " ГОСТ IEC 61547-2013 ",
+            "name": "Совместимость технических средств электромагнитная. Помехоустойчивость светового оборудования общего назначения. Требования и методы испытаний",
+            "section": null,
+            "addlInfo": "раздел 5",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107665,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "СТБ IEC 60598-2-22-2011",
+            "name": "Светильники. Часть 2-22. Дополнительные требования. Светильники для аварийного освещения",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107664,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60598-2-1-2011",
+            "name": "Светильники. Часть 2. Частные требования. Раздел 1. Светильники стационарные общего назначения",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107663,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      },
+      {
+        "idIdentification": 186724,
+        "annex": true,
+        "name": "Светильники серий ЛВО16 (TLC, TLA, TLGR, TLC RF) (УХЛ4, IP20), ЛВО31 (TL) (УХЛ4, IP20), ЛВО31 (TL) (УХЛ4, IP44/20), ГВО31 (TL08H, TL10H, TL20H, TL30H) (УХЛ4, IР20), ГВО31 (TL08H, TL10H) (УХЛ4, IP44/20) торговой марки \"TECHNOLUX\"",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          77140
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117274,
+            "name": "ТУ 3461-010-21098894-2011",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106565,
+      "idPerson": 418915,
+      "idEmployee": null,
+      "firstName": "Вера",
+      "surname": "Кузнецова",
+      "patronimyc": "Федоровна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122431,
+      "idStatus": 14,
+      "beginDate": "2018-01-12T00:00:00",
+      "endDate": "2017-12-25T12:25:01",
+      "comment": "На основании письма № 03 от 11.01.2018 г.",
+      "idBasis": 2,
+      "docNumber": "1РА-18",
+      "publicated": true,
+      "publishDate": "2018-04-06T14:56:18.819",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": "2018-01-12",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 122432,
+      "idStatus": 14,
+      "beginDate": "2017-12-25T12:25:01",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:56:18.819",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 113122,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a3e400cf-c04c-4d79-a6a0-482eb3f865f7",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

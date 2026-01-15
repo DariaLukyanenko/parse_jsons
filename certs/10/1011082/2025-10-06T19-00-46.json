@@ -1,0 +1,479 @@
+{
+  "idCertificate": 1011082,
+  "idTechnicalReglaments": [
+    97148
+  ],
+  "idCertScheme": 54,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-CN.АГ88.В.47091",
+  "certRegDate": "2013-04-16",
+  "certEndDate": "2014-04-15",
+  "idBlank": 1604723,
+  "blankNumber": "1604723",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 245068,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 504700,
+          "blankNumber": "0504700"
+        },
+        {
+          "idBlank": 504701,
+          "blankNumber": "0504701"
+        },
+        {
+          "idBlank": 504702,
+          "blankNumber": "0504702"
+        },
+        {
+          "idBlank": 504703,
+          "blankNumber": "0504703"
+        },
+        {
+          "idBlank": 504704,
+          "blankNumber": "0504704"
+        },
+        {
+          "idBlank": 504705,
+          "blankNumber": "0504705"
+        },
+        {
+          "idBlank": 504706,
+          "blankNumber": "0504706"
+        },
+        {
+          "idBlank": 504707,
+          "blankNumber": "0504707"
+        },
+        {
+          "idBlank": 504708,
+          "blankNumber": "0504708"
+        },
+        {
+          "idBlank": 504709,
+          "blankNumber": "0504709"
+        },
+        {
+          "idBlank": 504710,
+          "blankNumber": "0504710"
+        },
+        {
+          "idBlank": 504711,
+          "blankNumber": "0504711"
+        },
+        {
+          "idBlank": 504712,
+          "blankNumber": "0504712"
+        },
+        {
+          "idBlank": 504713,
+          "blankNumber": "0504713"
+        },
+        {
+          "idBlank": 504714,
+          "blankNumber": "0504714"
+        },
+        {
+          "idBlank": 504715,
+          "blankNumber": "0504715"
+        },
+        {
+          "idBlank": 504716,
+          "blankNumber": "0504716"
+        },
+        {
+          "idBlank": 504717,
+          "blankNumber": "0504717"
+        },
+        {
+          "idBlank": 504718,
+          "blankNumber": "0504718"
+        },
+        {
+          "idBlank": 504719,
+          "blankNumber": "0504719"
+        },
+        {
+          "idBlank": 504720,
+          "blankNumber": "0504720"
+        },
+        {
+          "idBlank": 504721,
+          "blankNumber": "0504721"
+        },
+        {
+          "idBlank": 504722,
+          "blankNumber": "0504722"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2028908,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"China National Heavy Duty Truck Group Jinan Truck Co.ltd\"",
+    "shortName": null,
+    "idPerson": 4048564,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4791664,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "250116",
+        "fullAddress": "250116, Shandong province, Jinan city, Shizhong district, Dangjiazhuang town, Nanshou",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2028909,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"China National Heavy Duty Truck Group Jinan Truck Co.ltd\"",
+    "shortName": null,
+    "idPerson": 4048565,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4791665,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "250116",
+        "fullAddress": "250116, Shandong province, Jinan city, Shizhong district, Dangjiazhuang town, Nanshou. Филиалы завода-изготовителя согласно Приложению(бланк № 0504721, 0504722)",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [
+    {
+      "idFilial": 174115,
+      "fullName": null,
+      "shortName": null,
+      "idLegalForm": null,
+      "kpp": null,
+      "annex": false,
+      "contacts": [],
+      "addresses": [
+        {
+          "idAddress": 4791666,
+          "idAddrType": 1,
+          "idCodeOksm": null,
+          "oksmShort": null,
+          "idSubject": null,
+          "idDistrict": null,
+          "idCity": null,
+          "idLocality": null,
+          "idStreet": null,
+          "idHouse": null,
+          "flat": null,
+          "postCode": null,
+          "fullAddress": null,
+          "gln": null,
+          "foreignDistrict": null,
+          "foreignCity": null,
+          "foreignLocality": null,
+          "foreignStreet": null,
+          "foreignHouse": null,
+          "uniqueAddress": null,
+          "otherGln": null,
+          "glonass": null
+        }
+      ]
+    }
+  ],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1014492,
+    "fullName": "Орган по сертификации продукции ООО \"Проксима\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ88",
+    "attestatRegDate": "2011-10-28",
+    "attestatEndDate": null,
+    "idRal": 17491,
+    "ogrn": "1117746508450",
+    "idPerson": 4048567,
+    "firstName": "Л.",
+    "surname": "Сумцов",
+    "patronymic": "Л.",
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4791667,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115682",
+        "fullAddress": "115682,РФ, г. Москва, ул. Шипиловская, д. 64, корп. 1, оф. 147",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1014497,
+    "idProductOrigin": "156",
+    "fullName": "Компоненты транспортных средств т.м. \"HOWO\", \"Shaanxi\"",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "согласно Приложению (бланк № 504700, 504701, 504702, 504703, 504704, 504705, 504706, 504707, 504708, 504709, 504710, 504711, 504712, 504713, 504714, 504715, 504716, 504717, 504718, 504719, 504720",
+    "identifications": [
+      {
+        "idIdentification": 1537369,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1115161,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1028822,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 1004561,
+      "idPerson": 4048566,
+      "idEmployee": null,
+      "firstName": "Петр",
+      "surname": "Малышкин",
+      "patronimyc": "Валерьевич"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1506387,
+      "idStatus": 1,
+      "beginDate": "2013-04-16T00:00:00",
+      "endDate": "2014-04-15T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:41:37.82",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1506388,
+      "idStatus": 1,
+      "beginDate": "2014-04-15T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:41:37.82",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1044039,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "bc790b69-528a-4a93-900f-0c3cb6cac5be",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

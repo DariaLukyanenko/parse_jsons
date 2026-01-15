@@ -1,0 +1,1013 @@
+{
+  "idCertificate": 1004887,
+  "idTechnicalReglaments": [],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-IT.АГ88.В.11493",
+  "certRegDate": "2012-10-01",
+  "certEndDate": "2016-09-30",
+  "idBlank": 1478384,
+  "blankNumber": "1478384",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 244062,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 446019,
+          "blankNumber": "0446019"
+        },
+        {
+          "idBlank": 446017,
+          "blankNumber": "0446017"
+        },
+        {
+          "idBlank": 446020,
+          "blankNumber": "0446020"
+        },
+        {
+          "idBlank": 446018,
+          "blankNumber": "0446018"
+        }
+      ]
+    },
+    {
+      "idAnnex": 244063,
+      "idType": 3,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 446016,
+          "blankNumber": "0446016"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2016518,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": null,
+    "fullName": "\"UFI Filters S.p.a.\";37060, Nogarole Rocca (Verona), Via dell’Industria, 4, Италия",
+    "shortName": null,
+    "idPerson": 4023848,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4766542,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2016519,
+    "idEgrul": null,
+    "idLegalSubjectType": null,
+    "fullName": "\"UFI Filters S.p.a.\" (Заводы-производители – см. приложения (Бланки №№ 0446017 - 0446020));37060, Nogarole Rocca (Verona), Via dell’Industria, 4, Италия",
+    "shortName": null,
+    "idPerson": 4023849,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4766543,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 638778,
+        "annex": true,
+        "fullName": "\"MANN + HUMMEL GMBH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638731,
+        "annex": true,
+        "fullName": "\"MANN + HUMMEL INNENRAUMFILTER GmbH & Co. KG\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638732,
+        "annex": true,
+        "fullName": "\"SOLAUFIL\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638733,
+        "annex": true,
+        "fullName": "\"OLDRATI SLOVENSKO s.r.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638734,
+        "annex": true,
+        "fullName": "\"FILMAR FILTER Ind. & Trade Co.Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638735,
+        "annex": true,
+        "fullName": "\"SOGEFI Filtration SA\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638736,
+        "annex": true,
+        "fullName": "\"POLYMER PAPERS Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638737,
+        "annex": true,
+        "fullName": "\"SOFIMA HYDRAULIC FILTERS Co. Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638738,
+        "annex": true,
+        "fullName": "\"AIRMATIC FILTERBAU GmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638739,
+        "annex": true,
+        "fullName": "\"HENGST GmbH & Co. KG\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638740,
+        "annex": true,
+        "fullName": "\"FM FILTER MONZA s.r.l.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638741,
+        "annex": true,
+        "fullName": "\"GLOBAL SYSTEM s.r.l.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638742,
+        "annex": true,
+        "fullName": "\"FFC s.n.c.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638743,
+        "annex": true,
+        "fullName": "\"F.B.N. s.r.l.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638744,
+        "annex": true,
+        "fullName": "\"CRM s.n.c.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638745,
+        "annex": true,
+        "fullName": "\"FILTER GF s.a.s.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638746,
+        "annex": true,
+        "fullName": "\"GUR FILTER Co. Ltd C/to ZOKO\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638747,
+        "annex": true,
+        "fullName": "\"CUMMINS FILTRATION SARL\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638748,
+        "annex": true,
+        "fullName": "\"TEHO Filter OY\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638749,
+        "annex": true,
+        "fullName": "\"UFI Filters Korea Co. Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638750,
+        "annex": true,
+        "fullName": "\"UFI Filters Iberica SL\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638751,
+        "annex": true,
+        "fullName": "\"UFI Filters India PVT Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638752,
+        "annex": true,
+        "fullName": "\"MAHLE Filtersysteme Austria GmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638753,
+        "annex": true,
+        "fullName": "\"MANN + HUMMEL (CZ) s.r.o.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638754,
+        "annex": true,
+        "fullName": "\"G.U.D.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638755,
+        "annex": true,
+        "fullName": "\"MANN + HUMMEL Brasil Ltda\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638756,
+        "annex": true,
+        "fullName": "\"WIX FILTRON O.O.O.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638757,
+        "annex": true,
+        "fullName": "\"MANN + HUMMEL O.O.O.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638758,
+        "annex": true,
+        "fullName": "\"UFI FILTERS Spa\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638759,
+        "annex": true,
+        "fullName": "\"UFI FILTERS Spa\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638760,
+        "annex": true,
+        "fullName": "\"Plastic technology S.p.A.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638761,
+        "annex": true,
+        "fullName": "\"Sofima Automotive Chang Chung\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638762,
+        "annex": true,
+        "fullName": "\"UFI Filters India Private Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638763,
+        "annex": true,
+        "fullName": "\"UFI Filters China Co Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638764,
+        "annex": true,
+        "fullName": "\"La Maison du Filtre SA\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638765,
+        "annex": true,
+        "fullName": "\"UFI FILTERS Co. LTD\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638766,
+        "annex": true,
+        "fullName": "\"SOFIMA AUTOMOTIVE FILTER\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638767,
+        "annex": true,
+        "fullName": "\"WIX FILTRON Sp. Z O.O.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638768,
+        "annex": true,
+        "fullName": "\"LAMES s.r.l.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638769,
+        "annex": true,
+        "fullName": "\"Societe  Tunisienne des filtres\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638770,
+        "annex": true,
+        "fullName": "\"COR-FILTERS spa\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638771,
+        "annex": true,
+        "fullName": "\"RORE sas\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638772,
+        "annex": true,
+        "fullName": "\"WYTWORNIA Filtrow \"PZL\" Sedziszow s.a.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638773,
+        "annex": true,
+        "fullName": "\"SOFIMA FILTERS S.A.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638774,
+        "annex": true,
+        "fullName": "\"DAF Filters srl\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638775,
+        "annex": true,
+        "fullName": "\"CAMPI\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638776,
+        "annex": true,
+        "fullName": "\"PT SELAMAT SEMPURNA Tbk\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638777,
+        "annex": true,
+        "fullName": "\"MAHLE Aftermarket Gmbh\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638779,
+        "annex": true,
+        "fullName": "\"MANN + HUMMEL BA\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638780,
+        "annex": true,
+        "fullName": "\"MP Filters srl\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638781,
+        "annex": true,
+        "fullName": "\"VIBO snc\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638782,
+        "annex": true,
+        "fullName": "\"MR FILTRATION Co. Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638783,
+        "annex": true,
+        "fullName": "\"TECNECO Filtri srl\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638784,
+        "annex": true,
+        "fullName": "\"FASATECH srl\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638785,
+        "annex": true,
+        "fullName": "\"TECNOCOMP srl\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638786,
+        "annex": true,
+        "fullName": "\"PLANET Filters spa\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638787,
+        "annex": true,
+        "fullName": "\"RE-VEL PRODUCTION srl\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638788,
+        "annex": true,
+        "fullName": "\"BOLIM Trading Company\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638789,
+        "annex": true,
+        "fullName": "\"SJAUTO\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638790,
+        "annex": true,
+        "fullName": "\"ALCO Filters Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638791,
+        "annex": true,
+        "fullName": "\"DELPHI Diesel System Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638792,
+        "annex": true,
+        "fullName": "\"AL FILTER Co. Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638793,
+        "annex": true,
+        "fullName": "\"AL FILTER Co. Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638794,
+        "annex": true,
+        "fullName": "\"STANADYNE Corporation\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638795,
+        "annex": true,
+        "fullName": "\"MEAT & DORIA sas\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638796,
+        "annex": true,
+        "fullName": "\"GPC sas\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638797,
+        "annex": true,
+        "fullName": "\"DONALDSON Italia srl\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638798,
+        "annex": true,
+        "fullName": "\"MARTOGLIO sas\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638799,
+        "annex": true,
+        "fullName": "\"G.F.M. FILTERS Srl\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638800,
+        "annex": true,
+        "fullName": "\"G FILTER SRL\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638801,
+        "annex": true,
+        "fullName": "\"CERTOOLS sp.j.\"",
+        "shortName": null,
+        "addresses": []
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1008297,
+    "fullName": "ООО \"Проксима\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ88",
+    "attestatRegDate": null,
+    "attestatEndDate": null,
+    "idRal": 17491,
+    "ogrn": "1117746508450",
+    "idPerson": 4023851,
+    "firstName": "Л.",
+    "surname": "Сумцов",
+    "patronymic": "Л.",
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4766544,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115682",
+        "fullAddress": "115682, РФ, г. Москва, ул. Шипиловская, д. 64, корп. 1, оф. 147, тел. (495) 626-24-62, факс (495) 626-24-62, E-mail os.proksima@mail.ru",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1008302,
+    "idProductOrigin": "380",
+    "fullName": "Запасные части для автомобилей: фильтры, фильтрующие элементы и запасные части к ним (см. приложение (Бланк № 0446016)), т.м. \"SOFIMA\", \"UFI\" по каталогам фирмы UFI Filters S.p.a",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": null,
+    "identifications": [
+      {
+        "idIdentification": 1527715,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Сертификат соответствия системы менеджмента качества требованиям ISO 9001:2008 № IT-245889 от 23.07.2011 г., IQNet",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1108726,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1022512,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": "Технический регламент о безопасности колесных транспортных средств (Постановление Правительства РФ от 10.09.2009 N 720);",
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      },
+      {
+        "idIdentification": 1527716,
+        "annex": true,
+        "name": "Запасные части для автомобилей: фильтры, фильтрующие элементы и запасные части к ним, т.м. \"SOFIMA\", \"UFI\":",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1527717,
+        "annex": true,
+        "name": "фильтры и фильтрующие элементы масляные, в т.ч. трансмиссионные-гидравлические фильтры",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1527718,
+        "annex": true,
+        "name": "фильтры и фильтрующие элементы топливные",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1527719,
+        "annex": true,
+        "name": "фильтры и фильтрующие элементы воздушные",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1527720,
+        "annex": true,
+        "name": "фильтры и фильтрующие элементы воздушные",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1527721,
+        "annex": true,
+        "name": "запасные части к фильтрам",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 998430,
+      "idPerson": 4023850,
+      "idEmployee": null,
+      "firstName": null,
+      "surname": "М.В. Кожевников",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1498146,
+      "idStatus": 1,
+      "beginDate": "2012-10-01T00:00:00",
+      "endDate": "2016-09-30T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:33:04.934",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1498147,
+      "idStatus": 1,
+      "beginDate": "2016-09-30T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:33:04.934",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1037840,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "b1cc593a-c590-ac4c-4425-7a86004134d3",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

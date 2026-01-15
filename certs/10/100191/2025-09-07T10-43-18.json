@@ -1,0 +1,566 @@
+{
+  "idCertificate": 100191,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-JP.АЯ46.В.81642",
+  "certRegDate": "2017-08-22",
+  "certEndDate": "2023-08-21",
+  "idBlank": 567731,
+  "blankNumber": "0567731",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53686,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 397211,
+          "blankNumber": "0397211"
+        }
+      ]
+    },
+    {
+      "idAnnex": 53687,
+      "idType": 2,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 397210,
+          "blankNumber": "0397210"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207207,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 3,
+    "fullName": "\"Canon Inc.\" в лице уполномоченного изготовителем представителя: Общество с ограниченной ответственностью \"Канон Ру\" по договору № 0089 от 15.08.2010г. ОГРН: 1047796914220. Адрес: 109028, город  Москва, наб. Серебряническая, дом 29, Российская Федерация. Телефон: 84952585600, E-mail: certification@canon.ru",
+    "shortName": null,
+    "idPerson": 416863,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250520,
+        "idContactType": 1,
+        "value": "+71337582111"
+      },
+      {
+        "idContact": 250521,
+        "idContactType": 4,
+        "value": "certification@canon.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 634795,
+        "idAddrType": 1,
+        "idCodeOksm": "392",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "302314685",
+        "postCode": null,
+        "fullAddress": "ЯПОНИЯ, 30-2 Shimomaruko 3-chome Ohta-ku, Tokyo 146-8501",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207208,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"Canon Inc.\"",
+    "shortName": null,
+    "idPerson": 416864,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 634796,
+        "idAddrType": 1,
+        "idCodeOksm": "392",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "302314685",
+        "postCode": null,
+        "fullAddress": "ЯПОНИЯ, 30-2 Shimomaruko 3-chome Ohta-ku, Tokyo 146-8501",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 147308,
+        "annex": true,
+        "fullName": "CANON ELECTRONICS VIETNAM CO., LTD",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 634797,
+            "idAddrType": 1,
+            "idCodeOksm": "704",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "ВЬЕТНАМ, Road 206, Section B, Pho Noi A Industrial Park, Lac Hong Commune, Van Lam District, Hung Yen Province, Vietnam",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103595,
+    "fullName": "Орган по сертификации \"РОСТЕСТ- Москва\" ЗАО \"Региональный орган по сертификации и тестированию\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.10АЯ46",
+    "attestatRegDate": "2015-04-27",
+    "attestatEndDate": null,
+    "idRal": 8887,
+    "ogrn": null,
+    "idPerson": 416866,
+    "firstName": "Александр",
+    "surname": "Коротенков",
+    "patronymic": "Викторович",
+    "contacts": [
+      {
+        "idContact": 192419,
+        "idContactType": 1,
+        "value": "+74956682715"
+      },
+      {
+        "idContact": 192420,
+        "idContactType": 1,
+        "value": "+74991291911"
+      },
+      {
+        "idContact": 192421,
+        "idContactType": 4,
+        "value": "info@rostest.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 634798,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117418",
+        "fullAddress": "117418, Российская Федерация, г. Москва, Нахимовский проспект, д. 31",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 634799,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "119049",
+        "fullAddress": "119049, Российская Федерация, г. Москва, ул. Житная, д. 14, стр. 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103593,
+    "idProductOrigin": "392",
+    "fullName": "Лазерные принтеры торговой марки «Canon»",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "модель: F173100",
+    "identifications": [
+      {
+        "idIdentification": 185662,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          72964
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Условия хранения и срок службы продукции указаны в сопроводительной документации. Предприятие-изготовитель (см. Приложение - бланк &#8470; 0397210). Обозначение и наименование стандартов (см. Приложение - бланк &#8470; 0397211).",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116701,
+            "name": "Директива 2014/30/ЕU ЕВРОПЕЙСКОГО ПАРЛАМЕНТА И СОВЕТА от 26 февраля 2014 г. «О гармонизации законодательств государств-членов ЕС в области электромагнитной совместимости»; Директива 2014/35/EU ЕВРОПЕЙСКОГО ПАРЛАМЕНТА И СОВЕТА  от 26 февраля 2014 г. «О гармонизации законодательств государств-членов в области размещения на рынке электрооборудования, предназначенного для использования в определенных пределах напряжения»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 106861,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60825-1-2013",
+            "name": "Безопасность  лазерной  аппаратуры.  Часть  1.  Классификация оборудования, требования и руководство для пользователей\n",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106860,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 62479-2013",
+            "name": "Оценка маломощного электронного и электрического оборудования на соответствие основным ограничениям, связанным с воздействием на человека электромагнитных полей (10 МГц – 300 ГГц)",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106859,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 62311-2013\n",
+            "name": "Оценка\tэлектронного\tи\tэлектрического\tоборудования в отношении ограничений воздействия на человека электромагнитных полей (0 Гц – 300 ГГц)\t\t\n",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106858,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60950-1-2014\n",
+            "name": "Оборудование информационных технологий. Требования\nбезопасности. Часть 1. Общие требования\t\t\n",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106857,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.2-2013\n(IEC 61000-3-2:2009)\n",
+            "name": "Совместимость технических средств электромагнитная. Эмиссия гармонических составляющих тока техническими средствами с потребляемым током не более 16 А (в одной фазе). Нормы и методы испытаний ",
+            "section": null,
+            "addlInfo": "разделы 5 и 7 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106856,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.3-2013\n(IEC 61000-3-3:2008)\n",
+            "name": "Совместимость технических средств электромагнитная. Ограничение изменений напряжения, колебаний напряжения и фликера в низковольтных системах электроснабжения общего назначения. Технические средства с потребляемым током не более 16 А (в одной фазе),подключаемые к электрической сети при несоблюдении определенных условий подключения. Нормы и методы испытаний",
+            "section": null,
+            "addlInfo": "раздел 5 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106855,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30805.22-2013\n(CISPR 22:2006)\n",
+            "name": "Совместимость технических средств электромагнитная. Оборудование информационных технологий. Радиопомехи индустриальные. Нормы и методы измерений ",
+            "section": null,
+            "addlInfo": "разделы 4–6 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106854,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ CISPR 24-2013",
+            "name": "Оборудование информационных технологий. Устойчивость к электромагнитным помехам. Требования и методы испытаний",
+            "section": null,
+            "addlInfo": "раздел 5 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106853,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106042,
+      "idPerson": 416865,
+      "idEmployee": null,
+      "firstName": "Ольга",
+      "surname": "Круглова",
+      "patronimyc": "Николаевна"
+    },
+    {
+      "idExpert": 2744206,
+      "idPerson": 12888628,
+      "idEmployee": null,
+      "firstName": "Олег",
+      "surname": "Хитров",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2744225,
+      "idPerson": 12888669,
+      "idEmployee": null,
+      "firstName": "Наталья",
+      "surname": "Добрина",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2744247,
+      "idPerson": 12888715,
+      "idEmployee": null,
+      "firstName": "Юлия",
+      "surname": "Гредяева",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2746731,
+      "idPerson": 12893459,
+      "idEmployee": null,
+      "firstName": "Ольга",
+      "surname": "Власюк",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121809,
+      "idStatus": 6,
+      "beginDate": "2017-08-22T15:01:12",
+      "endDate": "2023-08-22T01:27:53.197",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 6126831,
+      "idStatus": 1,
+      "beginDate": "2023-08-22T01:27:53.197",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2023-08-22T01:27:53.869",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112392,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "60324553-8935-4255-807c-6d625e67af72",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

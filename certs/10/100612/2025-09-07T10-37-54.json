@@ -1,0 +1,458 @@
+{
+  "idCertificate": 100612,
+  "idTechnicalReglaments": [
+    14
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-CN.МБ06.В.00246",
+  "certRegDate": "2017-05-23",
+  "certEndDate": "2022-05-22",
+  "idBlank": 492087,
+  "blankNumber": "0492087",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53965,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 312791,
+          "blankNumber": "0312791"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 208049,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью «Первая эскалаторно-лифтовая компания»",
+    "shortName": null,
+    "idPerson": 418559,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1165476060067",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": 12,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 251579,
+        "idContactType": 1,
+        "value": "+73832032709"
+      },
+      {
+        "idContact": 251580,
+        "idContactType": 3,
+        "value": "+73832032743"
+      },
+      {
+        "idContact": 251581,
+        "idContactType": 4,
+        "value": "lift@pelk.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 639077,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "1ac46b49-3209-4814-b7bf-a509ea1aecd9",
+        "idDistrict": "1ac46b49-3209-4814-b7bf-a509ea1aecd9",
+        "idCity": "8dea00e3-9aab-4d8e-887c-ef2aaa546456",
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "812813",
+        "postCode": "630001",
+        "fullAddress": "630001, РОССИЯ, Новосибирская область, Новосибирск, Жуковского, 102, офис 812, 813",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 639078,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "1ac46b49-3209-4814-b7bf-a509ea1aecd9",
+        "idDistrict": "1ac46b49-3209-4814-b7bf-a509ea1aecd9",
+        "idCity": "8dea00e3-9aab-4d8e-887c-ef2aaa546456",
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "30212",
+        "postCode": "630091",
+        "fullAddress": "630091, РОССИЯ, Новосибирская область, Новосибирск, Мичурина, 12А, офис 302/1-2",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 208050,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "Canny Elevator Co. Ltd",
+    "shortName": null,
+    "idPerson": 418560,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 251582,
+        "idContactType": 1,
+        "value": "+8651263297851"
+      },
+      {
+        "idContact": 251583,
+        "idContactType": 3,
+        "value": "+8651263299709"
+      },
+      {
+        "idContact": 251584,
+        "idContactType": 4,
+        "value": "export@canny-elevator.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 639079,
+        "idAddrType": 1,
+        "idCodeOksm": "156",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "215213",
+        "fullAddress": "215213, КИТАЙ, Suzhou City, Jiangsu Province, Kangli Road, FOHO New&Hi-Tech Industrial Development Zone, 888",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 104016,
+    "fullName": "Орган по сертификации Автономная некоммерческая организация по сертификации лифтов и эскалаторов \"Центр-эксперт\"",
+    "accredOrgName": "Росаккредитация",
+    "attestatRegNumber": "RA.RU.11МБ06",
+    "attestatRegDate": "2015-11-30",
+    "attestatEndDate": null,
+    "idRal": 21884,
+    "ogrn": null,
+    "idPerson": 418562,
+    "firstName": "Александр",
+    "surname": "Васильев",
+    "patronymic": "Вячеславович",
+    "contacts": [
+      {
+        "idContact": 193408,
+        "idContactType": 1,
+        "value": "+74955806761"
+      },
+      {
+        "idContact": 193409,
+        "idContactType": 4,
+        "value": "ce@anosle.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 639080,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "121359",
+        "fullAddress": "121359, РОССИЯ, Москва, ул. Маршала Тимошенко, д. 17, корп. 2",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 639081,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "121359",
+        "fullAddress": "121359, РОССИЯ, Москва, ул. Маршала Тимошенко, д. 17, корп. 2",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 104014,
+    "idProductOrigin": "156",
+    "fullName": "Эскалаторы тяжелого режима работы, с углом наклона до 30° включительно, с высотой подъема до 42 м включительно, скоростью до 0,65 м/с включительно ",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "модель KLТ (исполнения KLT; KLT– ХF; KLT-XF-II) (приложение бланк № 0312791)",
+    "identifications": [
+      {
+        "idIdentification": 186523,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          72690
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Срок хранения не более 3 лет в отапливаемом помещении при 25 &#730;С, влажности до 80 %. Срок службы 15 лет",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117152,
+            "name": "EN 115-1:2010",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 107585,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ Р 54765-2011 (ЕН 115-1:2010) Утвержден приказом Федерального агентства по техническому регулированию и метрологии от 13 декабря 2011 г. № 955-ст",
+            "name": "Эскалаторы и пассажирские конвейеры. Требования безопасности к устройству и установке",
+            "section": null,
+            "addlInfo": "В части применимых требований к эскалаторам тяжелого режима работы, за исключением п. 5.4.3.6\nТехническое решение эскалаторов KLТ, отличающееся от регламентируемого ГОСТ Р 54765-2011\nРадиус кривизны нижнего перехода от наклонного к горизонтальному участку эскалатора составляет не менее 2000 мм (п.5.4.3.6).\n",
+            "idStatus": null
+          },
+          {
+            "idStandard": 107584,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106475,
+      "idPerson": 418561,
+      "idEmployee": null,
+      "firstName": "Евгений",
+      "surname": "Боксер",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122330,
+      "idStatus": 6,
+      "beginDate": "2017-05-23T12:23:27",
+      "endDate": "2019-04-05T08:12:13",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:56:18.819",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 3517539,
+      "idStatus": 14,
+      "beginDate": "2019-04-05T08:12:13",
+      "endDate": null,
+      "comment": "Письмо от заявителя",
+      "idBasis": 8,
+      "docNumber": "006/19",
+      "publicated": true,
+      "publishDate": "2019-04-05T05:10:06.357",
+      "lkType": "dict.orgtypes.os",
+      "idMrpa": null,
+      "docName": "Решение о прекращении действия",
+      "docDate": "2019-04-05",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 113031,
+      "annex": false,
+      "idRal": 19105,
+      "regNumber": "RA.RU.21МБ18",
+      "fullName": "Испытательный центр Общества с ограниченной ответственностью Инженерный центр по независимой технической экспертизе эскалаторов и лифтов \"НЕТЭЭЛ\"",
+      "beginDate": "2015-12-29",
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a333b880-e0a5-4410-9fff-df2eb3e084fd",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

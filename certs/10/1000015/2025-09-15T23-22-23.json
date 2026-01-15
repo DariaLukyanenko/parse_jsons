@@ -1,0 +1,450 @@
+{
+  "idCertificate": 1000015,
+  "idTechnicalReglaments": [
+    5
+  ],
+  "idCertScheme": 3,
+  "idObjectCertType": 2,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-CN.АИ01.А.00159",
+  "certRegDate": "2017-03-31",
+  "certEndDate": "2023-03-30",
+  "idBlank": 506001,
+  "blankNumber": "0506001",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 243225,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 347273,
+          "blankNumber": "0347273"
+        },
+        {
+          "idBlank": 347274,
+          "blankNumber": "0347274"
+        },
+        {
+          "idBlank": 347275,
+          "blankNumber": "0347275"
+        },
+        {
+          "idBlank": 347276,
+          "blankNumber": "0347276"
+        },
+        {
+          "idBlank": 347277,
+          "blankNumber": "0347277"
+        },
+        {
+          "idBlank": 347278,
+          "blankNumber": "0347278"
+        },
+        {
+          "idBlank": 347279,
+          "blankNumber": "0347279"
+        },
+        {
+          "idBlank": 347280,
+          "blankNumber": "0347280"
+        },
+        {
+          "idBlank": 347281,
+          "blankNumber": "0347281"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2006774,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью «Ай-Ти-Си»",
+    "shortName": null,
+    "idPerson": 4004401,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1031616004595",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1006006,
+        "idContactType": 1,
+        "value": "+74997031585"
+      },
+      {
+        "idContact": 1006007,
+        "idContactType": 4,
+        "value": "aneil@rcsint.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4746418,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, 423826, Российская Федерация, город Набережные Челны, бульвар Домостроителей, дом  2, кабинет 157",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4746419,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, Российская Федерация, 423815, город Набережные Челны, проспект Чулман, дом 128, кабинет 230",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2006775,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "Offshore Oil Engineering (Qingdao) Co., Ltd",
+    "shortName": null,
+    "idPerson": 4004402,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4746420,
+        "idAddrType": 1,
+        "idCodeOksm": "156",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "КИТАЙ, No. 492 Lianjiang Road, Economic and Technical Development Zone, Qingdao, 266520 China (Китай)",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1003425,
+    "fullName": "Орган по сертификации продукции АО \"СЖС Восток Лимитед\"",
+    "accredOrgName": "Росстандарт",
+    "attestatRegNumber": "РОСС RU.0001.11АИ01",
+    "attestatRegDate": "2014-10-06",
+    "attestatEndDate": null,
+    "idRal": 26632,
+    "ogrn": null,
+    "idPerson": 4004404,
+    "firstName": null,
+    "surname": "Патраков Дмитрий Николаевич, предоставлено право подписи сертификатов соответствия и заверения их к",
+    "patronymic": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4746421,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115432",
+        "fullAddress": "115432,Москва, просп. Андропова, 18/7",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4746422,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "119330",
+        "fullAddress": "119330,Российская Федерация, город Москва, Мосфильмовская улица, д. 17/25",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1003430,
+    "idProductOrigin": "156",
+    "fullName": "Трубопроводы и сборочные единицы трубопроводов 3-й категории",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "в составе технологического модуля 214-PAU-003  проекта «Ямал СПГ», для газов 1-й группы рабочих сред, номинальным диаметром от 150 до 1800, максимально допустимым рабочим давлением от 1.0 МПа до 7.9 МПа включительно, изготовленные в соответствии со стандартом ASME B31.3. «Система технологических трубопроводов. Сборник правил для трубопроводных систем, работающих под давлением», по чертежам, согласно приложению на 9 листах, бланки №№ 0347273-0347281.",
+    "identifications": [
+      {
+        "idIdentification": 1520444,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          70597,
+          70601,
+          70605
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Соответствие оборудования требованиям технического регламента Таможенного союза \"О безопасности оборудования, работающего под избыточным давлением\" (ТР ТС 032/2013) обеспечивается путем непосредственного выполнения требований настоящего технического регламента и анализа рисков. Срок службы &#8211; 25 лет. Срок хранения &#8211; 10 лет. Условия хранения указаны в руководстве по эксплуатации.\n",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1103562,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1017570,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 993599,
+      "idPerson": 4004403,
+      "idEmployee": null,
+      "firstName": "Алексей",
+      "surname": "Прыгов ",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1491621,
+      "idStatus": 6,
+      "beginDate": "2017-03-31T18:31:45",
+      "endDate": "2023-03-31T02:51:56.425",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:26:32.058",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5915850,
+      "idStatus": 1,
+      "beginDate": "2023-03-31T02:51:56.425",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2023-03-31T02:51:56.962",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1032957,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "25f96dd2-2164-4b71-ba64-d8cf8ff54466",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

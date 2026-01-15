@@ -1,0 +1,585 @@
+{
+  "idCertificate": 100218,
+  "idTechnicalReglaments": [
+    24
+  ],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-US.АЯ46.В.83554",
+  "certRegDate": "2018-01-09",
+  "certEndDate": "2023-01-08",
+  "idBlank": 613832,
+  "blankNumber": "0613832",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53713,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 459963,
+          "blankNumber": "0459963"
+        }
+      ]
+    },
+    {
+      "idAnnex": 53714,
+      "idType": 2,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 459964,
+          "blankNumber": "0459964"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207261,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 3,
+    "fullName": "\"Zebra Technologies Corporation\"  в лице уполномоченного изготовителем представителя: Общество с ограниченной ответственностью \"ЗЕБРА ТЕХНОЛОДЖИС РАША ООО\" по договору поручения №10242014 от 08.10.2014 г. ОГРН 1147746976827. Адрес: 107023, Россия, город Москва, ул. Касаткина, дом 13, строение 5.\nТелефон: +74957878552/53,  E-mail: Moscow@zebra.com\n\n\n",
+    "shortName": null,
+    "idPerson": 416971,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250594,
+        "idContactType": 1,
+        "value": "+862039298880691"
+      },
+      {
+        "idContact": 250595,
+        "idContactType": 4,
+        "value": "andy.quan@inventuspower.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 635194,
+        "idAddrType": 1,
+        "idCodeOksm": "840",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "СОЕДИНЕННЫЕ ШТАТЫ, 3 Overlook Point, Lincolnshire, IL 60069 ",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207262,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "«Zebra Technologies Corporation»",
+    "shortName": null,
+    "idPerson": 416972,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 635195,
+        "idAddrType": 1,
+        "idCodeOksm": "840",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "СОЕДИНЕННЫЕ ШТАТЫ, 3 Overlook Point, Lincolnshire, IL 60069 ",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 147585,
+        "annex": true,
+        "fullName": "«ICC ELECTRONICS (DONGGUAN) LTD.»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 635196,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, NO.23, SHANG YUAN ROAD, QING XI TOWN, DONG GUAN CITY, GUANGDONG",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 147586,
+        "annex": true,
+        "fullName": "«LION BATTERY SYSTEMS (SHANGHAI) LTD»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 635197,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, 1-2F, BUILDING 10, 5116 YUANJIANG ROAD, MINHANG DISTRICT, SHANGHAI",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 147587,
+        "annex": true,
+        "fullName": "«ICCNexergy»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 635198,
+            "idAddrType": 1,
+            "idCodeOksm": "484",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "МЕКСИКА, BLVD PACIFICO #14532, PARQUE INDUSTRIAL PACIFICO, 22709 TIJUANA, BС",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103622,
+    "fullName": "Орган по сертификации \"РОСТЕСТ- Москва\" Акционерного общества \"Региональный орган по сертификации и тестированию\" ",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.10АЯ46",
+    "attestatRegDate": "2015-04-27",
+    "attestatEndDate": null,
+    "idRal": 8887,
+    "ogrn": null,
+    "idPerson": 416974,
+    "firstName": "Александр",
+    "surname": "Коротенков",
+    "patronymic": "Викторович",
+    "contacts": [
+      {
+        "idContact": 192485,
+        "idContactType": 1,
+        "value": "+74956682715"
+      },
+      {
+        "idContact": 192486,
+        "idContactType": 1,
+        "value": "+74991291911"
+      },
+      {
+        "idContact": 192487,
+        "idContactType": 4,
+        "value": "info@rostest.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 635199,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117418",
+        "fullAddress": "117418, Российская Федерация, г. Москва, Нахимовский проспект, д. 31",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 635200,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117418",
+        "fullAddress": "117418, РОССИЯ, город Москва, пр-кт. Нахимовский, д. 31",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103620,
+    "idProductOrigin": "840",
+    "fullName": "Аккумуляторные батареи литий-ионной системы торговой марки «Zebra»",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "модели: P1089503-001,P1089503-002，P1089503-003，P1089503-004",
+    "identifications": [
+      {
+        "idIdentification": 185727,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74124
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Условия хранения и срок службы продукции указаны в сопроводительной документации.Предприятия-изготовители ( см. Приложение - бланк &#8470; 0459964). Обозначение и наименование стандартов (см. Приложение - бланк &#8470; 0459963).",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116731,
+            "name": "Директива 2014/30/ЕU ЕВРОПЕЙСКОГО ПАРЛАМЕНТА И СОВЕТА от 26 февраля 2014 г. «О гармонизации законодательств государств-членов ЕС в области электромагнитной совместимости»\n\n",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 106914,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ CISPR 24-2013",
+            "name": "Совместимость технических средств электромагнитная. Оборудование информационных технологий. Устойчивость к электромагнитным помехам. Требования и методы испытаний",
+            "section": null,
+            "addlInfo": "раздел 5 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106913,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30805.22-2013\n(CISPR 22:2006)\n",
+            "name": "Совместимость технических средств электромагнитная. Оборудование информационных технологий. Радиопомехи индустриальные. Нормы и методы измерений ",
+            "section": null,
+            "addlInfo": "разделы 4–6 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106912,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106069,
+      "idPerson": 416973,
+      "idEmployee": null,
+      "firstName": "Ольга",
+      "surname": "Круглова",
+      "patronimyc": "Николаевна"
+    },
+    {
+      "idExpert": 2771524,
+      "idPerson": 12926123,
+      "idEmployee": null,
+      "firstName": "Олег",
+      "surname": "Хитров",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2783819,
+      "idPerson": 12955463,
+      "idEmployee": null,
+      "firstName": "Олег",
+      "surname": "Хитров",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2786951,
+      "idPerson": 12967678,
+      "idEmployee": null,
+      "firstName": "Олег",
+      "surname": "Хитров",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2779815,
+      "idPerson": 12942841,
+      "idEmployee": null,
+      "firstName": "Олег",
+      "surname": "Хитров",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2762492,
+      "idPerson": 12916254,
+      "idEmployee": null,
+      "firstName": "Олег",
+      "surname": "Хитров",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2765560,
+      "idPerson": 12919394,
+      "idEmployee": null,
+      "firstName": "Олег",
+      "surname": "Хитров",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121842,
+      "idStatus": 6,
+      "beginDate": "2018-01-09T14:44:29",
+      "endDate": "2023-01-09T01:11:49.096",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5853906,
+      "idStatus": 1,
+      "beginDate": "2023-01-09T01:11:49.096",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2023-01-09T01:11:49.557",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112434,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "6064730b-3f6a-49b0-b525-6cea712387ed",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

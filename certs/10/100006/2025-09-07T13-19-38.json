@@ -1,0 +1,478 @@
+{
+  "idCertificate": 100006,
+  "idTechnicalReglaments": [
+    16
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-RU.АД06.В.01139",
+  "certRegDate": "2018-03-27",
+  "certEndDate": "2023-03-26",
+  "idBlank": 625168,
+  "blankNumber": "0625168",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 523136,
+      "idType": 3,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 438046,
+          "blankNumber": "0438046"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 4176893,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью \"АПЕКС\"",
+    "shortName": null,
+    "idPerson": 8337195,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1076154001879",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 2225592,
+        "idContactType": 1,
+        "value": "+78634327202"
+      },
+      {
+        "idContact": 2225593,
+        "idContactType": 4,
+        "value": "rinat1981977@gmail.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9595294,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "f10763dc-63e3-48db-83e1-9c566fe3092b",
+        "idDistrict": "f10763dc-63e3-48db-83e1-9c566fe3092b",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "347900",
+        "fullAddress": "347900, РОССИЯ, Ростовская Область, город Таганрог, Северная площадь, дом 3-2",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 4176894,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью \"АПЕКС\"",
+    "shortName": null,
+    "idPerson": 8337196,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 9595295,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "f10763dc-63e3-48db-83e1-9c566fe3092b",
+        "idDistrict": "f10763dc-63e3-48db-83e1-9c566fe3092b",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "347900",
+        "fullAddress": "347900, РОССИЯ, Ростовская Область, город Таганрог, Северная площадь, дом 3-2",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 3360015,
+    "fullName": "Орган по сертификации продукции и услуг Общества с ограниченной ответственностью \"СЕВ-КАВ ТЕСТ 2004\"",
+    "accredOrgName": "Межрайонная инспекция Федеральной налоговой службы № 26 по Ростовской области",
+    "attestatRegNumber": "RA.RU.10АЕ58",
+    "attestatRegDate": "2015-10-27",
+    "attestatEndDate": null,
+    "idRal": 20139,
+    "ogrn": "1046164004567",
+    "idPerson": 13222211,
+    "firstName": "Татьяна",
+    "surname": "Помыкалкина",
+    "patronymic": "Георгиевна",
+    "contacts": [
+      {
+        "idContact": 3860146,
+        "idContactType": 1,
+        "value": "+78632618620"
+      },
+      {
+        "idContact": 3860147,
+        "idContactType": 1,
+        "value": "+78632399429"
+      },
+      {
+        "idContact": 3860148,
+        "idContactType": 4,
+        "value": "sevkavtest2004@yandex.ru"
+      },
+      {
+        "idContact": 3860149,
+        "idContactType": 5,
+        "value": "www.sev-kavtest.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 17532985,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "f10763dc-63e3-48db-83e1-9c566fe3092b",
+        "idDistrict": null,
+        "idCity": "c1cfe4b9-f7c2-423c-abfa-6ed1c05a15c5",
+        "idLocality": null,
+        "idStreet": "f1dfd951-706d-403c-9cc8-0970947f9f10",
+        "idHouse": null,
+        "flat": null,
+        "postCode": "344000",
+        "fullAddress": "344000, РОССИЯ, Ростовская область, Ростов-на-Дону, пр-кт. Ворошиловский, 87/65",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": "87/65",
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": "RA.RU.11АД06",
+    "prevIdRal": 12938
+  },
+  "product": {
+    "idProduct": 2088815,
+    "idProductOrigin": "643",
+    "fullName": "Аппараты отопительные газовые бытовые с водяным контуром \"Angara Lux\",",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "моделей: согласно приложению",
+    "identifications": [
+      {
+        "idIdentification": 3042788,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          71899
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Перечень стандартов, в результате применения которых обеспечивается соблюдение требований технического регламента: ГОСТ 20219-74 \"Аппараты отопительные газовые бытовые с водяным контуром. Технические условия\". Условия хранения продукции в соответствии с ГОСТ 15150-69. Срок хранения (службы, годности) указан в прилагаемой к продукции товаросопроводительной и/или эксплуатационной документации",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 2273950,
+            "name": "Продукция изготовлена в соответствии с ТУ 4858-006-80365626-2014 \"Аппараты отопительные газовые бытовые с водяным контуром \"Angara lux\"\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 3042789,
+        "annex": true,
+        "name": "Аппараты отопительные газовые бытовые с водяным контуром «Angara Lux», моделей:\nс автоматикой «Sit-630» или «Sit-710» или «Sit-820» c ГВС: АКГВ-11,6 «Angara LUX», АКГВ-17,4 «Angara LUX», АКГВ-23,2 «Angara LUX», АКГВ-29 «Angara LUX», АКГВ-35 «Angara LUX»;\nC автоматикой «Sit-630» или «Sit-710» или «Sit-820» без ГВС: АОГВ-11,6 «Angara LUX», АОГВ-17,4 «Angara LUX», АОГВ-23,2 «Angara LUX», АОГВ-29 «Angara LUX», АОГВ-35 «Angara LUX», АОГВ-40 «Angara LUX».",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          71899
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 2273951,
+            "name": "ТУ 4858-006-80365626-2014 \"Аппараты отопительные газовые бытовые с водяным контуром \"Angara lux\"\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 2839611,
+      "idPerson": 13222265,
+      "idEmployee": null,
+      "firstName": "Елена",
+      "surname": "Семенова",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2839646,
+      "idPerson": 13222533,
+      "idEmployee": null,
+      "firstName": "Елена",
+      "surname": "Семенова",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2839621,
+      "idPerson": 13222360,
+      "idEmployee": null,
+      "firstName": "Елена",
+      "surname": "Семенова",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2839656,
+      "idPerson": 13222585,
+      "idEmployee": null,
+      "firstName": "Елена",
+      "surname": "Семенова",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2839763,
+      "idPerson": 13223347,
+      "idEmployee": null,
+      "firstName": "Елена",
+      "surname": "Семенова",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2839882,
+      "idPerson": 13224154,
+      "idEmployee": null,
+      "firstName": "Елена",
+      "surname": "Семенова",
+      "patronimyc": null
+    },
+    {
+      "idExpert": 2839966,
+      "idPerson": 13224588,
+      "idEmployee": null,
+      "firstName": "Елена",
+      "surname": "Семенова",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 3150488,
+      "idStatus": 6,
+      "beginDate": "2018-03-29T11:36:07",
+      "endDate": "2021-12-02T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-09-27T22:01:21.257",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5599935,
+      "idStatus": 15,
+      "beginDate": "2021-12-02T00:00:00",
+      "endDate": "2023-03-27T01:14:24.742",
+      "comment": "На основании подпункта «к» пункта 14, подпункта «в» пункта 16, пункта 17, пунктом 22 Правил приостановления, возобновления и прекращения действия сертификатов соответствия, признания их недействительными, утвержденных постановлением Правительства Российской Федерации от 19 июня 2021 г. № 936",
+      "idBasis": 21,
+      "docNumber": "251",
+      "publicated": true,
+      "publishDate": "2021-12-02T11:23:42.698",
+      "lkType": "dict.orgtypes.rosaccr",
+      "idMrpa": null,
+      "docName": "Приказ Росаккредитации",
+      "docDate": "2021-12-01",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5910935,
+      "idStatus": 1,
+      "beginDate": "2023-03-27T01:14:24.742",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2023-03-27T01:14:25.089",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 2130205,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": "протокола испытаний № 2003-1-09 от 20.03.2018 года, Испытательной лаборатории Общества с ограниченной ответственностью \"МераТех\", аттестат аккредитации регистрационный номер RA.RU.21АИ62. Акта о результатах анализа состояния производства № СГ060617-3 от 06.03.2018 года, органа по сертификации Общества с ограниченной ответственностью \"Стандарт-Групп\", регистрационный № RA.RU.11АД06. Комплекта эксплуатационной документации",
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a5638b91-dd88-4daf-ac9c-e12607e9c503",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

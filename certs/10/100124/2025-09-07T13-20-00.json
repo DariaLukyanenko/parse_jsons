@@ -1,0 +1,557 @@
+{
+  "idCertificate": 100124,
+  "idTechnicalReglaments": [
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-US.АБ72.В.01329",
+  "certRegDate": "2017-10-18",
+  "certEndDate": "2018-10-17",
+  "idBlank": 605466,
+  "blankNumber": "0605466",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53641,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 427327,
+          "blankNumber": "0427327"
+        }
+      ]
+    },
+    {
+      "idAnnex": 53642,
+      "idType": 2,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 427326,
+          "blankNumber": "0427326"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207073,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью \"О-Си-Эс-Центр\"",
+    "shortName": null,
+    "idPerson": 416592,
+    "surname": "Соболева",
+    "firstName": "Наталья",
+    "patronymic": "Сергеевна",
+    "headPosition": null,
+    "ogrn": "1037701914612",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250341,
+        "idContactType": 1,
+        "value": "+74959952575"
+      },
+      {
+        "idContact": 250342,
+        "idContactType": 4,
+        "value": "ocs@mail.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 634069,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "123458",
+        "fullAddress": "123458, Россия, город Москва, улица Маршала Прошлякова, дом 30, офис 206",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207074,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"HP Inc.\"",
+    "shortName": null,
+    "idPerson": 416593,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 634070,
+        "idAddrType": 1,
+        "idCodeOksm": "840",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Соединенные Штаты, 94304, 1501 Page Mill Road, Palo Alto, CA, Филиалы согласно приложению бланк №0427326",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 146902,
+        "annex": true,
+        "fullName": "\"Tech-Front (Chongqing) Computer Co., Ltd.\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 634071,
+            "idAddrType": 1,
+            "idCodeOksm": null,
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "Китай, 18#, Zongbao Road, Shapingba District Chongqing, P.R.",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 146903,
+        "annex": true,
+        "fullName": "\"MERRY ELECTRONICS CO.,LTD\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 634072,
+            "idAddrType": 1,
+            "idCodeOksm": null,
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "Тайвань (Китай), NO. 22, 23rd Road, Taichung Industrial Park, Taichung, 40850",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 146904,
+        "annex": true,
+        "fullName": "\"Merry Electronics (Shenzhen) Co., Ltd.\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 634073,
+            "idAddrType": 1,
+            "idCodeOksm": null,
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "Китай, 48 MeiBao Rd, DaLang, LongHua New District, ShenZhen, GuangDong",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103528,
+    "fullName": "Орган по сертификации Общества с ограниченной ответственностью «ТЕХНОЛАБ»",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АБ72",
+    "attestatRegDate": "2016-05-12",
+    "attestatEndDate": null,
+    "idRal": 8852,
+    "ogrn": null,
+    "idPerson": 416595,
+    "firstName": "Кирилл",
+    "surname": "Гречишников",
+    "patronymic": "Андреевич",
+    "contacts": [
+      {
+        "idContact": 192256,
+        "idContactType": 1,
+        "value": "+79661713392"
+      },
+      {
+        "idContact": 192257,
+        "idContactType": 1,
+        "value": "+74957732711"
+      },
+      {
+        "idContact": 192258,
+        "idContactType": 4,
+        "value": "texnoоlab@gmail.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 634074,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "142784, РОССИЯ, город Москва, п. Московский, 22-й км. Киевского шоссе, домовладение 4, строение 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 634075,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "8",
+        "postCode": "115230",
+        "fullAddress": "115230, РОССИЯ, город Москва, проезд. Электролитный, д. 3, строение 12, офис 8",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103526,
+    "idProductOrigin": "840",
+    "fullName": "Устройства для зарядки аккумуляторов: адаптеры питания автомобильные,",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "модели: Z3Q87AA, C8257A, RW635AA, HPM-F5V87AA.",
+    "identifications": [
+      {
+        "idIdentification": 185537,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74046
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Наименование стандартов, в результате применения которых на добровольной основе обеспечивается соблюдение требований Технических регламентов Таможенного союза согласно приложению бланк №0427327. Условия хранения: продукция хранится в сухих, проветриваемых складских помещениях при температуре от 0 &deg;С до +30 &deg;С, при относительной влажности воздуха не более 80 %. Срок хранения: изготовителем не установлен. Срок службы: 5 лет.",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116630,
+            "name": "Продукция изготовлена в соответствии с Директивой 2014/30/ЕU  \"Электромагнитная совместимость\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 106748,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30805.14.2-2013",
+            "name": "\"Совместимость технических средств электромагнитная. Бытовые приборы, электрические инструменты и аналогичные устройства. Устойчивость к электромагнитным помехам. Требования и методы испытаний\"",
+            "section": null,
+            "addlInfo": "разделы 4 и 5, подраздел 7.2",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106747,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30805.14.1-2013",
+            "name": "\"Совместимость технических средств электромагнитная. Бытовые приборы, электрические инструменты и аналогичные устройства. Радиопомехи индустриальные. Нормы и методы измерений\"",
+            "section": null,
+            "addlInfo": "раздел 4",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106746,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 105972,
+      "idPerson": 416594,
+      "idEmployee": null,
+      "firstName": "Сергей",
+      "surname": "Кудинов",
+      "patronimyc": "Владимирович"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121719,
+      "idStatus": 6,
+      "beginDate": "2017-10-18T22:06:02",
+      "endDate": "2018-10-18T01:06:39.174",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:53:37.353",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 3357566,
+      "idStatus": 1,
+      "beginDate": "2018-10-18T01:06:39.121",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-10-18T01:06:39.573",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 3357567,
+      "idStatus": 1,
+      "beginDate": "2018-10-18T01:06:39.174",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-10-18T01:06:39.663",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112292,
+      "annex": false,
+      "idRal": null,
+      "regNumber": "RA.RU.21ГД02.",
+      "fullName": "Испытательный центр Закрытого акционерного общества \"Спектр-К\"",
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a6609645-2528-4ae3-94c1-fd7073d58800",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

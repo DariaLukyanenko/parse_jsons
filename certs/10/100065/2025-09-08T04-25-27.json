@@ -1,0 +1,451 @@
+{
+  "idCertificate": 100065,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-SI.АБ15.В.01081",
+  "certRegDate": "2017-04-04",
+  "certEndDate": "2018-04-03",
+  "idBlank": 541101,
+  "blankNumber": "0541101",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 523383,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 365525,
+          "blankNumber": "0365525"
+        }
+      ]
+    },
+    {
+      "idAnnex": 523384,
+      "idType": 5,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 365526,
+          "blankNumber": "0365526"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 4177903,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "Акционерное общество \"ИскраУралТЕЛ\"",
+    "shortName": null,
+    "idPerson": 8339218,
+    "surname": "Давыдов",
+    "firstName": "Владислав",
+    "patronymic": "Владимирович",
+    "headPosition": null,
+    "ogrn": "1026604933475",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 2226669,
+        "idContactType": 1,
+        "value": "+73432105985"
+      },
+      {
+        "idContact": 2226670,
+        "idContactType": 4,
+        "value": "iut@iskrauraltel.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9597973,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "92b30014-4d52-4e2e-892d-928142b924bf",
+        "idDistrict": "92b30014-4d52-4e2e-892d-928142b924bf",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "620137",
+        "fullAddress": "620137, РОССИЯ, Свердловская Область, город Екате-ринбург, улица Комвузовская, дом 9, корпус А",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 4177904,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "«Iskratel, d.o.o., Kranj»",
+    "shortName": null,
+    "idPerson": 8339219,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 9597974,
+        "idAddrType": 1,
+        "idCodeOksm": "705",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "СЛОВЕНИЯ, Ljubljanska cesta 24 a, 4000 Kranj, Филиалы согласно приложению бланк №0365526",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 2198986,
+    "fullName": "Орган по сертификации \"ЦЕНТРОТЕСТ\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АБ15",
+    "attestatRegDate": "2015-11-18",
+    "attestatEndDate": null,
+    "idRal": 24333,
+    "ogrn": null,
+    "idPerson": 8339221,
+    "firstName": "Иван",
+    "surname": "Баринов",
+    "patronymic": "Анатольевич",
+    "contacts": [
+      {
+        "idContact": 1319597,
+        "idContactType": 4,
+        "value": "0882839@mail.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9597975,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "105064",
+        "fullAddress": "105064, РОССИЯ, город Москва, ул. Басманная Стар., 9, 2, цокольный этаж",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 9597976,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "8",
+        "postCode": "121552",
+        "fullAddress": "121552, РОССИЯ, город Москва, ул. Ярцевская, 34, 1, 8",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 2089320,
+    "idProductOrigin": "705",
+    "fullName": "Аппараты электрические бытового назначения: терминальное абонентское оборудование телекоммуникационных сетей высокоскоростного доступа,",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "модель GPON Innbox G68, Ethernet Innbox E70.",
+    "identifications": [
+      {
+        "idIdentification": 3043653,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74295
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 2274551,
+            "name": "Продукция изготовлена в соответствии с Директивой 2014/35/EU \"по низковольтному оборудованию и системам\", Директивой 2014/30/EU \"о электромагнитной совместимости\"",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 2215684,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60950-1-2014",
+            "name": "\"Оборудование информационных технологий. Требования безопасности. Часть 1. Общие требования\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 2215685,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "раздел 5 ГОСТ CISPR 24-2013",
+            "name": "\"Совместимость технических средств электромагнитная. Оборудование информационных технологий. Устойчивость к электромагнитным помехам. Требования и методы испытаний\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 2215686,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "разделы 7-11 ГОСТ 30805.22-2013",
+            "name": "\"Совместимость технических средств электромагнитная. Оборудование информационных технологий. Радиопомехи индустриальные. Нормы и методы измерений\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 2215687,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "разделы 5 и 7 ГОСТ 30804.3.2-2013",
+            "name": "\"Совместимость технических средств электромагнитная. Эмиссия гармонических составляющих тока техническими средствами с потребляемым током не более 16 А (в одной фазе). Нормы и методы испытаний\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 2215688,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "раздел 5 ГОСТ 30804.3.3-2013",
+            "name": "\"Совместимость технических средств электромагнитная. Ограничение изменений напряжения, колебаний напряжения и фликера в низковольтных системах электроснабжения общего назначения. Технические средства с потребляемым током не более 16 А (в одной фазе), подключаемые к электрической сети при несоблюдении определенных условий подключения. Нормы и методы испытаний\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 2071332,
+      "idPerson": 8339220,
+      "idEmployee": null,
+      "firstName": "Александр",
+      "surname": "Ляхов",
+      "patronimyc": "Анатольевич"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 3151231,
+      "idStatus": 6,
+      "beginDate": "2017-04-04T23:27:48",
+      "endDate": "2018-04-03T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-09-27T22:04:12.587",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 3151232,
+      "idStatus": 1,
+      "beginDate": "2018-04-03T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-09-27T22:04:12.587",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 2130743,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": "протокола испытаний № 150417 от 03.04.2017 года Испытательного центра Закрытого акционерного общества \"Спектр-К\", аттестат аккредитации RA.RU.21ГД02;\nАкта анализа состояния (условий) производства № 2017/04/04-004 от 04.04.2017 года\nЭксплуатационных документов; Перечня стандартов, требованиям которых должно соответствовать данное оборудование из Перечня стандартов, указанных в пункте 1 статьи 6 ТР ТС 004/2011 \"О безопасности низковольтного оборудования\", в пункте 1 статьи 6 ТР ТС 020/2011 \"Электромагнитная совместимость технических средств\"\nCхема сертификации: 1с",
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a5eac9bf-e2ad-46e6-98bf-2e6375647a72",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

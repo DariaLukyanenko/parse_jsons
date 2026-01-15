@@ -1,0 +1,524 @@
+{
+  "idCertificate": 1004815,
+  "idTechnicalReglaments": [
+    97148
+  ],
+  "idCertScheme": 54,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-CN.АГ92.В.32033",
+  "certRegDate": "2013-07-02",
+  "certEndDate": "2017-07-01",
+  "idBlank": 1554775,
+  "blankNumber": "1554775",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 244052,
+      "idType": 3,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 407858,
+          "blankNumber": "0407858"
+        },
+        {
+          "idBlank": 407859,
+          "blankNumber": "0407859"
+        },
+        {
+          "idBlank": 407860,
+          "blankNumber": "0407860"
+        },
+        {
+          "idBlank": 407861,
+          "blankNumber": "0407861"
+        },
+        {
+          "idBlank": 407862,
+          "blankNumber": "0407862"
+        },
+        {
+          "idBlank": 407863,
+          "blankNumber": "0407863"
+        },
+        {
+          "idBlank": 407864,
+          "blankNumber": "0407864"
+        },
+        {
+          "idBlank": 407865,
+          "blankNumber": "0407865"
+        },
+        {
+          "idBlank": 407866,
+          "blankNumber": "0407866"
+        },
+        {
+          "idBlank": 407867,
+          "blankNumber": "0407867"
+        },
+        {
+          "idBlank": 407868,
+          "blankNumber": "0407868"
+        },
+        {
+          "idBlank": 407869,
+          "blankNumber": "0407869"
+        },
+        {
+          "idBlank": 407870,
+          "blankNumber": "0407870"
+        },
+        {
+          "idBlank": 407871,
+          "blankNumber": "0407871"
+        },
+        {
+          "idBlank": 407872,
+          "blankNumber": "0407872"
+        },
+        {
+          "idBlank": 407873,
+          "blankNumber": "0407873"
+        },
+        {
+          "idBlank": 407874,
+          "blankNumber": "0407874"
+        },
+        {
+          "idBlank": 407875,
+          "blankNumber": "0407875"
+        },
+        {
+          "idBlank": 407876,
+          "blankNumber": "0407876"
+        },
+        {
+          "idBlank": 407877,
+          "blankNumber": "0407877"
+        },
+        {
+          "idBlank": 407878,
+          "blankNumber": "0407878"
+        },
+        {
+          "idBlank": 407879,
+          "blankNumber": "0407879"
+        },
+        {
+          "idBlank": 407880,
+          "blankNumber": "0407880"
+        },
+        {
+          "idBlank": 407881,
+          "blankNumber": "0407881"
+        },
+        {
+          "idBlank": 407882,
+          "blankNumber": "0407882"
+        },
+        {
+          "idBlank": 407883,
+          "blankNumber": "0407883"
+        },
+        {
+          "idBlank": 407884,
+          "blankNumber": "0407884"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2016374,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"Weichai Power Co,.Ltd.\"",
+    "shortName": null,
+    "idPerson": 4023560,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4766255,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "26 Minsheng Rd., Weifang city, Shandong province China, Китай",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2016375,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"Weichai Power Co,.Ltd.\"",
+    "shortName": null,
+    "idPerson": 4023561,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4766256,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "26 Minsheng Rd., Weifang city, Shandong province China, Китай",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [
+    {
+      "idFilial": 172893,
+      "fullName": null,
+      "shortName": null,
+      "idLegalForm": null,
+      "kpp": null,
+      "annex": false,
+      "contacts": [],
+      "addresses": [
+        {
+          "idAddress": 4766257,
+          "idAddrType": 1,
+          "idCodeOksm": null,
+          "oksmShort": null,
+          "idSubject": null,
+          "idDistrict": null,
+          "idCity": null,
+          "idLocality": null,
+          "idStreet": null,
+          "idHouse": null,
+          "flat": null,
+          "postCode": null,
+          "fullAddress": null,
+          "gln": null,
+          "foreignDistrict": null,
+          "foreignCity": null,
+          "foreignLocality": null,
+          "foreignStreet": null,
+          "foreignHouse": null,
+          "uniqueAddress": null,
+          "otherGln": null,
+          "glonass": null
+        }
+      ]
+    }
+  ],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1008225,
+    "fullName": "Орган по сертификации продукции ООО \"КапиталСтрой\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ92",
+    "attestatRegDate": "2013-05-16",
+    "attestatEndDate": null,
+    "idRal": 11509,
+    "ogrn": "1107746552671",
+    "idPerson": 4023563,
+    "firstName": "А.",
+    "surname": "Чечерников",
+    "patronymic": "С.",
+    "contacts": [
+      {
+        "idContact": 645147,
+        "idContactType": 1,
+        "value": "+74993915007"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4766258,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115093",
+        "fullAddress": "115093, г. Москва, пер. Партийный, д. 1, корп. 58, стр. 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1008230,
+    "idProductOrigin": "156",
+    "fullName": "Узлы и детали автомобильных дизельных двигателей",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "т.м. \"Weichai Power\"",
+    "identifications": [
+      {
+        "idIdentification": 1527618,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1108654,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1022441,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      },
+      {
+        "idIdentification": 1527619,
+        "annex": true,
+        "name": "прокладка; уплотнительная прокладка; топливный возвратный трубопровод; маховик; винт с внутренней шестигранной цилиндрической головкой; колено; крышка цилиндра в сборе; соединительная пластина; болт с шестигранной головкой; выхлопная труба; топливный фильтр грубой очистки; впускная трубка; шестерня гидравлического насоса; узел водопровода для охлаждения; кронштейн ; ; блок цилиндров; задний кроштейн; масляный поддон; шкив водяного насоса; питающий трубопровод нагнетателя; перепускной трубопровод нагнетателя; турбина; ; ; шкив коленчатого вала; кронштейн генератора; узел масляного трубопровода нагнетателя; масляный щуп; корпус маховика; патрубок; узел шестерни; вентилятор; питающий топливопровод; штуцер возвратного водопровода; кронштейн воздушного трубопровода нагнетателя; фланец; соединительная пластина; задний кронштейн; уплотнительная шайба; соединительное кольцо; кронштейн глушителя; кронштейн воздушного фильтра; топливопровод высокого давления; глушитель; компенсатор; пробка; штуцер; шестерня привода; гидронасос; насос с зубчатым колесом; ротационный насос; вкладыш водяного насоса; затяжной болт генератора; радиатор; масляный трубопровод топливного насоса; кронштейн воздушного фильтра; основание датчика давления масла; кронштейн затяжного болта; впускное колено; коллектор для отработающего газа; топливопровод; соединительный болт; шкив; пластмассовый вентилятор; топливный фильтр; шкив водяного насоса; шкив генеатора; крышка; шайба уплотнительная; шайба; поршень; колено воздушного фильтра; датчик давления масла; датчик температуры масла; датчик температура воды; датчик оборотов; кронштейн топливного насоса; крышка передней стены; шестерня топливного насоса; коронка; трубопровод смазки; задний кронштейн двигателя; топливный трубопровод высокого давления; болт головки цилиндра; подпорная пластина воздушного компрессора; подпорная пластина глушителя; впускное резиновое колено; вкладыш; кронштейн топливного фильтра; сухарь; крышка промежуточного охлаждения; кронштейн промежуточного охладителя; соединение; хомут; подшипник; диффузор в сборе; узел резинового колена; крышка для осмотра; трубопровод для охлаждения; впускной трубопровод промежуточного охладителя; выпускная трубка промежуточного охладителя; узел водяного насоса; узел впускного трубопровода; электромагнитный клапан для остановки двигатель; гайка; топливный насос в сборе; выходной вал; пустотельный болт; пробка с шестигранной головкой; шпилька; указатель температуры воды; вал; вал промежуточной шестерни; промежуточная шестерня коленчатого вала; форсунка; компрессионное кольцо; компрессионно-маслосъёмное кольцо; компрессионно-маслосъёмное кольцо; пружина; коленчатый вал; регулирующий вкладыш; узел подводящий топливопровод нагнетателя; ведомая шестерня; ведущая шестерня; резиновое уплотнительное кольцо; топливный стакан; хомутик; уплотнительное кольцо ; резиновая трубка; штифт; втулка; соединитель; шестерня ; узел штуцера; вискомуфта; подшипник; затяжной болт; впускной трубопровод компрессора; трубопровод смазки воздушного компрессора; перепускной топливопровод в сборе; узел впускного трубопровода компрессора; болт; шпилька; узел питпющего трубопровода смазки ; основание датчика топливного давления; кронштейн компрессора кондиционера; труба масломера в сборе; термостат; накладка; основание впускного клапана; основание выпускного клапана; заглушка; впускной клапан; выпускной клапан; стопорное кольцо; охладитель; кольцо стопорное; пружиная шайба; поршневой палец; защитная крышка; пружина клапана; контрогайка; задний кронштейн двигателя(левый); задний кронштейн двигателя(правый); задний кроштейн(левый); задний кроштейн(правый); винт; крышка подшипника; зажим; трубка; затяжная прокладка; рычаг; кольцо поршневое; вал распределительный; масломерная игла; поджимная прокладка; основание коромысла; крышка головки цилиндра; шатун; втулка шатуна; датчик температуры; вкладыш шатуна; турбонаддув; фитинг; маховик в сборе; колено; трубопровод высокого давления; шатун; шестерня распре",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 998358,
+      "idPerson": 4023562,
+      "idEmployee": null,
+      "firstName": "Николай",
+      "surname": "Проява",
+      "patronimyc": "Сергеевич"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1498052,
+      "idStatus": 1,
+      "beginDate": "2013-07-02T00:00:00",
+      "endDate": "2017-07-01T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:33:04.934",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1498053,
+      "idStatus": 1,
+      "beginDate": "2017-07-01T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:33:04.934",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1037768,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "b16245de-1d76-454d-8f52-92a381a51598",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

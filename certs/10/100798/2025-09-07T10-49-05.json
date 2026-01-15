@@ -1,0 +1,496 @@
+{
+  "idCertificate": 100798,
+  "idTechnicalReglaments": [
+    12
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-RU.МГ07.В.00362",
+  "certRegDate": "2015-10-21",
+  "certEndDate": "2020-10-20",
+  "idBlank": 168732,
+  "blankNumber": "0168732",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 522947,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 127729,
+          "blankNumber": "0127729"
+        },
+        {
+          "idBlank": 127730,
+          "blankNumber": "0127730"
+        },
+        {
+          "idBlank": 127731,
+          "blankNumber": "0127731"
+        },
+        {
+          "idBlank": 127732,
+          "blankNumber": "0127732"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 4176147,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью «Сибэлектро»",
+    "shortName": null,
+    "idPerson": 8335701,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1024201824767",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 2224772,
+        "idContactType": 1,
+        "value": "+73843360383"
+      },
+      {
+        "idContact": 2224773,
+        "idContactType": 3,
+        "value": "+73843360939"
+      },
+      {
+        "idContact": 2224774,
+        "idContactType": 4,
+        "value": "reception@ksht-mining.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9592937,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idDistrict": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "654034",
+        "fullAddress": "654034, РОССИЯ, Кемеровская область, город Новокузнецк, улица Малоэтажная, 8",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 9592938,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "5c48611f-5de6-4771-9695-7e36a4e7529d",
+        "idDistrict": "5c48611f-5de6-4771-9695-7e36a4e7529d",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "649000",
+        "fullAddress": "649000, РОССИЯ, Республика Алтай, город Горно-Алтайск, улица Чорос-Гуркина, 40",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 4176148,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью «Сибэлектро»",
+    "shortName": null,
+    "idPerson": 8335702,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1024201824767",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 2224775,
+        "idContactType": 1,
+        "value": "+73843360383"
+      },
+      {
+        "idContact": 2224776,
+        "idContactType": 3,
+        "value": "+73843360939"
+      },
+      {
+        "idContact": 2224777,
+        "idContactType": 4,
+        "value": "reception@ksht-mining.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9592939,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "5c48611f-5de6-4771-9695-7e36a4e7529d",
+        "idDistrict": "5c48611f-5de6-4771-9695-7e36a4e7529d",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "649000",
+        "fullAddress": "649000, РОССИЯ, Республика Алтай, город Горно-Алтайск, улица Чорос-Гуркина, 40",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [
+    {
+      "idFilial": 327551,
+      "fullName": null,
+      "shortName": null,
+      "idLegalForm": null,
+      "kpp": null,
+      "annex": false,
+      "contacts": [],
+      "addresses": [
+        {
+          "idAddress": 9592940,
+          "idAddrType": 3,
+          "idCodeOksm": "643",
+          "oksmShort": null,
+          "idSubject": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+          "idDistrict": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+          "idCity": null,
+          "idLocality": null,
+          "idStreet": null,
+          "idHouse": null,
+          "flat": null,
+          "postCode": "654034",
+          "fullAddress": "654034, РОССИЯ, Кемеровская область, город Новокузнецк, улица Малоэтажная, 8",
+          "gln": null,
+          "foreignDistrict": null,
+          "foreignCity": null,
+          "foreignLocality": null,
+          "foreignStreet": null,
+          "foreignHouse": null,
+          "uniqueAddress": null,
+          "otherGln": null,
+          "glonass": null
+        }
+      ]
+    }
+  ],
+  "certificationAuthority": {
+    "idCertificationAuthority": 2197230,
+    "fullName": "Орган по сертификации взрывозащищенного и рудничного электрооборудования АО  \"Научный центр ВостНИИ по безопасности работ в горной промышленности \"",
+    "accredOrgName": "Росаккредитация",
+    "attestatRegNumber": "RA.RU.11МГ07",
+    "attestatRegDate": "2014-12-02",
+    "attestatEndDate": null,
+    "idRal": 1942,
+    "ogrn": null,
+    "idPerson": 8335704,
+    "firstName": "Игорь",
+    "surname": "Монахов",
+    "patronymic": "Алексеевич",
+    "contacts": [
+      {
+        "idContact": 1318162,
+        "idContactType": 1,
+        "value": "+73842642462"
+      },
+      {
+        "idContact": 1318163,
+        "idContactType": 1,
+        "value": "+73842643398"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9592941,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idDistrict": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "650002",
+        "fullAddress": "650002,г. Кемерово, ул. Институтская, 3",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 9592942,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idDistrict": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "650002",
+        "fullAddress": "650002,Российская Федерация, Кемеровская область, г. Кемерово, ул. Институтская, 3",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 2088442,
+    "idProductOrigin": "643",
+    "fullName": "Самопередвижная концевая система СКС.",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "Сведения о продукции приведены в Приложении к сертификату.",
+    "identifications": [
+      {
+        "idIdentification": 3042155,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          72682
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Срок службы, условия и сроки хранения &#8211; в соответствии с эксплуатационной документацией изготовителя.",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 2273497,
+            "name": "Технические условия 3143-028-57626914-2015 «Самопередвижная концевая система».",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 2214714,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 2070449,
+      "idPerson": 8335703,
+      "idEmployee": null,
+      "firstName": "Михаил",
+      "surname": "Соломатин",
+      "patronimyc": "Викторович"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 3149976,
+      "idStatus": 14,
+      "beginDate": "2018-08-21T00:00:00",
+      "endDate": null,
+      "comment": "В связи с выдачей нового сертификата соответствия № ТС RU С-RU.МГ07.B.00516 от 21.08.2018 на самопередвижную концевую систему СКС, заявитель Общество с ограниченной ответственностью «Сибэлектро»",
+      "idBasis": 2,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-09-27T21:59:15.281",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": "2018-08-21",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 3149977,
+      "idStatus": 6,
+      "beginDate": "2015-10-21T05:58:05",
+      "endDate": "2018-08-21T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-09-27T21:59:15.281",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 2129802,
+      "annex": false,
+      "idRal": 26044,
+      "regNumber": "RA.RU.21ГБ07",
+      "fullName": "Испытательный центр взрывозащищенного и рудничного электрооборудования, изделий и материалов АО  \"Научный центр ВостНИИ по безопасности работ в горной промышленности \"",
+      "beginDate": "2014-12-09",
+      "endDate": "2019-12-09",
+      "basis": "Протокол № 61ИЭ-15 от 20.10.2015 Испытательного центра взрывозащищенного и рудничного электрооборудования, изделий и материалов АО «Научный центр ВостНИИ по безопасности работ в горной промышленности» (ИЦ ВостНИИ) (Аттестат аккредитации № RA.RU.21ГБ07 от 09.12.2014); Акт ОС ВРЭ ВостНИИ (Аттестат аккредитации № RA.RU.11МГ07 от 02.12.2014) от 16.10.2015 о результатах анализа состояния производства.",
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a4adbc84-1a08-496d-b2e3-e188586b894f",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

@@ -1,0 +1,535 @@
+{
+  "idCertificate": 1008844,
+  "idTechnicalReglaments": [],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-GB.АГ92.В.07671",
+  "certRegDate": "2012-05-23",
+  "certEndDate": "2015-05-22",
+  "idBlank": 1481071,
+  "blankNumber": "1481071",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 244698,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 405513,
+          "blankNumber": "0405513"
+        },
+        {
+          "idBlank": 405514,
+          "blankNumber": "0405514"
+        }
+      ]
+    },
+    {
+      "idAnnex": 244699,
+      "idType": 3,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 405515,
+          "blankNumber": "0405515"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2024432,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": null,
+    "fullName": "\"JCB Service Rocester\";Staffordshire, England STM 5JP, Соединенное Королевство Великобритании и Северной Ирландии",
+    "shortName": null,
+    "idPerson": 4039635,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4782629,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2024433,
+    "idEgrul": null,
+    "idLegalSubjectType": null,
+    "fullName": "\"JCB Service Rocester\";Staffordshire, England STM 5JP, Соединенное Королевство Великобритании и Северной Ирландии",
+    "shortName": null,
+    "idPerson": 4039636,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4782630,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 640083,
+        "annex": true,
+        "fullName": "\"JCB World Headquarters\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640084,
+        "annex": true,
+        "fullName": "\"JCB Compact Products\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640085,
+        "annex": true,
+        "fullName": "\"JCB Earthrnovers\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640086,
+        "annex": true,
+        "fullName": "\"JCB Landpower\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640087,
+        "annex": true,
+        "fullName": "\"JCB Transmissions\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640088,
+        "annex": true,
+        "fullName": "\"JCB Heavy Products\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640089,
+        "annex": true,
+        "fullName": "\"JCB Cab Systems\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640090,
+        "annex": true,
+        "fullName": "\"JCBamford Excavators Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640091,
+        "annex": true,
+        "fullName": "\"JCB Sales Ltd.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640092,
+        "annex": true,
+        "fullName": "\"JCB Materials Handling\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640093,
+        "annex": true,
+        "fullName": "\"JCB Groundcare\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640094,
+        "annex": true,
+        "fullName": "\"JCB Power Systems\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640095,
+        "annex": true,
+        "fullName": "\"JCB Inc.\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640096,
+        "annex": true,
+        "fullName": "\"JCB do Brazil Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640097,
+        "annex": true,
+        "fullName": "\"JCB Vibromax GmbH\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640098,
+        "annex": true,
+        "fullName": "\"JCB Construction Equipment (Shanghai) Co, Ltd\"",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 640099,
+        "annex": true,
+        "fullName": "\"JCB Manufacturing Ltd\"",
+        "shortName": null,
+        "addresses": []
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1012254,
+    "fullName": "Орган по сертификации продукции ООО \"КапиталСтрой\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ92",
+    "attestatRegDate": null,
+    "attestatEndDate": null,
+    "idRal": 11509,
+    "ogrn": "1107746552671",
+    "idPerson": 4039638,
+    "firstName": "А.",
+    "surname": "Чечерников",
+    "patronymic": "С.",
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4782631,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115093",
+        "fullAddress": "115093, г. Москва, Партийный переулок, д. 1, корп. 58, стр. 1, оф. 313, тел. (499) 3915007, E-mail Kapitalstroy-sert@bk.ru",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1012259,
+    "idProductOrigin": "826",
+    "fullName": "Запасные части транспортных средств, т.м. \"JCB \"(см. приложение на 1листе, бланк № 0405515)",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": null,
+    "identifications": [
+      {
+        "idIdentification": 1533725,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1112811,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1026606,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": "Технический регламент о безопасности колесных транспортных средств (Постановление Правительства РФ от 10.09.2009 N 720);",
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      },
+      {
+        "idIdentification": 1533726,
+        "annex": true,
+        "name": "Запасные части транспортных средств, т.м. \"JCB\":",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      },
+      {
+        "idIdentification": 1533727,
+        "annex": true,
+        "name": "колеса, их части и принадлежности, элементы крепления колес, гусеницы, катки, звездочки ведущие, ленивцы, траковые ленты, части гусениц в том числе гусеничные цепи для гусеничных транспортных средств, натяжители гусеничных лент, ободья, диски, ступицы, колпаки ступиц, запорные кольца, футорки",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 1002346,
+      "idPerson": 4039637,
+      "idEmployee": null,
+      "firstName": null,
+      "surname": "Д.С. Блинов",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1503382,
+      "idStatus": 1,
+      "beginDate": "2012-05-23T00:00:00",
+      "endDate": "2015-05-22T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:38:14.607",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1503383,
+      "idStatus": 1,
+      "beginDate": "2015-05-22T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:38:14.607",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1041800,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "b90addf6-2bc7-f0d6-c325-7a0700310821",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

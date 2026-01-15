@@ -1,0 +1,411 @@
+{
+  "idCertificate": 100479,
+  "idTechnicalReglaments": [
+    56
+  ],
+  "idCertScheme": null,
+  "idObjectCertType": 2,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-AT.АБ03.А.00152",
+  "certRegDate": "2017-01-26",
+  "certEndDate": "2018-01-25",
+  "idBlank": 5375,
+  "blankNumber": "0005375",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53895,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 5574,
+          "blankNumber": "0005574"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207783,
+    "idEgrul": null,
+    "idApplicantType": 2,
+    "idLegalSubjectType": 1,
+    "fullName": "Федеральное государственное унитарное предприятие «Торговый дом «Кремлевский» Управления делами Президента Российской Федерации",
+    "shortName": null,
+    "idPerson": 418026,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1056603780177",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 251270,
+        "idContactType": 1,
+        "value": "+74956205200"
+      },
+      {
+        "idContact": 251271,
+        "idContactType": 3,
+        "value": "+74956205204"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 637912,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "127055",
+        "fullAddress": "127055, РОССИЯ, город Москва, ул. Тихвинская, 4",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207784,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "Schrack Seconet AG",
+    "shortName": null,
+    "idPerson": 418027,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 251272,
+        "idContactType": 1,
+        "value": "+43181157604"
+      },
+      {
+        "idContact": 251273,
+        "idContactType": 3,
+        "value": "+43181157600"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 637913,
+        "idAddrType": 1,
+        "idCodeOksm": "040",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "AT-11",
+        "fullAddress": "AT-1120, АВСТРИЯ, Wien, Eibesbrunnergasse, 18",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103883,
+    "fullName": "Общество с ограниченной ответственностью «Центр подтверждения соответствия  «НОРМАТЕСТ»",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АБ03",
+    "attestatRegDate": "2015-06-19",
+    "attestatEndDate": null,
+    "idRal": 15041,
+    "ogrn": "5147746027424",
+    "idPerson": 418029,
+    "firstName": "Максим",
+    "surname": "Сметанин",
+    "patronymic": "Александрович",
+    "contacts": [
+      {
+        "idContact": 193139,
+        "idContactType": 4,
+        "value": "normatest@inbox.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 637914,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "119285",
+        "fullAddress": "119285, РОССИЯ, город Москва, Воробьевское шоссе, д. 6",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 637915,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "119285",
+        "fullAddress": "119285, РОССИЯ, город Москва, Воробьевское шоссе, д. 6",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103881,
+    "idProductOrigin": "040",
+    "fullName": "Оповещатель пожарный световой ",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "SONOS-BC ESBA3000WWS",
+    "identifications": [
+      {
+        "idIdentification": 186220,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [
+          10187
+        ],
+        "idTnveds": [
+          74706
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117012,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 107421,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106341,
+      "idPerson": 418028,
+      "idEmployee": null,
+      "firstName": "Александр",
+      "surname": "Савоськин",
+      "patronimyc": "Владимирович"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122179,
+      "idStatus": 1,
+      "beginDate": "2017-01-26T14:01:19",
+      "endDate": "2018-01-25T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 122180,
+      "idStatus": 1,
+      "beginDate": "2018-01-25T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112875,
+      "annex": false,
+      "idRal": 10865,
+      "regNumber": "RA.RU.21ЖЭ01",
+      "fullName": "Испытательная лаборатория Общества с ограниченной ответственностью  «Центр подтверждения соответствия «НОРМАТЕСТ» ",
+      "beginDate": "2015-04-29",
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "62d8f4e2-f953-4214-8d63-9ade20bcd9c0",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

@@ -1,0 +1,396 @@
+{
+  "idCertificate": 101038,
+  "idTechnicalReglaments": [
+    8
+  ],
+  "idCertScheme": 3,
+  "idObjectCertType": 2,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 6,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-GB.АБ37.А.04475",
+  "certRegDate": "2018-03-20",
+  "certEndDate": null,
+  "idBlank": 670595,
+  "blankNumber": "0670595",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 523585,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 465684,
+          "blankNumber": "0465684"
+        },
+        {
+          "idBlank": 465685,
+          "blankNumber": "0465685"
+        },
+        {
+          "idBlank": 465686,
+          "blankNumber": "0465686"
+        },
+        {
+          "idBlank": 465687,
+          "blankNumber": "0465687"
+        },
+        {
+          "idBlank": 465688,
+          "blankNumber": "0465688"
+        },
+        {
+          "idBlank": 465689,
+          "blankNumber": "0465689"
+        },
+        {
+          "idBlank": 465690,
+          "blankNumber": "0465690"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 4178739,
+    "idEgrul": null,
+    "idApplicantType": 2,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью \"МАКСИМА ГРУПП\".",
+    "shortName": null,
+    "idPerson": 8340894,
+    "surname": "Решетова",
+    "firstName": "Жанна",
+    "patronymic": "Васильевна",
+    "headPosition": null,
+    "ogrn": "1027739364443",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 2227539,
+        "idContactType": 1,
+        "value": "+74952878604"
+      },
+      {
+        "idContact": 2227540,
+        "idContactType": 4,
+        "value": "info@famil.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9600240,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "123022",
+        "fullAddress": "123022, РОССИЯ, Москва Город, улица Рочдельская, дом 15, строение 15, офис 4, Адрес места осуществления деятельности: 117105, Россия, город Москва, Варшавское шоссе, дом 9, строение 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 4178740,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"MANDARIN CREATIVE LTD\".",
+    "shortName": null,
+    "idPerson": 8340895,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 9600241,
+        "idAddrType": 1,
+        "idCodeOksm": "826",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "СОЕДИНЕННОЕ КОРОЛЕВСТВО, Sisna Park, Estover Road, Plymouth, Devon. PL6 7FH. Предприятие-изготовитель: \"PINEHURST MANUFACTURING(HND) GmbH\", место нахождения (адрес юридического лица) и адрес места осуществления деятельности по изготовлению продукции: Гондурас, Zona Libre St. Andrews, Agua Prieta, Colonia Rivera Hernandez, San Pedro Sula, Cortes",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 2199822,
+    "fullName": "Общество с ограниченной ответственностью Орган по сертификации продукции \"АЛЬЯНС\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АБ37",
+    "attestatRegDate": "2016-01-21",
+    "attestatEndDate": null,
+    "idRal": 4241,
+    "ogrn": null,
+    "idPerson": 8340897,
+    "firstName": "Ксения",
+    "surname": "Никитина",
+    "patronymic": "Андреевна",
+    "contacts": [
+      {
+        "idContact": 1320237,
+        "idContactType": 1,
+        "value": "+74959757917"
+      },
+      {
+        "idContact": 1320238,
+        "idContactType": 4,
+        "value": "alyans-os@yandex.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 9600242,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "5",
+        "postCode": "105064",
+        "fullAddress": "105064, РОССИЯ, город Москва, пер. Сусальный Ниж., д. 5, строен. 18, пом. 1, ком. 5",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 9600243,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "5",
+        "postCode": "105064",
+        "fullAddress": "105064, РОССИЯ, город Москва, пер. Сусальный Ниж., д. 5, строен. 18, пом. 1, ком. 5",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 2089738,
+    "idProductOrigin": "826",
+    "fullName": "Изделия бельевые трикотажные мужские: фуфайки (\"футболки\")",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": ", артикулы и сырьевой состав согласно приложению (типографские номера бланков приложений: 0465684, 0465685, 0465686, 0465687, 0465688, 0465689, 0465690).",
+    "identifications": [
+      {
+        "idIdentification": 3044299,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68582
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Стандарты, обеспечивающие соблюдение требований Технического регламента Таможенного союза ТР ТС 017/2011 \"О безопасности продукции легкой промышленности\": ГОСТ 31408-2009 \"Изделия трикотажные бельевые для мужчин и мальчиков. Общие технические условия\". Условия хранения продукции до реализации потребителю: изделия должны храниться в складских помещениях при температуре не ниже 5 градусов и не выше 40 градусов Цельсия, относительной влажности воздуха 50-70% и быть защищены от прямого попадания солнечных лучей и атмосферных воздействий. Срок хранения, срок службы (годности) изготовителем не установлены.",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 2275018,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 2071754,
+      "idPerson": 8340896,
+      "idEmployee": null,
+      "firstName": "Дарья",
+      "surname": "Мартынова",
+      "patronimyc": "Дмитриевна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 3151851,
+      "idStatus": 6,
+      "beginDate": "2018-03-21T10:10:10",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-09-27T22:06:36.676",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 2131183,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": "протоколов испытаний №№ 32Л/Н-20.03/18, 33Л/Н-20.03/18, 34Л/Н-20.03/18 от 20.03.2018 года, выданных Испытательной лабораторией \"LIGHT GROUP\" Испытательный центр \"CERTIFICATION GROUP\", регистрационный номер аттестата аккредитации RA.RU.21АИ63\nCхема сертификации: 3с",
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a6b46585-6ef4-463b-b9a0-b17f9578801c",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

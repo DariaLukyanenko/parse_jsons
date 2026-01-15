@@ -1,0 +1,551 @@
+{
+  "idCertificate": 100070,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-JP.АГ21.В.02814",
+  "certRegDate": "2017-09-25",
+  "certEndDate": "2022-09-24",
+  "idBlank": 423866,
+  "blankNumber": "0423866",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53607,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 416083,
+          "blankNumber": "0416083"
+        }
+      ]
+    },
+    {
+      "idAnnex": 53608,
+      "idType": 2,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 416082,
+          "blankNumber": "0416082"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 206965,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "Автономная некоммерческая организация “Центр экспертных программ ВОК”           \n(уполномоченная изготовителем Brother Industries, Ltd. (Япония))\n",
+    "shortName": null,
+    "idPerson": 416376,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1047732007355",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250225,
+        "idContactType": 1,
+        "value": "+74959602015"
+      },
+      {
+        "idContact": 250226,
+        "idContactType": 4,
+        "value": "cepvok@yandex.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 633765,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, город Москва, 115419, 2-й Рощинский проезд, д.8, корпус 4",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 633766,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, город Москва, 119618, ул.50 лет Октября, д.4",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 206966,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "Brother Industries, Ltd.",
+    "shortName": null,
+    "idPerson": 416377,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 633767,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Япония, 15-1, Naeshiro-Cho, Mizuho-Ku, Nagoya 467-8561",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 146833,
+        "annex": true,
+        "fullName": "Brother Industries Saigon, Ltd.  ",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 633768,
+            "idAddrType": 1,
+            "idCodeOksm": "704",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "ВЬЕТНАМ, Plot 301, Road 7A, Long Binh (Amata) Industrial Park Long Binh Ward, Bien Hoa City, Dong Nai Province",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103474,
+    "fullName": "Орган по  сертификации продукции \"ГОСТ - АЗИЯ РУС\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АГ21",
+    "attestatRegDate": "2016-03-01",
+    "attestatEndDate": null,
+    "idRal": 6256,
+    "ogrn": null,
+    "idPerson": 416379,
+    "firstName": "Вадим",
+    "surname": "Воробьев",
+    "patronymic": "Федорович",
+    "contacts": [
+      {
+        "idContact": 192171,
+        "idContactType": 1,
+        "value": "+74956400914"
+      },
+      {
+        "idContact": 192172,
+        "idContactType": 4,
+        "value": "gostasia@umail.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 633769,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115191",
+        "fullAddress": "115191, РОССИЯ, город Москва, ул. Рощинская 2-я, д. 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 633770,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115191",
+        "fullAddress": "115191,г. Москва, ул. 2-ая Рощинская, д. 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103472,
+    "idProductOrigin": "392",
+    "fullName": "Машины швейные бытовые",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "торговой марки \"brother\" модели GS2700, LX3500, ModerN 21, artwork 31, JSL-30, ModerN 27, ModerN 30A, artwork33A, ModerN 39A, Universal 17, Universal 25, Universal 27S, UniversaI 37S, EIite 45, ML500，PS70，STAR55X，Classic 30, Elite 55, Classic 40, RS21, RS31, RS40s, RS45s, Hanami17, Hanami25, Hanami27s, Hanami37s, artwork37A, Style20, Style25, Style30s，Style35s, Classic20, VitrageM75, VitrageM77, VitrageM79, ArtCity250A, ArtCity300A, ArtCity200, Satori100, Satori200, Satori300, Satori400, HF27",
+    "identifications": [
+      {
+        "idIdentification": 185462,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          73098
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Условия хранения: при температуре от минус 20&#176;С до плюс 60&#176;С и относительной влажности не более 90%.\nСрок службы продукции 6 лет.",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116568,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 106716,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.3-2013 (IEC 61000-3-3:2008)",
+            "name": "Совместимость технических средств электромагнитная. Ограничение изменений напряжения, колебаний напряжения и фликера в низковольтных системах электроснабжения общего назначения. Технические средства с потребляемым током не более 16 А (в одной фазе), подключаемые к электрической сети при несоблюдении определенных условий подключения. Нормы и методы испытаний",
+            "section": null,
+            "addlInfo": "Раздел 5",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106715,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.2-2013 (IEC 61000-3-2:2009)\n\n",
+            "name": "Совместимость технических средств электромагнитная. Эмиссия гармонических составляющих тока техническими средствами с потребляемым током не более 16 А (в одной фазе). Нормы и методы испытаний ",
+            "section": null,
+            "addlInfo": "Разделы 5 и 7",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106714,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30805.14.2-2013 (CISPR 14-2:2001) ",
+            "name": "Совместимость технических средств электромагнитная. Бытовые приборы, электрические инструменты и аналогичные устройства. Устойчивость к электромагнитным помехам. Требования и методы испытаний",
+            "section": null,
+            "addlInfo": "Разделы 4 и 5, подраздел 7.2",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106713,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30805.14.1-2013 (CISPR 14-1-2005)\n\n",
+            "name": "Совместимость технических средств электромагнитная. Бытовые приборы, электрические инструменты и аналогичные устройства. Радиопомехи индустриальные. Нормы и методы измерений",
+            "section": null,
+            "addlInfo": "Раздел 4",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106712,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ EN 62233-2013",
+            "name": "Методы измерений электромагнитных полей, создаваемых бытовыми и аналогичными электрическими приборами, в части их воздействия на человека",
+            "section": null,
+            "addlInfo": "Раздел 6",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106711,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60335-2-28-2012",
+            "name": "Безопасность бытовых и аналогичных электрических приборов. Часть 2-28. Частные требования к швейным машинам",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106710,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60335-1-2015 ",
+            "name": "Бытовые и аналогичные электрические приборы. Безопасность. Часть 1. Общие требования",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106709,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 105918,
+      "idPerson": 416378,
+      "idEmployee": null,
+      "firstName": "Сергей",
+      "surname": "Смирнов",
+      "patronimyc": "Александрович"
+    },
+    {
+      "idExpert": 2738330,
+      "idPerson": 12875903,
+      "idEmployee": null,
+      "firstName": "Сергей",
+      "surname": "Смирнов",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121656,
+      "idStatus": 6,
+      "beginDate": "2017-09-25T15:24:14",
+      "endDate": "2021-12-03T16:32:12",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:53:37.353",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5603460,
+      "idStatus": 14,
+      "beginDate": "2021-12-03T16:32:12",
+      "endDate": null,
+      "comment": "В связи с изменением реквизитов сертификата",
+      "idBasis": 8,
+      "docNumber": "408-02814",
+      "publicated": true,
+      "publishDate": "2021-12-03T13:35:57.101",
+      "lkType": "dict.orgtypes.os",
+      "idMrpa": null,
+      "docName": "Решение",
+      "docDate": "2021-12-03",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": "0046fe22-ace3-4107-b9d8-25e558c0d672"
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112238,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a5f36c6f-ae4f-407f-8b31-b9d67d99bfc4",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

@@ -1,0 +1,446 @@
+{
+  "idCertificate": 1002295,
+  "idTechnicalReglaments": [],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-CH.АГ88.В.14278",
+  "certRegDate": "2012-10-16",
+  "certEndDate": "2015-10-15",
+  "idBlank": 1603796,
+  "blankNumber": "1603796",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 243627,
+      "idType": 2,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 446490,
+          "blankNumber": "0446490"
+        },
+        {
+          "idBlank": 446489,
+          "blankNumber": "0446489"
+        },
+        {
+          "idBlank": 446488,
+          "blankNumber": "0446488"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2011334,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": null,
+    "fullName": "«DWT Swiss AG»;Via Giulia 25А, 6855 Stabio, Switzerland, Швейцария",
+    "shortName": null,
+    "idPerson": 4013503,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4755902,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2011335,
+    "idEgrul": null,
+    "idLegalSubjectType": null,
+    "fullName": "«DWT Swiss AG»(Филиалы завода-изготовителя: см.Приложения (бланки № 0446488 - 0446490)).;Via Giulia 25А, 6855 Stabio, Switzerland, Швейцария",
+    "shortName": null,
+    "idPerson": 4013504,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4755903,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 638002,
+        "annex": true,
+        "fullName": "Изготовитель:",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638003,
+        "annex": true,
+        "fullName": "«DWT Swiss AG»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638004,
+        "annex": true,
+        "fullName": "Филиалы:",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638005,
+        "annex": true,
+        "fullName": "Yancheng Baoding power tools Co.,Ltd (Адресно.668 Yandu Road, Yancheng Jiangsu, China) Zhejiang jifa electronics со.,Ltd. (Адрес: JiangNan Development Area,DongYang ZheJiang China.) Ningbo Tianchen Tools Co., Ltd (Адрес: No. 169 Zhenjiang Road, Yongjiang industrial park, Jiangbei District, Ningbo, Zhejiang.P.R.China) ZHEJIANG HENGTAI CROWN GARDEN TOOLS CO., LTD. (Адрес: N0.418, Wenxi street,Jinpan development zone new areajinhua city,ZHEJIANG,CHINA) Zhejiang Yonghui Tools Manufacturing Co. Ltd.",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638006,
+        "annex": true,
+        "fullName": "Изготовитель:",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638007,
+        "annex": true,
+        "fullName": "«DWT Swiss AG»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638008,
+        "annex": true,
+        "fullName": "Филиалы:",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638009,
+        "annex": true,
+        "fullName": "Zhenjiang Maoshan Tools Factory (Адрес: Maoshan Zone.Zhenjiang.Jiangsu.China) Jiangsu Shenli Electron & Tools Co.,Ltd. (Адрес: Houxiang industrial zone.Danyang.Jiangsu.China) Zhejiang Dongya Facility Co.,Ltd. (Адрес: Econoic Development Zone,Yueqing,ZheJiang.325600,China) Yilong Industrial Co.,Ltd (Адрес: Hangzhou.Zhejiang.China) Jinli cutting tools Co.,Ltd (Адрес: Lishui.Zhejiang.China) Shanghai Jollydone Display Rack Ind Co.,LTD (Адрес: No.9, Linpu Rd, Shanghai,China) Ningbo Hailian Electric ",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638010,
+        "annex": true,
+        "fullName": "Изготовитель:",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638011,
+        "annex": true,
+        "fullName": "«DWT Swiss AG»",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638012,
+        "annex": true,
+        "fullName": "Филиалы:",
+        "shortName": null,
+        "addresses": []
+      },
+      {
+        "idTransnational": 638013,
+        "annex": true,
+        "fullName": "Jiangsu Youhc Tool Manufacturer Co.,Ltd. (Адрес: Lian-wang Wu Road Danyang,Jiangsu, China) Jiangsu Feida Tools Co., Ltd. (Адрес: Houxiang Feida industrial zone, Danyang, Jiangsu, China) Zhejiang Wanli Diamond Tool Co.,Ltd. (Адрес: Gaoxin Zone, Hangzhou, Zhejiang, China) China Fangda Holding Co.,Ltd. (Адрес: Furong Fangda Industrial Zone, Yueqing, Zhejiang, China) Beilun Futuo Mechanical Tool Co.,Ltd. (Адрес: 88 Moju Road Daqi Industrial Zone, Beilun, Ningbo Zhejiang, China) Ningbo Shenli Tools ",
+        "shortName": null,
+        "addresses": []
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1005705,
+    "fullName": "ООО \"Проксима\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ88",
+    "attestatRegDate": null,
+    "attestatEndDate": null,
+    "idRal": 17491,
+    "ogrn": "1117746508450",
+    "idPerson": 4013506,
+    "firstName": "Л.",
+    "surname": "Сумцов",
+    "patronymic": "Л.",
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4755904,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "115682",
+        "fullAddress": "115682, РФ, г. Москва, ул. Шипиловская, д. 64, корп. 1, оф. 147, тел. (495) 626-24-62, факс (495) 626-24-62, E-mail os.proksima@mail.ru",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1005710,
+    "idProductOrigin": "756",
+    "fullName": "Машины ручные и переносные электрические: угловая шлифовальная машина, мод. WS22-230T, WS 22-180D",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": null,
+    "identifications": [
+      {
+        "idIdentification": 1523814,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Сертификат соответствия системы менеджмента качества,требованиям ISO 9001:2008 № СН-183639 от 08.05.2010 г., IQNet.",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1105981,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1019902,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": "Технический регламент о безопасности машин и оборудования (Постановление Правительства РФ от 15.09.2009 N 753 с изменениями, утвержденными постановлением Правительства РФ от 24.03.2011 N 205);",
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 995861,
+      "idPerson": 4013505,
+      "idEmployee": null,
+      "firstName": null,
+      "surname": "В.Н. Волков",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1494686,
+      "idStatus": 1,
+      "beginDate": "2012-10-16T00:00:00",
+      "endDate": "2015-10-15T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:29:46.08",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1494687,
+      "idStatus": 1,
+      "beginDate": "2015-10-15T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:29:46.08",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1035242,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "aecef6c5-e098-0ad5-4425-7a980053b2ad",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

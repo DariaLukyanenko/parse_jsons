@@ -1,0 +1,469 @@
+{
+  "idCertificate": 1009121,
+  "idTechnicalReglaments": [
+    17
+  ],
+  "idCertScheme": 3,
+  "idObjectCertType": 2,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 6,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-CN.АГ03.А.08949",
+  "certRegDate": "2014-11-13",
+  "certEndDate": null,
+  "idBlank": 233092,
+  "blankNumber": "0233092",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 244752,
+      "idType": 3,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 158468,
+          "blankNumber": "0158468"
+        },
+        {
+          "idBlank": 158469,
+          "blankNumber": "0158469"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2024986,
+    "idEgrul": null,
+    "idApplicantType": 3,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью «Славная игрушка»",
+    "shortName": null,
+    "idPerson": 4040739,
+    "surname": "Копчук",
+    "firstName": "Т.",
+    "patronymic": "А.",
+    "headPosition": null,
+    "ogrn": "1122651013660",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1011461,
+        "idContactType": 1,
+        "value": "+78793317420"
+      },
+      {
+        "idContact": 1011462,
+        "idContactType": 3,
+        "value": "+78793317420"
+      },
+      {
+        "idContact": 1011463,
+        "idContactType": 4,
+        "value": "oleg_slava@rambler.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4783720,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "327a060b-878c-4fb4-8dc4-d5595871a3d8",
+        "idDistrict": "327a060b-878c-4fb4-8dc4-d5595871a3d8",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, Ставропольский Край, 357500, Ставропольский Край, город Пятигорск, проспект Кирова, дом 27А",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4783721,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "327a060b-878c-4fb4-8dc4-d5595871a3d8",
+        "idDistrict": "327a060b-878c-4fb4-8dc4-d5595871a3d8",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "РОССИЯ, Ставропольский Край, 357500, Ставропольский Край, город Пятигорск, проспект Кирова, дом 27А",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2024987,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"SHENZHEN QINZHENGYUAN TRADING CO., LTD\"",
+    "shortName": null,
+    "idPerson": 4040740,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4783722,
+        "idAddrType": 1,
+        "idCodeOksm": "156",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "КИТАЙ, ROOM 500, 2/F., CHOUZHOU NORTH ROAD, YW. ZHEJIANG",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1012531,
+    "fullName": "Орган по сертификации продукции Общества с ограниченной ответственностью \"Альсена\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АГ03",
+    "attestatRegDate": "2014-07-17",
+    "attestatEndDate": null,
+    "idRal": 27579,
+    "ogrn": null,
+    "idPerson": 4040742,
+    "firstName": null,
+    "surname": "Федоров Роман Юрьевич (заместитель - Зайкова Е.В.)",
+    "patronymic": null,
+    "contacts": [
+      {
+        "idContact": 646876,
+        "idContactType": 1,
+        "value": "+74997068036"
+      },
+      {
+        "idContact": 646877,
+        "idContactType": 4,
+        "value": "alsena@inbox.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4783723,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "129626",
+        "fullAddress": "129626, Москва, 3-я Мытищинская ул., 3, стр. 1, оф. 405",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4783724,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "105082",
+        "fullAddress": "105082, г. Москва, Рубцовская наб., д. 3, стр. 2, офис 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1012536,
+    "idProductOrigin": "156",
+    "fullName": "Игрушки, изображающие животных, сказочных персонажей и других существ, из пластмассы с элементами из металла, текстильных материалов,",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "с маркировкой \"SHENZHEN QINZHENGYUAN TRADING CO., LTD\": ассортимент продукции согласно приложению бланк № 0158468, № 0158469",
+    "identifications": [
+      {
+        "idIdentification": 1534140,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          77241
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1113094,
+            "name": "Директивой № 2009/48/ЕС Европейского парламента и Совета Европейского Союза «О безопасности игрушек»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1534141,
+        "annex": true,
+        "name": "Игрушки, изображающие животных, сказочных персонажей и других существ, из пластмассы с элементами из металла, текстильных материалов, в том числе в наборах и с аксессуарами,\nс маркировкой \"SHENZHEN QINZHENGYUAN TRADING CO., LTD\": без механизмов: «лошадь» артикулы 2549 - 384 штуки, 2541 - 288 штук, 2538 - 360 штук, 328-2 - 360 штук, 325-2 - 1440 штук; «лошадь по 2 штуки» артикулы 2542 - 288 наборов, 325A - 960 наборов, 006-05 - 384 набора, 150-3 - 588 наборов; «лошадь по 3 штуки» артикулы 2543 - 288 наборов, 2540 - 360 наборов, 325B - 960 наборов; «робот-трансформер» артикулы 3-7 - 480 штук, 3-1 - 80 штук, 3-2 - 80 штук, 3-12 - 144 штуки, 3-3 - 360 штук, 3-13 - 120 штук, 9-85 - 384 штуки, 8-16 - 168 штук, 9-12 - 192 штуки, 5-25 - 480 штук, 4064-1 - 120 штук, 4070 - 60 штук, 4081 - 112 штук, 4082 - 36 штук, 2955A - 72 штуки, 2955B - 36 штук, 2977A - 72 штуки, 2977B - 132 штуки, E07489 - 64 штуки, E07490 - 128 штук, E07493 - 48 штук, E07494 -128 штук, E07497 - 192 штуки, E07498 - 192 штуки, 187A/B/C/D - 360 штук; «робот-трансформер по 2 штуки» артикулы 68803 - 96 наборов, 28801 - 192 набора; «робот-трансформер по 8 штук» артикул E07763 - 144 набора; «робот-трансформер по 6 штук» артикул E07767 - 220 наборов; «робот-трансформер по 4 штуки» артикул E07768 - 80 наборов; «робот» артикул 2013 - 864 штуки; «животные по 6 штук» артикулы A585 - 720 наборов, H636 - 576 наборов; «животные по 12 штук» артикул H638 - 360 наборов; «животные по 4 штуки» артикул F830 - 192 набора; «динозавр по 14 штук» артикул F285-1/4 - 480 наборов; «динозавр по 12 штук» артикул F282 - 480 наборов; «динозавр по 6 штук» артикул F283 - 576 наборов; «насекомые по 6 штук» артикул F825 - 192 набора; «насекомые по 10 штук» артикул F828 - 192 набора; «слон-каталка» артикул 131B - 108 штук; «супергерой» артикул 4444 - 2304 штуки; «паук» артикул C12375 - 2400 штук;",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          77241
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1113095,
+            "name": "Директива № 2009/48/ЕС Европейского парламента и Совета Европейского Союза «О безопасности игрушек»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1534142,
+        "annex": true,
+        "name": "электромеханические (с питанием от химического источника тока), в том числе на радиоуправлении:\n«робот-трансформер» артикулы 9-13 - 108 штук, 8-12 - 144 штуки, 2966A - 50 штук, 2966B - 50 штук; «робот» артикулы 28112A - 360 штук, 9631 - 48 штук, 9632 - 96 штук, 9366 - 120 штук, 0918 - 240 штук; «робот по 2 штуки» артикул 9838-5A - 60 наборов; «ежик» артикулы 0913 - 216 штук, 0913 - 288 штук; «божья коровка» артикул 0910 - 216 штук; «динозавр» артикул 0911 - 216 штук; «бегемот» артикул 9176 - 120 штук; «утята по 3 штуки» артикул 4422 - 108 наборов; «утенок» артикул 7497 - 360 штук; «пингвин» артикул 7498 - 360 штук; «утка по 3 штуки» артикул 4422 - 324 набора; «супергерой» артикул 7947 - 1200 штук; «собака» артикулы 9599 - 120 штук, 7441 - 360 штук; «жук» артикулы 0910 - 144 штуки, 0813-6 - 192 штуки; «пчела» артикул 0912 - 144 штуки; «сова» артикул 3322 - 192 штуки;\nмеханические:\n«животное» артикул 9380 - 48 штук; «животное-каталка» артикул 1269 - 360 штук; «рыба –каталка» артикул 268-G10 - 540 штук.",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          77241
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1113096,
+            "name": "Директива № 2009/48/ЕС Европейского парламента и Совета Европейского Союза «О безопасности игрушек»",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 1002619,
+      "idPerson": 4040741,
+      "idEmployee": null,
+      "firstName": "Светлана",
+      "surname": "Лоскутова",
+      "patronimyc": "Борисовна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1503747,
+      "idStatus": 6,
+      "beginDate": "2014-11-18T11:11:01",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:38:27.08",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1042077,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "6606da7d-93c7-469f-89b9-06fef0aad3c5",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

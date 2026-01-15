@@ -1,0 +1,411 @@
+{
+  "idCertificate": 101150,
+  "idTechnicalReglaments": [
+    56
+  ],
+  "idCertScheme": 54,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-LT.АБ09.В.00326",
+  "certRegDate": "2018-01-30",
+  "certEndDate": "2021-03-30",
+  "idBlank": 3858,
+  "blankNumber": "0003858",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 54235,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 3877,
+          "blankNumber": "0003877"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 209125,
+    "idEgrul": null,
+    "idApplicantType": 2,
+    "idLegalSubjectType": 1,
+    "fullName": "ООО «СНОЛ-ТЕРМ»",
+    "shortName": null,
+    "idPerson": 420722,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1026900585667",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 252879,
+        "idContactType": 1,
+        "value": "+74822399504"
+      },
+      {
+        "idContact": 252880,
+        "idContactType": 3,
+        "value": "+74822399579"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 641919,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "170024",
+        "fullAddress": "170024, РОССИЯ, Тверская обл., Калининский район, г. Тверь, проспект 50 лет Октября, д. 3Б, комната 408",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 209126,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "Umega Group, AB.",
+    "shortName": null,
+    "idPerson": 420723,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 252881,
+        "idContactType": 1,
+        "value": "+37038954586"
+      },
+      {
+        "idContact": 252882,
+        "idContactType": 3,
+        "value": "+37038961223"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 641920,
+        "idAddrType": 1,
+        "idCodeOksm": "440",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ЛИТВА, Литовская республика, г. Утена, ул. Метало 5, LT-28216",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 104554,
+    "fullName": "ОРГАН ПО СЕРТИФИКАЦИИ ПРОДУКЦИИ ОБЩЕСТВА С ОГРАНИЧЕННОЙ\nОТВЕТСТВЕННОСТЬЮ \"ЮЖНЫЙ\nРЕГИСТР-ЦЕНТР ЭКСПЕРТИЗЫ\nПРОТИВОПОЖАРНОЙ БЕЗОПАСНОСТИ\nВ СТРОИТЕЛЬСТВЕ\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АБ09",
+    "attestatRegDate": "2015-10-15",
+    "attestatEndDate": null,
+    "idRal": 5785,
+    "ogrn": "1156196037260",
+    "idPerson": 420725,
+    "firstName": "ОЛЬГА",
+    "surname": "КАРПОВА",
+    "patronymic": "ЕВГЕНЬЕВНА",
+    "contacts": [
+      {
+        "idContact": 194325,
+        "idContactType": 4,
+        "value": "info@testflame.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 641921,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "f10763dc-63e3-48db-83e1-9c566fe3092b",
+        "idDistrict": "f10763dc-63e3-48db-83e1-9c566fe3092b",
+        "idCity": "c1cfe4b9-f7c2-423c-abfa-6ed1c05a15c5",
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "1",
+        "postCode": "344002",
+        "fullAddress": "344002, РОССИЯ, Ростовская область, Ростов-на-Дону, ул. Станиславского, 110, Б, 1А",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 641922,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "f10763dc-63e3-48db-83e1-9c566fe3092b",
+        "idDistrict": "f10763dc-63e3-48db-83e1-9c566fe3092b",
+        "idCity": "c1cfe4b9-f7c2-423c-abfa-6ed1c05a15c5",
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "1",
+        "postCode": "344002",
+        "fullAddress": "344002, РОССИЯ, Ростовская область, Ростов-на-Дону, ул. Станиславского, 110, Б, 1А",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 104552,
+    "idProductOrigin": "440",
+    "fullName": "Термоизоляционный материал из муллитокремнеземистого поликристаллического минерального волокна (плотность 220-300 кг/м3), артикулы: КТМ 3-1/1260, КТМ 3-3/1260, КТМ 3-2-3/1260, КТМ 3-2-1/1260, КТМ 3-3-1/1260, КТМ 3-3-3/1260, КТМ 3-1/1430, КТМ 3-3/1430, КТМ 3-3-1/1430, КТМ 3-3-3/1430.  ",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "артикулы: КТМ 3-1/1260, КТМ 3-3/1260, КТМ 3-2-3/1260, КТМ 3-2-1/1260, КТМ 3-3-1/1260, КТМ 3-3-3/1260, КТМ 3-1/1430, КТМ 3-3/1430, КТМ 3-3-1/1430, КТМ 3-3-3/1430",
+    "identifications": [
+      {
+        "idIdentification": 187682,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [
+          7856
+        ],
+        "idTnveds": [
+          69399
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "см. приложение на бланке &#8470;0003877",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117783,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 108103,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 107024,
+      "idPerson": 420724,
+      "idEmployee": null,
+      "firstName": "Карина",
+      "surname": "Нуйкова",
+      "patronimyc": "Николаевна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122938,
+      "idStatus": 6,
+      "beginDate": "2018-01-31T09:47:41",
+      "endDate": "2021-06-12T01:28:45.739",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T15:01:48.695",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5415656,
+      "idStatus": 1,
+      "beginDate": "2021-06-12T01:28:45.739",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2021-06-12T01:28:45.845",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 113587,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a7bad0b3-e311-4335-9a4f-0247d430fb03",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

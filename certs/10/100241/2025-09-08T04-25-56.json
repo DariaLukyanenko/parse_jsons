@@ -1,0 +1,578 @@
+{
+  "idCertificate": 100241,
+  "idTechnicalReglaments": [
+    11,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-CN.АЯ46.В.83240",
+  "certRegDate": "2017-12-12",
+  "certEndDate": "2022-12-11",
+  "idBlank": 591077,
+  "blankNumber": "0591077",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53739,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 431192,
+          "blankNumber": "0431192"
+        }
+      ]
+    },
+    {
+      "idAnnex": 53740,
+      "idType": 2,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 431191,
+          "blankNumber": "0431191"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 207307,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 3,
+    "fullName": "\"Haier Overseas Electric Appliances Corp. Ltd\" в лице уполномоченного изготовителем представителя: Общество с ограниченной ответственностью \"Хайер Электрикал Эпплаенсис РУС\" по договору поручения № б/н от 01.01.2016. ОГРН  1141650016540. Адрес: Россия, 423800, Республика Татарстан, г. Набережные Челны, Производственный проезд, д.45. Тел.: +7-(8552) 20-26-32, E-mail: info@haierrussia.ru.",
+    "shortName": null,
+    "idPerson": 417063,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250660,
+        "idContactType": 1,
+        "value": "+00864006999999"
+      },
+      {
+        "idContact": 250661,
+        "idContactType": 4,
+        "value": "9999@haier.com"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 635561,
+        "idAddrType": 1,
+        "idCodeOksm": "156",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "КИТАЙ, Room S401, Haier Brand building,Haier Industry park Hi-tech Zone, Laoshan District Qingdao",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 207308,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"Haier Overseas Electric Appliances Corp. Ltd\"",
+    "shortName": null,
+    "idPerson": 417064,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 635562,
+        "idAddrType": 1,
+        "idCodeOksm": "156",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "КИТАЙ, Room S401, Haier Brand building,Haier Industry park Hi-tech Zone, Laoshan District Qingdao",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [
+      {
+        "idTransnational": 147852,
+        "annex": true,
+        "fullName": "ООО «Ти Пи Ви Си-Ай-Эс»",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 635563,
+            "idAddrType": 1,
+            "idCodeOksm": "643",
+            "oksmShort": null,
+            "idSubject": "c2deb16a-0330-4f05-821f-1d09c93331e6",
+            "idDistrict": "c2deb16a-0330-4f05-821f-1d09c93331e6",
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "РОССИЯ, город Санкт-Петербург, 196626, пос. Шушары, Московское ш. 177, лит А",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 147853,
+        "annex": true,
+        "fullName": "\"CHUNGHSIN TECHNOLOGY GROUP CO.,LTD\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 635564,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, 618 GONGREN WEST ROAD, 318000, JIAOJIANG AREA,ZHEJIANG,CHINA",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      },
+      {
+        "idTransnational": 147854,
+        "annex": true,
+        "fullName": "\"SHENZHEN MTC CO., LTD.\"",
+        "shortName": null,
+        "addresses": [
+          {
+            "idAddress": 635565,
+            "idAddrType": 1,
+            "idCodeOksm": "156",
+            "oksmShort": null,
+            "idSubject": null,
+            "idDistrict": null,
+            "idCity": null,
+            "idLocality": null,
+            "idStreet": null,
+            "idHouse": null,
+            "flat": null,
+            "postCode": null,
+            "fullAddress": "КИТАЙ, MTC INDUSTRIAL PARK XIALILANG NANWAN STREET, LONGGANG DISTRICT SHENZHEN,CHINA",
+            "gln": null,
+            "foreignDistrict": null,
+            "foreignCity": null,
+            "foreignLocality": null,
+            "foreignStreet": null,
+            "foreignHouse": null,
+            "uniqueAddress": null,
+            "otherGln": null,
+            "glonass": null
+          }
+        ]
+      }
+    ],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103645,
+    "fullName": "Орган по сертификации \"РОСТЕСТ- Москва\" Акционерного общества \"Региональный орган по сертификации и тестированию\" ",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.10АЯ46",
+    "attestatRegDate": "2015-04-27",
+    "attestatEndDate": null,
+    "idRal": 8887,
+    "ogrn": null,
+    "idPerson": 417066,
+    "firstName": "Альмира",
+    "surname": "Грищенко",
+    "patronymic": "Ахтямовна",
+    "contacts": [
+      {
+        "idContact": 192548,
+        "idContactType": 1,
+        "value": "+74956682715"
+      },
+      {
+        "idContact": 192549,
+        "idContactType": 1,
+        "value": "+74991291911"
+      },
+      {
+        "idContact": 192550,
+        "idContactType": 4,
+        "value": "info@rostest.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 635566,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117418",
+        "fullAddress": "117418, Российская Федерация, г. Москва, Нахимовский проспект, д. 31",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 635567,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117418",
+        "fullAddress": "117418, РОССИЯ, город Москва, пр-кт. Нахимовский, д. 31",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103643,
+    "idProductOrigin": "156",
+    "fullName": "Телевизоры торговой марки \"HAIER\"",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "модели: LE28F1000T, LE32F1000T, LE39F1000T, LE43F1000TU, LE48U5000TF, LE22M600F, LE24B8000T, LE32B8000T, LE42B8000TF, LE32B8500T, LE40U5000TF, LE39B8550T, LE24K6000S, LE32K6000S, LE40K6000SF, LE43K6000SF, LE50K6000SF, LE22K6000TF.",
+    "identifications": [
+      {
+        "idIdentification": 185798,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          74658
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Условия хранения и срок службы продукции указаны в сопроводительной документации. Предприятия-изготовители (см. Приложение - бланк &#8470; 0431191). Обозначение и наименование стандартов (см. Приложение - бланк &#8470; 0431192).",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116754,
+            "name": "Директива 2014/35/EU ЕВРОПЕЙСКОГО ПАРЛАМЕНТА И СОВЕТА  от 26 февраля 2014 г. «О гармонизации законодательств государств-членов в области размещения на рынке электрооборудования, предназначенного для использования в определенных пределах напряжения»; ДИРЕКТИВА 2014/30/ЕU ЕВРОПЕЙСКОГО ПАРЛАМЕНТА И СОВЕТА от 26 февраля 2014 г. «О гармонизации законодательств государств-членов ЕС в области электромагнитной совместимости». ТУ 6581-006-65537886-2016 \"ТЕЛЕВИЗОРЫ ЦВЕТНОГО ИЗОБРАЖЕНИЯ ЖИДКОКРИСТАЛЛИЧЕСКИЕ\".",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 106984,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 62368-1-2014\n",
+            "name": "Аудио-,   видео-   аппаратура,   оборудование   информационных технологий и техники связи. Часть 1. Требования безопасности\n",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106983,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 62311-2013\n",
+            "name": "Оценка электронного и\tэлектрического оборудования\nв отношении ограничений воздействия на человека\nэлектромагнитных полей (0 Гц – 300 ГГц)\t\t\n",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 106982,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ Р 51318.20-2012\n(СИСПР 20:2006)\n",
+            "name": "Совместимость технических средств электромагнитная. Приемники звукового и телевизионного вещания и связанное с ними оборудование. Характеристики помехоустойчивости. Нормы и методы измерений",
+            "section": null,
+            "addlInfo": "раздел 4 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106981,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30805.13-2013\n(CISPR 13:2006)\n\n",
+            "name": "Совместимость технических средств электромагнитная. Радиовещательные приемники, телевизоры и другая бытовая радиоэлектронная аппаратура. Радиопомехи индустриальные. Нормы и методы измерений",
+            "section": null,
+            "addlInfo": "раздел 4 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106980,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.3-2013\n(IEC 61000-3-3:2008)\n",
+            "name": "Совместимость технических средств электромагнитная. Ограничение изменений напряжения, колебаний напряжения и фликера в низковольтных системах электроснабжения общего назначения. Технические средства с потребляемым током не более 16 А (в одной фазе),подключаемые к электрической сети при несоблюдении определенных условий подключения. Нормы и методы испытаний",
+            "section": null,
+            "addlInfo": "раздел 5 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106979,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 30804.3.2-2013\n(IEC 61000-3-2:2009)",
+            "name": "Совместимость технических средств электромагнитная. \nЭмиссия гармонических составляющих тока техническими средствами с потребляемым током не более 16 А (в одной фазе). Нормы и методы испытаний ",
+            "section": null,
+            "addlInfo": "разделы 5 и 7 ",
+            "idStatus": null
+          },
+          {
+            "idStandard": 106978,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106092,
+      "idPerson": 417065,
+      "idEmployee": null,
+      "firstName": "Ольга",
+      "surname": "Круглова",
+      "patronimyc": "Николаевна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121872,
+      "idStatus": 6,
+      "beginDate": "2017-12-12T11:14:58",
+      "endDate": "2021-06-30T15:17:15",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:54:20.516",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5446824,
+      "idStatus": 14,
+      "beginDate": "2021-06-30T15:17:15",
+      "endDate": null,
+      "comment": "письмо заявителя",
+      "idBasis": 2,
+      "docNumber": "83240",
+      "publicated": true,
+      "publishDate": "2021-06-30T12:17:40.521",
+      "lkType": "dict.orgtypes.os",
+      "idMrpa": null,
+      "docName": "Решение об отмене действия сертификата",
+      "docDate": "2021-06-30",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": "681def25-07d3-4240-8ce3-1ef826e143ac"
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112473,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "609324e8-59bd-498b-a3d3-050eb6ed4c0d",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

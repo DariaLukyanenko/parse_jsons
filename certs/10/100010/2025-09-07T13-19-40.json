@@ -1,0 +1,429 @@
+{
+  "idCertificate": 100010,
+  "idTechnicalReglaments": [
+    5
+  ],
+  "idCertScheme": 4,
+  "idObjectCertType": 1,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-RU.АБ26.А.00006",
+  "certRegDate": "2016-09-30",
+  "certEndDate": "2021-09-29",
+  "idBlank": 156422,
+  "blankNumber": "0156422",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53561,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 113958,
+          "blankNumber": "0113958"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 206845,
+    "idEgrul": null,
+    "idApplicantType": 4,
+    "idLegalSubjectType": 1,
+    "fullName": "Закрытое акционерное общество “Трест Севзапэнергомонтаж”",
+    "shortName": null,
+    "idPerson": 416136,
+    "surname": "Привалов",
+    "firstName": "Владимир",
+    "patronymic": "Николаевич",
+    "headPosition": null,
+    "ogrn": "1027809226752",
+    "ogrnAssignDate": null,
+    "inn": "7815012466",
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250081,
+        "idContactType": 1,
+        "value": "+78122748848"
+      },
+      {
+        "idContact": 250082,
+        "idContactType": 3,
+        "value": "+78122746462"
+      },
+      {
+        "idContact": 250083,
+        "idContactType": 4,
+        "value": "mail@trestszem.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 633474,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "c2deb16a-0330-4f05-821f-1d09c93331e6",
+        "idDistrict": "c2deb16a-0330-4f05-821f-1d09c93331e6",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "191036",
+        "fullAddress": "191036, Россия, г Санкт-Петербург, улица 6-я Советская, дом 21/2",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 206846,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "Закрытое акционерное общество “Трест Севзапэнергомонтаж”",
+    "shortName": null,
+    "idPerson": 416137,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1027809226752",
+    "ogrnAssignDate": null,
+    "inn": "7815012466",
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 250084,
+        "idContactType": 1,
+        "value": "+78122748848"
+      },
+      {
+        "idContact": 250085,
+        "idContactType": 3,
+        "value": "+78122746462"
+      },
+      {
+        "idContact": 250086,
+        "idContactType": 4,
+        "value": "mail@trestszem.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 633475,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "c2deb16a-0330-4f05-821f-1d09c93331e6",
+        "idDistrict": "c2deb16a-0330-4f05-821f-1d09c93331e6",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "191036",
+        "fullAddress": "191036, Россия, г Санкт-Петербург, улица 6-я Советская, дом 21/2",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 103414,
+    "fullName": "Орган по сертификации Общества с ограниченной ответственностью \"Северо-Западный Аттестационный Научно-Технический Центр Энергомонтаж\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АБ26",
+    "attestatRegDate": "2015-12-28",
+    "attestatEndDate": null,
+    "idRal": 14260,
+    "ogrn": null,
+    "idPerson": 416139,
+    "firstName": "С.",
+    "surname": "Нечаев",
+    "patronymic": "В.",
+    "contacts": [
+      {
+        "idContact": 192068,
+        "idContactType": 1,
+        "value": "+78122748847"
+      },
+      {
+        "idContact": 192069,
+        "idContactType": 1,
+        "value": "+78122746264"
+      },
+      {
+        "idContact": 192070,
+        "idContactType": 4,
+        "value": "mail@antcszem.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 633476,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "191024, РОССИЯ, город Санкт-Петербург, ул. 4-я Советская, дом 38, литер А",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 633477,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "c2deb16a-0330-4f05-821f-1d09c93331e6",
+        "idDistrict": "c2deb16a-0330-4f05-821f-1d09c93331e6",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "196642",
+        "fullAddress": "196642, РОССИЯ, город Санкт-Петербург, поселок Петро-Славянка, территория Южная ТЭЦ, Цех СЗЭМ, литер АФ",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 103412,
+    "idProductOrigin": "643",
+    "fullName": "Трубопровод горячего промперегрева в пределах котла ПГУ-410Т НС ТЭЦ в городе Салават (Республика Башкортостан)",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "Рабочая среда группы 2 по ТРТС 032/2013. Категория оборудования 4 по приложению №1 ТРТС 032/2013.",
+    "identifications": [
+      {
+        "idIdentification": 185388,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          71907
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 116506,
+            "name": "Проектная и рабочая документация на строительство ПГУ-410Т (город Салават): NS-10UMD-LBB-ТМ-11, NS-10UMD-###-TM-12-65-005, NS-10UMD-###-TM-13-65-006, NS-10UMD-###-TM-13-65-007, NS-10UMD-###-TM-12-65-004.",
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 106619,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 105858,
+      "idPerson": 416138,
+      "idEmployee": null,
+      "firstName": "Владимир",
+      "surname": "Алексеев",
+      "patronimyc": "Станиславович"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 121588,
+      "idStatus": 6,
+      "beginDate": "2016-09-30T10:26:57",
+      "endDate": "2021-09-30T01:13:27.47",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:53:37.353",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 5523315,
+      "idStatus": 1,
+      "beginDate": "2021-09-30T01:13:27.47",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2021-09-30T01:13:27.565",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 112179,
+      "annex": false,
+      "idRal": 16567,
+      "regNumber": "RA.RU.21АЖ37",
+      "fullName": "Лаборатория неразрушающего контроля и технической диагностики  Общества с ограниченной ответственностью «Северо-Западный аттестационный научно-технический центр «Энергомонтаж» ",
+      "beginDate": "2016-01-25",
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a5731243-f58e-4ca6-a5a9-a0e8392ac7c5",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

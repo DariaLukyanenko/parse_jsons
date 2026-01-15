@@ -1,0 +1,421 @@
+{
+  "idCertificate": 101104,
+  "idTechnicalReglaments": [
+    39
+  ],
+  "idCertScheme": 3,
+  "idObjectCertType": 2,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-IT.АБ37.А.02544",
+  "certRegDate": "2017-11-03",
+  "certEndDate": "2018-11-02",
+  "idBlank": 614659,
+  "blankNumber": "0614659",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 54208,
+      "idType": 5,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 426381,
+          "blankNumber": "0426381"
+        },
+        {
+          "idBlank": 426382,
+          "blankNumber": "0426382"
+        },
+        {
+          "idBlank": 426383,
+          "blankNumber": "0426383"
+        },
+        {
+          "idBlank": 426384,
+          "blankNumber": "0426384"
+        },
+        {
+          "idBlank": 426385,
+          "blankNumber": "0426385"
+        },
+        {
+          "idBlank": 426386,
+          "blankNumber": "0426386"
+        },
+        {
+          "idBlank": 426387,
+          "blankNumber": "0426387"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 209033,
+    "idEgrul": null,
+    "idApplicantType": 2,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью \"МАКСИМА ГРУПП\"",
+    "shortName": null,
+    "idPerson": 420538,
+    "surname": "Грималова",
+    "firstName": "Наталья",
+    "patronymic": "Владимировна",
+    "headPosition": null,
+    "ogrn": "1027739364443",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 252773,
+        "idContactType": 1,
+        "value": "+74952878604"
+      },
+      {
+        "idContact": 252774,
+        "idContactType": 4,
+        "value": "info@famil.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 641672,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "123022",
+        "fullAddress": "123022, РОССИЯ, Москва Город, улица Рочдельская, дом 15, строение 15, офис 4, Адрес места осуществления деятельности: 117105, Россия, город Москва, Варшавское шоссе, дом 9, строение 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 209034,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "\"TESSIVAL SRL\"",
+    "shortName": null,
+    "idPerson": 420539,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 641673,
+        "idAddrType": 1,
+        "idCodeOksm": "380",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "ИТАЛИЯ, VIA FOLZONI 7 24052 AZZANO SAN PAOLO (BERGAMO), Предприятия-изготовители согласно приложению (типографские номера бланков приложений: 0426381, 0426382, 0426383, 0426384, 0426385, 0426386, 0426387)",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 104508,
+    "fullName": "Общество с ограниченной ответственностью Орган по сертификации продукции \"АЛЬЯНС\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11АБ37",
+    "attestatRegDate": "2016-01-21",
+    "attestatEndDate": null,
+    "idRal": 4241,
+    "ogrn": null,
+    "idPerson": 420541,
+    "firstName": "Ксения",
+    "surname": "Никитина",
+    "patronymic": "Андреевна",
+    "contacts": [
+      {
+        "idContact": 194251,
+        "idContactType": 1,
+        "value": "+74959757917"
+      },
+      {
+        "idContact": 194252,
+        "idContactType": 4,
+        "value": "alyans-os@yandex.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 641674,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "5",
+        "postCode": "105064",
+        "fullAddress": "105064, РОССИЯ, город Москва, пер. Сусальный Ниж., д. 5, строен. 18, пом. 1, ком. 5",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 641675,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": "5",
+        "postCode": "107113",
+        "fullAddress": "107113, РОССИЯ, город Москва, пер. Сусальный Ниж., д. 5, строен. 18, пом. 1, ком. 5",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 104506,
+    "idProductOrigin": "380",
+    "fullName": "Изделия трикотажные второго слоя для детей до одного года (кроме новорожденных), ясельной, дошкольной, школьной и подростковой групп",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": ", артикулы и сырьевой состав согласно приложению (типографские номера бланков приложений: 0426381, 0426382, 0426383, 0426384, 0426385, 0426386, 0426387).",
+    "identifications": [
+      {
+        "idIdentification": 187628,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          68587,
+          68621,
+          68633,
+          68469,
+          68497,
+          68538
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Стандарты, обеспечивающие соблюдение требований Технического регламента Таможенного союза ТР ТС 007/2011 \"О безопасности продукции, предназначенной для детей и подростков\": ГОСТ 31409-2009 \"Изделия трикотажные верхние для женщин и девочек. Общие технические условия\", ГОСТ 31410-2009 \"Изделия трикотажные верхние для мужчин и мальчиков. Общие технические условия\". Условия хранения продукции до реализации потребителю: изделия должны храниться в складских помещениях при температуре не ниже 5 градусов и не выше 40 градусов Цельсия, относительной влажности воздуха 50-70% и быть защищены от прямого попадания солнечных лучей и атмосферных воздействий. Срок хранения, срок службы (годности) изготовителем не установлены.",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117734,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106978,
+      "idPerson": 420540,
+      "idEmployee": null,
+      "firstName": "Дарья",
+      "surname": "Мартынова",
+      "patronimyc": "Дмитриевна"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122888,
+      "idStatus": 6,
+      "beginDate": "2017-11-07T10:06:42",
+      "endDate": "2018-11-03T01:08:28.358",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T15:01:48.695",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 3381667,
+      "idStatus": 1,
+      "beginDate": "2018-11-03T01:08:28.358",
+      "endDate": null,
+      "comment": "Окончание срока действия сертификата",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-11-03T01:08:28.641",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 113541,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a74ff2fe-9682-4890-91e4-95f3591bdc41",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

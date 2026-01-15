@@ -1,0 +1,487 @@
+{
+  "idCertificate": 100615,
+  "idTechnicalReglaments": [
+    12
+  ],
+  "idCertScheme": 4,
+  "idObjectCertType": 1,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 6,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-DE.МЕ92.А.00574",
+  "certRegDate": "2015-12-01",
+  "certEndDate": null,
+  "idBlank": 254684,
+  "blankNumber": "0254684",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 53966,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 246083,
+          "blankNumber": "0246083"
+        }
+      ]
+    },
+    {
+      "idAnnex": 53967,
+      "idType": 5,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 246084,
+          "blankNumber": "0246084"
+        },
+        {
+          "idBlank": 246085,
+          "blankNumber": "0246085"
+        },
+        {
+          "idBlank": 246086,
+          "blankNumber": "0246086"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 208055,
+    "idEgrul": null,
+    "idApplicantType": 1,
+    "idLegalSubjectType": 1,
+    "fullName": "Общество с ограниченной ответственностью «Линкольн Рус» (ООО «Линкольн Рус»)",
+    "shortName": null,
+    "idPerson": 418571,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1057747975449",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": 12,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 251589,
+        "idContactType": 1,
+        "value": "+74955101824"
+      },
+      {
+        "idContact": 251590,
+        "idContactType": 3,
+        "value": "+74956908734"
+      },
+      {
+        "idContact": 251591,
+        "idContactType": 4,
+        "value": "sales@linkolndustrial.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 639090,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "123317",
+        "fullAddress": "123317, РОССИЯ, город Москва, набережная Пресненская, дом 10",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 639091,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "125009",
+        "fullAddress": "125009, РОССИЯ, город Москва, улица Тверская, дом 16, строение 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 208056,
+    "idEgrul": null,
+    "idLegalSubjectType": 3,
+    "fullName": "SKF Lubrication Systems Germany GmbH",
+    "shortName": null,
+    "idPerson": 418572,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 639092,
+        "idAddrType": 1,
+        "idCodeOksm": "276",
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "D-687",
+        "fullAddress": "D-68766, ГЕРМАНИЯ, 2. Industriestrasse, 4",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 104019,
+    "fullName": "Орган по сертификации взрывозащищенного и рудничного оборудования \"Сертиум\" Фонда \"Межотраслевой орган сертификации \"Сертиум\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "RA.RU.11МЕ92",
+    "attestatRegDate": "2015-06-01",
+    "attestatEndDate": null,
+    "idRal": 18565,
+    "ogrn": null,
+    "idPerson": 418574,
+    "firstName": "Алексей",
+    "surname": "Шатило",
+    "patronymic": "Николаевич",
+    "contacts": [
+      {
+        "idContact": 193413,
+        "idContactType": 1,
+        "value": "+74955547027"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 639093,
+        "idAddrType": 3,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idDistrict": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "140004",
+        "fullAddress": "140004,Московская обл., г. Люберцы, ул. Электрификации, 26",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 639094,
+        "idAddrType": 1,
+        "idCodeOksm": "643",
+        "oksmShort": null,
+        "idSubject": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idDistrict": "0c5b2444-70a0-4932-980c-b4dc0d3f02b5",
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "117910",
+        "fullAddress": "117910, РОССИЯ, город Москва, пр-кт. Ленинский, д. 29",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 104017,
+    "idProductOrigin": "276",
+    "fullName": "Устройство для смазки компрессора JM 06-95/70-CS",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "выпускаемое по технической документации изготовителя",
+    "identifications": [
+      {
+        "idIdentification": 186526,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [
+          72224
+        ],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 117155,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 107586,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": null,
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107592,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 31441.8-2011 (EN 13463-8:2003)",
+            "name": "Оборудование неэлектрическое, предназначенное для применения в потенциально взрывоопасных средах. Часть 8. Защита жидкостным погружением \"k\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107591,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 31441.5-2011 (EN 13463-5:2003)",
+            "name": "Оборудование неэлектрическое, предназначенное для применения в потенциально взрывоопасных средах. Часть 5. Защита конструкционной безопасностью «с».",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107590,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 31441.1-2011 (EN 13463-1:2001)",
+            "name": "Оборудование неэлектрическое, предназначенное для применения в потенциально взрывоопасных средах. Часть 1, Общие требования.",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107589,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 31610.7-2012/IEC 60079-7:2006",
+            "name": "Электрооборудование для взрывоопасных газовых сред. Часть 7. Повышенная защита вида \"e\"",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107588,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ IEC 60079-1-2011",
+            "name": "Взрывоопасные среды. Часть 1. Оборудование с видом взрывозащиты «взрывонепроницаемые оболочки “d”»",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          },
+          {
+            "idStandard": 107587,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ Р МЭК 60079-0-2011",
+            "name": "Взрывоопасные среды. Часть 0. Оборудование. Общие требования",
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 106478,
+      "idPerson": 418573,
+      "idEmployee": null,
+      "firstName": "Роман",
+      "surname": "Евстратов",
+      "patronimyc": "Владимирович"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 122333,
+      "idStatus": 6,
+      "beginDate": "2015-12-01T14:27:05",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-06T14:56:18.819",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 113034,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "a342570e-402c-4b85-a375-ab1373addc78",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

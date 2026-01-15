@@ -1,0 +1,445 @@
+{
+  "idCertificate": 1004631,
+  "idTechnicalReglaments": [
+    11,
+    16,
+    24
+  ],
+  "idCertScheme": 1,
+  "idObjectCertType": 3,
+  "idCertType": 1,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 14,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "ТС RU С-DE.АЕ44.В.00314",
+  "certRegDate": "2013-04-29",
+  "certEndDate": "2018-04-28",
+  "idBlank": 1935,
+  "blankNumber": "0001935",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 244025,
+      "idType": 3,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 1018,
+          "blankNumber": "0001018"
+        }
+      ]
+    },
+    {
+      "idAnnex": 244026,
+      "idType": 5,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 1019,
+          "blankNumber": "0001019"
+        },
+        {
+          "idBlank": 1020,
+          "blankNumber": "0001020"
+        },
+        {
+          "idBlank": 1021,
+          "blankNumber": "0001021"
+        },
+        {
+          "idBlank": 1022,
+          "blankNumber": "0001022"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2016006,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": 1,
+    "fullName": "ООО \"Вайлант Груп Рус\"",
+    "shortName": null,
+    "idPerson": 4022824,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": "1067746833351",
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1008905,
+        "idContactType": 1,
+        "value": "+74957884544"
+      },
+      {
+        "idContact": 1008906,
+        "idContactType": 3,
+        "value": "+74957884565"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4765526,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Россия, 123423, г.Москва, ул.Народного Ополчения, д.34, стр.1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2016007,
+    "idEgrul": null,
+    "idLegalSubjectType": 1,
+    "fullName": "\"Vaillant GmbH\"",
+    "shortName": null,
+    "idPerson": 4022825,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [
+      {
+        "idContact": 1008907,
+        "idContactType": 1,
+        "value": "+492191182043"
+      },
+      {
+        "idContact": 1008908,
+        "idContactType": 3,
+        "value": "+4921911872043"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4765527,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Berghauser Straße, 40 - D-42859 - Remscheid, Germany, Германия.Производства: \"Vaillant GmbH\". Адрес: Emscherstrasse 62 – D- 45891 Gelsenkirchen – Germany, Германия; \"PROTHERM PRODUCTION s.r.o.\". Адрес: Jurkovicova 45, 909 01 Skalica, Slovac Republic, Словакия",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1008041,
+    "fullName": "Орган по сертификации промышленной продукции АНО \"Научно-технический центр стандартизации метрологии подтверждения соответствия (сертификации) \"Тест-С.-Петербург\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АЕ44",
+    "attestatRegDate": "2013-04-08",
+    "attestatEndDate": null,
+    "idRal": 24911,
+    "ogrn": null,
+    "idPerson": 4022827,
+    "firstName": "Светлана",
+    "surname": "Богданова",
+    "patronymic": "Николаевна",
+    "contacts": [
+      {
+        "idContact": 645072,
+        "idContactType": 4,
+        "value": "bogdanova@rustest.spb.ru"
+      }
+    ],
+    "addresses": [
+      {
+        "idAddress": 4765528,
+        "idAddrType": 3,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "190103",
+        "fullAddress": "190103,Санкт-Петербург, ул. Курляндская, 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      },
+      {
+        "idAddress": 4765529,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": "190103",
+        "fullAddress": "190103,Российская Федерация, г. Санкт-Петербург, ул. Курляндская, д. 1",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1008046,
+    "idProductOrigin": "276",
+    "fullName": "Котлы газовые отопительные водогрейные стальные до 100 кВт торговой марки \"VAILLANT\",",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": "типы atmo TEC plus, atmoTEC pro, turboTEC plus, turboTEC pro, ecoTEC plus, ecoCOMPACT, ecoVIT/4, ecoCRAFT/3, auroCOMPACT, в комплектации в соответствии с действующим Каталогом запасных частей, модели и принадлежностями - по ПРИЛОЖЕНИЮ ",
+    "identifications": [
+      {
+        "idIdentification": 1527377,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Уполномоченные изготовителем лица: ООО \"Вайлант Групп Рус\". Договор поставки VGL 08/1484 от 31.12.2008, дополнительное соглашение &#8470; 1 от 31.12.2009. Представительство в Республике Беларусь: \"Vaillant Gmb\", Адрес: 220108, Республика Беларусь, г.Минск, улица Казинца, дом 92, корпус 1",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1108470,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": []
+      },
+      {
+        "idIdentification": 1527378,
+        "annex": true,
+        "name": "Котлы газовые отопительные водогрейные стальные до 100 кВт торговой марки \"VAILLANT\" типы atmo TEC plus, atmoTEC pro, turboTEC plus, turboTEC pro, ecoTEC plus, ecoCOMPACT, ecoVIT/4, ecoCRAFT/3, auroCOMPACT, модели:",
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": null,
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [],
+        "standards": []
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 998174,
+      "idPerson": 4022826,
+      "idEmployee": null,
+      "firstName": "Станислав",
+      "surname": "Косарев",
+      "patronimyc": "Эрикович"
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1497803,
+      "idStatus": 14,
+      "beginDate": "2013-06-03T00:00:00",
+      "endDate": "2013-04-29T00:00:00",
+      "comment": "письмо Заявителя от 29.04.2013 г.",
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:32:12.694",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": "2013-06-03",
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1497804,
+      "idStatus": 14,
+      "beginDate": "2013-04-29T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:32:12.694",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1037584,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "2d0f6dc0-f594-4ac5-970c-98d8dbc0ed51",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}

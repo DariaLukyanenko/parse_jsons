@@ -1,0 +1,491 @@
+{
+  "idCertificate": 1002894,
+  "idTechnicalReglaments": [],
+  "idCertScheme": null,
+  "idObjectCertType": 3,
+  "idCertType": 11,
+  "isTs": false,
+  "idProductSingleLists": [],
+  "awaitForApprove": false,
+  "idStatus": 1,
+  "expiredInspectionControl": false,
+  "editApp": null,
+  "assignRegNumber": false,
+  "number": "С-AT.АЕ44.В.00282",
+  "certRegDate": "2011-05-13",
+  "certEndDate": "2016-05-12",
+  "idBlank": 711229,
+  "blankNumber": "0711229",
+  "noSanction": null,
+  "batchInspection": null,
+  "inspectionControlPlanDate": null,
+  "idSigner": null,
+  "idEmployee": null,
+  "firstName": null,
+  "surname": null,
+  "patronymic": null,
+  "annexes": [
+    {
+      "idAnnex": 243746,
+      "idType": 1,
+      "ord": 0,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 179923,
+          "blankNumber": "0179923"
+        }
+      ]
+    },
+    {
+      "idAnnex": 243747,
+      "idType": 5,
+      "ord": 1,
+      "pageCount": null,
+      "annexBlanks": [
+        {
+          "idBlank": 179905,
+          "blankNumber": "0179905"
+        },
+        {
+          "idBlank": 179913,
+          "blankNumber": "0179913"
+        },
+        {
+          "idBlank": 179903,
+          "blankNumber": "0179903"
+        },
+        {
+          "idBlank": 179904,
+          "blankNumber": "0179904"
+        },
+        {
+          "idBlank": 179908,
+          "blankNumber": "0179908"
+        },
+        {
+          "idBlank": 179921,
+          "blankNumber": "0179921"
+        },
+        {
+          "idBlank": 179911,
+          "blankNumber": "0179911"
+        },
+        {
+          "idBlank": 179922,
+          "blankNumber": "0179922"
+        },
+        {
+          "idBlank": 179920,
+          "blankNumber": "0179920"
+        },
+        {
+          "idBlank": 179918,
+          "blankNumber": "0179918"
+        },
+        {
+          "idBlank": 179907,
+          "blankNumber": "0179907"
+        },
+        {
+          "idBlank": 179915,
+          "blankNumber": "0179915"
+        },
+        {
+          "idBlank": 179909,
+          "blankNumber": "0179909"
+        },
+        {
+          "idBlank": 179916,
+          "blankNumber": "0179916"
+        },
+        {
+          "idBlank": 179917,
+          "blankNumber": "0179917"
+        },
+        {
+          "idBlank": 179919,
+          "blankNumber": "0179919"
+        },
+        {
+          "idBlank": 179912,
+          "blankNumber": "0179912"
+        },
+        {
+          "idBlank": 179910,
+          "blankNumber": "0179910"
+        },
+        {
+          "idBlank": 179914,
+          "blankNumber": "0179914"
+        },
+        {
+          "idBlank": 179906,
+          "blankNumber": "0179906"
+        }
+      ]
+    }
+  ],
+  "applicant": {
+    "idLegalSubject": 2012532,
+    "idEgrul": null,
+    "idApplicantType": null,
+    "idLegalSubjectType": null,
+    "fullName": "«FMW Industrieanlagenbau GmbH»;Kirchstetten 100, A-3062, Австрия",
+    "shortName": null,
+    "idPerson": 4015894,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4758370,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "applicantFilials": [],
+  "manufIsApplicant": false,
+  "manufacturer": {
+    "idLegalSubject": 2012533,
+    "idEgrul": null,
+    "idLegalSubjectType": null,
+    "fullName": "«FMW Industrieanlagenbau GmbH»;Kirchstetten 100, A-3062, Австрия",
+    "shortName": null,
+    "idPerson": 4015895,
+    "surname": null,
+    "firstName": null,
+    "patronymic": null,
+    "headPosition": null,
+    "ogrn": null,
+    "ogrnAssignDate": null,
+    "inn": null,
+    "kpp": null,
+    "idLegalForm": null,
+    "regDate": null,
+    "regOrganName": null,
+    "addlRegInfo": null,
+    "isEecRegister": null,
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4758371,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": null,
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "transnational": [],
+    "passportIssueDate": null,
+    "passportIssuedBy": null,
+    "passportNum": null,
+    "idPersonDoc": null
+  },
+  "manufacturerFilials": [],
+  "certificationAuthority": {
+    "idCertificationAuthority": 1006304,
+    "fullName": "ОРГАН ПО СЕРТИФИКАЦИИ ПРОМЫШЛЕННОЙ ПРОДУКЦИИ АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"НАУЧНО-ТЕХНИЧЕСКИЙ ЦЕНТР СТАНДАРТИЗАЦИИ МЕТРОЛОГИИ ПОДТВЕРЖДЕНИЯ СООТВЕТСТВИЯ (СЕРТИФИКАЦИИ) \"ТЕСТ-С.-ПЕТЕРБУРГ\"",
+    "accredOrgName": null,
+    "attestatRegNumber": "РОСС RU.0001.11АЕ44",
+    "attestatRegDate": null,
+    "attestatEndDate": null,
+    "idRal": 24911,
+    "ogrn": "1027810311869",
+    "idPerson": 4015897,
+    "firstName": "С.",
+    "surname": "Богданова",
+    "patronymic": "Н.",
+    "contacts": [],
+    "addresses": [
+      {
+        "idAddress": 4758372,
+        "idAddrType": 1,
+        "idCodeOksm": null,
+        "oksmShort": null,
+        "idSubject": null,
+        "idDistrict": null,
+        "idCity": null,
+        "idLocality": null,
+        "idStreet": null,
+        "idHouse": null,
+        "flat": null,
+        "postCode": null,
+        "fullAddress": "Российская Федерация, 190103, С-Петербург, ул. Курляндская, д.1, тел. (812) 5750098, факс (812) 5750098, http://www.spbtest.ru",
+        "gln": null,
+        "foreignDistrict": null,
+        "foreignCity": null,
+        "foreignLocality": null,
+        "foreignStreet": null,
+        "foreignHouse": null,
+        "uniqueAddress": null,
+        "otherGln": null,
+        "glonass": null
+      }
+    ],
+    "prevAttestatRegNumber": null,
+    "prevIdRal": null
+  },
+  "product": {
+    "idProduct": 1006309,
+    "idProductOrigin": "040",
+    "fullName": "Оборудование транспортирующее (для участков приема и складирования сырья, склада продукции и погрузки навалом) для комплекса по производству портландцемента и шлакопортландцемента в комплектации, по приложению № 0179903 - № 0179922 (20 листов).1 комплект. Договор подряда № 080/45-09 от 14.10.2009, приложение № 17 к договору подряда",
+    "marking": null,
+    "usageScope": null,
+    "storageCondition": null,
+    "usageCondition": null,
+    "batchSize": null,
+    "batchId": null,
+    "identification": null,
+    "identifications": [
+      {
+        "idIdentification": 1524721,
+        "annex": false,
+        "name": null,
+        "type": null,
+        "tradeMark": null,
+        "model": null,
+        "article": null,
+        "sort": null,
+        "idOkpds": [],
+        "idTnveds": [],
+        "gtin": [],
+        "lifeTime": null,
+        "storageTime": null,
+        "description": "Декларация на систему качества ISO 9001:2008 от 07.12.2010 до 24.08.2011,Декларация изготовителя от 24.01.2011,Место нанесения знака обращения на рынке: на сопроводительной технической документации",
+        "amount": null,
+        "idOkei": null,
+        "factoryNumber": null,
+        "productionDate": null,
+        "expiryDate": null,
+        "documents": [
+          {
+            "id": 1106627,
+            "name": null,
+            "number": null,
+            "date": null
+          }
+        ],
+        "standards": [
+          {
+            "idStandard": 1020485,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 12.1.003-83",
+            "name": "Система стандартов безопасности труда. Шум. Общие требования безопасности ",
+            "section": null,
+            "addlInfo": "Стандарт в целом",
+            "idStatus": null
+          },
+          {
+            "idStandard": 1020484,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 12.1.012-2004",
+            "name": "Система стандартов безопасности труда. Вибрационная безопасность. Общие требования ",
+            "section": null,
+            "addlInfo": "Стандарт в целом",
+            "idStatus": null
+          },
+          {
+            "idStandard": 1020483,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ Р МЭК 60204-1-2007",
+            "name": "Безопасность машин. Электрооборудование машин и механизмов. Часть 1. Общие требования ",
+            "section": null,
+            "addlInfo": "Стандарт в целом",
+            "idStatus": null
+          },
+          {
+            "idStandard": 1020482,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 12.2.003-91",
+            "name": "Система стандартов безопасности труда. Оборудование производственное. Общие требования безопасности ",
+            "section": null,
+            "addlInfo": "Стандарт в целом",
+            "idStatus": null
+          },
+          {
+            "idStandard": 1020481,
+            "annex": true,
+            "idDictStandard": null,
+            "designation": "ГОСТ 12.2.022-80",
+            "name": "Система стандартов безопасности труда. Конвейеры. Общие требования безопасности ",
+            "section": null,
+            "addlInfo": "Стандарт в целом",
+            "idStatus": null
+          },
+          {
+            "idStandard": 1020480,
+            "annex": false,
+            "idDictStandard": null,
+            "designation": "Технический регламент \"О безопасности машин и оборудования\" (Постановление Правительства Российской Федерации от 15 сентября 2009 № 753). См.приложение № 0179923;",
+            "name": null,
+            "section": null,
+            "addlInfo": null,
+            "idStatus": null
+          }
+        ]
+      }
+    ]
+  },
+  "experts": [
+    {
+      "idExpert": 996455,
+      "idPerson": 4015896,
+      "idEmployee": null,
+      "firstName": null,
+      "surname": "С.П.Рябов",
+      "patronimyc": null
+    }
+  ],
+  "statusChanges": [
+    {
+      "idChangeStatus": 1495490,
+      "idStatus": 1,
+      "beginDate": "2011-05-13T00:00:00",
+      "endDate": "2016-05-12T00:00:00",
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:30:18.888",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    },
+    {
+      "idChangeStatus": 1495491,
+      "idStatus": 1,
+      "beginDate": "2016-05-12T00:00:00",
+      "endDate": null,
+      "comment": null,
+      "idBasis": null,
+      "docNumber": null,
+      "publicated": true,
+      "publishDate": "2018-04-20T18:30:18.888",
+      "lkType": null,
+      "idMrpa": null,
+      "docName": null,
+      "docDate": null,
+      "idBasisSolutions": [],
+      "levelStateControl": null,
+      "typeStateControl": null,
+      "idOngoingEvent": null,
+      "idFileScan": null
+    }
+  ],
+  "testingLabs": [
+    {
+      "idTestingLab": 1035843,
+      "annex": false,
+      "idRal": null,
+      "regNumber": null,
+      "fullName": null,
+      "beginDate": null,
+      "endDate": null,
+      "basis": null,
+      "accredEec": false,
+      "idAccredPlace": null,
+      "importedForResearchTesting": null,
+      "docConfirmCustom": [],
+      "protocols": [],
+      "actNumber": null,
+      "actDate": null,
+      "actIdentificationNumber": null,
+      "actIdentificationDate": null
+    }
+  ],
+  "productGroups": [],
+  "documents": {
+    "productTypeResearchConclusion": null,
+    "productTypeCertificates": [],
+    "productDesignResearchConclusion": null,
+    "qmsCertificates": [],
+    "manufacturingConditionAnalysisActs": [],
+    "conformityAssessmentDocuments": [],
+    "reportsOnTypeApprovalUnderUNRegulation": [],
+    "protocolTestingTechnicalService": null,
+    "commonDocuments": {},
+    "samplingAct": null,
+    "productCertificationContract": null,
+    "applicationCertificationDecision": null,
+    "foreignManufacturerContract": null,
+    "rawMaterialCertificates": [],
+    "vehicleChassisTypeApprovals": [],
+    "applicantOtherDocuments": [],
+    "expertConclusion": null
+  },
+  "idFgisRaV1": "29dbbf61-81ba-9c9e-c325-788f002d32f6",
+  "changes": null,
+  "awaitOperatorCheck": false,
+  "productInfoOon106": null,
+  "productMatchOON106": null,
+  "idDeclarationChecker": null,
+  "idMrpa": null,
+  "showInOpenPart": true,
+  "idCertBasis": null,
+  "replacement": null,
+  "replacedBy": null
+}
