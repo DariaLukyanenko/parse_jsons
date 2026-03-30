@@ -7,7 +7,7 @@ from app.models_for_new_db_certs import TruncatedStringWithLog, AddressMixin, Co
 class Certificate_Certification_Authority(Base):
     __tablename__ = "certificate_certification_authority"
 
-    idCertificationAuthority = Column(Integer, nullable=False, primary_key=True)
+    idCertificationAuthority = Column(Integer, nullable=False)
     fullName = Column(TruncatedStringWithLog(255))
     accredOrgName = Column(TruncatedStringWithLog(255))
     attestatRegNumber = Column(TruncatedStringWithLog(255))

@@ -7,7 +7,7 @@ from app.models_for_new_db_certs import TruncatedStringWithLog
 class Certificate_Annex(Base):
     __tablename__ = 'certificate_annex'
 
-    idAnnex = Column(Integer, primary_key=True, autoincrement=True, nullable=False)
+    idAnnex = Column(Integer, nullable=False)
     idType = Column(Integer)
     ord = Column(Integer)
     pageCount = Column(Integer)
@@ -16,9 +16,9 @@ class Certificate_Annex(Base):
     blanks = relationship("Certificate_AnnexBlank", back_populates="annex")
 
 class Certificate_AnnexBlank(Base):
-    __tablename__ = 'certificate_annex_blank'
+    __tablename__ = 'certificate_annexblank'
 
-    idBlank = Column(Integer, primary_key=True, autoincrement=True, nullable=False)
+    idBlank = Column(Integer, nullable=False)
     blankNumber = Column(TruncatedStringWithLog(255))
     id_annexes = Column(Integer, ForeignKey("certificate_annex.id", ondelete="CASCADE"), nullable=False)
     annex = relationship("Certificate_Annex", back_populates="blanks")

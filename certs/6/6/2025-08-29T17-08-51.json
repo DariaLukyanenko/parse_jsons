@@ -17,7 +17,7 @@
   "certRegDate": "2016-06-23",
   "certEndDate": "2019-06-22",
   "idBlank": 26167,
-  "blankNumber": "0026167",
+  "blankNumber": "45656756756",
   "noSanction": null,
   "batchInspection": null,
   "inspectionControlPlanDate": null,
@@ -58,7 +58,7 @@
     "headPosition": null,
     "ogrn": null,
     "ogrnAssignDate": null,
-    "inn": "5001072705",
+    "inn": "54675674",
     "kpp": null,
     "idLegalForm": null,
     "regDate": null,
@@ -67,7 +67,7 @@
     "isEecRegister": null,
     "contacts": [
       {
-        "idContact": 13445,
+        "idContact": 345256,
         "idContactType": 1,
         "value": "+74955207288"
       },
@@ -84,7 +84,7 @@
     ],
     "addresses": [
       {
-        "idAddress": 21351,
+        "idAddress": 346463456,
         "idAddrType": 1,
         "idCodeOksm": null,
         "oksmShort": null,
@@ -129,7 +129,7 @@
     "headPosition": null,
     "ogrn": null,
     "ogrnAssignDate": null,
-    "inn": "5001072705",
+    "inn": "50056735673405",
     "kpp": null,
     "idLegalForm": null,
     "regDate": null,
@@ -140,7 +140,7 @@
       {
         "idContact": 13448,
         "idContactType": 1,
-        "value": "+74955207288"
+        "value": "+74953456554788"
       },
       {
         "idContact": 13449,
@@ -165,7 +165,7 @@
         "idLocality": null,
         "idStreet": null,
         "idHouse": null,
-        "flat": null,
+        "flat": "4545",
         "postCode": null,
         "fullAddress": "143930 Россия, Московская обл., г. Балашиха, мкр. Салтыковка,  ул. Гражданская, д.5",
         "gln": null,
@@ -194,7 +194,7 @@
     "attestatRegDate": "2015-10-05",
     "attestatEndDate": null,
     "idRal": 13121,
-    "ogrn": null,
+    "ogrn": "3456667",
     "idPerson": 15596,
     "firstName": "Марина",
     "surname": "Ужегова",
@@ -203,12 +203,12 @@
       {
         "idContact": 9604,
         "idContactType": 1,
-        "value": "+74966148397"
+        "value": "+749546765797"
       },
       {
         "idContact": 9605,
         "idContactType": 1,
-        "value": "+74966148560"
+        "value": "+7496456677560"
       },
       {
         "idContact": 9606,
@@ -220,7 +220,7 @@
       {
         "idAddress": 21352,
         "idAddrType": 3,
-        "idCodeOksm": "643",
+        "idCodeOksm": "54656",
         "oksmShort": null,
         "idSubject": "29251dcf-00a1-4e34-98d4-5c47484a36d4",
         "idDistrict": "29251dcf-00a1-4e34-98d4-5c47484a36d4",

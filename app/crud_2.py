@@ -10,7 +10,7 @@ from app.certificate.models import Certificate, Certificate_has_tech_reglaments
 from app.certificate_annex.models import Certificate_Annex, Certificate_AnnexBlank
 from app.certificate_applicant.models import Certificate_applicant, Certificate_Applicant_Address, Certificate_Applicant_Contact
 from app.certificate_manufacturer.models import Certificate_Manufacturer, Certificate_Manufacturer_Address, Certificate_Manufacturer_Contact
-from app.certificate_certification_authority.models import Certificate_Certification_Authority, Certificate_Auth_Address, Certificate_Auth_Contact
+from app.certificate_authority.models import Certificate_Certification_Authority, Certificate_Auth_Address, Certificate_Auth_Contact
 
 from app.schemas import (
     CertificateCreate,
@@ -672,6 +672,8 @@ def create_certificate(db: Session, data: CertificateCreate) -> Certificate | No
     try:
         cert = create_certificate_core(db, data)
         cert_id = cert.id
+        create_certificate_annexes(db, cert_id, data.annexes)
+        create_certificate_tech_reglaments(db, cert_id, data.idTechnicalReglaments)
         create_certificate_applicant_block(db, cert_id, data.applicant, time_now)
         create_certificate_manufacturer_block(db, cert_id, data.manufacturer, time_now)
         create_certificate_auth_block(db, cert_id, data.certificationAuthority, time_now)
