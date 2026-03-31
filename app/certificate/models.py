@@ -38,6 +38,8 @@ class Certificate(Base):
     manufacturers = relationship("Certificate_Manufacturer", back_populates="certificate")
     certification_authorities = relationship("Certificate_Certification_Authority", back_populates="certificate")
     tech_reglaments = relationship("Certificate_has_tech_reglaments", back_populates="certificate")
+    products = relationship("Certificate_Product", back_populates="certificate", cascade="all, delete")
+    testing_labs = relationship("Certificate_Testing_Lab", back_populates="certificate", cascade="all, delete")
 
 class Certificate_has_tech_reglaments(Base):
     id_certificate = Column(Integer, ForeignKey("certificate.id"), nullable=False)

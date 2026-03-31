@@ -518,6 +518,8 @@ class CertificateCreate(CertificateBase):
     manufacturer: Optional[ManufacturerCreate] = None
     certificationAuthority: Optional[CertificationAuthorityCreate] = None
     idTechnicalReglaments: List[CertificateTechReglamentCreate] = Field(default_factory=list)
+    products: Optional[List["CertificateProductCreate"]] = Field(default_factory=list)
+    testing_labs: Optional[List["CertificateTestingLabCreate"]] = Field(default_factory=list)
 
 '''
 class CertificateUpdate(BaseModel):
@@ -608,3 +610,10 @@ class CertificateFilter(BaseModel):
     idCertType: Annotated[int, BeforeValidator(default_if_none)]= None
     applicantInn: Annotated[str, BeforeValidator(default_if_none)]= None
     manufacturerInn: Annotated[str, BeforeValidator(default_if_none)]= None'''
+
+
+from app.certificate_product.schemas import CertificateProductCreate, CertificateProductRead  # noqa
+from app.certificate_testing_labs.schemas import CertificateTestingLabCreate, CertificateTestingLabRead  # noqa
+
+CertificateCreate.model_rebuild()
+Certificate.model_rebuild()

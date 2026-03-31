@@ -662,6 +662,320 @@ def create_certificate_auth_block(db: Session, cert_id: int, auth_data, time_now
         call_certificate_auth_contact_change(db, auth_id, c)
 
 
+# -------------------------
+# Certificate Product
+# -------------------------
+
+def call_certificate_product_change(db: Session, cert_id: int, data) -> int:
+    sql = """
+    DECLARE @new_id INT;
+
+    EXEC dbo.certificate_product__change
+          @id              = @new_id OUTPUT,
+          @id_certificate  = :id_certificate,
+          @idProduct       = :idProduct,
+          @idProductOrigin = :idProductOrigin,
+          @fullName        = :fullName,
+          @marking         = :marking,
+          @usageScope      = :usageScope,
+          @storageCondition = :storageCondition,
+          @usageCondition  = :usageCondition,
+          @batchSize       = :batchSize,
+          @batchId         = :batchId,
+          @identification  = :identification,
+          @created_at      = :created_at;
+
+    SELECT @new_id AS id;
+    """
+    params = {
+        "id_certificate":   cert_id,
+        "idProduct":        data.idProduct,
+        "idProductOrigin":  data.idProductOrigin,
+        "fullName":         data.fullName,
+        "marking":          data.marking,
+        "usageScope":       data.usageScope,
+        "storageCondition": data.storageCondition,
+        "usageCondition":   data.usageCondition,
+        "batchSize":        data.batchSize,
+        "batchId":          data.batchId,
+        "identification":   data.identification,
+        "created_at":       datetime.now(ZoneInfo("Europe/Moscow")),
+    }
+    return execute_sp_return_scalar(db, sql, params)
+
+
+def call_certificate_product_identification_change(db: Session, prod_id: int, data) -> int:
+    sql = """
+    DECLARE @new_id INT;
+
+    EXEC dbo.certificate_product_identification__change
+          @id               = @new_id OUTPUT,
+          @id_product       = :id_product,
+          @idIdentification = :idIdentification,
+          @annex            = :annex,
+          @name             = :name,
+          @type             = :type,
+          @tradeMark        = :tradeMark,
+          @model            = :model,
+          @article          = :article,
+          @sort             = :sort,
+          @idOkpds          = :idOkpds,
+          @idTnveds         = :idTnveds,
+          @gtin             = :gtin,
+          @lifeTime         = :lifeTime,
+          @storageTime      = :storageTime,
+          @description      = :description,
+          @amount           = :amount,
+          @idOkei           = :idOkei,
+          @factoryNumber    = :factoryNumber,
+          @productionDate   = :productionDate,
+          @expiryDate       = :expiryDate,
+          @created_at       = :created_at;
+
+    SELECT @new_id AS id;
+    """
+    params = {
+        "id_product":       prod_id,
+        "idIdentification": data.idIdentification,
+        "annex":            data.annex,
+        "name":             data.name,
+        "type":             data.type,
+        "tradeMark":        data.tradeMark,
+        "model":            data.model,
+        "article":          data.article,
+        "sort":             data.sort,
+        "idOkpds":          data.idOkpds,
+        "idTnveds":         data.idTnveds,
+        "gtin":             data.gtin,
+        "lifeTime":         data.lifeTime,
+        "storageTime":      data.storageTime,
+        "description":      data.description,
+        "amount":           data.amount,
+        "idOkei":           data.idOkei,
+        "factoryNumber":    data.factoryNumber,
+        "productionDate":   data.productionDate,
+        "expiryDate":       data.expiryDate,
+        "created_at":       datetime.now(ZoneInfo("Europe/Moscow")),
+    }
+    return execute_sp_return_scalar(db, sql, params)
+
+
+def call_certificate_product_identification_document_change(db: Session, ident_id: int, data) -> int:
+    sql = """
+    DECLARE @new_id INT;
+
+    EXEC dbo.certificate_product_identification_document__change
+          @id              = @new_id OUTPUT,
+          @id_identificate = :id_identificate,
+          @id_doc          = :id_doc,
+          @name            = :name,
+          @number          = :number,
+          @date            = :date,
+          @created_at      = :created_at;
+
+    SELECT @new_id AS id;
+    """
+    params = {
+        "id_identificate": ident_id,
+        "id_doc":          data.id_doc,
+        "name":            data.name,
+        "number":          data.number,
+        "date":            data.date,
+        "created_at":      datetime.now(ZoneInfo("Europe/Moscow")),
+    }
+    return execute_sp_return_scalar(db, sql, params)
+
+
+def call_certificate_product_identification_standard_change(db: Session, ident_id: int, data) -> int:
+    sql = """
+    DECLARE @new_id INT;
+
+    EXEC dbo.certificate_product_identification_standard__change
+          @id              = @new_id OUTPUT,
+          @id_identificate = :id_identificate,
+          @idStandard      = :idStandard,
+          @annex           = :annex,
+          @idDictStandard  = :idDictStandard,
+          @new_column      = :new_column,
+          @designation     = :designation,
+          @name            = :name,
+          @section         = :section,
+          @addlInfo        = :addlInfo,
+          @idStatus        = :idStatus;
+
+    SELECT @new_id AS id;
+    """
+    params = {
+        "id_identificate": ident_id,
+        "idStandard":      data.idStandard,
+        "annex":           data.annex,
+        "idDictStandard":  data.idDictStandard,
+        "new_column":      data.new_column,
+        "designation":     data.designation,
+        "name":            data.name,
+        "section":         data.section,
+        "addlInfo":        data.addlInfo,
+        "idStatus":        data.idStatus,
+    }
+    return execute_sp_return_scalar(db, sql, params)
+
+
+def create_certificate_products(db: Session, cert_id: int, products_data):
+    for prod_data in products_data or []:
+        prod_id = call_certificate_product_change(db, cert_id, prod_data)
+
+        for ident_data in prod_data.identifications or []:
+            ident_id = call_certificate_product_identification_change(db, prod_id, ident_data)
+
+            for doc_data in ident_data.documents or []:
+                call_certificate_product_identification_document_change(db, ident_id, doc_data)
+
+            for std_data in ident_data.standards or []:
+                call_certificate_product_identification_standard_change(db, ident_id, std_data)
+
+
+# -------------------------
+# Certificate Testing Labs
+# -------------------------
+
+def call_certificate_testing_lab_change(db: Session, cert_id: int, data) -> int:
+    sql = """
+    DECLARE @new_id INT;
+
+    EXEC dbo.certificate_testing_labs__change
+          @id                       = @new_id OUTPUT,
+          @certificate_id           = :certificate_id,
+          @idTestingLab             = :idTestingLab,
+          @annex                    = :annex,
+          @idRal                    = :idRal,
+          @regNumber                = :regNumber,
+          @fullName                 = :fullName,
+          @beginDate                = :beginDate,
+          @endDate                  = :endDate,
+          @basis                    = :basis,
+          @accredEec                = :accredEec,
+          @idAccredPlace            = :idAccredPlace,
+          @importedForResearchTesting = :importedForResearchTesting,
+          @actNumber                = :actNumber,
+          @actDate                  = :actDate,
+          @actIdentificationNumber  = :actIdentificationNumber,
+          @actIdentificationDate    = :actIdentificationDate,
+          @created_at               = :created_at;
+
+    SELECT @new_id AS id;
+    """
+    params = {
+        "certificate_id":             cert_id,
+        "idTestingLab":               data.idTestingLab,
+        "annex":                      data.annex,
+        "idRal":                      data.idRal,
+        "regNumber":                  data.regNumber,
+        "fullName":                   data.fullName,
+        "beginDate":                  data.beginDate,
+        "endDate":                    data.endDate,
+        "basis":                      data.basis,
+        "accredEec":                  data.accredEec,
+        "idAccredPlace":              data.idAccredPlace,
+        "importedForResearchTesting": data.importedForResearchTesting,
+        "actNumber":                  data.actNumber,
+        "actDate":                    data.actDate,
+        "actIdentificationNumber":    data.actIdentificationNumber,
+        "actIdentificationDate":      data.actIdentificationDate,
+        "created_at":                 datetime.now(ZoneInfo("Europe/Moscow")),
+    }
+    return execute_sp_return_scalar(db, sql, params)
+
+
+def call_certificate_testing_lab_doc_confirm_custom_change(db: Session, lab_id: int, data) -> int:
+    sql = """
+    DECLARE @new_id INT;
+
+    EXEC dbo.certificate_testing_labs_docconfirmcustom__change
+          @id                                  = @new_id OUTPUT,
+          @id_test_lab                         = :id_test_lab,
+          @idDocConfirmCustom                  = :idDocConfirmCustom,
+          @idDocConfirmCustomType              = :idDocConfirmCustomType,
+          @otherDocs                           = :otherDocs,
+          @reasonNonRegistrCustomsDeclaration  = :reasonNonRegistrCustomsDeclaration,
+          @created_at                          = :created_at;
+
+    SELECT @new_id AS id;
+    """
+    params = {
+        "id_test_lab":                        lab_id,
+        "idDocConfirmCustom":                 data.idDocConfirmCustom,
+        "idDocConfirmCustomType":             data.idDocConfirmCustomType,
+        "otherDocs":                          data.otherDocs,
+        "reasonNonRegistrCustomsDeclaration": data.reasonNonRegistrCustomsDeclaration,
+        "created_at":                         datetime.now(ZoneInfo("Europe/Moscow")),
+    }
+    return execute_sp_return_scalar(db, sql, params)
+
+
+def call_certificate_testing_lab_doc_confirm_custom_info_change(db: Session, dcc_id: int, data) -> int:
+    sql = """
+    DECLARE @new_id INT;
+
+    EXEC dbo.certificate_testing_labs_docconfirmcustom_custominfo__change
+          @id                    = @new_id OUTPUT,
+          @id_doc_confirm_custom = :id_doc_confirm_custom,
+          @idCustomInfo          = :idCustomInfo,
+          @customDeclNumber      = :customDeclNumber;
+
+    SELECT @new_id AS id;
+    """
+    params = {
+        "id_doc_confirm_custom": dcc_id,
+        "idCustomInfo":          data.idCustomInfo,
+        "customDeclNumber":      data.customDeclNumber,
+    }
+    return execute_sp_return_scalar(db, sql, params)
+
+
+def call_certificate_testing_lab_protocol_change(db: Session, lab_id: int, data) -> int:
+    sql = """
+    DECLARE @new_id INT;
+
+    EXEC dbo.certificate_testing_labs_protocols__change
+          @id                = @new_id OUTPUT,
+          @id_test_lab       = :id_test_lab,
+          @idProtocol        = :idProtocol,
+          @idProtocolRpi     = :idProtocolRpi,
+          @number            = :number,
+          @date              = :date,
+          @standards         = :standards,
+          @isProtocolInvalid = :isProtocolInvalid,
+          @created_at        = :created_at;
+
+    SELECT @new_id AS id;
+    """
+    params = {
+        "id_test_lab":       lab_id,
+        "idProtocol":        data.idProtocol,
+        "idProtocolRpi":     data.idProtocolRpi,
+        "number":            data.number,
+        "date":              data.date,
+        "standards":         data.standards,
+        "isProtocolInvalid": data.isProtocolInvalid,
+        "created_at":        datetime.now(ZoneInfo("Europe/Moscow")),
+    }
+    return execute_sp_return_scalar(db, sql, params)
+
+
+def create_certificate_testing_labs(db: Session, cert_id: int, testing_labs_data):
+    for lab_data in testing_labs_data or []:
+        lab_id = call_certificate_testing_lab_change(db, cert_id, lab_data)
+
+        for dcc_data in lab_data.doc_confirm_customs or []:
+            dcc_id = call_certificate_testing_lab_doc_confirm_custom_change(db, lab_id, dcc_data)
+
+            for ci_data in dcc_data.custom_infos or []:
+                call_certificate_testing_lab_doc_confirm_custom_info_change(db, dcc_id, ci_data)
+
+        for proto_data in lab_data.protocols or []:
+            call_certificate_testing_lab_protocol_change(db, lab_id, proto_data)
+
+
 def save_certificate_to_db(data):
     with get_session() as session:
         create_certificate(session, data)
@@ -677,6 +991,8 @@ def create_certificate(db: Session, data: CertificateCreate) -> Certificate | No
         create_certificate_applicant_block(db, cert_id, data.applicant, time_now)
         create_certificate_manufacturer_block(db, cert_id, data.manufacturer, time_now)
         create_certificate_auth_block(db, cert_id, data.certificationAuthority, time_now)
+        create_certificate_products(db, cert_id, data.products)
+        create_certificate_testing_labs(db, cert_id, data.testing_labs)
         db.commit()
         db.refresh(cert)
         return cert

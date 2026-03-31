@@ -13,6 +13,18 @@ from app.certificate_manufacturer.schemas import (CertificateManufacturerCreate,
                                                   CertificateManufacturerAddressBase, 
                                                   CertificateManufacturerContactBase)
 from app.tech_reg.schemas import CertificateTechReglamentCreate
+from app.certificate_product.schemas import (
+    CertificateProductCreate,
+    CertProductIdentificationCreate,
+    CertProductIdentDocumentCreate,
+    CertProductIdentStandardCreate,
+)
+from app.certificate_testing_labs.schemas import (
+    CertificateTestingLabCreate,
+    CertTestingLabDocConfirmCustomCreate,
+    CertTestingLabDocConfirmCustomInfoCreate,
+    CertTestingLabProtocolCreate,
+)
 
 from app.core.db import get_session
 from app.crud_2 import save_certificate_to_db
@@ -117,6 +129,58 @@ def parse_certificate(json_data: dict) -> CertificateCreate:
         techs.append(CertificateTechReglamentCreate(tech_reglaments=tr))
 
     cert.tech_reglaments = techs
+
+    # ==== 7) Products ====
+    products = []
+    for prod_block in json_data.get("products", []):
+        prod = CertificateProductCreate(
+            **{k: v for k, v in prod_block.items() if k != "identifications"}
+        )
+        identifications = []
+        for ident_block in prod_block.get("identifications", []):
+            ident = CertProductIdentificationCreate(
+                **{k: v for k, v in ident_block.items()
+                   if k not in ("documents", "standards")}
+            )
+            ident.documents = [
+                CertProductIdentDocumentCreate(**doc)
+                for doc in ident_block.get("documents", [])
+            ]
+            ident.standards = [
+                CertProductIdentStandardCreate(**std)
+                for std in ident_block.get("standards", [])
+            ]
+            identifications.append(ident)
+        prod.identifications = identifications
+        products.append(prod)
+
+    cert.products = products
+
+    # ==== 8) Testing Labs ====
+    testing_labs = []
+    for lab_block in json_data.get("testing_labs", []):
+        lab = CertificateTestingLabCreate(
+            **{k: v for k, v in lab_block.items()
+               if k not in ("doc_confirm_customs", "protocols")}
+        )
+        doc_confirm_customs = []
+        for dcc_block in lab_block.get("doc_confirm_customs", []):
+            dcc = CertTestingLabDocConfirmCustomCreate(
+                **{k: v for k, v in dcc_block.items() if k != "custom_infos"}
+            )
+            dcc.custom_infos = [
+                CertTestingLabDocConfirmCustomInfoCreate(**ci)
+                for ci in dcc_block.get("custom_infos", [])
+            ]
+            doc_confirm_customs.append(dcc)
+        lab.doc_confirm_customs = doc_confirm_customs
+        lab.protocols = [
+            CertTestingLabProtocolCreate(**p)
+            for p in lab_block.get("protocols", [])
+        ]
+        testing_labs.append(lab)
+
+    cert.testing_labs = testing_labs
 
     return cert
 
